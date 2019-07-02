@@ -8,13 +8,13 @@ layout: default
       {% include fecha.html %}
   </time>
   {{ content }}
-</article>
-<span>
+<span class="tag_article">
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
   {% endfor %}
 </span>
+</article>
 
 {% if site.related_posts != empty %}
 <aside class="related">
