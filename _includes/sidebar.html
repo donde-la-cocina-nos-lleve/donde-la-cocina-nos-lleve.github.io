@@ -6,7 +6,6 @@
 		</div>
 		{% for tag in site.tags %}
         {{ tag | size}}
-        {{ tag[1] }}
         
 		<h3><a href="/tag/{{tag[0]}}">{{ tag[0] | capitalize }}</a></h3>
 		{% endfor %}
