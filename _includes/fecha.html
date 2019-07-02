@@ -1,5 +1,4 @@
 {% if page.date  %}
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
 		{% assign m = page.date | date: "%-m" %}
 		{{ page.date | date: "%-d" }}
 		{% case m %}
@@ -16,9 +15,8 @@
 		  {% when '11' %}Noviembre
 		  {% when '12' %}Diciembre
 		{% endcase %}
-		{{ page.date | date: "%Y" }}</time>
+		{{ page.date | date: "%Y" }}
   {% else %}
-  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
 		{% assign m = post.date | date: "%-m" %}
 		{{ post.date | date: "%-d" }}
 		{% case m %}
@@ -35,5 +33,5 @@
 		  {% when '11' %}Noviembre
 		  {% when '12' %}Diciembre
 		{% endcase %}
-		{{ post.date | date: "%Y" }}</time>
+		{{ post.date | date: "%Y" }}
   {% endif %}
