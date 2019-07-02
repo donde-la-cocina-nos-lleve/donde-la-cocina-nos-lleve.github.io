@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Recetas"
+title: "Recetas"
 tag: recetas
 --- 
  

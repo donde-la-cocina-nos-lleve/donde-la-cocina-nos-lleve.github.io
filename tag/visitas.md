@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Visitas"
+title: "Visitas"
 tag: visitas
 --- 
  

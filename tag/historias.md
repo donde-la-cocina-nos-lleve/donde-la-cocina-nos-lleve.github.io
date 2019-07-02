@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Historias"
+title: "Historias"
 tag: historias
 --- 
  

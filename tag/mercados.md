@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Mercados"
+title: "Mercados"
 tag: mercados
 --- 
  
