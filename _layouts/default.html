@@ -15,20 +15,8 @@
         {{ content }}
       </main>
 
-	  <div class="sidebar">
-		<div class="enlace_foto alfabetico">
-		    <a href="/recetas-indice-alfabetico/">
-			  <h4>A-Z</h4>
-			</a>
-		</div>
-		{% for tag in site.tags %}
-		<h3><a href="/tag/{{tag[0]}}">{{ tag[0] }}</a></h3>
-		{% endfor %}
-	    <div id="search-container">
-		  <input type="text" id="search-input" placeholder="Buscar">
-		  <ul id="results-container"></ul>
-	    </div>
-	  </div>
+      {% include sidebar.html %}
+      
 	  <script src="{{ site.baseurl }}/simple-jekyll-search.min.js"></script>
 	  <script>
 		SimpleJekyllSearch({

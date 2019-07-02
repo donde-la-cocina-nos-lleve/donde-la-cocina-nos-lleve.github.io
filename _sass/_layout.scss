@@ -13,19 +13,36 @@
 footer {
   margin-bottom: 2rem;
 }
+
 .container {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 20px;
+  grid-template-areas: 
+    "header"
+    "content"
+    "sidebar"
+    "footer";
 }
+
 .header {
-  grid-column: span 12;
-}
-.sidebar{
-  grid-column: span 4;
+  grid-area: header;
 }
 .main-content {
-  grid-column: span 8;
+  grid-area: content;
+}
+.sidebar {
+  grid-area: sidebar;
 }
 .footer {
-  grid-column: span 12;
+  grid-area: footer;
 }
+@media (min-width: 500px) {
+  .container {
+    grid-template-columns: 3fr 1fr;
+    grid-template-areas: 
+      "header  header"
+      "content sidebar"
+      "footer  footer";
+  }
+}
+
