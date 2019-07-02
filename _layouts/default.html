@@ -4,7 +4,14 @@
   {% include head.html %}
 
   <body>
-
+  <script>
+  // register ServiceWorker, remember to use absolute path!
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.register('/sw.js', {scope: '/'})
+  }
+  
+  // --- Application code here ---
+  </script>
     <div class="container content">
       <header class="header">
         <h3 class="masthead-title">
