@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Cocina viajera"
-tag: cocinaviajera
+tag: cocina viajera
 --- 
  
