@@ -5,7 +5,11 @@
 			</a>
 		</div>
 		{% for tag in site.tags %}
-		<h3><a href="/tag/{{tag[0] | replace:' ','-'}}">{{ tag[0] | capitalize }}</a></h3>
+		<div class="enlace_foto {{ tag[0] }}">
+		    <a href="/tag/{{tag[0] | replace:' ','-'}}">
+			  <h4>{{ tag[0] | capitalize }}</h4>
+			</a>
+		</div>
 		{% endfor %}
 	    <div id="search-container">
 		  <input type="text" id="search-input" placeholder="Buscar">
