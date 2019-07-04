@@ -28,7 +28,7 @@ title: Home
         var post_article=document.getElementById("post{{ forloop.index }}");
         for (i = 0; i < post_article.getElementsByTagName("img").length; i++) {
             if(post_article.getElementsByTagName("img")[i].getAttribute("alt")==null){
-                post_article.getElementsByTagName("img")[i].setAttribute("alt",{{ post.title }}i);
+                post_article.getElementsByTagName("img")[i].setAttribute("alt","{{ post.title }}"+i);
             }
         }
     </script>

@@ -35,7 +35,7 @@ layout: default
     var post_article=document.getElementsByTagName("article")[0];
     for (i = 0; i < post_article.getElementsByTagName("img").length; i++) {
         if(post_article.getElementsByTagName("img")[i].getAttribute("alt")==null){
-            post_article.getElementsByTagName("img")[i].setAttribute("alt",{{ page.title }}i);
+            post_article.getElementsByTagName("img")[i].setAttribute("alt","{{ page.title }}"+i);
         }
     }
 </script>
