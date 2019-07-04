@@ -1,10 +1,12 @@
 # Permalinks
 permalink: /:categories/:title/
 # Setup
-title:               Donde la cocina nos lleve
-paginate:            5
-baseurl:             ""
+title: "Donde la cocina nos lleve"
+description: "Blog de cocina de Bernardo I. García de la Torre y Teresa Hidalgo"
+paginate: 5
+baseurl: ""
 
+url: "https://donde-la-cocina-nos-lleve.github.io"
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -13,9 +15,11 @@ sass:
   style:            :compressed
 
 
-# Gems
-gems:
+# Plugins:
+plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 theme: jekyll-theme-slate
