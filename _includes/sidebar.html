@@ -5,7 +5,12 @@
 			</a>
 		</div>
 		{% for tag in site.tags %}
-		<h3><a href="/tag/{{tag[0] | replace:' ','-'}}">{{ tag[0] | capitalize }}</a></h3>
+        {% assign tagname=tag[0] %}
+        <div class="enlace_foto" style="background-image: url({% include get_image_category.html param=tagname %})">
+		    <a href="/tag/{{tagname | replace:' ','-'}}">
+			  <h4>{{ tagname | capitalize }}</h4>
+			</a>
+		</div>
 		{% endfor %}
 	    <div id="search-container">
 		  <input type="text" id="search-input" placeholder="Buscar">
