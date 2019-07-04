@@ -5,21 +5,33 @@
 	text-align:center;
 	background-position: center;
     background-size: cover;
-    h4{
-	    margin-top: 0px;
-	    padding-top: 30px;
+    list-style: none;
+    position: relative;
+    .texto{
         font-size: 40px;
-        line-height: 90px;
-		height:150px;
-        color: white;
-        margin-bottom: 0px;
 		text-transform: uppercase;
-	}
+        a{
+            position: absolute;
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            width: 100%;
+            display: block;
+        }
+    }
+    .imagen{
+        height:100%;
+    } 
+    img{
+        width: 100%;
+        object-fit: cover;
+        height: 100%;
+    }
 	a{
 		text-decoration:none !important;
 		color:#fff !important;
 	}
-	background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
 }
 
 .enlace_foto:hover{
@@ -31,24 +43,3 @@
 .alfabetico{
 	background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
 } 
-.libros{
-	background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
-}
-.mercados{
-	background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
-}
-.recetas{
-	background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
-}
-.visitas{
-	background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
-}
-.cocina-viajera{
-	background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
-}
-.historias{
-	background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
-}
-.tecnicas{
-	background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
-}
