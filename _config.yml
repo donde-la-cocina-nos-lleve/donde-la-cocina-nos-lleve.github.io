@@ -3,6 +3,7 @@ permalink: /:categories/:title/
 # Setup
 title: "Donde la cocina nos lleve"
 description: "Blog de cocina de Bernardo I. García de la Torre y Teresa Hidalgo"
+lang: "es_ES"
 paginate: 5
 baseurl: ""
 
