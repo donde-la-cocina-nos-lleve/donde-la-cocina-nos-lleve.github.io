@@ -7,7 +7,7 @@ layout: default
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
       {% include fecha.html %}
   </time>
-  {% assign autor == site[page.author] %}
+  {% assign autor = site[page.author] %}
   <span><a href="/autor/{{ page.author }}"> {{ autor.name }}</a></span>
   {{ content }}
 <span class="tag_article">

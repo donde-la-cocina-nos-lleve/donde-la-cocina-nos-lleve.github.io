@@ -2,11 +2,10 @@
 layout: default
 ---
 <div class="authorpage">
-<h2>{{ page.title }}</h2>
 
-{% assign autor == site[page.author] %}
+{% assign autor = site[page.author] %}
 
-{{ page.author }}
+<h2>{{ autor.name }}</h2>
 <div class="posts">
 {% for post in site.posts %}
   {% for author in post.author %}
