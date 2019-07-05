@@ -16,6 +16,14 @@ sass:
   style:            :compressed
 
 
+# Authors:
+bernardo:
+  name: Bernardo I. García de la Torre
+  image: /assets/authors/bernardo.jpg
+teresa:
+  name: Teresa Hidalgo Gutiérrez
+  image: /assets/authors/teresa.jpg
+
 # Plugins:
 plugins:
   - jekyll-paginate
