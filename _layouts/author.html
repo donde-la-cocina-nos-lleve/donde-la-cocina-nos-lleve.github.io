@@ -5,10 +5,15 @@ layout: default
 <h2>{{ page.title }}</h2>
 
 {% assign autor == site[page.author] %}
+
+{{ page.author }}
+{{ autor.name }}
 <div class="posts">
 {% for post in site.posts %}
   {% for author in post.author %}
-  {% if author == autor.name %}
+{{ author }}
+
+  {% if author == page.author %}
   <article class="post" id="post{{ forloop.index }}">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
