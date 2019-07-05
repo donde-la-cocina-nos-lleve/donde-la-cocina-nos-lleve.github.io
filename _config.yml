@@ -24,6 +24,11 @@ teresa:
   name: Teresa Hidalgo Gutiérrez
   image: /assets/authors/teresa.jpg
 
+# Staticman:
+repository: "donde-la-cocina-nos-lleve/donde-la-cocina-nos-lleve.github.io"
+staticman:
+  branch: "master"
+
 # Plugins:
 plugins:
   - jekyll-paginate

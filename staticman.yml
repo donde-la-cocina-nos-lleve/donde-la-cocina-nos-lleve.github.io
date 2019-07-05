@@ -1,0 +1,24 @@
+
+comments:
+  allowedFields: ["name", "email", "message", "replying_to"]
+
+  branch: "master"
+
+  commitMessage: "Nuevo comentario"
+
+  filename: "entry{@timestamp}"
+
+  format: "yaml"
+
+  generatedFields:
+    date:
+      type: date
+      options:
+        format: "iso8601"
+
+  path: "_data/comments/{options.slug}"
+
+  requiredFields: ["name", "email", "message"]
+
+  transforms:
+    email: "md5"
