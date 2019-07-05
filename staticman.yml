@@ -10,8 +10,6 @@ comments:
 
   format: "yaml"
 
-  moderation: false
-
   generatedFields:
     date:
       type: date

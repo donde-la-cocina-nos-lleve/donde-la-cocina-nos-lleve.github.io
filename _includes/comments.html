@@ -1,6 +1,4 @@
 <div id="comments" class="comentarios">
-{{ page.slug }}
-    
 {% if site.data.comments[page.slug] %}
 <h3>Comentarios</h3>
 {% assign comments = site.data.comments[page.slug] | sort %}
