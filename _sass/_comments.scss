@@ -1,3 +1,18 @@
-fieldset{
-  border: none;    
+.comentarios{
+    fieldset{
+        border: none;    
+    }
+    .comentario{
+        .datos{
+            border-bottom: 2px solid;
+        }
+        .nombre{
+            font-weight: 600;
+            color: #313131;
+        }
+        .fecha a{
+            color: #515151;
+        }
+    }
 }
+

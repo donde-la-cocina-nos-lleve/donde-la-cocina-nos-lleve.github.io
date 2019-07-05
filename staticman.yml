@@ -1,6 +1,6 @@
 
 comments:
-  allowedFields: ["name", "email", "message", "replying_to"]
+  allowedFields: ["name", "email", "message"]
 
   branch: "master"
 
@@ -9,6 +9,8 @@ comments:
   filename: "entry{@timestamp}"
 
   format: "yaml"
+
+  moderation: false
 
   generatedFields:
     date:

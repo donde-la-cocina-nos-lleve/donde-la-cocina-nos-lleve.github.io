@@ -1,13 +1,13 @@
 <article id="comment{{ include.index }}" class="js-comment comment">
-    <h3 class="autor">
+    <div class="datos">
        {{ include.name }}
-    </h3>
-    <div class="fecha">
+    <span class="fecha">
       {% if include.date %}
         {% if include.index %}<a href="#comment{{ include.index }}">{% endif %}
         <time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: "%d/%m/%Y  %H:%M" }}</time>
         {% if include.index %}</a>{% endif %}
       {% endif %}
+    </span>
     </div>
     <div>{{ include.message | markdownify }}</div>
   </div>
