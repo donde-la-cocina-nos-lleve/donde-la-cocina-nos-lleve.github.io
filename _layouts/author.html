@@ -7,12 +7,9 @@ layout: default
 {% assign autor == site[page.author] %}
 
 {{ page.author }}
-{{ autor.name }}
 <div class="posts">
 {% for post in site.posts %}
   {% for author in post.author %}
-{{ author }}
-
   {% if author == page.author %}
   <article class="post" id="post{{ forloop.index }}">
     <h2 class="post-title">

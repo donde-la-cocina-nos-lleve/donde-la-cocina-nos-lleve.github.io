@@ -8,7 +8,7 @@ layout: default
       {% include fecha.html %}
   </time>
   {% assign autor == site[page.author] %}
-  <span><a href="/autor/bernardo{{ autor.name }}"> {{ page.author }}</a></span>
+  <span><a href="/autor/{{ page.author }}"> {{ autor.name }}</a></span>
   {{ content }}
 <span class="tag_article">
   {% for tag in page.tags %}
