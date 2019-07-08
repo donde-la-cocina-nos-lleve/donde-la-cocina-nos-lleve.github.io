@@ -3,13 +3,12 @@
 {% for image in images %}
   {% if image contains 'src' %}
     {% assign html = image | split:"/>" | first %}
-    {% assign html = image | split:"/>" | first %}
       {% assign tags = html | split:" " %}
       {% for tag in tags %}
         {% if tag contains 'src' %}
           {% assign size = tag.size | minus: 6 %}
           {% assign src = tag | strip | slice: 5, size %}
-          {{ src }}
+          {{ src | strip }}
           {% break %}
         {% endif %}
       {% endfor %}
