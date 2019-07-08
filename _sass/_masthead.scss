@@ -16,10 +16,11 @@
       top: 10px; 
       background-repeat:no-repeat;
       background-color: transparent;
+      background-size: 100%;
       padding:0px;
       border:none;
-      height:40px;
-      width:40px;
+      height:20px;
+      width:20px;
     }
     .boton-menu{
       left:10px;
@@ -37,7 +38,7 @@
     left: 0;
     top: 0;
     background-color: $color_corporativo;
-    padding:20px;
+    padding:35px 20px;
     margin-right: 15%; 
     overflow: auto;
     width:85%;
@@ -61,16 +62,24 @@
     display: none;
   }
   .buscar_abierto{
-    background-color: $color_corporativo;
-    display: block;
-    height: 100%;
-    overflow: auto;
     position: fixed;
+    display: block;
     right: 0;
     top: 0;
+    background-color: $color_corporativo;
+    padding:35px 20px;
     margin-left: 15%; 
+    overflow: auto;
+    height: 100%;
     width:85%;
-    padding:20px;
+    .search-container{
+        margin-top: 30px;
+        input{
+          border: none;
+          padding: 5px 10px;
+          font-size: 15px;
+        }
+    }
     ul{
         list-style: none;
         a{
@@ -89,6 +98,7 @@
     position: absolute;
     top: 10px;
     background-image: url(/assets/icons/close.png);
+    background-size: 100%;
     background-repeat:no-repeat;
     background-color: transparent;
     padding:0px;
