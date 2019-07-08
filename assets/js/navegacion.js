@@ -14,10 +14,16 @@ function cerrarBusqueda() {
   document.getElementById("sidebar_buscar").className = "buscar_cerrado";
 }
 
-var btn_menu = document.getElementById('boton-menu');
-btn_menu.addEventListener('click', function(event) {
+var btn_abrir_menu = document.getElementById('boton-menu');
+btn_abrir_menu.addEventListener('click', function(event) {
     abrirMenu();
 });
+
+var btn_cerrar_menu = document.getElementById('boton-cerrar-menu");
+btn_cerrar_menu.addEventListener('click', function(event) {
+    cerrarMenu();
+});
+
 
 var btn_buscar = document.getElementById('boton-buscar');
 btn_buscar.addEventListener('click', function(event) {

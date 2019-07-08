@@ -30,25 +30,44 @@
     } 
   }
   .menu_abierto{
+    background-color: $color_corporativo;
     display: block;
     height: 100%;
     overflow: auto;
-    position: absolute;
+    position: fixed;
     left: 0;
-    margin-right: 15%; 
     top: 0;
+    margin-right: 15%; 
+    width:85%;
+    padding:20px;
+
+    ul{
+        list-style: none;
+        li{
+          font-size: 20px;
+          text-transform: uppercase;
+          padding: 10px 0px;
+          a{
+            color:#fff;
+          }
+        }
+    }
+
   }
   .menu_cerrado{
     display: none;
   }
   .buscar_abierto{
+    background-color: $color_corporativo;
     display: block;
     height: 100%;
     overflow: auto;
-    position: absolute;
+    position: fixed;
     right: 0;
-    margin-left: 15%; 
     top: 0;
+    margin-left: 15%; 
+    width:85%;
+    padding:20px;
   }
   .buscar_cerrado{
     display: none;
