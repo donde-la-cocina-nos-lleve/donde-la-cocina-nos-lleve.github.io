@@ -6,7 +6,7 @@
   <body>
   <script>
   if (navigator.serviceWorker) {
-    navigator.serviceWorker.register('/assets/js/sw.js', {scope: '/'})
+    navigator.serviceWorker.register('/sw.js', {scope: '/'})
   }
   </script>
     <div class="container content">
@@ -15,8 +15,8 @@
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
         </h1>
         <ul class="header-nav">
-            <li><a href="#sections" class="boton-menu">Menú</a></li>
-            <li><a href="#search" class="boton-buscar">Buscar</a></li>
+            <li><button id="boton-menu" class="boton-menu">Menú</button></li>
+            <li><button id="boton-buscar" class="boton-buscar">Buscar</button></li>
         </ul>
         <div id="sidebar_menu" class="menu_cerrado">
             <ul>

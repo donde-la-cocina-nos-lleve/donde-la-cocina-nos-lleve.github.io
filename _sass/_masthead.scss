@@ -41,6 +41,18 @@
   .menu_cerrado{
     display: none;
   }
+  .buscar_abierto{
+    display: block;
+    height: 100%;
+    overflow: auto;
+    position: absolute;
+    right: 0;
+    margin-left: 15%; 
+    top: 0;
+  }
+  .buscar_cerrado{
+    display: none;
+  }
 
 }
 
