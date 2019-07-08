@@ -19,7 +19,7 @@ btn_abrir_menu.addEventListener('click', function(event) {
     abrirMenu();
 });
 
-var btn_cerrar_menu = document.getElementById('boton-cerrar-menu");
+var btn_cerrar_menu = document.getElementById('boton-cerrar-menu');
 btn_cerrar_menu.addEventListener('click', function(event) {
     cerrarMenu();
 });

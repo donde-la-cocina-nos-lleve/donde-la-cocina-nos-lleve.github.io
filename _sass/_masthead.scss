@@ -27,6 +27,10 @@
     }
     .boton-buscar{
       right: 0;
+      background-image:url(/assets/iconos/search.png);
+      background-repeat:no-repeat;
+      height:40px;
+      width:40px
     } 
   }
   .menu_abierto{
@@ -68,6 +72,13 @@
     margin-left: 15%; 
     width:85%;
     padding:20px;
+    ul{
+        list-style: none;
+        a{
+            color:#fff;
+        }
+    }
+
   }
   .buscar_cerrado{
     display: none;
