@@ -24,8 +24,12 @@ btn_cerrar_menu.addEventListener('click', function(event) {
     cerrarMenu();
 });
 
-
-var btn_buscar = document.getElementById('boton-buscar');
-btn_buscar.addEventListener('click', function(event) {
+var btn_abrir_buscar = document.getElementById('boton-buscar');
+btn_abrir_buscar.addEventListener('click', function(event) {
     abrirBusqueda();
+});
+
+var btn_cerrar_buscar = document.getElementById('boton-cerrar-buscar');
+btn_cerrar_buscar.addEventListener('click', function(event) {
+    cerrarBusqueda();
 });

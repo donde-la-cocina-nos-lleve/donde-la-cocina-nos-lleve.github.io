@@ -15,11 +15,11 @@
             <a href="{{ site.baseurl }}/" title="Home"><img src="/assets/icons/cabecera.jpg"/><span class="sr-only">{{ site.title }}</span></a>
         </h1>
         <ul class="header-nav">
-            <li><button id="boton-menu" class="boton-menu">Menú</button></li>
-            <li><button id="boton-buscar" class="boton-buscar">Buscar</button></li>
+            <li><button id="boton-menu" class="boton-menu"><span class="sr-only">Menú</span></button></li>
+            <li><button id="boton-buscar" class="boton-buscar"><span class="sr-only">Buscar</span></button></li>
         </ul>
         <div id="sidebar_menu" class="menu_cerrado">
-            <button id="boton-cerrar-menu" class="boton-cerrar-menu">Ocultar</button>
+            <button id="boton-cerrar-menu" class="boton_cerrar"><span class="sr-only">Ocultar</span></button>
             <ul>
                 <li><a href="/pintxos">Pintxos y aperitivos</a></li>
                 <li><a href="/verduras">Verduras y hortalizas</a></li>
@@ -34,6 +34,7 @@
             </ul>
         </div>
         <div id="sidebar_buscar" class="buscar_cerrado">
+            <button id="boton-cerrar-buscar" class="boton_cerrar"><span class="sr-only">Ocultar</span></button>
             <div id="search-container">
               <label for="search-input">Buscar</label>
               <input type="text" id="search-input">

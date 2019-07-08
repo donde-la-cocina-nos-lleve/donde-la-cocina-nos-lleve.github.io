@@ -3,9 +3,6 @@
 // Super small header above the content for site name and short description.
 
 .header {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
-  margin-bottom: 3rem;
 
   h1{
     width:70%;
@@ -16,35 +13,35 @@
     li button{
       display: block;
       position: absolute;
-      top: 0; 
+      top: 10px; 
+      background-repeat:no-repeat;
+      background-color: transparent;
+      padding:0px;
+      border:none;
+      height:40px;
+      width:40px;
     }
     .boton-menu{
-      left:0;
-      background-image:url(/assets/iconos/menu.png);
-      background-repeat:no-repeat;
-      height:40px;
-      width:40px
+      left:10px;
+      background-image:url(/assets/icons/menu.png);
+
     }
     .boton-buscar{
-      right: 0;
-      background-image:url(/assets/iconos/search.png);
-      background-repeat:no-repeat;
-      height:40px;
-      width:40px
+      right: 10px;
+      background-image:url(/assets/icons/search.png);
     } 
   }
   .menu_abierto{
-    background-color: $color_corporativo;
     display: block;
-    height: 100%;
-    overflow: auto;
     position: fixed;
     left: 0;
     top: 0;
-    margin-right: 15%; 
-    width:85%;
+    background-color: $color_corporativo;
     padding:20px;
-
+    margin-right: 15%; 
+    overflow: auto;
+    width:85%;
+    height: 100%;
     ul{
         list-style: none;
         li{
@@ -56,7 +53,9 @@
           }
         }
     }
-
+    .boton_cerrar{
+      right: 10px;
+    }
   }
   .menu_cerrado{
     display: none;
@@ -78,10 +77,24 @@
             color:#fff;
         }
     }
-
+    .boton_cerrar{
+      left: 10px;
+    }
   }
   .buscar_cerrado{
     display: none;
+  }
+  .boton_cerrar{
+    display: block;
+    position: absolute;
+    top: 10px;
+    background-image: url(/assets/icons/close.png);
+    background-repeat:no-repeat;
+    background-color: transparent;
+    padding:0px;
+    border:none;
+    height:40px;
+    width:40px;
   }
 
 }
