@@ -6,6 +6,7 @@
       {% assign tags = html | split:" " %}
       {% for tag in tags %}
         {% if tag contains 'src' %}
+          {{ "a" }}
           {% assign size = tag.size | minus: 6 %}
           {% assign src = tag | strip | slice: 5, size %}
           {{ src | strip_newlines | strip }}
