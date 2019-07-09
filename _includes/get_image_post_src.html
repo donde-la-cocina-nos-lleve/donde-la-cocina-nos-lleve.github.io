@@ -8,7 +8,7 @@
         {% if tag contains 'src' %}
           {% assign size = tag.size | minus: 6 %}
           {% assign src = tag | strip | slice: 5, size %}
-          {{ src | strip }}
+          {{ src }}
           {% break %}
         {% endif %}
       {% endfor %}

@@ -4,5 +4,5 @@ SimpleJekyllSearch({
   limit: 10,
   json: '/search.json',
   noResultsText: 'No hay resultados',
-  searchResultTemplate: '<li><a href="{url}"><img src="{thumbnail}"/><span>{title}</span></a></li>'
+  searchResultTemplate: '<li><a href="{url}"><img src="{thumbnail}"/><p>{title}</p></a></li>'
 })

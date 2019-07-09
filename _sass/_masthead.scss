@@ -81,9 +81,23 @@
         }
     }
     ul{
+        padding-left: 0px;
         list-style: none;
         a{
+            display: table;
             color:#fff;
+            img{
+                display: table-cell;
+                float: left;
+                margin: 0;
+                width: 70px;
+                height: 70px;
+            }
+            p{
+                display: table-cell;
+                margin: 0;
+                vertical-align: middle;
+            }
         }
     }
     .boton_cerrar{
