@@ -17,7 +17,11 @@ layout: default
       </a>
     </h2>
 
-  {% include get_image_post.html %}
+  {% capture src %}
+  {% include get_image_post_src.html %}
+  {% endcapture %}
+  {% assign src = src | strip %}
+  <img src="{{src}}"/>
   <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
 	{% include fecha.html %}
   </time>

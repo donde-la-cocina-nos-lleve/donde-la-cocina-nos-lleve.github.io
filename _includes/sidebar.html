@@ -7,6 +7,10 @@
 		{% for tag in site.tags %}
         {% assign tagname=tag[0] %}
         <li class="enlace_foto">
+            {% capture src %}
+            {% include get_image_category.html param=tagname %}
+            {% endcapture %}
+            {% assign src = src | strip %}
             <p class="imagen"><a href="/tag/{{tagname | replace:' ','-'}}"><img src="{% include get_image_category.html param=tagname %})" alt="{{ tagname }}"/></a></p>
             <p class="texto"><a href="/tag/{{tagname | replace:' ','-'}}">{{ tagname | capitalize }}</a></p>
 		</li>
