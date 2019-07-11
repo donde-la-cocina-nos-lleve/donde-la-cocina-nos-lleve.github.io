@@ -45,10 +45,17 @@
     }
 }
 .post{
+    font-family: "Franklin";
+    h2{
+        font-size: 20px;
+        font-family: "Times New Roman", Times, serif;
+    }
+        
     img{
-         max-width: 100%;
-         height: 300px;
-     }
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
 }
 
 // Related posts
