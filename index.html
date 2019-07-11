@@ -41,14 +41,14 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}"></a>
+  <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}"><span class="sr-only">Página anterior</span></a>
   {% else %}
-    <span class="pagination-item older"></span>
+    <span class="pagination-item older"><span class="sr-only">Página anterior</span></span>
   {% endif %}
   <span class="numero_paginas">{{paginator.page}}/{{paginator.total_pages}}</span>
   {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}"></a>
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><span class="sr-only">Página siguiente</span></a>
   {% else %}
-    <span class="pagination-item newer"></span>
+    <span class="pagination-item newer"><span class="sr-only">Página siguiente</span></span>
   {% endif %}
 </div>

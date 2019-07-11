@@ -1,0 +1,30 @@
+.icon-twitter{
+    background-image: url(/assets/icons/svg/twitter.svg);
+}
+
+.icon-facebook{
+    background-image: url(/assets/icons/svg/facebook.svg);
+}
+
+.icon-youtube{
+    background-image: url(/assets/icons/svg/youtube.svg);
+}
+
+.icon-github{
+    background-image: url(/assets/icons/svg/github.svg);
+}
+.footer{
+    ul{
+        list-style-type: none;
+        li{
+            height: 30px;
+            width: 30px;
+            a{
+                height: 30px;
+                width: 30px;
+                display: inline-block;
+            }
+        }
+    }
+}
+

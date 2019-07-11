@@ -20,7 +20,6 @@
     display: block;
     height: 50px;
     width: 50px;
-    background-color: #aa3d74;
     color: white;
 }
 
@@ -47,7 +46,6 @@ span.pagination-item{
     background-repeat: no-repeat;
     background-size: 50%;
     background-position: center;
-    background-color: #aa3d74;
 
     &:first-child {
         background-image: url(/assets/icons/svg/chevron-left.svg);
