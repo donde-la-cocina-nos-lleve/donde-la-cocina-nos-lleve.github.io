@@ -45,7 +45,7 @@ title: Home
   {% else %}
     <span class="pagination-item older"></span>
   {% endif %}
-  <span>{{paginator.page}}/{{paginator.total_pages}}</span>
+  <span class="numero_paginas">{{paginator.page}}/{{paginator.total_pages}}</span>
   {% if paginator.previous_page %}
     <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}"></a>
   {% else %}
