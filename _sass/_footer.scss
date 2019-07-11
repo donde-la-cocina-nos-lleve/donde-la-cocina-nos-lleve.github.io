@@ -14,15 +14,18 @@
     background-image: url(/assets/icons/svg/github.svg);
 }
 .footer{
+    text-align: center;
+    margin-bottom: 20px;
     ul{
         list-style-type: none;
         li{
-            height: 30px;
-            width: 30px;
+            display: inline;
+            background-repeat: no-repeat;
+            background-position: center;
             a{
+                display: inline-block;
                 height: 30px;
                 width: 30px;
-                display: inline-block;
             }
         }
     }
