@@ -39,17 +39,16 @@ title: Home
   {% endfor %}
 </div>
 
-<div class="row">{{paginator.page}}/{{paginator.total_pages}}</div>
-    
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Entradas antiguas</a>
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}"></a>
   {% else %}
-    <span class="pagination-item older">Entradas antiguas</span>
+    <span class="pagination-item older"></span>
   {% endif %}
+  <span>{{paginator.page}}/{{paginator.total_pages}}</span>
   {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Entradas más recientes</a>
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}"></a>
   {% else %}
-    <span class="pagination-item newer">Entradas más recientes</span>
+    <span class="pagination-item newer"></span>
   {% endif %}
 </div>
