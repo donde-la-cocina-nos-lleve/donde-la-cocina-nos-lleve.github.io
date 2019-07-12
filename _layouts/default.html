@@ -14,35 +14,8 @@
         <h1 class="masthead-title">
             <a href="{{ site.baseurl }}/" title="Home"><img src="/assets/icons/cabecera.jpg" alt="Imagen cabecera"/><span class="sr-only">{{ site.title }}</span></a>
         </h1>
-        <ul class="header-nav">
-            <li><button id="boton-menu" class="boton-menu"><span class="sr-only">Menú</span></button></li>
-            <li><button id="boton-buscar" class="boton-buscar"><span class="sr-only">Buscar</span></button></li>
-        </ul>
-        <div id="sidebar_menu" class="menu_cerrado">
-            <button id="boton-cerrar-menu" class="boton_cerrar"><span class="sr-only">Ocultar</span></button>
-            <ul>
-                <li><a href="/pintxos">Pintxos y aperitivos</a></li>
-                <li><a href="/verduras">Verduras y hortalizas</a></li>
-                <li><a href="/cremas">Cremas y sopas</a></li>
-                <li><a href="/arroz">Arroz y pasta</a></li>
-                <li><a href="/legumbres">Legumbres</a></li>
-                <li><a href="/huevos">Huevos</a></li>
-                <li><a href="/carnes">Carnes</a></li>
-                <li><a href="/pescados">Pescados</a></li>
-                <li><a href="/postres">Postres</a></li>
-                <li><a href="/pan">Pan y masas</a></li>
-            </ul>
-        </div>
-        <div id="sidebar_buscar" class="buscar_cerrado">
-            <button id="boton-cerrar-buscar" class="boton_cerrar"><span class="sr-only">Ocultar</span></button>
-            <div id="search-container" class="search-container">
-              <label for="search-input">Buscar</label>
-              <input type="text" id="search-input">
-            </div>
-            <div class="results">
-              <ul id="results-container"></ul>
-            </div>
-        </div>
+      {% include nav_header_desktop.html %}
+      {% include nav_header_movil.html %}
       </header>
       <main class="main-content">
         {{ content }}
@@ -50,25 +23,7 @@
 
       {% include sidebar.html %}
       
-      <footer class="footer">
-        <ul>
-            <li class="icon-twitter">
-                <a href=""><span class="sr-only">Twitter</span></a>
-            </li>
-            <li class="icon-youtube">
-                <a href="https://www.youtube.com/channel/UC8WAuk-BScPfQ6c6nrc56Rw/featured"><span class="sr-only">Youtube</span></a>
-            </li>
-            <li class="icon-facebook">
-                <a href=""><span class="sr-only">Facebook</span></a>
-            </li>
-            <li class="icon-github">
-                <a href="https://github.com/donde-la-cocina-nos-lleve/donde-la-cocina-nos-lleve.github.io/"><span class="sr-only">Github</span></a>
-            </li>
-            <li class="icon-rss">
-                <a href="atom.xml"><span class="sr-only">RSS</span></a>
-            </li>
-        </ul>
-      </footer>
+      {% include footer.html %}
 	  <script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.min.js"></script>
 	  <script src="{{ site.baseurl }}/assets/js/search.js"></script>
 	  <script src="{{ site.baseurl }}/assets/js/navegacion.js"></script>

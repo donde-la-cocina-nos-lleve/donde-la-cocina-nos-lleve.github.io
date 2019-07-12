@@ -44,6 +44,7 @@
             padding:90px 20px;
             margin-right: 15%; 
             overflow: auto;
+            box-shadow: 1px 0px 6px;
             width:85%;
             height: 100%;
             ul{
@@ -65,17 +66,17 @@
             display: none;
         }
         .buscar_abierto{
-            position: fixed;
             display: block;
+            position: fixed;
             right: 0;
             top: 0;
             background-color: #f1f1f1;
             padding: 0px 0px 35px 0px;
             margin-left: 15%; 
             overflow: auto;
-            box-shadow: -1px -1px 6px;
-            height: 100%;
+            box-shadow: -1px 0px 6px;
             width:85%;
+            height: 100%;
             .boton_cerrar{
               left: 10px;
             }
