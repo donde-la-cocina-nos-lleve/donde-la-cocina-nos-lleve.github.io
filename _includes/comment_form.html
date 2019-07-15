@@ -62,8 +62,8 @@
   });
 
   function showAlert(message) {
-    var aviso_div=document.querySelectorAll("comment-form .aviso")[0];
-    var aviso_p=document.querySelectorAll("comment-form .aviso_texto")[0];
+    var aviso_div=document.querySelectorAll("#comment-form .aviso")[0];
+    var aviso_p=document.querySelectorAll("#comment-form .aviso_texto")[0];
     aviso_div.classList.remove("hidden");
     aviso_p.html(message);
   }
