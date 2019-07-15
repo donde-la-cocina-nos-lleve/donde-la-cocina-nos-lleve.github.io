@@ -39,16 +39,24 @@
         method:'POST',
         body:data
     })
-    .then(res => res.json())
+    .then(response => response.json())
+    .then(function(json) { 
+        console.log(json["success"]);
+        if(json["success"]){
+            showAlert(
+              "Gracias por su comentario. Pendiente de moderación"
+            );
+        }
+        else{
+            showAlert(
+              "Ha habido un error al enviar su comentario, vuelva a intentarlo."
+            );
+        }
+    })
     .catch(function(error) { 
         console.log(error);
         showAlert(
           "Ha habido un error al enviar su comentario, vuelva a intentarlo."
-        );})
-    .then(function(response) { 
-        console.log(reponse);
-        showAlert(
-          "Gracias por su comentario. Pendiente de moderación"
         );});
     return false;
   });
