@@ -28,14 +28,16 @@
     form.addEventListener("submit", function(evt){
     evt.preventDefault();
 
-    var data = new FormData(form);
     var url="https://dev.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments"
+    console.log("enviando comentario a "+url);
+    //convertir form a urlsearchparams para mandar como application/x-www-form-urlencoded
+    const data = new URLSearchParams();
+    for (const pair of new FormData(form)) {
+        data.append(pair[0], pair[1]);
+    }
     fetch(url,{
         method:'POST',
-        body:data,
-        headers: {
-            'Content-Type': 'multipart/form-data'
-        }
+        body:data
     })
     .then(res => res.json())
     .catch(function(error) { 
