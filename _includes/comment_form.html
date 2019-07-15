@@ -18,4 +18,43 @@
   <fieldset>
     <button type="submit" id="comment-form-submit">Enviar</button>
   </fieldset>
+  <div class="aviso hidden">
+    <p class="aviso_texto"></p>
+  </div>
 </form>
+<script> 
+
+    var form=document.getElementById("comment-form");
+    form.addEventListener("submit", function(evt){
+    evt.preventDefault();
+
+    var data = new FormData(form);
+    var url="https://dev.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments"
+    fetch(url,{
+        method:'POST',
+        body:data,
+        headers: {
+            'Content-Type': 'multipart/form-data'
+        }
+    })
+    .then(res => res.json())
+    .catch(function(error) { 
+        console.log(error);
+        showAlert(
+          "Ha habido un error al enviar su comentario, vuelva a intentarlo."
+        );})
+    .then(function(response) { 
+        console.log(reponse);
+        showAlert(
+          "Gracias por su comentario. Pendiente de moderación"
+        );});
+    return false;
+  });
+
+  function showAlert(message) {
+    var aviso_div=document.querySelectorAll("comment-form .aviso")[0];
+    var aviso_p=document.querySelectorAll("comment-form .aviso_texto")[0];
+    aviso_div.classList.remove("hidden");
+    aviso_p.html(message);
+  }
+</script>

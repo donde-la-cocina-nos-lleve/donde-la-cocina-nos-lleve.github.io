@@ -43,3 +43,10 @@
 .alfabetico{
 	background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
 } 
+
+@media (max-width: 500px) {
+
+    .sidebar{
+        display: none;    
+    } 
+} 
