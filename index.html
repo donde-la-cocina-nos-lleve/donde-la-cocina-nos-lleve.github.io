@@ -10,7 +10,7 @@ title: Home
   {% include get_image_post_src.html %}
   {% endcapture %}
   {% assign src = src | strip %}
-  <img src="{{src}}"/>
+  <img class="post_image" src="{{src}}"/>
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
