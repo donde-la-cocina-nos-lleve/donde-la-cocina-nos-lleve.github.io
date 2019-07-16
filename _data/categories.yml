@@ -1,2 +1,20 @@
+- name: pintxos
+  slug: Pintxos y aperitivos
+- name: verduras
+  slug: Verduras y hortalizas
+- name: cremas
+  slug: Cremas y sopas
 - name: arroz
   slug: Arroz y pasta
+- name: legumbres
+  slug: Legumbres
+- name: huevos
+  slug: Huevos
+- name: carnes
+  slug: Carnes
+- name: pescados
+  slug: Pescados
+- name: postres
+  slug: Postres
+- name: pan
+  slug: Pan y masas
