@@ -1,5 +1,5 @@
 # Permalinks
-permalink: /:categories/:title/
+permalink: /:title/
 # Setup
 title: "Donde la cocina nos lleve"
 description: "Blog de cocina de Bernardo I. García de la Torre y Teresa Hidalgo"
@@ -23,6 +23,12 @@ bernardo:
 teresa:
   name: Teresa Hidalgo Gutiérrez
   image: /assets/authors/teresa.jpg
+
+# Categories:
+collections:
+  category:
+    output: true
+
 
 # Staticman:
 repository: "donde-la-cocina-nos-lleve/donde-la-cocina-nos-lleve.github.io"

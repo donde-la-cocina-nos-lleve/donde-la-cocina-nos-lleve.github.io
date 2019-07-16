@@ -12,8 +12,10 @@ layout: default
   {{ content }}
 <span class="tag_article">
   {% for category in page.categories %}
-    {% capture category_name %}{{ category }}{% endcapture %}
-    <a href="/categoria/{{ category_name }}"><code><nobr>{{ category_name }}</nobr></code></a>
+    {% capture category_link %}
+        {% for category in site.data.categories %}{% if post.category == category.slug %}{{ category.name }}{% endif %}{% endfor %}
+    {% endcapture %}
+    <a href="/categoria/{{ category_link }}"><code><nobr>{{ category }}</nobr></code></a>
   {% endfor %}
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
