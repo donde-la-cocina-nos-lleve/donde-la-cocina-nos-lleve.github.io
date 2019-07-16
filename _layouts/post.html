@@ -13,10 +13,12 @@ layout: default
 <span class="tag_article">
   {% for category in page.categories %}
     {% capture category_link %}
-        {% for category in site.data.categories %}{% if post.category == category.slug %}{{ category.name }}{% endif %}{% endfor %}
+        {% for site_category in site.data.categories %}{% if category == site_category.slug %}{{ site_category.name }}{% endif %}{% endfor %}
     {% endcapture %}
+    {% assign category_link = category_link | strip %}
     <a href="/categoria/{{ category_link }}"><code><nobr>{{ category }}</nobr></code></a>
   {% endfor %}
+    {% for site_category in site.data.categories %}{{ site_category.slug }}{% if category == site_category.slug %}{{ site_category.name }}{% endif %}{% endfor %}
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
