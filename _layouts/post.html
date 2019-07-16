@@ -11,6 +11,10 @@ layout: default
   <!--  <span><a href="/autor/{{ page.author }}"> {{ autor.name }}</a></span> -->
   {{ content }}
 <span class="tag_article">
+  {% for category in page.categories %}
+    {% capture category_name %}{{ category }}{% endcapture %}
+    <a href="/categoria/{{ category_name }}"><code><nobr>{{ category_name }}</nobr></code></a>
+  {% endfor %}
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>

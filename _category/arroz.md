@@ -1,5 +1,5 @@
 ---
-tag: arrozypasta
-permalink: "/arroz"
+tag: "Arroz y pasta"
+permalink: "/categoria/arroz"
 title: "Arroz y pasta"
 ---
