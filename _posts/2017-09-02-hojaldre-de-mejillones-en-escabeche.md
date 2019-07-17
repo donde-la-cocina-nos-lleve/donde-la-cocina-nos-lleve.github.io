@@ -30,7 +30,7 @@ INGREDIENTES:
 
   
 
-###1
+### 1
 
  Picamos las verduras y las ponemos a pochar en una sartén con un fondo de aceite. En primer lugar la cebolla y el ajo. Cuando lleve unos minutos añadimos los pimientos y por último el tomate pelado y sin semillas. Salpimentamos.  
 
@@ -38,11 +38,11 @@ INGREDIENTES:
 
   
 
-###2
+### 2
 
  Mientras se hacen las hortalizas, vamos preparando el hojaldre. Hacemos incisiones oblicuas en los dos laterales, dejando más o menos la tercera parte libre.  
 
-###3
+### 3
 
  Cuando las hortalizas estén tiernas las disponemos sobre la parte central del hojaldre y sobre ellas colocamos los mejillones escurridos. Vamos cerrando la masa con las tiras laterales que hemos cortado, en una especie de trenza.  
 
@@ -54,7 +54,7 @@ INGREDIENTES:
 
   
 
-###4
+### 4
 
  Con ayuda de una brocha pintamos la superficie con el escabeche de la lata y metemos al horno a 200º durante 20 minutos aproximadamente.  
 

@@ -1,18 +1,22 @@
-{% if post.content contains "<img" %}
-{% assign images = post.content | split:"<img " %}
-{% for image in images %}
-  {% if image contains 'src' %}
-    {% assign html = image | split:"/>" | first %}
-      {% assign tags = html | split:" " %}
-      {% for tag in tags %}
-        {% if tag contains 'src' %}
-          {% assign size = tag.size | minus: 6 %}
-          {% assign src = tag | strip | slice: 5, size %}
-          {{ src }}
-          {% break %}
-        {% endif %}
-      {% endfor %}
-	{% break %}
-  {% endif %}
-{% endfor %}
+{% if post.image %}
+    {{ post.image }}
+{% else %}
+    {% if post.content contains "<img" %}
+    {% assign images = post.content | split:"<img " %}
+    {% for image in images %}
+      {% if image contains 'src' %}
+        {% assign html = image | split:"/>" | first %}
+          {% assign tags = html | split:" " %}
+          {% for tag in tags %}
+            {% if tag contains 'src' %}
+              {% assign size = tag.size | minus: 6 %}
+              {% assign src = tag | strip | slice: 5, size %}
+              {{ src }}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    {% endif %}
 {% endif %}
