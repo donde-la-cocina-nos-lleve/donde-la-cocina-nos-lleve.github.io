@@ -49,7 +49,7 @@ Picamos la cebolla, apio y zanahorias en trozos lo más pequeños posible. En un
 
 ### 2
 
- Una vez que la cebolla esté transparente añadimos la carne y movemos continuamente para que no se apelmace y quede suelta. Cuando haya perdido totalmente el color rosado añadimos la leche y dejamos que se evapore. Después añadimos el vino y dejamos que se evapore el alcohol.  
+Una vez que la cebolla esté transparente añadimos la carne y movemos continuamente para que no se apelmace y quede suelta. Cuando haya perdido totalmente el color rosado añadimos la leche y dejamos que se evapore. Después añadimos el vino y dejamos que se evapore el alcohol.  
 
 ![](https://3.bp.blogspot.com/-gjDX92Qy01E/WlsgFz65e5I/AAAAAAAAEGE/p3UN4WJch0EHYF5n5G3Cr_UHCz0rCIvGgCLcBGAs/s320/03.JPG)
 
@@ -61,7 +61,7 @@ Picamos la cebolla, apio y zanahorias en trozos lo más pequeños posible. En un
 
 ### 3
 
- Es el momento de echar el tomate. Salpimentamos, bajamos el fuego y dejamos hacer durante dos horas por lo menos, removiendo de vez en cuando. Si viéramos que se queda sin líquido podemos añadir un poco de agua.  
+Es el momento de echar el tomate. Salpimentamos, bajamos el fuego y dejamos hacer durante dos horas por lo menos, removiendo de vez en cuando. Si viéramos que se queda sin líquido podemos añadir un poco de agua.  
 
 ![](https://4.bp.blogspot.com/-Dcr-ysjbbIM/WlsgqNUK1hI/AAAAAAAAEGQ/g0hhv-QPCGAPnA0PqszxHKmKD6_LIQIUACLcBGAs/s320/05.JPG)
 
@@ -69,9 +69,12 @@ Picamos la cebolla, apio y zanahorias en trozos lo más pequeños posible. En un
 
 ### 4
 
- Una vez lista la salsa, cocemos las láminas de lasaña según las indicaciones del fabricante y procedemos a montar la lasaña. En el fondo de la fuente ponemos una capa de tomate frito. Posteriormente seguimos alternando capas de pasta con capas de boloñesa y así hasta terminar con una capa de lasaña. Cubrimos con la bechamel y espolvoreamos de queso parmesano rallado. Llevamos al horno y gratinamos.  
+Una vez lista la salsa, cocemos las láminas de lasaña según las indicaciones del fabricante y procedemos a montar la lasaña. En el fondo de la fuente ponemos una capa de tomate frito. Posteriormente seguimos alternando capas de pasta con capas de boloñesa y así hasta terminar con una capa de lasaña. Cubrimos con la bechamel y espolvoreamos de queso parmesano rallado. Llevamos al horno y gratinamos.  
+
 La salsa boloñesa es un ragú de carne y verduras. Con este tipo de guiso de larga duración conseguimos que los sabores se acentúen e integren perfectamente. Cuanto más pequeñas cortemos las verduras mejor, ya que durante la cocción conseguiremos que prácticamente desaparezcan.  
+
 La leche hace que la carne quede más tierna y jugosa.  
+
 En caso de que no tengamos tanto tiempo siempre podemos subir un poco el fuego y así acelerar el proceso, pero debemos tener en cuenta que como mejor sabe es a fuego lento y con paciencia.  
   
 Teresa Hidalgo Gutiérrez

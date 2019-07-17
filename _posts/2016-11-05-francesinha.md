@@ -34,21 +34,21 @@ INGREDIENTES (para cada sándwich)
   * 4 guindillas de cayena
   * 1 lata grande de tomate triturado  
 
-1
+### 1
 
- Comenzamos preparando la salsa. Para ello cortamos la cebolla en rodajas finas y las ponemos junto a los ajos picados en una cazuela con aceite. Salamos y dejamos hacer. Cuando esté blanda la cebolla, añadimos la carne muy picada a la cazuela y el laurel y rehogamos. Echamos el tomate y la guindilla y dejamos reducir durante media hora aproximadamente. Por último añadimos el vino y la cerveza. Salamos y tenemos a fuego medio durante dos horas. Trituramos y colamos. Si queda muy líquida se puede añadir harina de maíz refinada, aunque no debe quedar muy espesa.  
+Comenzamos preparando la salsa. Para ello cortamos la cebolla en rodajas finas y las ponemos junto a los ajos picados en una cazuela con aceite. Salamos y dejamos hacer. Cuando esté blanda la cebolla, añadimos la carne muy picada a la cazuela y el laurel y rehogamos. Echamos el tomate y la guindilla y dejamos reducir durante media hora aproximadamente. Por último añadimos el vino y la cerveza. Salamos y tenemos a fuego medio durante dos horas. Trituramos y colamos. Si queda muy líquida se puede añadir harina de maíz refinada, aunque no debe quedar muy espesa.  
 
 ![](https://3.bp.blogspot.com/-xskJ8V505L8/WB4tvy4VAsI/AAAAAAAADGc/nU5J9FgSf1sfocBMAjqaoqjZz205PZXFwCLcB/s320/02.JPG)
 
-  
+ 
 
-2
+### 2
 
- Abrimos las salchichas y la chistorra a lo largo y las cortamos en trozos del tamaño del pan. Hacemos los dos ingredientes en la plancha. Reservamos. Los filetes los hacemos también a la plancha, pero que queden poco hechos, ya que luego se terminan de hacer en el horno.  
+Abrimos las salchichas y la chistorra a lo largo y las cortamos en trozos del tamaño del pan. Hacemos los dos ingredientes en la plancha. Reservamos. Los filetes los hacemos también a la plancha, pero que queden poco hechos, ya que luego se terminan de hacer en el horno.  
 
-3
+### 3
 
- Montamos los sándwiches. Para ello tostamos ligeramente los panes. Disponemos en una bandeja de horno una primera capa de pan. Sobre ella vamos poniendo todos los ingredientes. Primero la loncha de jamón york, sobre ella las salchichas y la chistorra y por último el filete. Cubrimos con la otra rebanada de pan y sobre esta disponemos las cuatro lonchas de queso, de forma que quede bien cubierto por arriba y los laterales. Metemos la bandeja al horno a 180º hasta que se empiece a derretir el queso, con cuidado de que no se gratine.  
+Montamos los sándwiches. Para ello tostamos ligeramente los panes. Disponemos en una bandeja de horno una primera capa de pan. Sobre ella vamos poniendo todos los ingredientes. Primero la loncha de jamón york, sobre ella las salchichas y la chistorra y por último el filete. Cubrimos con la otra rebanada de pan y sobre esta disponemos las cuatro lonchas de queso, de forma que quede bien cubierto por arriba y los laterales. Metemos la bandeja al horno a 180º hasta que se empiece a derretir el queso, con cuidado de que no se gratine.  
 
 ![](https://4.bp.blogspot.com/-f-QbyJzjsgo/WB4t7hDHy7I/AAAAAAAADGg/yrFS-aczitI1TffopOA_7RfvPE3GCwkIgCLcB/s320/03.JPG)
 
@@ -67,4 +67,5 @@ Se sirven en plato hondo y con una buena cantidad de salsa. Se puede añadir tam
 
   
 _Por si fueran poco contundentes, se suelen acompañar de patatas fritas y cerveza._  
+
 Teresa Hidalgo Gutiérrez

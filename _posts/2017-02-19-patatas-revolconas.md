@@ -34,44 +34,30 @@ INGREDIENTES
 
   
 
-1
+### 1
 
- Pelamos y cascamos las patatas. Las ponemos en una cazuela junto con dos dientes de ajo enteros y la hoja de laurel. Cubrimos de agua y salamos y dejamos cocer hasta que estén bien blandas, teniendo en cuenta que vamos a hacer un puré con ellas.
+Pelamos y cascamos las patatas. Las ponemos en una cazuela junto con dos dientes de ajo enteros y la hoja de laurel. Cubrimos de agua y salamos y dejamos cocer hasta que estén bien blandas, teniendo en cuenta que vamos a hacer un puré con ellas.
 
-  
+### 2
 
-  
-
-2
-
- Mientras se hacen las patatas cortamos la panceta en tiras y éstas en trozos de unos 3 cm. En una sartén con una cucharada de aceite de oliva freímos la panceta hasta que esté dorada. Reservamos.
-
-  
+Mientras se hacen las patatas cortamos la panceta en tiras y éstas en trozos de unos 3 cm. En una sartén con una cucharada de aceite de oliva freímos la panceta hasta que esté dorada. Reservamos.
 
 ![](https://1.bp.blogspot.com/-rtCH203zhyM/WKmbjrrNGtI/AAAAAAAADbY/NnM6JStInr4l94FJjDgQ-yLHNkwS3RLSgCLcB/s320/02.JPG)
 
-  
+### 3
 
-3
-
- Una vez hechas las patatas, retiramos el agua de cocción, reservando un par de cazos por si los necesitamos después. Aplastamos las patatas con un tenedor o la mano del mortero. Rectificamos de sal si fuera necesario y añadimos pimienta negra recién molida. En la sartén donde hemos hecho la panceta, utilizando la grasa que ha soltado, freímos el ajo restante cortado en láminas.
+Una vez hechas las patatas, retiramos el agua de cocción, reservando un par de cazos por si los necesitamos después. Aplastamos las patatas con un tenedor o la mano del mortero. Rectificamos de sal si fuera necesario y añadimos pimienta negra recién molida. En la sartén donde hemos hecho la panceta, utilizando la grasa que ha soltado, freímos el ajo restante cortado en láminas.
 
   
 
-4
+### 4
 
- Una vez hecho lo retiramos y añadimos los pimentones, teniendo cuidado de retirar rápido del fuego, para que no se quemen. Regamos con un poco de caldo de la cocción de las patatas. Echamos el contenido de la sartén sobre el puré de patatas mezclando muy bien. Si hiciera falta podríamos añadir un poco más del agua de cocción. Finalmente servimos las patatas acompañadas de los trozos de panceta.
-
+Una vez hecho lo retiramos y añadimos los pimentones, teniendo cuidado de retirar rápido del fuego, para que no se quemen. Regamos con un poco de caldo de la cocción de las patatas. Echamos el contenido de la sartén sobre el puré de patatas mezclando muy bien. Si hiciera falta podríamos añadir un poco más del agua de cocción. Finalmente servimos las patatas acompañadas de los trozos de panceta.
   
 
 ![](https://4.bp.blogspot.com/-OAXTZ2ej7vE/WKmb0KGO_hI/AAAAAAAADbc/a9zMdh5lGoowBXX-HqMCu6iAPHNXgZkbwCLcB/s320/03.JPG)
 
-  
-
-  
-
 Teresa Hidalgo Gutiérrez
 
-  
-
 VÍDEO:
+<iframe class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/CtciqEVauW8/0.jpg" src="https://www.youtube.com/embed/CtciqEVauW8?feature=player_embedded" frameborder="0" allowfullscreen></iframe>

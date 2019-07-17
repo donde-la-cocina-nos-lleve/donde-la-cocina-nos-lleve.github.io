@@ -24,21 +24,21 @@ INGREDIENTES:(Para un molde de 26 cm)
 * 4 hojas de gelatina
 * Mermelada de arándanos  
 
-1
+### 1
 
- En primer lugar ponemos a hidratar la gelatina introduciendo las hojas en un recipiente apto para microondas con agua. Cuando estén hidratadas las escurrimos y las introducimos en el microondas a potencia media hasta que se derritan. Reservamos.    
+En primer lugar ponemos a hidratar la gelatina introduciendo las hojas en un recipiente apto para microondas con agua. Cuando estén hidratadas las escurrimos y las introducimos en el microondas a potencia media hasta que se derritan. Reservamos.    
 
-2
+### 2
 
- Ahora preparamos la base de la tarta. Para ello trituramos las galletas lo más finamente posible y las mezclamos con la mantequilla, que habremos ablandado previamente en el microondas, hasta formar una pasta con la que cubriremos la base del molde. A ser posible usaremos un molde desmontable. Metemos en el frigorífico mientras preparamos el relleno de la tarta.  
+Ahora preparamos la base de la tarta. Para ello trituramos las galletas lo más finamente posible y las mezclamos con la mantequilla, que habremos ablandado previamente en el microondas, hasta formar una pasta con la que cubriremos la base del molde. A ser posible usaremos un molde desmontable. Metemos en el frigorífico mientras preparamos el relleno de la tarta.  
 
-3
+### 3
 
- Montamos la nata con el azúcar. Cuando esté firme añadimos el queso ablandado y la gelatina y mezclamos bien con la batidora, para que no queden grumos. Cubrimos con esta crema la base de la tarta. Metemos de nuevo en el frigorífico y dejamos unas 5-6 horas.  
+Montamos la nata con el azúcar. Cuando esté firme añadimos el queso ablandado y la gelatina y mezclamos bien con la batidora, para que no queden grumos. Cubrimos con esta crema la base de la tarta. Metemos de nuevo en el frigorífico y dejamos unas 5-6 horas.  
 
-4
+### 4
 
- Cuando ya esté cuajada, ponemos en un cazo la mermelada de arándanos con una cucharada de agua y tenemos un poco a fuego medio hasta que se vuelva más líquida. Dejamos enfriar un poco y echamos sobre la tarta. Metemos de nuevo al frigorífico hasta el momento de servir.  
+    Cuando ya esté cuajada, ponemos en un cazo la mermelada de arándanos con una cucharada de agua y tenemos un poco a fuego medio hasta que se vuelva más líquida. Dejamos enfriar un poco y echamos sobre la tarta. Metemos de nuevo al frigorífico hasta el momento de servir.  
 
 ![](https://1.bp.blogspot.com/-SQ_BeBGM83c/WGkcsRiAthI/AAAAAAAADRM/DcZyYwZt22wdsZnrnxxxlCTh_dV37DhnwCLcB/s320/02.JPG)
 

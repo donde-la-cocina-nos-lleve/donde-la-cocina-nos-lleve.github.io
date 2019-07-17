@@ -30,19 +30,19 @@ INGREDIENTES (para cada sándwich):
 
 ### 1
 
- Sobre una de las rebanadas de pan colocamos la loncha de queso y el jamón york. Sobre él otra rebanada de pan previamente pasada por la plancha.  
+Sobre una de las rebanadas de pan colocamos la loncha de queso y el jamón york. Sobre él otra rebanada de pan previamente pasada por la plancha.  
 
 ### 2
 
- Con el huevo hacemos una tortilla procurando darle la forma del pan. La colocamos sobre el sándwich. Pasamos por la plancha el bacón y lo ponemos sobre la tortilla.  
+Con el huevo hacemos una tortilla procurando darle la forma del pan. La colocamos sobre el sándwich. Pasamos por la plancha el bacón y lo ponemos sobre la tortilla.  
 
 ### 3
 
- Cortamos el pepinillo en lonchas y las disponemos en el sándwich. Cubrimos con mayonesa al gusto y ponemos la rebanada de pan restante.  
+Cortamos el pepinillo en lonchas y las disponemos en el sándwich. Cubrimos con mayonesa al gusto y ponemos la rebanada de pan restante.  
 
 ### 4
 
- Hacemos el sándwich a la plancha.  
+Hacemos el sándwich a la plancha.  
   
 _Podemos prescindir de la rebanada de pan interior y así aligerarlo un poco._  
   

@@ -25,25 +25,25 @@ INGREDIENTES:
 * 1 cc. de canela en polvo
 * Mantequilla para untar el molde o greixonera  
 
-1
+### 1
 
- Precalentamos el horno a 175 º C. Engrasamos el interior del molde o greixonera con mantequilla. Lavamos y secamos los limones y rallamos finamente su piel, sin llegar a la parte blanca y amarga.  
+Precalentamos el horno a 175 º C. Engrasamos el interior del molde o greixonera con mantequilla. Lavamos y secamos los limones y rallamos finamente su piel, sin llegar a la parte blanca y amarga.  
 
-2
+### 2
 
- Escurrimos el requesón y lo ponemos en un cuenco o bol amplio. Cascamos y añadimos los huevos, el azúcar, la ralladura de limón, la canela y la leche. Mezclamos todo bien con una espátula o cuchara de madera, aunque también podemos utilizar las manos.  
+Escurrimos el requesón y lo ponemos en un cuenco o bol amplio. Cascamos y añadimos los huevos, el azúcar, la ralladura de limón, la canela y la leche. Mezclamos todo bien con una espátula o cuchara de madera, aunque también podemos utilizar las manos.  
 
-3
+### 3
 
- Si quedan grumos los deshacemos con las manos. Llenamos la greixonera o el molde con esta mezcla y la cocemos en la parte central del horno durante 40 minutos aproximadamente, hasta que la superficie esté dorada.  
+Si quedan grumos los deshacemos con las manos. Llenamos la greixonera o el molde con esta mezcla y la cocemos en la parte central del horno durante 40 minutos aproximadamente, hasta que la superficie esté dorada.  
 
 ![](https://1.bp.blogspot.com/-Aqf7rIvY8i8/WE1i9XfVXMI/AAAAAAAADO0/YdbWzeQZ9z8vCkoAmo6eHCfTnSqdsdcEQCLcB/s320/01.JPG)
 
-  
+ 
 
-4
+### 4
 
- La dejamos enfriar antes de servirla.  
+La dejamos enfriar antes de servirla.  
   
 
 ![](https://2.bp.blogspot.com/-EIvxX5Xa7zs/WE1jNBH90xI/AAAAAAAADO8/yzjv1bpFbuoUfXcaE-FHBzDI0HZLQa6SQCLcB/s320/03.JPG)

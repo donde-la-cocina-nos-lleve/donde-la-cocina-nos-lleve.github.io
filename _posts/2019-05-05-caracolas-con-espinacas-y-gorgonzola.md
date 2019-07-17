@@ -36,15 +36,15 @@ INGREDIENTES:
 
 ### 1
 
- En una sartén salteamos las espinacas picadas hasta que estén hechas. Añadimos la nata y el queso, removemos y salpimentamos. Tenemos unos pocos minutos para que la nata no se reduzca demasiado.  
+En una sartén salteamos las espinacas picadas hasta que estén hechas. Añadimos la nata y el queso, removemos y salpimentamos. Tenemos unos pocos minutos para que la nata no se reduzca demasiado.  
 
 ### 2
 
- Pelamos y picamos las peras en cubos de 1 cm de lado. En un cazo o sartén antiadherente ponemos la mantequilla a derretir y añadimos las peras. Salteamos un par de minutos y echamos el azúcar. Dejamos hacer unos cinco minutos, que la pera no se ablande demasiado.  
+Pelamos y picamos las peras en cubos de 1 cm de lado. En un cazo o sartén antiadherente ponemos la mantequilla a derretir y añadimos las peras. Salteamos un par de minutos y echamos el azúcar. Dejamos hacer unos cinco minutos, que la pera no se ablande demasiado.  
 
 ### 3
 
- Picamos la panceta o bacón y salteamos en una sartén sin nada de aceite hasta que se dore.  
+Picamos la panceta o bacón y salteamos en una sartén sin nada de aceite hasta que se dore.  
 
 ![](https://4.bp.blogspot.com/-p6O-P0cCXIw/XM8mFD5g4sI/AAAAAAAAEhQ/HAamVtw3uEQDivnR2JvddYBBaNRyBG_igCLcBGAs/s320/02.JPG)
 

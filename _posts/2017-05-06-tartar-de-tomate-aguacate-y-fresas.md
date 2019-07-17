@@ -32,11 +32,11 @@ INGREDIENTES (por persona):
 
 ### 1
 
- Partimos el tomate en “concasse”. Esta técnica culinaria consiste en pelar y quitar las semillas al tomate y posteriormente partirlo en pequeños cubitos.  
+Partimos el tomate en “concasse”. Esta técnica culinaria consiste en pelar y quitar las semillas al tomate y posteriormente partirlo en pequeños cubitos.  
 
 ### 2
 
- Quitamos la piel al aguacate y lo picamos también en daditos. Lavamos y quitamos las hojas a las fresas y las cortamos en la misma forma.  
+Quitamos la piel al aguacate y lo picamos también en daditos. Lavamos y quitamos las hojas a las fresas y las cortamos en la misma forma.  
 
 ![](https://1.bp.blogspot.com/-RGzj4kJq-gI/WQ3JSYZlSAI/AAAAAAAADlc/jSPR3QsCBKQ7dszQVf3Yk6bha6NcBUD2gCLcB/s320/02.JPG)
 
@@ -44,7 +44,7 @@ INGREDIENTES (por persona):
 
 ### 3
 
- Utilizando un aro de emplatar, disponemos en una primera capa el tomate, sobre él colocamos el aguacate y finalmente las fresas. Tras cada capa apretamos con cuidado ayudándonos de una cuchara para compactar.  
+Utilizando un aro de emplatar, disponemos en una primera capa el tomate, sobre él colocamos el aguacate y finalmente las fresas. Tras cada capa apretamos con cuidado ayudándonos de una cuchara para compactar.  
 
 ![](https://4.bp.blogspot.com/-sVrQUUdJlwI/WQ3JoL40_DI/AAAAAAAADlg/AHnepSGmXCM5aOmc9l_V-jFcoP4cJ8lrACLcB/s320/03.JPG)
 

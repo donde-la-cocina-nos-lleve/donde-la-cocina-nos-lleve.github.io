@@ -29,11 +29,11 @@ INGREDIENTES:
 
 ### 1
 
- Ponemos a cocer los huevos en agua fría. Contamos 10 minutos desde que empiece el hervor y retiramos y enfriamos bajo el grifo. Reservamos. Cocemos las patatas con piel, también en agua fría con sal. Necesitarán al menos 20 minutos de cocción dependiendo del tamaño. Podemos ir comprobando el punto introduciendo un cuchillo, si éste entra con facilidad ya estarán cocidas. Las escurrimos y dejamos enfriar.  
+Ponemos a cocer los huevos en agua fría. Contamos 10 minutos desde que empiece el hervor y retiramos y enfriamos bajo el grifo. Reservamos. Cocemos las patatas con piel, también en agua fría con sal. Necesitarán al menos 20 minutos de cocción dependiendo del tamaño. Podemos ir comprobando el punto introduciendo un cuchillo, si éste entra con facilidad ya estarán cocidas. Las escurrimos y dejamos enfriar.  
 
 ### 2
 
- Picamos los tomates, a los que habremos retirado las semillas, en dados pequeños, así como las aceitunas y la cebolleta. La lechuga la picamos finamente. En una ensaladera mezclamos estos ingredientes junto con el bonito y los huevos y patatas, ambos ingredientes pelados y picados.  
+Picamos los tomates, a los que habremos retirado las semillas, en dados pequeños, así como las aceitunas y la cebolleta. La lechuga la picamos finamente. En una ensaladera mezclamos estos ingredientes junto con el bonito y los huevos y patatas, ambos ingredientes pelados y picados.  
 
 ![](https://3.bp.blogspot.com/-p5EZGIVHQ40/WYcYFQQYktI/AAAAAAAADyw/9w44ZLWZKjsHFIzewRV0urU9z0xokJtFACLcBGAs/s320/01.JPG)
 
@@ -41,7 +41,7 @@ INGREDIENTES:
 
 ### 3
 
- Si tenemos posibilidad hacemos una mayonesa casera, aunque también podemos usar una industrial. Mezclamos la ensaladilla con la mayonesa y ajustamos el punto de sal, aceite y vinagre si vemos que lo necesita.  
+Si tenemos posibilidad hacemos una mayonesa casera, aunque también podemos usar una industrial. Mezclamos la ensaladilla con la mayonesa y ajustamos el punto de sal, aceite y vinagre si vemos que lo necesita.  
 
 ![](https://3.bp.blogspot.com/-gCn-j5Lc_0Y/WYcYWbMsplI/AAAAAAAADy0/wSd1ifm560sy23BInlFjqgJ5cVMviAEBQCLcBGAs/s320/02.JPG)
 

@@ -16,6 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/06/sandwich-croque-
 
   
 Desde que vi la cara de satisfacción de mi hija comiendo un croque-monsieur en Dax pensé en hacer uno para ella. Aquí está. Y creo que lo ha disfrutado casi tanto como aquella vez.  
+
 INGREDIENTES (Para dos sándwiches):
 * 4 rebanadas de pan de molde firme
 * 200 gr de queso gruyère
@@ -31,7 +32,7 @@ INGREDIENTES (Para dos sándwiches):
 
 ### 1
 
- Empezamos preparando una bechamel con la harina, la mantequilla y la leche, que aromatizaremos con un poco de nuez moscada.  Dejamos templar.  
+Empezamos preparando una bechamel con la harina, la mantequilla y la leche, que aromatizaremos con un poco de nuez moscada.  Dejamos templar.  
 
 ![](https://4.bp.blogspot.com/-bESy2yVyieg/WT1uMhbgfJI/AAAAAAAADrU/_V2ErbrIZ34lX-NwvwRGydvjx4BB8pMOgCLcB/s320/IMG_4037.JPG)
 
@@ -39,7 +40,7 @@ INGREDIENTES (Para dos sándwiches):
 
 ### 2
 
- Ponemos a calentar el horno a 180 grados mientras vamos montando los sándwiches.  
+Ponemos a calentar el horno a 180 grados mientras vamos montando los sándwiches.  
   
 
 ![](https://1.bp.blogspot.com/-sebL7C1efyA/WT1uTFscAnI/AAAAAAAADrY/F9DZXK7GbLg7AJ_gzupS2vLZRNRBOLbsACLcB/s320/IMG_4040.JPG)
@@ -48,11 +49,11 @@ INGREDIENTES (Para dos sándwiches):
 
 ### 3
 
- Tostamos ligeramente las cuatro rebanadas de pan. Untamos una primera rebanada con bechamel. Sobre esta capa colocamos el jamón cocido y una buena cantidad del queso que habremos rallado previamente. Disponemos encima la otra rebanada y la cubrimos también de bechamel y después el queso restante.  
+Tostamos ligeramente las cuatro rebanadas de pan. Untamos una primera rebanada con bechamel. Sobre esta capa colocamos el jamón cocido y una buena cantidad del queso que habremos rallado previamente. Disponemos encima la otra rebanada y la cubrimos también de bechamel y después el queso restante.  
 
 ### 4
 
- Llevamos los sándwiches al horno y los tenemos unos 10 minutos calor arriba y abajo. Finalmente los gratinamos otros 5 minutos, hasta que veamos que la superficie está dorada.  
+Llevamos los sándwiches al horno y los tenemos unos 10 minutos calor arriba y abajo. Finalmente los gratinamos otros 5 minutos, hasta que veamos que la superficie está dorada.  
 
 ![](https://2.bp.blogspot.com/-7YkdiNkdSDM/WT1uamXwY4I/AAAAAAAADrc/kLDmRCA7zIwpEidptVOOxSHj4_ARw9MOgCLcB/s320/IMG_4048.JPG)
 

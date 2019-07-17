@@ -57,7 +57,10 @@ Ponemos la bolsa sobre la bandeja del horno teniendo cuidado que no toque las pa
 
   
 
-_Aunque no es una cocción lenta propiamente dicha, la carne queda jugosa y se desprende fácilmente del hueso. Además tiene la ventaja de que apenas manchamos nada.__Este es uno de los adobos más clásicos para asar unas costillas, pudiendo variarse los ingredientes según las preferencias de cada cual._
+_Aunque no es una cocción lenta propiamente dicha, la carne queda jugosa y se desprende fácilmente del hueso. Además tiene la ventaja de que apenas manchamos nada._
+
+
+_Este es uno de los adobos más clásicos para asar unas costillas, pudiendo variarse los ingredientes según las preferencias de cada cual._
 
 ![](https://2.bp.blogspot.com/-b_-mJ1zr9mA/W41frJje2EI/AAAAAAAAEXc/WczJ9aIBC70WEaf1I8C1azCh1ppt2fyVgCLcBGAs/s320/07.JPG)
 

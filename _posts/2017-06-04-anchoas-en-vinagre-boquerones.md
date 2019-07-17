@@ -16,6 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/06/anchoas-en-vinag
 
   
 La anchoa (o bocarte) permite múltiples preparaciones, un bocado exquisito en todos los casos: rebozadas, a la cazuela con ajo y guindilla, en vinagre… Hoy vamos a realizar esta última preparación, que habitualmente conocemos como boquerón, y que es uno de los aperitivos más apreciados en nuestra zona.  
+
 INGREDIENTES:
 * Anchoas
 * Agua
@@ -31,7 +32,7 @@ INGREDIENTES:
 
 ### 1
 
- Limpiamos las anchoas quitándoles la cabeza y la tripa (nos lo pueden hacer en la pescadería). Retiramos la espina central y la cola y separamos los dos lomos. Retiramos también unas pequeñas espinas situadas en la parte superior del lomo. Congelamos los lomos sin amontonar para evitar problemas de intoxicación con el anisakis, ya que no se van a cocinar con calor.  
+Limpiamos las anchoas quitándoles la cabeza y la tripa (nos lo pueden hacer en la pescadería). Retiramos la espina central y la cola y separamos los dos lomos. Retiramos también unas pequeñas espinas situadas en la parte superior del lomo. Congelamos los lomos sin amontonar para evitar problemas de intoxicación con el anisakis, ya que no se van a cocinar con calor.  
 
 ![](https://3.bp.blogspot.com/-kHb_k9vRJyA/WTQH903W05I/AAAAAAAADqA/5qXQoincLlknZLYraU_3De7rvTzCFRvcQCLcB/s320/02.JPG)
 
@@ -39,11 +40,11 @@ INGREDIENTES:
 
 ### 2
 
- Descongelamos los lomos en el frigorífico y los pasamos por agua fría varias veces para quitarles la mayor parte de la sangre. Podemos dejarlos varias horas en agua fría en el frigorífico.  
+Descongelamos los lomos en el frigorífico y los pasamos por agua fría varias veces para quitarles la mayor parte de la sangre. Podemos dejarlos varias horas en agua fría en el frigorífico.  
 
 ### 3
 
- Secamos bien los lomos y los colocamos en un recipiente de vidrio (evitar que sea de plástico). Hacemos una mezcla con la mitad de agua, la mitad de vinagre y una pizca de sal (dependiendo de la cantidad de anchoas), y cubrimos los lomos completamente. Los dejamos en el frigorífico 24 horas.  
+Secamos bien los lomos y los colocamos en un recipiente de vidrio (evitar que sea de plástico). Hacemos una mezcla con la mitad de agua, la mitad de vinagre y una pizca de sal (dependiendo de la cantidad de anchoas), y cubrimos los lomos completamente. Los dejamos en el frigorífico 24 horas.  
 
 ![](https://3.bp.blogspot.com/-lvrfVfMgUEk/WTQInOycu3I/AAAAAAAADqI/L39Vjsv7DL4Ap6-Bk0q2ZM21k32xa5O7QCLcB/s320/03.JPG)
 
@@ -51,7 +52,7 @@ INGREDIENTES:
 
 ### 4
 
- Retiramos los lomos (que estarán con un tono blanquecino y con la carne firme) y los colocamos en un recipiente de vidrio distribuyendo ajo cortado muy fino. Los cubrimos con aceite de oliva virgen extra y ya están listos para consumir. Al presentarlos espolvoreamos perejil picado sobre ellos.  
+Retiramos los lomos (que estarán con un tono blanquecino y con la carne firme) y los colocamos en un recipiente de vidrio distribuyendo ajo cortado muy fino. Los cubrimos con aceite de oliva virgen extra y ya están listos para consumir. Al presentarlos espolvoreamos perejil picado sobre ellos.  
 
 ![](https://1.bp.blogspot.com/-OzfPjJ0MWQs/WTQI711OdoI/AAAAAAAADqM/6922S15WYq06ESFpUtjAqstU5FxJg4p1QCLcB/s320/04.JPG)
 

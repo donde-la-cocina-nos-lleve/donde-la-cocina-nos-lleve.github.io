@@ -32,7 +32,7 @@ INGREDIENTES:
 
 ### 1
 
- Picamos las verduras y las ponemos a pochar en una sartén con un fondo de aceite. En primer lugar la cebolla y el ajo. Cuando lleve unos minutos añadimos los pimientos y por último el tomate pelado y sin semillas. Salpimentamos.  
+Picamos las verduras y las ponemos a pochar en una sartén con un fondo de aceite. En primer lugar la cebolla y el ajo. Cuando lleve unos minutos añadimos los pimientos y por último el tomate pelado y sin semillas. Salpimentamos.  
 
 ![](https://2.bp.blogspot.com/-eGLnuHFrwGQ/WarWdCg6Q7I/AAAAAAAAD0o/QifdWBfTUXkwjE4VvOX5a5rBM4GCcdRowCLcBGAs/s320/02.JPG)
 
@@ -40,11 +40,11 @@ INGREDIENTES:
 
 ### 2
 
- Mientras se hacen las hortalizas, vamos preparando el hojaldre. Hacemos incisiones oblicuas en los dos laterales, dejando más o menos la tercera parte libre.  
+Mientras se hacen las hortalizas, vamos preparando el hojaldre. Hacemos incisiones oblicuas en los dos laterales, dejando más o menos la tercera parte libre.  
 
 ### 3
 
- Cuando las hortalizas estén tiernas las disponemos sobre la parte central del hojaldre y sobre ellas colocamos los mejillones escurridos. Vamos cerrando la masa con las tiras laterales que hemos cortado, en una especie de trenza.  
+Cuando las hortalizas estén tiernas las disponemos sobre la parte central del hojaldre y sobre ellas colocamos los mejillones escurridos. Vamos cerrando la masa con las tiras laterales que hemos cortado, en una especie de trenza.  
 
 ![](https://4.bp.blogspot.com/-cNYLRcE62jY/WarWs5B57JI/AAAAAAAAD0s/5PaD2pxRRkY0dcn-DCrEhQ9MWXcM3WwIgCLcBGAs/s320/03.JPG)
 
@@ -56,7 +56,7 @@ INGREDIENTES:
 
 ### 4
 
- Con ayuda de una brocha pintamos la superficie con el escabeche de la lata y metemos al horno a 200º durante 20 minutos aproximadamente.  
+Con ayuda de una brocha pintamos la superficie con el escabeche de la lata y metemos al horno a 200º durante 20 minutos aproximadamente.  
 
 ![](https://4.bp.blogspot.com/-ov8h4Yzpu5o/WarXGIZbAtI/AAAAAAAAD00/QKy4POVshH4PNLkoXNTWBQE55sTvbSV5ACLcBGAs/s320/05.JPG)
 

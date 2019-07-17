@@ -29,31 +29,31 @@ INGREDIENTES:
 * Aceite de oliva virgen
 * Sal  
 
-1
+### 1
 
- En primer lugar preparamos un caldo corto con las espinas y cabeza del pescado, la zanahoria, puerro y cebolla picados, el laurel, la pimienta, sal, un par de ramas de perejil y un chorro de aceite de oliva. Añadimos agua y dejamos cocer todo junto una media hora.  
+En primer lugar preparamos un caldo corto con las espinas y cabeza del pescado, la zanahoria, puerro y cebolla picados, el laurel, la pimienta, sal, un par de ramas de perejil y un chorro de aceite de oliva. Añadimos agua y dejamos cocer todo junto una media hora.  
 
 ![](https://1.bp.blogspot.com/-nKH9LFhsdB8/WHtDVJVmSeI/AAAAAAAADTg/NxQAngAgB6wWA8CexoLWyIoa-DkmK8zgwCLcB/s320/01.JPG)
 
-  
 
-2
 
- Mientras se prepara el caldo, pelamos y picamos los ajos muy menudos. Pelamos las patatas y las chascamos. Picamos fino el perejil. Reservamos todo.  
+### 2
+
+Mientras se prepara el caldo, pelamos y picamos los ajos muy menudos. Pelamos las patatas y las chascamos. Picamos fino el perejil. Reservamos todo.  
 
 ![](https://1.bp.blogspot.com/-iN1U5mI9dAg/WHtDqtncyiI/AAAAAAAADTk/o4d2mem-Ro04rIGixHZKkTWW5hkXtq8IQCLcB/s320/02.JPG)
 
   
 
-3
+### 3
 
- Cubrimos con aceite el fondo de una cazuela de barro o tartera y ponemos a freír los ajos que teníamos reservados. Damos un par de vueltas y añadimos las patatas, dejando rehogar unos minutos. Echamos el txakoli u otro vino blanco y dejamos evaporar el alcohol. Por último añadimos el caldo colado y dejamos que vayan cociendo las patatas a fuego medio. A media cocción, aproximadamente 15 minutos, añadimos el perejil y los guisantes.  
+Cubrimos con aceite el fondo de una cazuela de barro o tartera y ponemos a freír los ajos que teníamos reservados. Damos un par de vueltas y añadimos las patatas, dejando rehogar unos minutos. Echamos el txakoli u otro vino blanco y dejamos evaporar el alcohol. Por último añadimos el caldo colado y dejamos que vayan cociendo las patatas a fuego medio. A media cocción, aproximadamente 15 minutos, añadimos el perejil y los guisantes.  
 
 ![](https://4.bp.blogspot.com/-vOvvrvZegeE/WHtD7GZkf4I/AAAAAAAADTo/AEC8DHyiD4w-dpY4VF5j20LfZw1n4xizgCLcB/s320/05.JPG)
 
   
 
-4
+### 4
 
 Cuando las patatas ya estén tiernas, echamos la merluza troceada y salpimentada y dejamos cocer un par de minutos. Servimos en los platos espolvoreando un poco de perejil fresco. Pueden acompañarse también de huevo cocido, espárragos…  
 

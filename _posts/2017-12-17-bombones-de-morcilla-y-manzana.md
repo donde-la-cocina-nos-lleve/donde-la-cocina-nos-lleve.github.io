@@ -27,7 +27,7 @@ INGREDIENTES:
 
 ### 1
 
- Desmenuzamos la morcilla en una sartén amplia a fuego lento. En otro recipiente colocamos la manzana pelada y troceada y la vamos removiendo a fuego lento hasta conseguir una textura de compota. Incorporamos la manzana (reservando una tercera parte) a la morcilla y añadimos pimienta recién molida. Ya fuera del fuego incorporamos los copos de patata y mezclamos bien. Dejamos enfriar.  
+Desmenuzamos la morcilla en una sartén amplia a fuego lento. En otro recipiente colocamos la manzana pelada y troceada y la vamos removiendo a fuego lento hasta conseguir una textura de compota. Incorporamos la manzana (reservando una tercera parte) a la morcilla y añadimos pimienta recién molida. Ya fuera del fuego incorporamos los copos de patata y mezclamos bien. Dejamos enfriar.  
 
 ![](https://3.bp.blogspot.com/-nY84CQ-fRxA/WjbGzm4GVMI/AAAAAAAAEB0/wX3PM9102LMS-kPo8AU8HYPGup5Y8EEkQCLcBGAs/s320/02.JPG)
 
@@ -35,7 +35,7 @@ INGREDIENTES:
 
 ### 2
 
- En otra sartén colocamos el maíz tapado y a fuego medio esperamos a que vaya estallando y convirtiéndose en palomitas. Agitamos la sartén de vez en cuando para que no se quemen. Trituramos las palomitas en una picadora sin que se pulverice totalmente, con trocitos pequeños.  
+En otra sartén colocamos el maíz tapado y a fuego medio esperamos a que vaya estallando y convirtiéndose en palomitas. Agitamos la sartén de vez en cuando para que no se quemen. Trituramos las palomitas en una picadora sin que se pulverice totalmente, con trocitos pequeños.  
 
 ![](https://1.bp.blogspot.com/-LehUCp-1iRY/WjbG5rRsXZI/AAAAAAAAEB4/eqlGQ74nSGA1rsfGFku6fQMN-aUjQ3LTwCLcBGAs/s320/03.JPG)
 
@@ -43,7 +43,7 @@ INGREDIENTES:
 
 ### 3
 
- Moldeamos la mezcla de morcilla, manzana y copos de patata haciendo bolitas del tamaño de una nuez aproximadamente, con las manos o con dos cucharas, y las cubrimos de las palomitas trituradas, como si fuera un rebozado. Las colocamos en una bandeja o fuente y las horneamos a 200º durante 10 minutos aproximadamente, hasta que las palomitas se doren ligeramente.  
+Moldeamos la mezcla de morcilla, manzana y copos de patata haciendo bolitas del tamaño de una nuez aproximadamente, con las manos o con dos cucharas, y las cubrimos de las palomitas trituradas, como si fuera un rebozado. Las colocamos en una bandeja o fuente y las horneamos a 200º durante 10 minutos aproximadamente, hasta que las palomitas se doren ligeramente.  
 
 ![](https://2.bp.blogspot.com/-EQ5iv31cIzM/WjbG_GeZd7I/AAAAAAAAEB8/SSGahE4lFVg6sR-kwX4gVq0369o2tXbUgCLcBGAs/s320/04.JPG)
 
@@ -51,7 +51,7 @@ INGREDIENTES:
 
 ### 4
 
- Servimos calientes sobre una base de compota de manzana que hemos reservado.  
+Servimos calientes sobre una base de compota de manzana que hemos reservado.  
   
 
 ![](https://1.bp.blogspot.com/-v_NwyQwJXzk/WjbHDygqQpI/AAAAAAAAECA/ow_v1d15mEEoYe5T_6lZ4lQpidgnQCg4gCLcBGAs/s320/05.JPG)

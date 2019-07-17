@@ -31,24 +31,25 @@ INGREDIENTES:
 * Caldo o agua
 * Aceite de oliva virgen  
 
-1
+### 1
 
- En primer lugar picamos la cebolla, la zanahoria y el ajo y ponemos a pochar en una cazuela con aceite. Echamos un poco de sal, el laurel y dejamos hacer a fuego medio.  
+En primer lugar picamos la cebolla, la zanahoria y el ajo y ponemos a pochar en una cazuela con aceite. Echamos un poco de sal, el laurel y dejamos hacer a fuego medio.  
 
-2
+### 2
 
- Enharinamos los trozos de carne una vez salpimentados y los vamos friendo. Incorporamos a la cazuela donde tenemos el sofrito de verduras, añadimos el pimentón y damos unas vueltas.  
+Enharinamos los trozos de carne una vez salpimentados y los vamos friendo. Incorporamos a la cazuela donde tenemos el sofrito de verduras, añadimos el pimentón y damos unas vueltas.  
 
 ![](https://3.bp.blogspot.com/-7n-5AHoFIe8/WDGNbvVkMuI/AAAAAAAADIY/6m3Gr-Tge6kP9misURPqjofFOdZoo3JJQCLcB/s320/guisado%2B1.JPG)
 
   
 
-3
+### 3
 
- Echamos el brandy y flambeamos. Después añadimos el vino y las dos cucharadas de vinagre. Por último cubrimos con agua o caldo.  
+Echamos el brandy y flambeamos. Después añadimos el vino y las dos cucharadas de vinagre. Por último cubrimos con agua o caldo.  
 
-4
+### 4
 
 Tapamos la cazuela y dejamos hacer por espacio de una hora y media a dos horas, hasta que la carne esté tierna.  
 Podemos cascar unas patatas cuando queden unos 25 minutos de cocción y añadir a la cazuela, o acompañar de patatas fritas cortadas en cubos, arroz, guisantes, champiñones... Y pan, mucho pan para mojar en la salsa.  
+
 Teresa Hidalgo Gutiérrez

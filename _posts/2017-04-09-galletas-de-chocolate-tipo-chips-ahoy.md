@@ -28,15 +28,15 @@ INGREDIENTES:
 
 ### 1
 
- Ponemos en un bol grande los dos tipos de azúcar y la mantequilla a temperatura ambiente. Mezclamos con varilla eléctrica durante unos cinco minutos, hasta conseguir una crema. Añadimos el huevo y mezclamos hasta integrar perfectamente.  
+Ponemos en un bol grande los dos tipos de azúcar y la mantequilla a temperatura ambiente. Mezclamos con varilla eléctrica durante unos cinco minutos, hasta conseguir una crema. Añadimos el huevo y mezclamos hasta integrar perfectamente.  
 
 ![](https://3.bp.blogspot.com/-kbG66I3BNt8/WOoTvOx16qI/AAAAAAAADhc/EhM3irmjocYXWSIQxvZUK6c9qGmgPJbLACLcB/s320/01.JPG)
 
-  
+
 
 ### 2
 
- Tamizamos la harina junto con el bicarbonato y la sal y lo añadimos a la crema anterior, mezclando bien con una cuchara o espátula. Echamos la vainilla y el chocolate y mezclamos hasta que éste se reparta bien por toda la mezcla.  
+Tamizamos la harina junto con el bicarbonato y la sal y lo añadimos a la crema anterior, mezclando bien con una cuchara o espátula. Echamos la vainilla y el chocolate y mezclamos hasta que éste se reparta bien por toda la mezcla.  
 
 ![](https://1.bp.blogspot.com/-vddeUNk7wOA/WOoUfpA9owI/AAAAAAAADhk/RNyxDAU_LL8cHFmIsZ0dqEjoqMCnrXpnACLcB/s320/02.JPG)
 
@@ -44,7 +44,7 @@ INGREDIENTES:
 
 ### 3
 
- Metemos la masa en el frigorífico durante un par de horas por lo menos. Si podemos hacer la masa un día y hornear al siguiente, mucho mejor, porque los sabores se intensifican. Calentamos el horno a 180º. Sacamos la masa  y con ayuda de una cuchara cogemos porciones con las que hacemos  bolas de unos 4 cm de diámetro que iremos disponiendo sobre una bandeja de horno con papel sulfurizado. Tenemos que dejar bastante separación entre ellas para evitar que se peguen.  
+Metemos la masa en el frigorífico durante un par de horas por lo menos. Si podemos hacer la masa un día y hornear al siguiente, mucho mejor, porque los sabores se intensifican. Calentamos el horno a 180º. Sacamos la masa  y con ayuda de una cuchara cogemos porciones con las que hacemos  bolas de unos 4 cm de diámetro que iremos disponiendo sobre una bandeja de horno con papel sulfurizado. Tenemos que dejar bastante separación entre ellas para evitar que se peguen.  
   
   
 
@@ -61,4 +61,5 @@ Horneamos durante 12 minutos aproximadamente, hasta que tengan un ligero color d
 ![](https://1.bp.blogspot.com/-AJbPy8FVhOo/WOoVt5wJOGI/AAAAAAAADh0/uZhf9YTDS10bne3cHF8pUG0PdTlYhkfQwCLcB/s320/04.JPG)  
 
 _Se conservan en una lata o tapadas con un plástico, teniendo en cuenta que en este caso tendrán una consistencia más blanda._  
+
 Teresa Hidalgo Gutiérrez

@@ -35,12 +35,12 @@ En primer lugar preparamos la vinagreta. Picamos finamente la cebolleta y los pi
 
 ### 2
 
- Desmigamos el bonito y picamos las aceitunas en trozos menudos. Añadimos mayonesa y mezclamos.  
+Desmigamos el bonito y picamos las aceitunas en trozos menudos. Añadimos mayonesa y mezclamos.  
   
 
 ### 3
 
- Rellenamos los pimientos ayudándonos de una cucharilla.  
+Rellenamos los pimientos ayudándonos de una cucharilla.  
   
 
 ![](https://2.bp.blogspot.com/-6pqND26pOQw/WduZyLr5FKI/AAAAAAAAD4g/T-vFfqgT5kk7GdNjKC3cef6yIvnFNcYmQCLcBGAs/s320/02.JPG)

@@ -16,6 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/11/brocheta-de-meji
 
   
 Aperitivo rápido y sencillo con pocos ingredientes para un capricho o una visita inesperada.  
+
 INGREDIENTES:
 * Mejillones en escabeche 
 * Huevo
@@ -28,7 +29,7 @@ INGREDIENTES:
 
 ### 1
 
- Escurrimos los mejillones. Los pasamos por pan rallado, el huevo batido y finalmente por pan rallado.  
+Escurrimos los mejillones. Los pasamos por pan rallado, el huevo batido y finalmente por pan rallado.  
 
 ![](https://2.bp.blogspot.com/-S3nfPWC7XwU/Wf3UwaeKYJI/AAAAAAAAD7A/JfRNuubPwnMEyPgJ_RjE9XdFCaDoy7XvwCLcBGAs/s320/02.JPG)
 
@@ -36,7 +37,7 @@ INGREDIENTES:
 
 ### 2
 
- Freímos en aceite caliente y ponemos sobre un papel absorbente.  
+Freímos en aceite caliente y ponemos sobre un papel absorbente.  
   
 
 ![](https://2.bp.blogspot.com/-jqeHVYEL-dA/Wf3U-C5wiUI/AAAAAAAAD7E/rqvIp1FJoz8cm8F3XOI_ie-luk_idF1TQCLcBGAs/s320/03.JPG)
@@ -45,7 +46,7 @@ INGREDIENTES:
 
 ### 3
 
- Montamos las brochetas con tres mejillones cada una.  
+Montamos las brochetas con tres mejillones cada una.  
   
 _Servimos acompañados de mayonesa, ali-oli o cualquier otra salsa que nos apetezca._
 

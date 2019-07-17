@@ -22,23 +22,23 @@ INGREDIENTES:
 * Aceite de oliva
 * 3 Frascos de vidrio con tapa, de tamaño mediano  
 
-1
+### 1
 
- Esterilizamos los frascos y sus tapas sumergiéndolos en un recipiente cubiertos de agua y manteniéndolos en ebullición durante 10 minutos. Podemos rodearlos con un trapo para que no se golpeen entre ellos. Los escurrimos hasta que queden totalmente secos.  
+Esterilizamos los frascos y sus tapas sumergiéndolos en un recipiente cubiertos de agua y manteniéndolos en ebullición durante 10 minutos. Podemos rodearlos con un trapo para que no se golpeen entre ellos. Los escurrimos hasta que queden totalmente secos.  
 
 ![](https://4.bp.blogspot.com/-XQwG2X4vtiE/WEQt4voFLiI/AAAAAAAADN8/w4Y9bhvozJw3a_d0EpQlZvHFAp8gaXAOwCLcB/s320/02.JPG)
 
-  
 
-2
 
- Colocamos los pimientos pringados de aceite en una bandeja de horno. Los asamos en el horno a temperatura alta (220 º C) hasta que veamos que el pimiento “cae” (se ablanda) y la piel está ligeramente quemada, durante 25 minutos aproximadamente. En este proceso vamos girando los pimientos dos o tres veces.  
+### 2
+
+Colocamos los pimientos pringados de aceite en una bandeja de horno. Los asamos en el horno a temperatura alta (220 º C) hasta que veamos que el pimiento “cae” (se ablanda) y la piel está ligeramente quemada, durante 25 minutos aproximadamente. En este proceso vamos girando los pimientos dos o tres veces.  
 
 ![](https://3.bp.blogspot.com/-7JzCwcHlIx0/WEQuiOEFAOI/AAAAAAAADOI/KjeUCszXXg8LUVpE8D94kAUYvEl60xZIgCLcB/s320/05.JPG)
 
   
 
-3
+### 3
 
  Una vez sacados los pimientos del horno los cubrimos con papel de aluminio y los dejamos reposar durante 10 minutos. A continuación, y sin dejar que se enfríen, (se pelan mejor en caliente), los pelamos con la mano y les quitamos las pepitas. Los cortamos en tiras con las manos y los escurrimos en un colador para que suelten todo su jugo.  
 
@@ -46,9 +46,9 @@ INGREDIENTES:
 
   
 
-4
+### 4
 
- Vamos introduciendo las tiras de pimiento en los frascos, sin apretarlos demasiado, y los cubrimos con aceite de oliva. Es importante que en la parte superior del frasco quede un espacio libre de, al menos, medio centímetro. Los cerramos bien con su tapa y los introducimos en un recipiente cubiertos de agua, manteniéndolos en ebullición suave durante 15 minutos (el tiempo dependerá del tamaño de los frascos). Sacamos los frascos, los dejamos escurrir y enfriar, y ya están listos para guardar.  
+Vamos introduciendo las tiras de pimiento en los frascos, sin apretarlos demasiado, y los cubrimos con aceite de oliva. Es importante que en la parte superior del frasco quede un espacio libre de, al menos, medio centímetro. Los cerramos bien con su tapa y los introducimos en un recipiente cubiertos de agua, manteniéndolos en ebullición suave durante 15 minutos (el tiempo dependerá del tamaño de los frascos). Sacamos los frascos, los dejamos escurrir y enfriar, y ya están listos para guardar.  
 
 ![](https://2.bp.blogspot.com/-dBW2hyu1qoc/WEQxSDHiAZI/AAAAAAAADOc/uUGjSuUane0j916I3x7R2QYp9lrObt6cACLcB/s320/24.JPG)  
 
@@ -56,8 +56,6 @@ _En el proceso de enfriado es cuando se produce el vacío y se aprecia por una l
 
 VÍDEO:
 
-  
-
-  
+<iframe class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/Gwd2u6VEdq0/0.jpg" src="https://www.youtube.com/embed/Gwd2u6VEdq0?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
 
 Bernardo I. García de la Torre

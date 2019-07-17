@@ -25,28 +25,29 @@ INGREDIENTES:
 * Comino
 * Nuez moscada  
 
-1
+### 1
 
- Troceamos la coliflor en ramilletes de tamaño mediano, reservando unas pequeñas puntas. La cocemos al vapor o en agua hasta que esté blanda durante 30 mn. aproximadamente (en olla a presión entre 8 y 10 mn.).  
+Troceamos la coliflor en ramilletes de tamaño mediano, reservando unas pequeñas puntas. La cocemos al vapor o en agua hasta que esté blanda durante 30 mn. aproximadamente (en olla a presión entre 8 y 10 mn.).  
 
 ![](https://1.bp.blogspot.com/-4LqYIAOJtSI/WCg_k1x1pKI/AAAAAAAADIA/WHi3hxtC-dIvH-zt9XH1DuIezIHaLwjgwCLcB/s320/01.JPG)
 
   
 
-2
+### 2
 
- La escurrimos y la introducimos en el vaso batidor. Añadimos sal, un poco de comino y de nuez moscada rallada y un chorrete de aceite. Trituramos bien añadiendo la leche hasta que quede la textura de una crema suave.  
+La escurrimos y la introducimos en el vaso batidor. Añadimos sal, un poco de comino y de nuez moscada rallada y un chorrete de aceite. Trituramos bien añadiendo la leche hasta que quede la textura de una crema suave.  
 
-3
+### 3
 
- En una sartén con aceite de oliva freímos los dientes de ajo picados y las puntas de la coliflor hasta que estén dorados.  
+En una sartén con aceite de oliva freímos los dientes de ajo picados y las puntas de la coliflor hasta que estén dorados.  
 
-4
+### 4
 
- Presentamos la crema en un bol o plato hondo añadiendo por encima el refrito y espolvoreando un poco de pimentón.  
+Presentamos la crema en un bol o plato hondo añadiendo por encima el refrito y espolvoreando un poco de pimentón.  
 
 ![](https://3.bp.blogspot.com/-j4pLArhouHg/WCg_91nEpJI/AAAAAAAADIE/QvyNNSV72UEwvSxvHL88iRV6sjlxHKKMACLcB/s320/02.JPG)
 
   
 _También se puede hacer la crema más ligera añadiendo más leche o un poco del agua de la cocción, sirviéndola en pequeños vasos o copas para ser bebida como aperitivo._  
+
 Bernardo I. García de la Torre

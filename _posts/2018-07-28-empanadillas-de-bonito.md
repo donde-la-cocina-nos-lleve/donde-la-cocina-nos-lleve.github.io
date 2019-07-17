@@ -88,5 +88,10 @@ Disponemos las empanadillas sobre una bandeja de horno y las pincelamos con huev
 ![](https://3.bp.blogspot.com/-4vRFlhcoFfs/W1yJ8PwW9eI/AAAAAAAAEUo/K7Qq6PEaLyMomdJFXfzeogcKGhyH2NvGgCLcBGAs/s320/11.JPG)
 
   
-_Este es un relleno básico para empanadillas, a partir de aquí todo lo que la imaginación o nuestras preferencias nos dicten.__La cantidad de harina es orientativa, nos debe quedar una masa blanda pero que no se pegue a las manos. Los recortes de la masa podemos seguir utilizándolos, pero es conveniente hacer una bola con ellos y dejarla reposar una media hora hasta volver a utilizar. También se puede facilitar mucho la tarea utilizando las típicas obleas para empanadillas del súper.__La proporción de agua y vino podemos variarla a nuestro gusto, es cuestión de ir probando. También podemos sustituir parte del agua por leche. Lo que debemos tener en cuenta es que debe ser el mismo peso de líquidos que de aceite._  
+_Este es un relleno básico para empanadillas, a partir de aquí todo lo que la imaginación o nuestras preferencias nos dicten._
+
+_La cantidad de harina es orientativa, nos debe quedar una masa blanda pero que no se pegue a las manos. Los recortes de la masa podemos seguir utilizándolos, pero es conveniente hacer una bola con ellos y dejarla reposar una media hora hasta volver a utilizar. También se puede facilitar mucho la tarea utilizando las típicas obleas para empanadillas del súper._
+
+_La proporción de agua y vino podemos variarla a nuestro gusto, es cuestión de ir probando. También podemos sustituir parte del agua por leche. Lo que debemos tener en cuenta es que debe ser el mismo peso de líquidos que de aceite._  
+
 Teresa Hidalgo Gutiérrez

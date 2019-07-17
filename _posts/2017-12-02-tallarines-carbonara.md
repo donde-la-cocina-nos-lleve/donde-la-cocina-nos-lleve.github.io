@@ -33,15 +33,15 @@ Por cada persona
 
 ### 1
 
- En una olla grande cocemos la pasta en abundante agua con sal, siguiendo las instrucciones del fabricante.  
+En una olla grande cocemos la pasta en abundante agua con sal, siguiendo las instrucciones del fabricante.  
 
 ### 2
 
- Mientras tanto batimos los huevos y las yemas junto con el queso rallado y una buena cantidad de pimienta negra, a ser posible recién molida.  
+Mientras tanto batimos los huevos y las yemas junto con el queso rallado y una buena cantidad de pimienta negra, a ser posible recién molida.  
 
 ### 3
 
- En una sartén con aceite de oliva freímos la panceta hasta que esté crujiente.  
+En una sartén con aceite de oliva freímos la panceta hasta que esté crujiente.  
   
 
 ![](https://1.bp.blogspot.com/-OLFDgk0IH_w/WiLDVuoZY8I/AAAAAAAAEAE/DbHijgsyoDQgdfrcopwp1mo3pBLuUO2jwCLcBGAs/s320/02.JPG)

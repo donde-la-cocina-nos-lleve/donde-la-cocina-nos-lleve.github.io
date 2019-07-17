@@ -24,23 +24,23 @@ INGREDIENTES:
 * 65 gr de azúcar
 * 10 gr de sal  
 
-1
+### 1
 
- En un bol grande echamos la leche, el azúcar y la mantequilla a temperatura ambiente. Mezclamos estos ingredientes con varillas durante unos minutos.    
+En un bol grande echamos la leche, el azúcar y la mantequilla a temperatura ambiente. Mezclamos estos ingredientes con varillas durante unos minutos.    
 
-2
+### 2
 
- Añadimos la levadura desmigada y los huevos y seguimos batiendo. Incorporamos la mitad de la harina y mezclamos.  
+Añadimos la levadura desmigada y los huevos y seguimos batiendo. Incorporamos la mitad de la harina y mezclamos.  
 
-3
+### 3
 
- Ahora empezamos a mezclar con las manos. Añadimos la sal y el resto de la harina y echamos sobre la encimera, donde comenzamos a amasar. En unos 10-15 minutos la masa se volverá elástica. Introducimos en un bol y dejamos reposar tapada durante una hora.    
+Ahora empezamos a mezclar con las manos. Añadimos la sal y el resto de la harina y echamos sobre la encimera, donde comenzamos a amasar. En unos 10-15 minutos la masa se volverá elástica. Introducimos en un bol y dejamos reposar tapada durante una hora.    
 
-4
+### 4
 
 Sacamos del bol y hacemos un cilindro con la masa, de la que iremos cogiendo porciones de unos 35-40 gr, con las que formaremos bolas que iremos colocando en una bandeja de horno con papel. Dejamos algo de separación entre ellas. Cubrimos con un paño y dejamos reposar durante una hora en un lugar templado.  
 
-5
+### 5
 
 Precalentamos el horno a 250º. Mientras tanto batimos un huevo y pincelamos los bollos con él. Introducimos la bandeja en el horno, bajando la temperatura a 220º. Horneamos unos 5 minutos. Pasado ese tiempo abrimos el horno y con cuidado les damos la vuelta y dejamos hacer un minuto más.  
 Ponemos a enfriar sobre una rejilla.  
@@ -54,4 +54,5 @@ Seguramente tendremos que hacer un par de tandas. En ese caso, al sacar la prime
 
   
 _Con estas medidas salen unas 30 piezas. En caso de no consumirse todas se pueden congelar una vez frías metidas en una bolsa o en plástico transparente. Cuando se vayan a utilizar basta con dejar descongelar._  
+
 Teresa Hidalgo Gutiérrez

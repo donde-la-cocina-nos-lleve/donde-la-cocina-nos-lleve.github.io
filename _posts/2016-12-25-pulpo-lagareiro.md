@@ -31,30 +31,30 @@ INGREDIENTES:
 
 
 
-1
+### 1
 
- En una fuente o cazuela de horno colocamos una cantidad generosa de aceite, la cebolla cortada en juliana, el tomate cortado en rodajas, los ajos en camisa (sin pelar) y el laurel.  
+En una fuente o cazuela de horno colocamos una cantidad generosa de aceite, la cebolla cortada en juliana, el tomate cortado en rodajas, los ajos en camisa (sin pelar) y el laurel.  
 
 ![](https://3.bp.blogspot.com/-DX1jvOGI9x0/WF_mJC9pSTI/AAAAAAAADQc/k85Y5yHeuhge5BX7MtEHfyyW_3R2fWM8wCLcB/s320/03.JPG)
 
-  
+ 
 
-2
+### 2
 
- Pelamos las patatas y las añadimos enteras o partidas por la mitad si son muy grandes. Colocamos el pulpo encima y echamos un chorrete más de aceite. Condimentamos con sal, pimienta, romero y tomillo, y lo tapamos con papel de aluminio o con su propia tapa en el caso de utilizar cazuela.  
+Pelamos las patatas y las añadimos enteras o partidas por la mitad si son muy grandes. Colocamos el pulpo encima y echamos un chorrete más de aceite. Condimentamos con sal, pimienta, romero y tomillo, y lo tapamos con papel de aluminio o con su propia tapa en el caso de utilizar cazuela.  
 
-3
+### 3
 
- Introducimos la fuente o cazuela en el horno precalentado a 200 º C durante hora y media. Pinchamos el pulpo con un palillo de madera para comprobar que está tierno.  
+Introducimos la fuente o cazuela en el horno precalentado a 200 º C durante hora y media. Pinchamos el pulpo con un palillo de madera para comprobar que está tierno.  
 
 ![](https://3.bp.blogspot.com/-YzizbCKCpIk/WF_mbRzpL8I/AAAAAAAADQg/KfPTq_bw5IoWEmLiRgJKnHK3oBmwF_bOwCLcB/s320/04.JPG)
 
   
   
 
-4
+### 4
 
- Dejamos reposar fuera del horno durante 20 minutos y servimos.  
+Dejamos reposar fuera del horno durante 20 minutos y servimos.  
   
 
 ![](https://3.bp.blogspot.com/-oi4Vdt4w2PE/WF_mns00VxI/AAAAAAAADQk/A1dBYmFI7SAzOObPiI_CVO75wB22sIMrwCLcB/s320/01.JPG)

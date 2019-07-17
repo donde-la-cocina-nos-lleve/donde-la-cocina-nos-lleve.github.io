@@ -57,4 +57,5 @@ Dejamos hacer por espacio de unos 30-40 minutos, dependiendo de las patatas, has
 
   
 _Podemos utilizar pulpa de pimientos choriceros que se vende ya en tarros._  
+
 Teresa Hidalgo Gutiérrez

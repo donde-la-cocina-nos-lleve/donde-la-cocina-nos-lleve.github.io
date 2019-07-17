@@ -23,25 +23,25 @@ INGREDIENTES:
 * 1 cucharada de azúcar
 * Sal en escamas  
 
-1
+### 1
 
- En primer lugar pelamos las cebollitas y las introducimos en una cazuela lo suficientemente amplia para ponerlas en una capa. Echamos agua sin cubrir del todo, añadimos la mantequilla, el azúcar y un poco de sal. Tapamos y dejamos hacer a fuego medio.    
+En primer lugar pelamos las cebollitas y las introducimos en una cazuela lo suficientemente amplia para ponerlas en una capa. Echamos agua sin cubrir del todo, añadimos la mantequilla, el azúcar y un poco de sal. Tapamos y dejamos hacer a fuego medio.    
 
-2
+### 2
 
- Mientras se hacen las cebollitas vamos a ir preparando las zanahorias que también glasearemos, pero como tardan menos en hacerse las añadimos después. Las pelamos,  partimos en trozos de unos 6 cm y torneamos. Cuando estén listas las añadimos a la cazuela junto a las cebollitas.  
+Mientras se hacen las cebollitas vamos a ir preparando las zanahorias que también glasearemos, pero como tardan menos en hacerse las añadimos después. Las pelamos,  partimos en trozos de unos 6 cm y torneamos. Cuando estén listas las añadimos a la cazuela junto a las cebollitas.  
 
-3
+### 3
 
- De vez en cuando damos la vuelta a las hortalizas para que se caramelicen bien por todos los lados. Una vez se haya evaporado casi todo el líquido estarán listas, aunque lo comprobaremos introduciendo la punta de un cuchillo, que debe entrar sin problema.  
+De vez en cuando damos la vuelta a las hortalizas para que se caramelicen bien por todos los lados. Una vez se haya evaporado casi todo el líquido estarán listas, aunque lo comprobaremos introduciendo la punta de un cuchillo, que debe entrar sin problema.  
 
 ![](https://3.bp.blogspot.com/-57uPbuGCiOk/WFa8zP_vd3I/AAAAAAAADPk/gPzRKwlWb7kXBBFCFwkjMAne0yoJ28l0wCLcB/s320/02.JPG)
 
-  
+ 
 
-4
+### 4
 
- Por último, partimos el secreto en tiras y lo hacemos a la plancha a fuego fuerte, dando vueltas para que se haga bien por todos los lados. Sacamos y echamos sal en escamas.  
+Por último, partimos el secreto en tiras y lo hacemos a la plancha a fuego fuerte, dando vueltas para que se haga bien por todos los lados. Sacamos y echamos sal en escamas.  
 Servimos el secreto acompañado con las verduras y el líquido que haya quedado del glaseado.  
   
 Teresa Hidalgo Gutiérrez

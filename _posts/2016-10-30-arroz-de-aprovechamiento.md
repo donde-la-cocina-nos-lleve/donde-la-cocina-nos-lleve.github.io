@@ -26,15 +26,15 @@ INGREDIENTES
 * ¼ de cebolla
 * Sal  
 
-1
+### 1
 
- En nuestro caso, aprovechando una paleta de conejo que teníamos asada, la deshuesamos y partimos en trozos. Con los huesos y alguna verdura, hacemos un caldo. Dejamos hacer mientras vamos preparando el resto de ingredientes.  
+En nuestro caso, aprovechando una paleta de conejo que teníamos asada, la deshuesamos y partimos en trozos. Con los huesos y alguna verdura, hacemos un caldo. Dejamos hacer mientras vamos preparando el resto de ingredientes.  
 
-2
+### 2
 
- Picamos el ajo y la cebolla y ponemos a rehogar con un poco de sal en una tartera, cazuela baja o paella. Cuando la cebolla comience a transparentar, vamos añadiendo el resto de las verduras previamente picadas. Primero las más duras, hasta acabar con todas. Nosotros comenzamos con las vainas y la zanahoria y por último el calabacín.  
+Picamos el ajo y la cebolla y ponemos a rehogar con un poco de sal en una tartera, cazuela baja o paella. Cuando la cebolla comience a transparentar, vamos añadiendo el resto de las verduras previamente picadas. Primero las más duras, hasta acabar con todas. Nosotros comenzamos con las vainas y la zanahoria y por último el calabacín.  
 
-3
+### 3
 
 Echamos el arroz y movemos unos instantes. Por último añadimos la carne que tenemos reservada y el caldo colado y caliente, doble cantidad que de arroz. Probamos de sal y dejamos hacer, inicialmente tenemos unos 7 minutos a fuego fuerte y después bajamos la intensidad, teniendo unos 11-13 minutos más. Tapamos con un paño limpio de algodón y dejamos reposar unos 5 minutos.  
 

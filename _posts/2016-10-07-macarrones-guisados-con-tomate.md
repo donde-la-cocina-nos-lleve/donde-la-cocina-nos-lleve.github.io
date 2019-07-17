@@ -26,16 +26,20 @@ INGREDIENTES:
 * Orégano  
   
 
-1
+### 1
 
- Cubrimos de aceite el fondo de la cazuela donde vayamos a cocinar la pasta y rehogamos la cebolla y el ajo picados muy menudos. Una vez la cebolla esté transparente, añadimos el chorizo en trocitos. Pasados dos minutos echamos el tomate, un vaso de agua y sal al gusto.  
+Cubrimos de aceite el fondo de la cazuela donde vayamos a cocinar la pasta y rehogamos la cebolla y el ajo picados muy menudos. Una vez la cebolla esté transparente, añadimos el chorizo en trocitos. Pasados dos minutos echamos el tomate, un vaso de agua y sal al gusto.  
 
-2
+### 2
 
- Cuando el conjunto comience a hervir, añadimos los macarrones y dejamos cocer el tiempo indicado en el envase, moviendo de vez en cuando para que no se nos pegue al fondo.  
+Cuando el conjunto comience a hervir, añadimos los macarrones y dejamos cocer el tiempo indicado en el envase, moviendo de vez en cuando para que no se nos pegue al fondo.  
 
-3
+### 3
 
- Una vez cocida la pasta, la servimos inmediatamente y que cada comensal añada queso rallado, pimienta y orégano a su gusto.  
-_Con esta forma de cocinar la pasta conseguimos que se impregne bien del sabor del tomate y chorizo, a la vez que ahorramos en tiempo ya que no necesitamos hacer previamente la salsa de tomate. Además no desperdiciamos agua, ya que se cuecen prácticamente con sólo el tomate.__Si los hacemos en olla rápida, la cerramos tras echar los macarrones y darles un par de vueltas. En este caso, con dos o tres minutos de cocción tras alcanzar la presión necesaria, será suficiente._  
+Una vez cocida la pasta, la servimos inmediatamente y que cada comensal añada queso rallado, pimienta y orégano a su gusto.  
+
+_Con esta forma de cocinar la pasta conseguimos que se impregne bien del sabor del tomate y chorizo, a la vez que ahorramos en tiempo ya que no necesitamos hacer previamente la salsa de tomate. Además no desperdiciamos agua, ya que se cuecen prácticamente con sólo el tomate._
+
+_Si los hacemos en olla rápida, la cerramos tras echar los macarrones y darles un par de vueltas. En este caso, con dos o tres minutos de cocción tras alcanzar la presión necesaria, será suficiente._  
+
 Teresa Hidalgo Gutiérrez

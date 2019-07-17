@@ -38,11 +38,11 @@ INGREDIENTES:
 
 ### 1
 
- Picamos la cebolla y el ajo en trozos pequeños y ponemos a pochar en una cazuela con aceite de oliva. Cuando la cebolla esté transparente añadimos la carne salpimentada. Una vez dorada incorporamos el cilantro picado, las pasas, el comino, el ras-el-hanout y la zanahoria pelada y partida en trozos grandes. Añadimos ¾ partes del caldo a la cazuela  y tapamos, dejando hacer entre 30 y 40 minutos, dependiendo de si el cordero es lechal o de pasto.  
+Picamos la cebolla y el ajo en trozos pequeños y ponemos a pochar en una cazuela con aceite de oliva. Cuando la cebolla esté transparente añadimos la carne salpimentada. Una vez dorada incorporamos el cilantro picado, las pasas, el comino, el ras-el-hanout y la zanahoria pelada y partida en trozos grandes. Añadimos ¾ partes del caldo a la cazuela  y tapamos, dejando hacer entre 30 y 40 minutos, dependiendo de si el cordero es lechal o de pasto.  
 
 ### 2
 
- Mientras tanto vamos preparando el resto de verduras. Pelamos la calabaza y la cortamos en trozos y el calabacín lo lavamos y troceamos, sin pelar. Una vez pasado el tiempo mencionado incorporamos a la cazuela las verduras y los garbanzos escurridos. Volvemos a tapar y dejamos hacer durante 20 minutos más.  
+Mientras tanto vamos preparando el resto de verduras. Pelamos la calabaza y la cortamos en trozos y el calabacín lo lavamos y troceamos, sin pelar. Una vez pasado el tiempo mencionado incorporamos a la cazuela las verduras y los garbanzos escurridos. Volvemos a tapar y dejamos hacer durante 20 minutos más.  
 
 ![](https://2.bp.blogspot.com/-U1Q9-XkiQ6Q/WOEMZEFhILI/AAAAAAAADgc/zTjIvBDwtxwmIgEmhBHHgWaeSmIe6bx9gCLcB/s320/05.JPG)
 
@@ -50,11 +50,11 @@ INGREDIENTES:
 
 ### 3
 
- Ponemos a calentar el resto del caldo. Cuando empiece a hervir retiramos y echamos el cous-cous, dejando hidratar unos 7 minutos. En una sartén echamos un poco de aceite y rehogamos levemente la hierbabuena picada. Separamos un poco el cous-cous con los dedos o con un tenedor y lo añadimos a la sartén. Damos unas vueltas y retiramos.  
+Ponemos a calentar el resto del caldo. Cuando empiece a hervir retiramos y echamos el cous-cous, dejando hidratar unos 7 minutos. En una sartén echamos un poco de aceite y rehogamos levemente la hierbabuena picada. Separamos un poco el cous-cous con los dedos o con un tenedor y lo añadimos a la sartén. Damos unas vueltas y retiramos.  
 
 ### 4
 
- Presentamos en una fuente poniendo el cous-cous en primer lugar, en el centro el cordero con los garbanzos y las verduras alrededor. Adornamos con una rama de cilantro. Servimos la salsa en salsera aparte.  
+Presentamos en una fuente poniendo el cous-cous en primer lugar, en el centro el cordero con los garbanzos y las verduras alrededor. Adornamos con una rama de cilantro. Servimos la salsa en salsera aparte.  
 
 ![](https://2.bp.blogspot.com/-r2pss7FMbm4/WOEMfFWcmUI/AAAAAAAADgg/a2OvS7jq0nYk3AMImmC9h_rx6ZZvcHzwwCLcB/s320/11.JPG)
 

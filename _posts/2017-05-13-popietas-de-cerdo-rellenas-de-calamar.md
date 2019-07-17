@@ -32,11 +32,11 @@ INGREDIENTES:
 ### 1
 
   
- Picamos finamente media cebolla, 1 zanahoria y un diente de ajo. Ponemos a rehogar en un poco de aceite y salamos. Dejamos que se haga lentamente mientras picamos también muy finos los calamares y los recortes de la carne si los hubiera.  
+Picamos finamente media cebolla, 1 zanahoria y un diente de ajo. Ponemos a rehogar en un poco de aceite y salamos. Dejamos que se haga lentamente mientras picamos también muy finos los calamares y los recortes de la carne si los hubiera.  
 
 ### 2
 
- Añadimos a la sartén el calamar y la carne. Subimos el fuego y echamos la mitad del vino. Dejamos hacer hasta que se evapore todo el líquido. Dejamos enfriar.  
+Añadimos a la sartén el calamar y la carne. Subimos el fuego y echamos la mitad del vino. Dejamos hacer hasta que se evapore todo el líquido. Dejamos enfriar.  
 
 ![](https://3.bp.blogspot.com/-7IssXHvMI2o/WRcwDDoEEKI/AAAAAAAADmE/NjvNiZ1GaJg33IPPT_ebLDIRaCAqxMs5wCLcB/s320/02.JPG)
 
@@ -44,7 +44,7 @@ INGREDIENTES:
 
 ### 3
 
- Picamos el resto de la cebolla, la otra zanahoria y el diente de ajo, esta vez no es necesario que sea en trozos pequeños, ya que posteriormente pasaremos la salsa. Introducimos en una cazuela con un poco de aceite y una hoja de laurel y ponemos a pochar. Cuando empiece a estar la cebolla transparente añadimos el tomate pelado y troceado y tenemos hasta que se evapore el líquido. Echamos media cucharada de harina y rehogamos unos minutos. Añadimos el pimentón y damos unas vueltas, echando después el vino hasta su evaporación. Añadimos caldo o agua, tapamos y dejamos cociendo a fuego medio.  
+Picamos el resto de la cebolla, la otra zanahoria y el diente de ajo, esta vez no es necesario que sea en trozos pequeños, ya que posteriormente pasaremos la salsa. Introducimos en una cazuela con un poco de aceite y una hoja de laurel y ponemos a pochar. Cuando empiece a estar la cebolla transparente añadimos el tomate pelado y troceado y tenemos hasta que se evapore el líquido. Echamos media cucharada de harina y rehogamos unos minutos. Añadimos el pimentón y damos unas vueltas, echando después el vino hasta su evaporación. Añadimos caldo o agua, tapamos y dejamos cociendo a fuego medio.  
 
 ### 4
 

@@ -44,4 +44,7 @@ Dejamos reposar tapada en el bol engrasado con un poco de aceite en un lugar cá
 ### 5
 
 Desgasificamos la masa apretando con los dedos y la dividimos en 2 o 3 partes, según el tamaño de las pizzas que queramos hacer. Ponemos una de las bolas de masa en la encimera y la alisamos con el rodillo. También podemos estirarla con las manos hasta cubrir el molde. Dejamos reposar unos 10-15 minutos y ya la tenemos lista para hornear, lo que deberemos hacer a la temperatura máxima que nos permita el horno.  
-_Multitud de ingredientes pueden formar parte del relleno de una pizza, pero lo que no debe faltar es una buena salsa de tomate o passata y algún queso fundente._Teresa Hidalgo Gutiérrez
+
+_Multitud de ingredientes pueden formar parte del relleno de una pizza, pero lo que no debe faltar es una buena salsa de tomate o passata y algún queso fundente._
+
+Teresa Hidalgo Gutiérrez

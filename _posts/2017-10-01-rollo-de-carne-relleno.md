@@ -37,7 +37,7 @@ INGREDIENTES:
 
 ### 1
 
- En un bol grande echamos la carne, el huevo, pan rallado, leche, los ajos picados, perejil, nuez moscada rallada, sal y pimienta. Amalgamamos bien todos estos ingredientes.  
+En un bol grande echamos la carne, el huevo, pan rallado, leche, los ajos picados, perejil, nuez moscada rallada, sal y pimienta. Amalgamamos bien todos estos ingredientes.  
 
 ![](https://4.bp.blogspot.com/-3V_Z1OSzazQ/WdErPwvOSYI/AAAAAAAAD3Y/NCmAp1DG-E4Uu3C4JSySsxnAww1h5I3oACLcBGAs/s320/02.JPG)
 
@@ -45,7 +45,7 @@ INGREDIENTES:
 
 ### 2
 
- Cubrimos una bandeja de horno con film de cocina y extendemos la mezcla anterior. Sobre la carne colocamos el relleno que hayamos elegido. En este caso hemos hecho dos rollos, uno lo hemos rellenado de tomate seco en aceite y el otro de espinacas y queso rallado.  
+Cubrimos una bandeja de horno con film de cocina y extendemos la mezcla anterior. Sobre la carne colocamos el relleno que hayamos elegido. En este caso hemos hecho dos rollos, uno lo hemos rellenado de tomate seco en aceite y el otro de espinacas y queso rallado.  
 
 ![](https://2.bp.blogspot.com/-d4Ddet8I1lI/WdErejuHoNI/AAAAAAAAD3c/mePvzqxIUYE-AL1SuNKKIGx43K3Xou2KwCLcBGAs/s320/03.JPG)
 
@@ -57,15 +57,15 @@ INGREDIENTES:
 
 ### 3
 
- Ayudándonos del film vamos enrollando la carne con el relleno, sellando bien los bordes. Cubrimos los rollos con lonchas de bacón ligeramente montadas una sobre otra.  
+Ayudándonos del film vamos enrollando la carne con el relleno, sellando bien los bordes. Cubrimos los rollos con lonchas de bacón ligeramente montadas una sobre otra.  
 
 ### 4
 
- Untamos la bandeja de horno con un poco de aceite y ponemos los rollos sobre ella. Metemos al horno, que tendremos a 200º. Horneamos durante 20 minutos a esta temperatura y después bajamos a 170º, teniendo otros 20 minutos aproximadamente.  
+Untamos la bandeja de horno con un poco de aceite y ponemos los rollos sobre ella. Metemos al horno, que tendremos a 200º. Horneamos durante 20 minutos a esta temperatura y después bajamos a 170º, teniendo otros 20 minutos aproximadamente.  
 
 ### 5
 
- Mientras se asan, podemos ir preparando algún acompañamiento. En esta ocasión hemos hecho una salsa con cebolla, zanahoria, pimienta rosa y un poco de salsa Perrins y brandy, pero igualmente se puede acompañar de salsa de mostaza, de nata con champiñones, salsa española, puré de patatas…  
+Mientras se asan, podemos ir preparando algún acompañamiento. En esta ocasión hemos hecho una salsa con cebolla, zanahoria, pimienta rosa y un poco de salsa Perrins y brandy, pero igualmente se puede acompañar de salsa de mostaza, de nata con champiñones, salsa española, puré de patatas…  
 
 ![](https://3.bp.blogspot.com/-_uc1OnYbWrs/WdEr6Pqb5OI/AAAAAAAAD3k/uQsJwtrJMsMV3MuDfCNeqZtYTpWDuFXGwCLcBGAs/s320/05.JPG)
 

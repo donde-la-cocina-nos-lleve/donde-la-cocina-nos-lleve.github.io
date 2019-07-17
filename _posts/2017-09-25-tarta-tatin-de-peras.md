@@ -29,21 +29,21 @@ INGREDIENTES:
 
 ### 1 
 
- En un recipiente que podamos llevar posteriormente al horno (en esta ocasión hemos utilizado una sartén de hierro) ponemos a derretir la mantequilla. Añadimos el azúcar y esperamos a que se derrita.  
+En un recipiente que podamos llevar posteriormente al horno (en esta ocasión hemos utilizado una sartén de hierro) ponemos a derretir la mantequilla. Añadimos el azúcar y esperamos a que se derrita.  
 
 ### 2
 
- Pelamos y cortamos las peras en rodajas gruesas. Las disponemos con cuidado sobre la mezcla anterior cubriendo bien todo el fondo y dejamos que se vaya caramelizando.  
+Pelamos y cortamos las peras en rodajas gruesas. Las disponemos con cuidado sobre la mezcla anterior cubriendo bien todo el fondo y dejamos que se vaya caramelizando.  
 
 ![](https://4.bp.blogspot.com/-HcU5eo6LPVM/WclOkXWA0zI/AAAAAAAAD10/fdGUpUJ4u4UMvVpZ6ALd5Gwnt64u2bjtgCLcBGAs/s320/02.JPG)
 
 ### 3
 
- Vamos moviendo de vez en cuando el recipiente, teniendo cuidado de que el caramelo no se queme y sobre todo de no quemarnos nosotros. Cuando las peras comiencen a ponerse doradas retiramos del fuego. Este proceso puede durar unos veinte minutos. Dejamos templar un poco.  
+Vamos moviendo de vez en cuando el recipiente, teniendo cuidado de que el caramelo no se queme y sobre todo de no quemarnos nosotros. Cuando las peras comiencen a ponerse doradas retiramos del fuego. Este proceso puede durar unos veinte minutos. Dejamos templar un poco.  
 
 ### 4
 
- Cubrimos el molde con la masa quebrada, recortando el sobrante, pero dejando un centímetro más o menos, que iremos remetiendo hacia los bordes del molde, ayudándonos con una cuchara.  
+Cubrimos el molde con la masa quebrada, recortando el sobrante, pero dejando un centímetro más o menos, que iremos remetiendo hacia los bordes del molde, ayudándonos con una cuchara.  
 
 ![](https://3.bp.blogspot.com/-gsNDGNaTsng/WclO0HuKiJI/AAAAAAAAD14/YGC78mCYZ1UuylIbv-mYLpCSmj7obE9eQCLcBGAs/s320/03.JPG)
 

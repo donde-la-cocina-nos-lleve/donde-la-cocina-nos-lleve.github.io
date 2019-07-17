@@ -32,15 +32,15 @@ INGREDIENTES:
 
 ### 1
 
- Cortamos la cebolla en juliana y la ponemos a pochar en una sartén con aceite y un poco de sal. Cuando esté transparente la colocamos en la bandeja del horno y reservamos.  
+Cortamos la cebolla en juliana y la ponemos a pochar en una sartén con aceite y un poco de sal. Cuando esté transparente la colocamos en la bandeja del horno y reservamos.  
 
 ### 2
 
- En el mismo aceite freímos ligeramente las patatas cortadas en rodajas de medio centímetro. Las salamos y colocamos también en la bandeja del horno, disponiendo una cama sobre la que colocaremos el rodaballo.  
+En el mismo aceite freímos ligeramente las patatas cortadas en rodajas de medio centímetro. Las salamos y colocamos también en la bandeja del horno, disponiendo una cama sobre la que colocaremos el rodaballo.  
 
 ### 3
 
- Hacemos un majado con los ajos y el perejil y finalmente añadimos al mortero el txakoli. Lavamos el rodaballo, hacemos unas incisiones sin llegar al hueso, lo salpimentamos y colocamos en la bandeja del horno. Echamos sobre él el contenido del mortero y un buen chorro de aceite.  
+Hacemos un majado con los ajos y el perejil y finalmente añadimos al mortero el txakoli. Lavamos el rodaballo, hacemos unas incisiones sin llegar al hueso, lo salpimentamos y colocamos en la bandeja del horno. Echamos sobre él el contenido del mortero y un buen chorro de aceite.  
 
 ![](https://1.bp.blogspot.com/-4_am28dFrOA/WUepguwqdKI/AAAAAAAADtg/IE9v-z4JdvcoU2JOdZ1ndwoL2PI6rpFRACLcBGAs/s320/03.JPG)
 

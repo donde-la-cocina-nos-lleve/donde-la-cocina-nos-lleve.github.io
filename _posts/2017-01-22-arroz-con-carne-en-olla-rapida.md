@@ -27,21 +27,21 @@ INGREDIENTES:
 * Sal
 * Aceite de oliva virgen  
 
-1
+### 1
 
 Ponemos a calentar el aceite en la olla. Echamos la cebolla, el ajo y la zanahoria bien picados y los pochamos, añadiendo un poco de sal.  
 
-2
+### 2
 
- Troceamos las salchichas y el lomo y cortamos el chorizo en rodajas. Añadimos las carnes a la olla y rehogamos. Por último incorporamos el arroz y damos unas vueltas.  
+Troceamos las salchichas y el lomo y cortamos el chorizo en rodajas. Añadimos las carnes a la olla y rehogamos. Por último incorporamos el arroz y damos unas vueltas.  
 
 ![](https://4.bp.blogspot.com/-swmIw2o_9U8/WISBfMLhwfI/AAAAAAAADUc/UVYL2xYhBnExdIrQKhbwmHQbb47yuatwACLcB/s320/02.JPG)
 
   
 
-3
+### 3
 
- Echamos el agua o caldo caliente, removemos un poco y rectificamos de sal. Cerramos la olla. Cuando alcance la presión máxima bajamos el fuego a media potencia y dejamos hacer 5 minutos. Esperamos a que baje la válvula  y abrimos la tapa, dejando entreabierta unos minutos para que repose el arroz y termine de hacerse.  
+Echamos el agua o caldo caliente, removemos un poco y rectificamos de sal. Cerramos la olla. Cuando alcance la presión máxima bajamos el fuego a media potencia y dejamos hacer 5 minutos. Esperamos a que baje la válvula  y abrimos la tapa, dejando entreabierta unos minutos para que repose el arroz y termine de hacerse.  
 
 ![](https://4.bp.blogspot.com/-ecsm6CA5ATg/WISBxf7XxvI/AAAAAAAADUg/Cfx0XZXhVlIOUYCMxGCNzqacTrrl56L6gCLcB/s320/03.JPG)
 

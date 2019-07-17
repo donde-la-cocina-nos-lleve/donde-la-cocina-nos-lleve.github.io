@@ -26,7 +26,7 @@ INGREDIENTES:
 
 ### 1
 
- Mezclamos aceite de oliva con el zumo de limón y las hierbas. Untamos las chuletas con la salsa resultante y las colocamos sobre una bandeja. Tapamos con papel film y las llevamos a la nevera, dejándolas reposar un mínimo de media hora.  
+Mezclamos aceite de oliva con el zumo de limón y las hierbas. Untamos las chuletas con la salsa resultante y las colocamos sobre una bandeja. Tapamos con papel film y las llevamos a la nevera, dejándolas reposar un mínimo de media hora.  
 
 ![](https://2.bp.blogspot.com/-xpUgcJpuO8c/WaBdDly9ONI/AAAAAAAAD0I/Llry56OEbeIlVEQy13fd1byCjG_812CYQCLcBGAs/s320/01.JPG)
 
@@ -34,11 +34,11 @@ INGREDIENTES:
 
 ### 2
 
- Mezclamos el pan rallado con el queso en caso de que decidamos utilizarlo. Batimos el huevo. Salpimentamos las chuletas y las pasamos por el huevo, cubriendo después con el pan rallado. Apretamos bien con las manos para que no se suelte la cobertura. Las dejamos reposar unos minutos para que se asiente el rebozado.  
+Mezclamos el pan rallado con el queso en caso de que decidamos utilizarlo. Batimos el huevo. Salpimentamos las chuletas y las pasamos por el huevo, cubriendo después con el pan rallado. Apretamos bien con las manos para que no se suelte la cobertura. Las dejamos reposar unos minutos para que se asiente el rebozado.  
 
 ### 3
 
- Cubrimos el fondo de una sartén con aceite de oliva, menos cantidad que para una fritura, tan sólo cubrir el fondo ligeramente. Llevamos al fuego y cuando esté bien caliente introducimos las chuletas sin amontonar y bajamos la intensidad del fuego a la mitad. Dejamos hacer hasta que se doren.  
+Cubrimos el fondo de una sartén con aceite de oliva, menos cantidad que para una fritura, tan sólo cubrir el fondo ligeramente. Llevamos al fuego y cuando esté bien caliente introducimos las chuletas sin amontonar y bajamos la intensidad del fuego a la mitad. Dejamos hacer hasta que se doren.  
 
 ![](https://3.bp.blogspot.com/-NHenL5f4KWk/WaBdfvE3eXI/AAAAAAAAD0M/ifdLG2NejpgNGScl9CSvu2LYpLBVB69UwCLcBGAs/s320/02.JPG)
 

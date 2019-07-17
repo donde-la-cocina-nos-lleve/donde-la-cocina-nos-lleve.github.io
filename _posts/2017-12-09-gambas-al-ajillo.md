@@ -27,7 +27,7 @@ INGREDIENTES:
 
 ### 1
 
- Cubrimos de aceite el fondo de una cazuela, de barro si es posible, y echamos la guindilla y los ajos cortados en láminas, haciendo hasta que estén dorados, teniendo cuidado de que no se quemen.  
+Cubrimos de aceite el fondo de una cazuela, de barro si es posible, y echamos la guindilla y los ajos cortados en láminas, haciendo hasta que estén dorados, teniendo cuidado de que no se quemen.  
 
 ![](https://1.bp.blogspot.com/-V7lCFe6Qktg/WiwTqCchO7I/AAAAAAAAEA0/kkuqp2ia8HkMNhLtYgaOUfKsimZdeQ2hwCLcBGAs/s320/02.JPG)
 
@@ -35,7 +35,7 @@ INGREDIENTES:
 
 ### 2
 
- Echamos las gambas peladas y bien secas. Salamos ligeramente y dejamos hacer uno o dos minutos.  
+Echamos las gambas peladas y bien secas. Salamos ligeramente y dejamos hacer uno o dos minutos.  
 
 ![](https://4.bp.blogspot.com/-SQ6SHXka1zk/WiwUpBt8VhI/AAAAAAAAEBA/eWyftJ6qGxgN0IAjckWwAPFCuhyU8sESQCLcBGAs/s320/03.JPG)
 

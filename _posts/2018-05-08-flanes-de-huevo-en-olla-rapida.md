@@ -52,4 +52,8 @@ En la olla rápida echamos un par de dedos de agua e introducimos los envases. D
 ![](https://3.bp.blogspot.com/-PR2YHdslXnQ/WvHZODwlTqI/AAAAAAAAENI/C7SjZL6Ypd4q0c7P21r7uqEjZszXeBqgQCLcBGAs/s320/04.JPG)
 
   
-_En caso de hacer un flan grande, deberemos tenerlo cinco minutos.__Hay que tener en cuenta que cada olla puede requerir un tiempo de cocción distinto, se trata de ir probando_Teresa Hidalgo Gutiérrez
+_En caso de hacer un flan grande, deberemos tenerlo cinco minutos._
+
+_Hay que tener en cuenta que cada olla puede requerir un tiempo de cocción distinto, se trata de ir probando_
+
+Teresa Hidalgo Gutiérrez

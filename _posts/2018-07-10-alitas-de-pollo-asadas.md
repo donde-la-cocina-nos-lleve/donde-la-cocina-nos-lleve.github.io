@@ -53,5 +53,8 @@ Precalentamos el horno a 190º e introducimos la fuente. Deberán estar entre un
 
   
 
-_Este es sólo uno de los múltiples adobos que admiten las alitas asadas, plato sencillo y que a casi todo el mundo gusta, para comer con los dedos.__En esta ocasión hemos usado tabasco chipotle, con un toque ahumado. Si no gusta el picante se puede prescindir de él o de cualquier otro de los ingredientes. Se trata de adaptarlo al gusto de cada uno._  
+_Este es sólo uno de los múltiples adobos que admiten las alitas asadas, plato sencillo y que a casi todo el mundo gusta, para comer con los dedos._
+
+_En esta ocasión hemos usado tabasco chipotle, con un toque ahumado. Si no gusta el picante se puede prescindir de él o de cualquier otro de los ingredientes. Se trata de adaptarlo al gusto de cada uno._  
+
 Teresa Hidalgo Gutiérrez

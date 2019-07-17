@@ -48,9 +48,9 @@ INGREDIENTES
 
   
 
-1
+### 1
 
- En primer lugar ponemos a macerar el pollo con todos los ingredientes del adobo. Mezclamos bien y metemos en el frigorífico, donde debe estar  al menos un par de horas.
+En primer lugar ponemos a macerar el pollo con todos los ingredientes del adobo. Mezclamos bien y metemos en el frigorífico, donde debe estar  al menos un par de horas.
 
   
 
@@ -58,28 +58,16 @@ INGREDIENTES
 
   
 
-2
+### 2
 
- Para la salsa ponemos un par de cucharadas de aceite de girasol en una cazuela y sofreímos en él el ajo machacado, la cebolla picada y el jengibre. Cuando la cebolla comience a dorarse añadimos el tomate y tenemos unos diez minutos. Echamos sal, un poco de azúcar y el comino. Añadimos la nata o leche de coco y la pasta de tikka masala. Por último echamos el agua y dejamos hacer mientras cocinamos el pollo.
-
-  
+Para la salsa ponemos un par de cucharadas de aceite de girasol en una cazuela y sofreímos en él el ajo machacado, la cebolla picada y el jengibre. Cuando la cebolla comience a dorarse añadimos el tomate y tenemos unos diez minutos. Echamos sal, un poco de azúcar y el comino. Añadimos la nata o leche de coco y la pasta de tikka masala. Por último echamos el agua y dejamos hacer mientras cocinamos el pollo.
 
 ![](https://2.bp.blogspot.com/-kgAPSletxOo/WMVmAik2U9I/AAAAAAAADeE/L8XjdXm59r8AxVMHwPAMBbmcN-f8YZrGwCLcB/s320/P1500335.JPG)
 
-  
+### 3
 
-3
-
- Freímos los trozos de pollo en una sartén con un poco de aceite de oliva hasta que estén dorados. Retiramos y vamos cortando en tiras de unos tres centímetros. Introducimos en la cazuela con la salsa y dejamos hacer unos diez minutos para que termine de cocinarse.
-
-  
-
-  
+Freímos los trozos de pollo en una sartén con un poco de aceite de oliva hasta que estén dorados. Retiramos y vamos cortando en tiras de unos tres centímetros. Introducimos en la cazuela con la salsa y dejamos hacer unos diez minutos para que termine de cocinarse.
 
 Servimos acompañado de arroz basmati.
-
-  
-
-  
 
 Teresa Hidalgo Gutiérrez

@@ -62,7 +62,9 @@ Finalmente echamos el bonito troceado en dados de unos 2 cm y apagamos el fuego,
 ![](https://2.bp.blogspot.com/-vQINVu3PTA4/W4LqG_6XwPI/AAAAAAAAEWQ/7t2r3yFoZPUL5WuuB5X1EzwmTUKAbpLVQCLcBGAs/s320/04.JPG)
 
   
-_Servir caliente acompañado de una ensalada y unos pimientos verdes.__Hace ya tiempo que podemos comprar la pulpa de los pimientos choriceros en tarros. Se hace más sencillo el proceso, pero usando los pimientos enteros se puede añadir la piel al guiso, aportando sabor y color al mismo, y retirándola antes de echar el bonito._
+_Servir caliente acompañado de una ensalada y unos pimientos verdes._
+
+_Hace ya tiempo que podemos comprar la pulpa de los pimientos choriceros en tarros. Se hace más sencillo el proceso, pero usando los pimientos enteros se puede añadir la piel al guiso, aportando sabor y color al mismo, y retirándola antes de echar el bonito._
 
 ![](https://3.bp.blogspot.com/-c731Z6wkqko/W4LqM-CkpcI/AAAAAAAAEWY/fyY2lJQfgyg7xkybu0oJ4IsTDNEFig6_wCLcBGAs/s320/05.JPG)
 

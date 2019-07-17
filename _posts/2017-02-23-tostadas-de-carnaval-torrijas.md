@@ -25,7 +25,7 @@ INGREDIENTES:
 * Aceite de girasol
 * Azúcar y canela en polvo  
 
-1
+### 1
 
 Ponemos a calentar la leche con la canela, la corteza de limón y el azúcar. Tenemos unos 15 minutos a fuego medio con cuidado de que no hierva. Dejamos templar.  
 
@@ -33,17 +33,17 @@ Ponemos a calentar la leche con la canela, la corteza de limón y el azúcar. Te
 
   
 
-2
+### 2
 
- Cortamos el pan en rebanadas de unos tres centímetros y lo disponemos en una fuente plana, bañándolo con la leche una vez colada, empapando bien.  
+Cortamos el pan en rebanadas de unos tres centímetros y lo disponemos en una fuente plana, bañándolo con la leche una vez colada, empapando bien.  
 
 ![](https://1.bp.blogspot.com/-MN_ekx0_qdI/WK7FFbdx3GI/AAAAAAAADcA/wRiK2P6OGzMnBElxHg95dy8IUw-vcSIcwCLcB/s320/03.JPG)
 
-  
 
-3
 
- Colocamos dos platos, uno con papel absorbente y el otro con una mezcla de azúcar y canela en polvo a nuestro gusto. En un plato hondo batimos los huevos. Vamos pasando las rebanadas por el huevo y las freímos en el aceite bien caliente. Las colocamos primero sobre el papel y posteriormente las pasamos por la mezcla de azúcar y canela.  
+### 3
+
+Colocamos dos platos, uno con papel absorbente y el otro con una mezcla de azúcar y canela en polvo a nuestro gusto. En un plato hondo batimos los huevos. Vamos pasando las rebanadas por el huevo y las freímos en el aceite bien caliente. Las colocamos primero sobre el papel y posteriormente las pasamos por la mezcla de azúcar y canela.  
 
 ![](https://2.bp.blogspot.com/-iCPXLFv-qeI/WK7Fd8aUl5I/AAAAAAAADcI/Q6YQnjSnIf4_benP4c-aNwgDWI5MFaF0ACLcB/s320/04.JPG)
 
@@ -52,6 +52,4 @@ Servir templadas, aunque frías están igualmente buenas.
 
 ![](https://4.bp.blogspot.com/-lQjTxyCN-yw/WK7FvQ2EA6I/AAAAAAAADcQ/MQ2F-usmE7UtI6baSu0LxNY-sXE631XmwCLcB/s320/05.JPG)
 
-  
-  
 Teresa Hidalgo Gutiérrez
