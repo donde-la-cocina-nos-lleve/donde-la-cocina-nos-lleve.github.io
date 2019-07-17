@@ -1,3 +1,6 @@
+{% if post.image %}
+  {{ post.image }}
+{% else %}
 {% if post.content contains "<img" %}
 {% assign images = post.content | split:"<img " %}
 {% for image in images %}
