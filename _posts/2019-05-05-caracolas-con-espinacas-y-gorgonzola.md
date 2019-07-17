@@ -26,7 +26,7 @@ INGREDIENTES:
 * 200 ml de nata para cocinar
 * 1/2 cucharada de azúcar
 * Una cucharada de mantequilla
-**** Sal 
+* Sal 
 * Pimienta  
 
 ![](https://3.bp.blogspot.com/-G9p5lX4HhTU/XM8l60bwa9I/AAAAAAAAEhI/XZ7Ewo2TQUIwS_MiYhEVgpb65UdOEYNtgCLcBGAs/s320/01.JPG)
