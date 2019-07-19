@@ -48,7 +48,7 @@
         hide(resultados[i]);
         for(var j = 0; j < arr_filtros.length; j++){
           if (resultados[i].className.indexOf(arr_filtros[j]) > -1){
-            show(x[i]);
+            show(resultados[i]);
             break;
           }
         }
@@ -77,9 +77,11 @@
     for (var i = 0; i < btns.length; i++) {
       btns[i].addEventListener("click", function() {
         if(this.className.indexOf("active")>-1){
-          this.className.replace(" active", "");   
+          console.log("replace active");
+          this.className.replace("active", "");   
         }
         else{
+          console.log("add active");
           this.className += " active";
         }
       });
