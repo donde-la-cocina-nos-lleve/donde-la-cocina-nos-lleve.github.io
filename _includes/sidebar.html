@@ -26,9 +26,9 @@
   </div>
   <script>
     var filtro="all";
-    filter("all")
+    filter("all");
     var input=document.getElementById("search-input").addEventListener('keyup', function (e) {
-        filter(filtro);
+        setTimeout(filter, 2000, filtro);
     });
     function filter(c) {
       var x, i;
