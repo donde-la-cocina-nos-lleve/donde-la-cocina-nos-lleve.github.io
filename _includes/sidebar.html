@@ -2,17 +2,17 @@
     <div id="search-container" class="search-container">
       <label for="search-input">Buscar</label>
       <input type="text" id="search-input">
-      <button class="btn" onclick="filter('all')"></button>
-      <button class="btn" onclick="filter('pintxos-y-aperitivos')"></button>
-      <button class="btn" onclick="filter('verduras-y-hortalizas')"></button>
-      <button class="btn" onclick="filter('cremas-y-sopas')"></button>
-      <button class="btn" onclick="filter('arroz-y-pasta')"></button>
-      <button class="btn" onclick="filter('legumbres')"></button>
-      <button class="btn" onclick="filter('huevos')"></button>
-      <button class="btn" onclick="filter('carnes')"></button>
-      <button class="btn" onclick="filter('pescados')"></button>
-      <button class="btn" onclick="filter('postres')"></button>
-      <button class="btn" onclick="filter('pan-y-masas')"></button>
+      <button class="btn active" onclick="filter(this, 'all')"></button>
+      <button class="btn" onclick="filter(this, 'pintxos-y-aperitivos')"></button>
+      <button class="btn" onclick="filter(this, 'verduras-y-hortalizas')"></button>
+      <button class="btn" onclick="filter(this, 'cremas-y-sopas')"></button>
+      <button class="btn" onclick="filter(this, 'arroz-y-pasta')"></button>
+      <button class="btn" onclick="filter(this, 'legumbres')"></button>
+      <button class="btn" onclick="filter(this, 'huevos')"></button>
+      <button class="btn" onclick="filter(this, 'carnes')"></button>
+      <button class="btn" onclick="filter(this, 'pescados')"></button>
+      <button class="btn" onclick="filter(this, 'postres')"></button>
+      <button class="btn" onclick="filter(this, 'pan-y-masas')"></button>
     </div>
     <div class="results">
       <ul id="results-container"></ul>
@@ -26,31 +26,45 @@
   </div>
   <script>
     var filtro="";
-    filter("all");
+    var btn_all = document.getElementById("search-container").getElementsByClassName("active")[0];
+    filter(actives[0], "all");
+
     var input=document.getElementById("search-input").addEventListener('keyup', function (e) {
         setTimeout(filter, 200, filtro);
     });
 
-    function filter(param_filtro) {
+    function filter(elem, param_filtro) {
       var resultados;
       resultados = document.getElementsByClassName("objeto_resultado");
-      console.log("antes"+filtro);
-      if (param_filtro == "all") param_filtro = "";
-      if(filtro.indexOf(param_filtro)>-1){
-        filtro=delete_from_array(filtro.split(","),param_filtro);
+      if (param_filtro == "all"){
+        filtro = "";
+
+        var btnContainer = document.getElementById("search-container");
+        var actives = btnContainer.getElementsByClassName("active");
+        for (var i = 0; i < actives.length; i++) {
+          actives[i].className=delete_from_array(actives[i].className.split(" "), "active"); 
+        }
+        elem.className += " active";
       }
       else{
-        filtro+=param_filtro+",";
+        if(elem.className.indexOf("active")>-1){
+          elem.className=delete_from_array(this.className.split(" "), "active");
+        }
+        else{
+          elem.className += " active";
+        }
+        if(filtro.indexOf(param_filtro)>-1){
+          filtro=delete_from_array(filtro.split(","),param_filtro);
+        }
+        else{
+          filtro+=param_filtro+",";
+        }
       }
-      console.log("despues"+filtro);
       var arr_filtros=filtro.substr(0,filtro.length-1).split(",");
-      console.log(arr_filtros.length);
-      console.log(filtro.split(",").length);
       for (var i = 0; i < resultados.length; i++) {
         hide(resultados[i]);
         for(var j = 0; j < arr_filtros.length; j++){
           if (resultados[i].className.indexOf(arr_filtros[j]) > -1){
-            console.log(resultados[i].className+" contiene "+j+arr_filtros[j]);
             show(resultados[i]);
             break;
           }
@@ -75,22 +89,6 @@
           arr.splice(arr.indexOf(str), 1); 
       }
       return arr.join(" ");
-    }
-    var btnContainer = document.getElementById("search-container");
-    var btns = btnContainer.getElementsByClassName("btn");
-    for (var i = 0; i < btns.length; i++) {
-      btns[i].addEventListener("click", function() {
-        if(this.className.indexOf("active")>-1){
-          console.log("replace active");
-          console.log(this.className);
-          this.className=delete_from_array(this.className.split(" "), "active");
-          console.log(this.className);
-        }
-        else{
-          console.log("add active");
-          this.className += " active";
-        }
-      });
     }
 
   </script>
