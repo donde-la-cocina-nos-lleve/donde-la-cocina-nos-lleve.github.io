@@ -36,11 +36,13 @@
     function filter(elem, param_filtro) {
       var resultados;
       resultados = document.getElementsByClassName("objeto_resultado");
+      console.log(param_filtro+" "+param_filtro=="all");
       if (param_filtro == "all"){
         filtro = "";
 
         var btnContainer = document.getElementById("search-container");
         var actives = btnContainer.getElementsByClassName("active");
+        console.log(actives.length);
         for (var i = 0; i < actives.length; i++) {
           actives[i].className=delete_from_array(actives[i].className.split(" "), "active"); 
         }
@@ -48,7 +50,7 @@
       }
       else{
         if(elem.className.indexOf("active")>-1){
-          elem.className=delete_from_array(this.className.split(" "), "active");
+          elem.className=delete_from_array(elem.className.split(" "), "active");
         }
         else{
           elem.className += " active";
