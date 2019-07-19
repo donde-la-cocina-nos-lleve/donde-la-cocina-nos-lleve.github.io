@@ -27,7 +27,7 @@
   <script>
     var filtro="";
     var btn_all = document.getElementById("search-container").getElementsByClassName("active")[0];
-    filter(actives[0], "all");
+    filter(btn_all, "all");
 
     var input=document.getElementById("search-input").addEventListener('keyup', function (e) {
         setTimeout(filter, 200, filtro);
