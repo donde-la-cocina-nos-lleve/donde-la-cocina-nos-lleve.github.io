@@ -3,16 +3,16 @@
       <label for="search-input">Buscar</label>
       <input type="text" id="search-input">
       <button class="btn" onclick="filter('all')"></button>
-      <button class="btn" onclick="filter('pintxos')"></button>
-      <button class="btn" onclick="filter('verduras')"></button>
-      <button class="btn" onclick="filter('cremas')"></button>
-      <button class="btn" onclick="filter('arroz')"></button>
+      <button class="btn" onclick="filter('pintxos-y-aperitivos')"></button>
+      <button class="btn" onclick="filter('verduras-y-hortalizas')"></button>
+      <button class="btn" onclick="filter('cremas-y-sopas')"></button>
+      <button class="btn" onclick="filter('arroz-y-pasta')"></button>
       <button class="btn" onclick="filter('legumbres')"></button>
       <button class="btn" onclick="filter('huevos')"></button>
       <button class="btn" onclick="filter('carnes')"></button>
       <button class="btn" onclick="filter('pescados')"></button>
       <button class="btn" onclick="filter('postres')"></button>
-      <button class="btn" onclick="filter('pan')"></button>
+      <button class="btn" onclick="filter('pan-y-masas')"></button>
     </div>
     <div class="results">
       <ul id="results-container"></ul>
@@ -25,10 +25,17 @@
       </ul>      
   </div>
   <script>
+    var filtro="all";
     filter("all")
+    var input=document.getElementById("search-input").addEventListener('keyup', function (e) {
+        filter(filtro);
+    });
     function filter(c) {
       var x, i;
       x = document.getElementsByClassName("objeto_resultado");
+      console.log("antes"+filtro);
+      filtro=c;
+      console.log("despues"+filtro);
       if (c == "all") c = "";
       for (i = 0; i < x.length; i++) {
         hide(x[i]);
