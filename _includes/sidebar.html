@@ -32,7 +32,7 @@
     filter(btn_all, "all");
 
     var input=document.getElementById("search-input").addEventListener('keyup', function (e) {
-        setTimeout(filter, 500, null, last_param_filtro);
+        setTimeout(filter, 400, null, last_param_filtro);
     });
 
     function filter(elem, param_filtro) {
@@ -44,17 +44,15 @@
       last_param_filtro=param_filtro;
       if (param_filtro == "all"){
         filtro = "";
-
-        var btnContainer = document.getElementById("search-container");
-        var actives = btnContainer.getElementsByClassName("active");
-        console.log(actives.length);
-        for (var i = 1; i < actives.length; i++) {
-          console.log("Eliminar clase active"+i);
-          console.log("antes"+actives[i].className);
-          actives[i].className=delete_from_array(actives[i].className.split(" "), "active"); 
-          console.log("despues"+actives[i].className);
+        if(elem.className.indexOf("active")==-1){
+          var btnContainer = document.getElementById("search-container");
+          var actives = btnContainer.getElementsByClassName("active");
+          console.log(actives.length);
+          for (var i = 0; i < actives.length; i++) {
+            actives[i].className=delete_from_array(actives[i].className.split(" "), "active"); 
+          }
+          elem.className += " active";
         }
-        elem.className += " active";
       }
       else{
         if(elem != null){
@@ -62,6 +60,7 @@
             elem.className=delete_from_array(elem.className.split(" "), "active");
           }
           else{
+            btn_all.className=delete_from_array(btn_all.className.split(" "), "active");
             elem.className += " active";
           }
           if(filtro.indexOf(param_filtro)>-1){
