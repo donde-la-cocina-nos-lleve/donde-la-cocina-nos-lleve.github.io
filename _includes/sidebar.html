@@ -37,18 +37,18 @@
       console.log("antes"+filtro);
       if (param_filtro == "all") param_filtro = "";
       if(filtro.indexOf(param_filtro)>-1){
-        filtro=delete_from_array(filtro.split(" "),param_filtro);
+        filtro=delete_from_array(filtro.split(","),param_filtro);
       }
       else{
-        filtro+=" "+param_filtro;
+        filtro+=param_filtro+",";
       }
       console.log("despues"+filtro);
-      var arr_filtros=filtro.split(" ");
+      var arr_filtros=filtro.split(",");
       for (var i = 0; i < resultados.length; i++) {
         hide(resultados[i]);
         for(var j = 0; j < arr_filtros.length; j++){
           if (resultados[i].className.indexOf(arr_filtros[j]) > -1){
-              console.log(resultados[i].className+" contiene "+arr_filtros[j]);
+            console.log(resultados[i].className+" contiene "+j+arr_filtros[j]);
             show(resultados[i]);
             break;
           }
