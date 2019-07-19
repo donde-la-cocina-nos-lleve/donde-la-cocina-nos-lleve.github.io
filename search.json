@@ -10,7 +10,6 @@ layout: null
                     {{ categoria | downcase | replace: ' ', '-' | append: ' ' }}
                     {%- endfor -%}
                     {%- endcapture -%}
-                    {% assign categorias = categorias | strip %}
       "category" : "{{ categorias }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
