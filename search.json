@@ -5,7 +5,13 @@ layout: null
   {% for post in site.posts %}
     {
       "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
+                    {% capture categorias %}
+                    {% for categoria in post.categories %}
+                    {{ categoria | downcase | replace: ' ', '-' | append: ' ' }}
+                    {% endfor %}
+                    {% endcapture %}
+                    {% assign categorias = categorias | strip %}
+      "category" : "{{ categorias }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
