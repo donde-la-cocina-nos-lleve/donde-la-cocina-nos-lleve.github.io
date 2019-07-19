@@ -26,11 +26,13 @@
   </div>
   <script>
     var filtro="";
+    var last_param_filtro="";
+
     var btn_all = document.getElementById("search-container").getElementsByClassName("active")[0];
     filter(btn_all, "all");
 
     var input=document.getElementById("search-input").addEventListener('keyup', function (e) {
-        setTimeout(filter, 200, filtro);
+        setTimeout(filter, 200, null, last_param_filtro);
     });
 
     function filter(elem, param_filtro) {
@@ -39,6 +41,7 @@
       console.log(param_filtro=="all");
       console.log(param_filtro);
       console.log(filtro);
+      last_param_filtro=param_filtro;
       if (param_filtro == "all"){
         filtro = "";
 
@@ -46,22 +49,27 @@
         var actives = btnContainer.getElementsByClassName("active");
         console.log(actives.length);
         for (var i = 0; i < actives.length; i++) {
+          console.log("Eliminar clase active"+i);
+          console.log("antes"+actives[i].className);
           actives[i].className=delete_from_array(actives[i].className.split(" "), "active"); 
+          console.log("despues"+actives[i].className);
         }
         elem.className += " active";
       }
       else{
-        if(elem.className.indexOf("active")>-1){
-          elem.className=delete_from_array(elem.className.split(" "), "active");
-        }
-        else{
-          elem.className += " active";
-        }
-        if(filtro.indexOf(param_filtro)>-1){
-          filtro=delete_from_array(filtro.split(","),param_filtro);
-        }
-        else{
-          filtro+=param_filtro+",";
+        if(elem != null){
+          if(elem.className.indexOf("active")>-1){
+            elem.className=delete_from_array(elem.className.split(" "), "active");
+          }
+          else{
+            elem.className += " active";
+          }
+          if(filtro.indexOf(param_filtro)>-1){
+            filtro=delete_from_array(filtro.split(","),param_filtro);
+          }
+          else{
+            filtro+=param_filtro+",";
+          }
         }
       }
       var arr_filtros=filtro.substr(0,filtro.length-1).split(",");
