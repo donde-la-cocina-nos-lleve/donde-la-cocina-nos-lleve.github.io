@@ -50,3 +50,67 @@
         display: none;    
     } 
 } 
+
+.search_container{
+
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+.results{
+    padding: 20px;
+    
+    .objeto_resultado {
+      float: left;
+      background-color: #2196F3;
+      color: #ffffff;
+      width: 100px;
+      line-height: 100px;
+      text-align: center;
+      margin: 2px;
+      display: none;
+    }
+
+    .show {
+      display: block;
+    }
+    ul{
+        padding-left: 0px;
+        list-style: none;
+        li{
+            padding: 5px;
+            margin-bottom: 10px;
+        }
+        a{
+            display: table;
+            color:#000;
+            img{
+                display: table-cell;
+                float: left;
+                margin: 0;
+                max-width: 100px;
+                width: 100px;
+            }
+            p{
+                display: table-cell;
+                margin: 0;
+                padding-left: 10px;
+                vertical-align: middle;
+            }
+        }
+    }
+}
+

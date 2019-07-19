@@ -2,7 +2,17 @@
     <div id="search-container" class="search-container">
       <label for="search-input">Buscar</label>
       <input type="text" id="search-input">
-      <button id="legumbres"></button>
+      <button class="btn" onclick="filter('all')"></button>
+      <button class="btn" onclick="filter('pintxos')"></button>
+      <button class="btn" onclick="filter('verduras')"></button>
+      <button class="btn" onclick="filter('cremas')"></button>
+      <button class="btn" onclick="filter('arroz')"></button>
+      <button class="btn" onclick="filter('legumbres')"></button>
+      <button class="btn" onclick="filter('huevos')"></button>
+      <button class="btn" onclick="filter('carnes')"></button>
+      <button class="btn" onclick="filter('pescados')"></button>
+      <button class="btn" onclick="filter('postres')"></button>
+      <button class="btn" onclick="filter('pan')"></button>
     </div>
     <div class="results">
       <ul id="results-container"></ul>
@@ -14,3 +24,43 @@
 		</li>
       </ul>      
   </div>
+  <script>
+    filter("all")
+    function filter(c) {
+      var x, i;
+      x = document.getElementsByClassName("objeto_resultado");
+      if (c == "all") c = "";
+      for (i = 0; i < x.length; i++) {
+        hide(x[i]);
+        if (x[i].className.indexOf(c) > -1) show(x[i]);
+      }
+    }
+
+    function show(element) {
+      var i, arr1;
+      arr1 = element.className.split(" ");
+      if (arr1.indexOf("show") == -1) {
+          element.className += " show";
+      }
+    }
+
+    function hide(element) {
+      var i, arr1;
+      arr1 = element.className.split(" ");
+      while (arr1.indexOf("show") > -1) {
+          arr1.splice(arr1.indexOf("show"), 1); 
+      }
+      element.className = arr1.join(" ");
+    }
+
+    var btnContainer = document.getElementById("search_container");
+    var btns = btnContainer.getElementsByClassName("btn");
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener("click", function() {
+        var current = document.getElementsByClassName("active");
+        current[0].className = current[0].className.replace(" active", "");
+        this.className += " active";
+      });
+    }
+
+  </script>
