@@ -37,7 +37,7 @@
       console.log("antes"+filtro);
       if (param_filtro == "all") param_filtro = "";
       if(filtro.indexOf(param_filtro)>-1){
-        filtro=delete_from_array(filtros.split(" "),param_filtro);
+        filtro=delete_from_array(filtro.split(" "),param_filtro);
       }
       else{
         filtro+=" "+param_filtro;
