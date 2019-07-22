@@ -157,8 +157,10 @@ function filterCategory(data, categories){
   return matches;
 }
 function findCategoryMatch(object, categories){
-  for(category in categories.split(",")){
-    if(object["category"].indexOf(category)>=0){
+  var arr_categories=categories.split(",");
+  for(var i=0;i<arr_categories;i++){
+    if(object["category"].indexOf(arr_categories[i])>=0){
+      console.log(object["category"]+"  "+arr_categories[i]);
       return object;
     }
   }
