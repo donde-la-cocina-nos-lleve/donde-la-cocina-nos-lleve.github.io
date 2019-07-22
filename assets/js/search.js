@@ -15,9 +15,9 @@ var filtro="";
 var last_param_filtro="";
 
 
-var input=document.getElementById("search-input").addEventListener('keyup', function (e) {
-    setTimeout(filter, 400, null, last_param_filtro);
-});
+//var input=document.getElementById("search-input").addEventListener('keyup', function (e) {
+    //setTimeout(filter, 400, null, last_param_filtro);
+//});
 
 function filter(elem, param_filtro) {
   var resultados;
