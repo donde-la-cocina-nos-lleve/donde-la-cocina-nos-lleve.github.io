@@ -157,7 +157,7 @@ function filterCategory(data, categories){
   return matches;
 }
 function findCategoryMatch(object, categories){
-  for(category in categories.split(","){
+  for(category in categories.split(",")){
     if(object["category"].indexOf(category)>=0){
       return object;
     }
