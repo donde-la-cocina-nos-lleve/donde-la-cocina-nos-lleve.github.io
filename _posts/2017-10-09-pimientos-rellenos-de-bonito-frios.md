@@ -5,6 +5,7 @@ date: '2017-10-09T08:48:00.000-07:00'
 author: bernardo
 tags:
 - recetas
+categories: ["Pescados", "Verduras y hortalizas", "Pintxos y aperitivos"]
 modified_time: '2017-10-09T08:48:38.886-07:00'
 thumbnail: https://3.bp.blogspot.com/-v-Sjtfsr1JE/WduZMO8D6FI/AAAAAAAAD4Y/crXwwOamLtM4lmDHB5yc4PriPp5BedvqQCLcBGAs/s72-c/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3919437342884903112

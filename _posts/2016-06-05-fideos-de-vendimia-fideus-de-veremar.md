@@ -6,6 +6,7 @@ author: bernardo
 tags:
 - recetas
 - cocina viajera
+categories: ["Arroz y pasta", "Carnes"]
 modified_time: '2016-11-05T12:24:40.992-07:00'
 thumbnail: https://1.bp.blogspot.com/-DPqcUivs6XU/V1Q7M9J3ghI/AAAAAAAACto/xw6kENBtC0ER-EB1QKWNaFXuIzZd4oUqwCLcB/s72-c/04.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3946698626413636255

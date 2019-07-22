@@ -5,7 +5,7 @@ date: '2018-01-14T01:21:00.000-08:00'
 author: bernardo
 tags:
 - recetas
-categories: ["Arroz y pasta"]
+categories: ["Arroz y pasta", "Carnes"]
 modified_time: '2018-01-14T01:21:04.691-08:00'
 thumbnail: https://4.bp.blogspot.com/-AGAO0aKjuOg/WlsfCBPpPyI/AAAAAAAAEF0/Q0EmAqmqr54o6CWVfm2V66jx2PhOkT39ACLcBGAs/s72-c/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3744269867465588786

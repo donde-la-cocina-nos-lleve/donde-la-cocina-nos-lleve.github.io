@@ -5,6 +5,7 @@ date: '2017-01-29T07:05:00.000-08:00'
 author: bernardo
 tags:
 - recetas
+categories: ["Pescados", "Verduras y hortalizas"]
 modified_time: '2017-01-29T07:05:29.877-08:00'
 thumbnail: https://2.bp.blogspot.com/-YWsj_VXvl-M/WI4DezFAliI/AAAAAAAADXk/TAf1-OwxLbwkNvW_v3gMlAx6zdltgcGHwCLcB/s72-c/10.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3380566883102989229

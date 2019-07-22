@@ -5,6 +5,7 @@ date: '2017-03-26T08:21:00.002-07:00'
 author: bernardo
 tags:
 - recetas
+categories: ["Pan y masas", "Carnes"]
 modified_time: '2017-03-26T08:21:38.503-07:00'
 thumbnail: https://4.bp.blogspot.com/-AkyXPF5qKmc/WNfbeSR3HoI/AAAAAAAADfs/02aMMW-eKX4pB9Y5RYF6KvCaYxYZfp0hQCLcB/s72-c/03.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-9159532707937559043

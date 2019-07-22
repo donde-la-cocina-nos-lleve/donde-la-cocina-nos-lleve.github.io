@@ -5,6 +5,7 @@ date: '2017-12-17T11:36:00.000-08:00'
 author: bernardo
 tags:
 - recetas
+categories: ["Carnes", "Pintxos y aperitivos"]
 modified_time: '2017-12-17T11:36:36.069-08:00'
 thumbnail: https://3.bp.blogspot.com/-CDKIztATCSA/WjbGmM6TKiI/AAAAAAAAEBs/MtDt_C6zcaAEBfvKVaFtKQDHmokF-kiKACLcBGAs/s72-c/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-2510962519470690338

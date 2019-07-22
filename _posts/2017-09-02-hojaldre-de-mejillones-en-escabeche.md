@@ -5,7 +5,7 @@ date: '2017-09-02T09:08:00.000-07:00'
 author: bernardo
 tags:
 - recetas
-categories: ["Pescados"]
+categories: ["Pescados", "Pan y masas"]
 modified_time: '2017-09-02T09:08:20.050-07:00'
 thumbnail: https://4.bp.blogspot.com/-28WQqVSvOb8/WarV9FZ2XPI/AAAAAAAAD0g/PM_94H0WgD8o6NKkJU03UTHuzO4W43IUQCLcBGAs/s72-c/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3141126982963681221

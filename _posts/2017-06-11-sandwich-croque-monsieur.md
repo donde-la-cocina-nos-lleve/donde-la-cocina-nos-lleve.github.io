@@ -6,6 +6,7 @@ author: bernardo
 tags:
 - recetas
 - cocina viajera
+categories: ["Pintxos y aperitivos"]
 modified_time: '2017-06-11T09:24:02.181-07:00'
 thumbnail: https://4.bp.blogspot.com/-hXAXIae4_RY/WT1thMRS6_I/AAAAAAAADrM/eHZm0OJ5Q4QmxY4slqy_Il04XpLB7gGggCLcB/s72-c/IMG_4064.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5106169751759315836

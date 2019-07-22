@@ -6,6 +6,7 @@ author: bernardo
 tags:
 - recetas
 - cocina viajera
+categories: ["Postres"]
 modified_time: '2016-12-25T07:40:26.207-08:00'
 thumbnail: https://3.bp.blogspot.com/-xF-fC1UXoM4/WE1iqD8-eII/AAAAAAAADOw/h1rec6XLTM8r18sWCFO9VLb0XnGTzYIIQCLcB/s72-c/02.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-2052968507329952940

@@ -6,6 +6,7 @@ author: bernardo
 tags:
 - recetas
 - cocina viajera
+categories: ["Verduras y hortalizas"]
 modified_time: '2016-11-05T12:23:32.257-07:00'
 thumbnail: https://2.bp.blogspot.com/-xGiVfSZpjfQ/WAy6407ksEI/AAAAAAAADEY/kPxZJmjera4J7o0RTkmLsFLiZdFt2MfxACLcB/s72-c/03.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1655467939163880408

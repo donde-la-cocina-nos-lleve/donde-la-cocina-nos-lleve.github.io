@@ -5,6 +5,7 @@ date: '2016-06-12T01:52:00.000-07:00'
 author: bernardo
 tags:
 - recetas
+categories: ["Verduras y hortalizas"]
 modified_time: '2016-06-12T01:52:59.261-07:00'
 thumbnail: https://4.bp.blogspot.com/-nvFxL0trVXY/V10iOrKlNsI/AAAAAAAACu8/f7NNI0nAhYkPlBQTKQg68uJiDigIGNnEwCLcB/s72-c/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8825654348242927071

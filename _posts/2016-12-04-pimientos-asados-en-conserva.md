@@ -6,6 +6,7 @@ author: bernardo
 tags:
 - tecnicas
 - recetas
+categories: ["Verduras y hortalizas"]
 modified_time: '2016-12-04T09:26:24.443-08:00'
 thumbnail: https://1.bp.blogspot.com/-nGImbTsdrQg/WEQxL4dFM0I/AAAAAAAADOY/6Tf3gdAJtLs3Hl4yWkpQQdE7Dwedxs_CACLcB/s72-c/18.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1960471503844994728

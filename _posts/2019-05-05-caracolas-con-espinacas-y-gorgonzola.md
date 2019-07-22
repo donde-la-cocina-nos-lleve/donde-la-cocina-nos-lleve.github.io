@@ -5,7 +5,7 @@ date: '2019-05-05T11:07:00.000-07:00'
 author: bernardo
 tags:
 - recetas
-categories: ["Arroz y pasta"]
+categories: ["Arroz y pasta", "Verduras y hortalizas"]
 modified_time: '2019-05-05T11:07:40.218-07:00'
 thumbnail: https://1.bp.blogspot.com/-97j12Q3rNDw/XM8lzI2NhaI/AAAAAAAAEhE/ErNd0_Ifg8woFz-K15v4z834VBmkXXILQCLcBGAs/s72-c/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-6862668201859801100

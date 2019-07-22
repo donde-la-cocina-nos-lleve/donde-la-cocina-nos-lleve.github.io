@@ -5,6 +5,7 @@ date: '2016-03-27T11:20:00.002-07:00'
 author: bernardo
 tags:
 - recetas
+categories: ["Pescados", "Pan y masas"]
 modified_time: '2016-03-27T11:20:42.303-07:00'
 thumbnail: https://1.bp.blogspot.com/-Y9I9iOoNT0I/Vvgju1CepxI/AAAAAAAACjE/--h1dw4DgZglUQo15gTFXtOfMRU0OGdNA/s72-c/02.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-4649216408694726389

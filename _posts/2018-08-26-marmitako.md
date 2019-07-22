@@ -5,7 +5,7 @@ date: '2018-08-26T10:58:00.002-07:00'
 author: bernardo
 tags:
 - recetas
-categories: ["Verduras y hortalizas"]
+categories: ["Verduras y hortalizas", "Pescados"]
 modified_time: '2018-08-26T10:58:58.983-07:00'
 thumbnail: https://4.bp.blogspot.com/-N5ebpdhlLsE/W4LpoCZ_rPI/AAAAAAAAEV0/59COhfrOWvU9ohbdMd6pu4N4wppdHWx0QCLcBGAs/s72-c/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8091947594288196577
@@ -16,7 +16,8 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/08/marmitako.html
 
   
 INGREDIENTES:
-* 800 gr de bonito4 patatas grandes
+* 800 gr de bonito
+* 4 patatas grandes
 * 1 cebolla o cebolleta
 * 2 diente de ajo
 * 1 pimiento italiano

@@ -5,6 +5,7 @@ date: '2016-12-18T08:44:00.002-08:00'
 author: bernardo
 tags:
 - recetas
+categories: ["Carnes"]
 modified_time: '2016-12-18T08:44:46.134-08:00'
 thumbnail: https://2.bp.blogspot.com/-AUz0Z_6gki4/WFa8ohis6MI/AAAAAAAADPg/MNWT2rsBVVEilywGLbP8PL5Yh8pJ0Iw5QCLcB/s72-c/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-6754838237737316469

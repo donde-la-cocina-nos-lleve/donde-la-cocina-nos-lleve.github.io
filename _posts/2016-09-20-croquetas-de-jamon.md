@@ -5,6 +5,7 @@ date: '2016-09-20T06:55:00.002-07:00'
 author: bernardo
 tags:
 - recetas
+categories: ["Pintxos y aperitivos"]
 modified_time: '2016-09-20T06:55:59.044-07:00'
 thumbnail: https://1.bp.blogspot.com/-9SrmFJuSlKA/V-E_tOAtAPI/AAAAAAAAC-U/ZatzVvpWXRcU_JFWQWkShXo5WTgQYKBsgCLcB/s72-c/04.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-569325803164396441

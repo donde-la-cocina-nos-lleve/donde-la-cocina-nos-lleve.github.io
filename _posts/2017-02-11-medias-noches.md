@@ -5,6 +5,7 @@ date: '2017-02-11T08:59:00.000-08:00'
 author: bernardo
 tags:
 - recetas
+categories: ["Pan y masas", "Pintxos y aperitivos"]
 modified_time: '2017-02-11T09:06:57.109-08:00'
 thumbnail: https://2.bp.blogspot.com/-V0tHQEGyB5Q/WJ9EltJ50AI/AAAAAAAADaI/AlgU1T53W3U1h0qx8s-uTjIIrwT2XWydgCLcB/s72-c/03.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1874276699941927925
