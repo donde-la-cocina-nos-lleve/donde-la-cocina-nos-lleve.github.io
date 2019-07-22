@@ -160,7 +160,7 @@ function filterCategory(data, categories){
 function findCategoryMatch(object, categories){
 
   var arr_categories=categories.substr(0, categories.lastIndexOf(",")).split(",");
-  for(var i=0;i<arr_categories;i++){
+  for(var i=0;i<arr_categories.length;i++){
     console.log(arr_categories[i]);
     if(object["category"].indexOf(arr_categories[i])>=0){
       console.log(object["category"]+"  "+arr_categories[i]);
