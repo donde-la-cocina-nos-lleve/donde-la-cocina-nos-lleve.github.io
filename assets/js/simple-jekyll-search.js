@@ -150,6 +150,7 @@ function filterCategory(data, categories){
   var matches = []
   for (var i = 0; i < data.length; i++) {
     var match = findCategoryMatch(data[i], categories);
+    console.log(match);
     if (match){
         matches.push(match);
     }
@@ -157,11 +158,16 @@ function filterCategory(data, categories){
   return matches;
 }
 function findCategoryMatch(object, categories){
-  var arr_categories=categories.split(",");
+
+  var arr_categories=categories.substr(0, categories.lastIndexOf(",")).split(",");
   for(var i=0;i<arr_categories;i++){
+    console.log(arr_categories[i]);
     if(object["category"].indexOf(arr_categories[i])>=0){
       console.log(object["category"]+"  "+arr_categories[i]);
       return object;
+    }
+    else{
+      console.log(object["category"]+"  "+arr_categories[i]);
     }
   }
 }
@@ -344,7 +350,7 @@ var _$src_8 = {};
     options.searchInput.addEventListener('keyup', function (e) {
       if (isWhitelistedKey(e.which)) {
         emptyResultsContainer()
-        search(e.target.value, last_param_filtro)
+        search(e.target.value, filtro)
       }
     })
   }
