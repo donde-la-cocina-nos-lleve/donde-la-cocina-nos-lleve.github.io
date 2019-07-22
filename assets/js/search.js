@@ -1,4 +1,4 @@
-SimpleJekyllSearch({
+var sjs=SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   limit: 30,
@@ -6,23 +6,18 @@ SimpleJekyllSearch({
   noResultsText: 'No hay resultados',
   searchResultTemplate: '<li class="objeto_resultado show {category}"><a href="{url}"><img src="{thumbnail}"/><p>{title}</p></a></li>'
 })
+
 var btn_all;
 document.addEventListener("DOMContentLoaded", function() {
     btn_all = document.getElementById("search-container").getElementsByClassName("active")[0];
     filter(btn_all, "all");
 });
+
 var filtro="";
-var last_param_filtro="";
 
-
-//var input=document.getElementById("search-input").addEventListener('keyup', function (e) {
-    //setTimeout(filter, 400, null, last_param_filtro);
-//});
+var input=document.getElementById("search-input");
 
 function filter(elem, param_filtro) {
-  var resultados;
-  resultados = document.getElementsByClassName("objeto_resultado");
-  last_param_filtro=param_filtro;
   if (param_filtro == "all"){
     filtro = "";
     elem=btn_all;
@@ -52,24 +47,7 @@ function filter(elem, param_filtro) {
       }
     }
   }
-  var arr_filtros=filtro.substr(0,filtro.length-1).split(",");
-  for (var i = 0; i < resultados.length; i++) {
-    hide(resultados[i]);
-    for(var j = 0; j < arr_filtros.length; j++){
-      if (resultados[i].className.indexOf(arr_filtros[j]) > -1){
-        show(resultados[i]);
-        break;
-      }
-    }
-  }
-}
-
-function show(element) {
-  element.classList.add("show");
-}
-
-function hide(element) {
-  element.classList.remove("show");
+  sjs.search(input.value, filtro); 
 }
 
 function delete_from_comma_array(arr, str){
@@ -79,3 +57,16 @@ function delete_from_comma_array(arr, str){
   return arr.join(",");
 }
 
+function mostrarFiltros(elem){
+  if (elem.className.indexOf("active")>-1) {
+    elem.classList.remove("active");
+  } else {
+    elem.classList.add("active");
+  } 
+  var div_filtros=document.getElementById("div_filtros");
+  if (div_filtros.className.indexOf("show")>-1) {
+    div_filtros.classList.remove("show");
+  } else {
+    div_filtros.classList.add("show");
+  } 
+}

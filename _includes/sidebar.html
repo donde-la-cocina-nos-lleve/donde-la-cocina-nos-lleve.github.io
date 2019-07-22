@@ -2,7 +2,8 @@
     <div id="search-container" class="search-container">
       <label for="search-input">Buscar</label>
       <input type="text" id="search-input">
-      <div class="filtros">
+      <button class="btn_filtros" onclick="mostrarFiltros(this)">Mostrar filtros</button>
+      <div id="div_filtros" class="filtros">
           <button class="btn active todos" onclick="filter(this, 'all')">Todos</button>
           <button class="btn pintxos" onclick="filter(this, 'pintxos-y-aperitivos')">Pintxos y aperitivos</button>
           <button class="btn verduras" onclick="filter(this, 'verduras-y-hortalizas')">Verduras y hortalizas</button>

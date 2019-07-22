@@ -36,40 +36,6 @@ function getXHR () {
   return window.XMLHttpRequest ? new window.XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP')
 }
 
-'use strict'
-
-var _$OptionsValidator_3 = function OptionsValidator (params) {
-  if (!validateParams(params)) {
-    throw new Error('-- OptionsValidator: required options missing')
-  }
-
-  if (!(this instanceof OptionsValidator)) {
-    return new OptionsValidator(params)
-  }
-
-  var requiredOptions = params.required
-
-  this.getRequiredOptions = function () {
-    return requiredOptions
-  }
-
-  this.validate = function (parameters) {
-    var errors = []
-    requiredOptions.forEach(function (requiredOptionName) {
-      if (typeof parameters[requiredOptionName] === 'undefined') {
-        errors.push(requiredOptionName)
-      }
-    })
-    return errors
-  }
-
-  function validateParams (params) {
-    if (!params) {
-      return false
-    }
-    return typeof params.required !== 'undefined' && params.required instanceof Array
-  }
-}
 
 'use strict'
 
@@ -104,7 +70,6 @@ function NoSort () {
 var data = []
 var opt = {}
 
-opt.fuzzy = false
 opt.limit = 10
 opt.searchStrategy = _$LiteralSearchStrategy_6
 
@@ -150,7 +115,6 @@ function filterCategory(data, categories){
   var matches = []
   for (var i = 0; i < data.length; i++) {
     var match = findCategoryMatch(data[i], categories);
-    console.log(match);
     if (match){
         matches.push(match);
     }
@@ -158,21 +122,15 @@ function filterCategory(data, categories){
   return matches;
 }
 function findCategoryMatch(object, categories){
-
   var arr_categories=categories.substr(0, categories.lastIndexOf(",")).split(",");
   for(var i=0;i<arr_categories.length;i++){
-    console.log(arr_categories[i]);
     if(object["category"].indexOf(arr_categories[i])>=0){
-      console.log(object["category"]+"  "+arr_categories[i]);
       return object;
-    }
-    else{
-      console.log(object["category"]+"  "+arr_categories[i]);
     }
   }
 }
 function search (crit, category_filter) {
-  if (!crit) {
+  if (crit.length==0) {
     if(category_filter.length>0 && category_filter!="all"){
       return filterCategory(data, category_filter);
     }
@@ -186,7 +144,6 @@ function search (crit, category_filter) {
 function setOptions (_opt) {
   opt = _opt || {}
 
-  opt.fuzzy = _opt.fuzzy || false
   opt.limit = _opt.limit || 10
   opt.searchStrategy = _$LiteralSearchStrategy_6
 }
@@ -218,22 +175,14 @@ var _$Templater_7 = {
 var options = {}
 options.pattern = /\{(.*?)\}/g
 options.template = ''
-options.middleware = function () {}
 
 function __setOptions_7 (_options) {
   options.pattern = _options.pattern || options.pattern
   options.template = _options.template || options.template
-  if (typeof _options.middleware === 'function') {
-    options.middleware = _options.middleware
-  }
 }
 
 function compile (data) {
   return options.template.replace(options.pattern, function (match, prop) {
-    var value = options.middleware(prop, data[prop], options.template)
-    if (typeof value !== 'undefined') {
-      return value
-    }
     return data[prop] || match
   })
 }
@@ -277,38 +226,21 @@ var _$src_8 = {};
     json: [],
     success: Function.prototype,
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-    templateMiddleware: Function.prototype,
     noResultsText: 'No results found',
     limit: 10,
-    fuzzy: false,
     exclude: []
   }
 
   var requiredOptions = ['searchInput', 'resultsContainer', 'json']
 
-  /* removed: var _$Templater_7 = require('./Templater') */;
-  /* removed: var _$Repository_4 = require('./Repository') */;
-  /* removed: var _$JSONLoader_2 = require('./JSONLoader') */;
-  var optionsValidator = _$OptionsValidator_3({
-    required: requiredOptions
-  })
-  /* removed: var _$utils_9 = require('./utils') */;
-
   window.SimpleJekyllSearch = function (_options) {
-    var errors = optionsValidator.validate(_options)
-    if (errors.length > 0) {
-      throwError('You must specify the following required options: ' + requiredOptions)
-    }
-
     options = _$utils_9.merge(options, _options)
 
     _$Templater_7.setOptions({
       template: options.searchResultTemplate,
-      middleware: options.templateMiddleware
     })
 
     _$Repository_4.setOptions({
-      fuzzy: options.fuzzy,
       limit: options.limit,
     })
 
@@ -356,10 +288,8 @@ var _$src_8 = {};
   }
 
   function search (query, category_filter) {
-    if (isValidQuery(query)) {
-      emptyResultsContainer()
-      render(_$Repository_4.search(query, category_filter), query)
-    }
+    emptyResultsContainer()
+    render(_$Repository_4.search(query, category_filter), query)
   }
 
   function render (results, query) {
@@ -373,9 +303,6 @@ var _$src_8 = {};
     }
   }
 
-  function isValidQuery (query) {
-    return query && query.length > 0
-  }
 
   function isWhitelistedKey (key) {
     return [13, 16, 20, 37, 38, 39, 40, 91].indexOf(key) === -1

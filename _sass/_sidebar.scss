@@ -52,6 +52,21 @@
 } 
 
 .search-container{
+    .filtros{
+      display:none;
+    }
+    .btn_filtros{
+        border: none;
+        background-color: transparent;
+        background-image: url(/assets/icons/svg/chevron-down.svg);
+        background-repeat: no-repeat;
+        background-position: 100px 4px;
+        padding: 5px;
+        padding-right: 30px;
+    }
+    .btn_filtros.active{
+        background-image: url(/assets/icons/svg/chevron-up.svg);
+    }
     .btn {
       border: 2px solid #fff;
       margin:2px;
@@ -159,9 +174,6 @@
       display: none;
     }
 
-    .show {
-      display: block;
-    }
     ul{
         padding-left: 0px;
         list-style: none;
