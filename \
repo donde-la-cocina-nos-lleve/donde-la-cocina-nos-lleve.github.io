@@ -5,6 +5,7 @@
   */
 
 (function(){
+/* globals ActiveXObject:false */
 
 var _$src_8 = {};
 (function (window) {
@@ -33,7 +34,7 @@ var _$src_8 = {};
     }
   }
 
-  //get JSON via xhr
+//get JSON via xhr
   function initWithJSON (json) {
     put(json)
     registerInput()
@@ -70,6 +71,18 @@ var _$src_8 = {};
   function getXHR () {
     return window.XMLHttpRequest ? new window.XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP')
   }
+
+
+   function matches(str, crit) {
+     if (!str) return false
+ 
+     str = str.trim().toLowerCase()
+     crit = crit.trim().toLowerCase()
+ 
+     return crit.split(' ').filter(function (word) {
+       return str.indexOf(word) >= 0
+     }).length === crit.split(' ').length
+   }
 
   //build array of data from JSON
   var data = []
@@ -163,17 +176,6 @@ var _$src_8 = {};
       return obj
     }
   }
-
-  function matches(str, crit) {
-    if (!str) return false
-
-    str = str.trim().toLowerCase()
-    crit = crit.trim().toLowerCase()
-
-    return crit.split(' ').filter(function (word) {
-      return str.indexOf(word) >= 0
-    }).length === crit.split(' ').length
-  }
   
   //Show matches
   function search (query, category_filter) {
@@ -215,8 +217,7 @@ var _$src_8 = {};
       }
     })
   }
- 
-  //utils
+    //utils
   function merge (defaultParams, mergeParams) {
     var mergedOptions = {}
     for (var option in defaultParams) {
