@@ -44,7 +44,7 @@ var _$src_8 = {};
   function initWithURL (url) {
     load(url, function (err, json) {
       if (err) {
-        throwError('failed to get JSON (' + url + ')')
+        throw new Error('Error JSON'+url);
       }
       initWithJSON(json)
     })
@@ -220,9 +220,9 @@ var _$src_8 = {};
     })
   }
  
-  function filter(elem) {
+  function filter(evt) {
+    var elem=evt.target;
     var data_filtro=elem.getAttribute("data-filter");
-    console.log(data_filtro)
     if (data_filtro == "all"){
       filtro = "";
       if(elem.className.indexOf("active")==-1){
@@ -260,20 +260,6 @@ var _$src_8 = {};
     }
     return arr.join(",");
   }
-  
-  function mostrarFiltros(elem){
-    if (elem.className.indexOf("active")>-1) {
-      elem.classList.remove("active");
-    } else {
-      elem.classList.add("active");
-    } 
-    var div_filtros=document.getElementById("div_filtros");
-    if (options.filtersContainer.className.indexOf("show")>-1) {
-      options.filtersContainer.classList.remove("show");
-    } else {
-      options.filtersContainer.classList.add("show");
-    } 
-  }
 
   function merge (defaultParams, mergeParams) {
     var mergedOptions = {}
@@ -301,9 +287,6 @@ var _$src_8 = {};
     return [13, 16, 20, 37, 38, 39, 40, 91].indexOf(key) === -1
   }
 
-  function throwError (message) {
-    throw new Error('SimpleJekyllSearch --- ' + message)
-  }
 })(window)
 
 }());
