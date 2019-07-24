@@ -13,6 +13,7 @@ var _$src_8 = {};
   var options = {
     searchInput: null,
     resultsContainer: null,
+    filtersContainer: null,
     json: [],
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
     noResultsText: 'No results found',
@@ -20,6 +21,7 @@ var _$src_8 = {};
     exclude: []
   }
 
+  var filtro="";
   window.SimpleJekyllSearch = function (_options) {
     options = merge(options, _options)
 
@@ -29,7 +31,7 @@ var _$src_8 = {};
       initWithURL(options.json)
     }
     return {
-      search: search
+      search: showMatches
     }
   }
 
@@ -73,9 +75,6 @@ var _$src_8 = {};
 
   //build array of data from JSON
   var data = []
-  var opt = {}
-  
-  opt.limit = 10
   
   function put (data) {
     if (isObject(data)) {
@@ -134,7 +133,7 @@ var _$src_8 = {};
       }
     }
   }
-  function searchRepository (crit, category_filter) {
+  function search(crit, category_filter, limit) {
     if (crit.length==0) {
       if(category_filter.length>0 && category_filter!="all"){
         return filterCategory(data, category_filter);
@@ -143,13 +142,13 @@ var _$src_8 = {};
         return []
       }
     }
-    return findMatches(filterCategory(data, category_filter), crit, opt)
+    return findMatches(filterCategory(data, category_filter), crit, limit)
   }
   
   
-  function findMatches (data, crit, opt) {
+  function findMatches (data, crit, limit) {
     var matches = []
-    for (var i = 0; i < data.length && matches.length < opt.limit; i++) {
+    for (var i = 0; i < data.length && matches.length < limit; i++) {
       var match = findMatchesInObject(data[i], crit)
       if (match) {
         matches.push(match)
@@ -176,15 +175,9 @@ var _$src_8 = {};
   }
   
   //Show matches
-  function search (query, category_filter) {
+  function showMatches(query, category_filter) {
     emptyResultsContainer()
-    render(searchRepository(query, category_filter), query)
-  }
-
-  function compile (data) {
-    return options.searchResultTemplate.replace(/\{(.*?)\}/g, function (match, prop) {
-      return data[prop] || match
-    })
+    render(search(query, category_filter, options.limit), query)
   }
 
   function render (results, query) {
@@ -198,6 +191,12 @@ var _$src_8 = {};
     }
   }
 
+  function compile (data) {
+    return options.searchResultTemplate.replace(/\{(.*?)\}/g, function (match, prop) {
+      return data[prop] || match
+    })
+  }
+
   //DOM
   function emptyResultsContainer () {
     options.resultsContainer.innerHTML = ''
@@ -208,15 +207,74 @@ var _$src_8 = {};
   }
 
   function registerInput () {
+    var buttons = options.filtersContainer.getElementsByClassName("btn");
+
+    for (var i = 0; i < buttons.length; i++) {
+      buttons[i].addEventListener('click', filter);    
+    }
     options.searchInput.addEventListener('keyup', function (e) {
       if (isWhitelistedKey(e.which)) {
         emptyResultsContainer()
-        search(e.target.value, filtro)
+        showMatches(e.target.value, filtro)
       }
     })
   }
  
+  function filter(elem) {
+    var data_filtro=elem.getAttribute("data-filter");
+    console.log(data_filtro)
+    if (data_filtro == "all"){
+      filtro = "";
+      if(elem.className.indexOf("active")==-1){
+        var elems = options.filtersContainer.querySelectorAll(".active");
+        [].forEach.call(elems, function(el) {
+            el.classList.remove("active");
+        });
+        elem.classList.add("active");
+      }
+    }
+    else{
+      if(elem != null){
+        if(elem.className.indexOf("active")>-1){
+          elem.classList.remove("active");
+        }
+        else{
+          options.filtersContainer.getElementsByClassName("btn")[0].classList.remove("active");
+          elem.classList.add("active");
+        }
+        if(filtro.indexOf(data_filtro)>-1){
+          filtro=delete_from_comma_array(filtro.split(","),data_filtro);
+        }
+        else{
+          filtro+=data_filtro+",";
+        }
+      }
+    }
+    showMatches(options.searchInput.value, filtro); 
+  }
+
   //utils
+  function delete_from_comma_array(arr, str){
+    while (arr.indexOf(str) > -1) {
+        arr.splice(arr.indexOf(str), 1); 
+    }
+    return arr.join(",");
+  }
+  
+  function mostrarFiltros(elem){
+    if (elem.className.indexOf("active")>-1) {
+      elem.classList.remove("active");
+    } else {
+      elem.classList.add("active");
+    } 
+    var div_filtros=document.getElementById("div_filtros");
+    if (options.filtersContainer.className.indexOf("show")>-1) {
+      options.filtersContainer.classList.remove("show");
+    } else {
+      options.filtersContainer.classList.add("show");
+    } 
+  }
+
   function merge (defaultParams, mergeParams) {
     var mergedOptions = {}
     for (var option in defaultParams) {

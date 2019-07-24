@@ -4,17 +4,17 @@
       <input type="text" id="search-input">
       <button class="btn_filtros" onclick="mostrarFiltros(this)">Mostrar filtros</button>
       <div id="div_filtros" class="filtros">
-          <button class="btn active todos" onclick="filter(this, 'all')">Todos</button>
-          <button class="btn pintxos" onclick="filter(this, 'pintxos-y-aperitivos')">Pintxos y aperitivos</button>
-          <button class="btn verduras" onclick="filter(this, 'verduras-y-hortalizas')">Verduras y hortalizas</button>
-          <button class="btn cremas" onclick="filter(this, 'cremas-y-sopas')">Cremas y sopas</button>
-          <button class="btn arroz" onclick="filter(this, 'arroz-y-pasta')">Arroz y pasta</button>
-          <button class="btn legumbres" onclick="filter(this, 'legumbres')">Legumbres</button>
-          <button class="btn huevos" onclick="filter(this, 'huevos')">Huevos</button>
-          <button class="btn carnes" onclick="filter(this, 'carnes')">Carnes</button>
-          <button class="btn pescados" onclick="filter(this, 'pescados')">Pescados</button>
-          <button class="btn postres" onclick="filter(this, 'postres')">Postres</button>
-          <button class="btn pan" onclick="filter(this, 'pan-y-masas')">Pan y masas</button>
+          <button class="btn active todos" data-filter='all'>Todos</button>
+          <button class="btn pintxos" data-filter='pintxos-y-aperitivos'>Pintxos y aperitivos</button>
+          <button class="btn verduras" data-filter='verduras-y-hortalizas'>Verduras y hortalizas</button>
+          <button class="btn cremas" data-filter='cremas-y-sopas'>Cremas y sopas</button>
+          <button class="btn arroz" data-filter='arroz-y-pasta'>Arroz y pasta</button>
+          <button class="btn legumbres" data-filter='legumbres'>Legumbres</button>
+          <button class="btn huevos" data-filter='huevos'>Huevos</button>
+          <button class="btn carnes" data-filter='carnes'>Carnes</button>
+          <button class="btn pescados" data-filter='pescados'>Pescados</button>
+          <button class="btn postres" data-filter='postres'>Postres</button>
+          <button class="btn pan" data-filter='pan-y-masas'>Pan y masas</button>
       </div>
     </div>
     <div class="results">
