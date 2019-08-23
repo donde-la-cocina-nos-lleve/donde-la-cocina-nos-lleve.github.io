@@ -16,7 +16,7 @@ var _$src_8 = {};
     filtersContainer: null,
     json: [],
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-    noResultsText: 'No results found',
+    noResultsText: 'No hay resultados',
     limit: 10,
     exclude: []
   }

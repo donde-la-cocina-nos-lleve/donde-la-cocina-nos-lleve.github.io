@@ -22,6 +22,20 @@
     <div id="search-container-mobile" class="search-container">
       <label for="search-input-mobile">Buscar</label>
       <input type="text" id="search-input-mobile">
+      <button class="btn_filtros" onclick="mostrarFiltros(this)">Mostrar filtros</button>
+      <div id="div-filtros-mobile" class="filtros">
+          <button class="btn active todos" data-filter='all'>Todos</button>
+          <button class="btn pintxos" data-filter='pintxos-y-aperitivos'>Pintxos y aperitivos</button>
+          <button class="btn verduras" data-filter='verduras-y-hortalizas'>Verduras y hortalizas</button>
+          <button class="btn cremas" data-filter='cremas-y-sopas'>Cremas y sopas</button>
+          <button class="btn arroz" data-filter='arroz-y-pasta'>Arroz y pasta</button>
+          <button class="btn legumbres" data-filter='legumbres'>Legumbres</button>
+          <button class="btn huevos" data-filter='huevos'>Huevos</button>
+          <button class="btn carnes" data-filter='carnes'>Carnes</button>
+          <button class="btn pescados" data-filter='pescados'>Pescados</button>
+          <button class="btn postres" data-filter='postres'>Postres</button>
+          <button class="btn pan" data-filter='pan-y-masas'>Pan y masas</button>
+      </div>
     </div>
     <div class="results">
       <ul id="results-container-mobile"></ul>
