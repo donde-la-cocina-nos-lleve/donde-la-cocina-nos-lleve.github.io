@@ -4,7 +4,7 @@ permalink: /:title/
 title: "Donde la cocina nos lleve"
 description: "Blog de cocina de Bernardo I. García de la Torre y Teresa Hidalgo"
 lang: "es_ES"
-paginate: 15
+paginate: 12
 baseurl: ""
 
 url: "https://donde-la-cocina-nos-lleve.github.io"

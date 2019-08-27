@@ -1,0 +1,14 @@
+- name: recetas
+  slug: Recetas
+- name: cocina-viajera
+  slug: Cocina viajera
+- name: historias
+  slug: Historias
+- name: mercados
+  slug: Mercados
+- name: tecnicas
+  slug: Técnicas
+- name: visitas
+  slug: Visitas
+- name: libros
+  slug: Libros

@@ -1,6 +1,6 @@
 ---
-layout: tagpage
+layout: category
 title: "Visitas"
-tag: visitas
+tag: Visitas
 --- 
  

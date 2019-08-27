@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: category
 title: "Libros"
-tag: libros
+tag: Libros
 --- 

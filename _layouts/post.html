@@ -10,19 +10,9 @@ layout: default
   {% assign autor = site[page.author] %}
   <!--  <span><a href="/autor/{{ page.author }}"> {{ autor.name }}</a></span> -->
   {{ content }}
-<span class="tag_article">
-  {% for category in page.categories %}
-    {% capture category_link %}
-        {% for site_category in site.data.categories %}{% if category == site_category.slug %}{{ site_category.name }}{% endif %}{% endfor %}
-    {% endcapture %}
-    {% assign category_link = category_link | strip %}
-    <a href="/categoria/{{ category_link }}"><code><nobr>{{ category }}</nobr></code></a>
-  {% endfor %}
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
-  {% endfor %}
-</span>
+	
+  {% include tags.html %}
+
 </article>
 
 {% if site.related_posts != empty %}

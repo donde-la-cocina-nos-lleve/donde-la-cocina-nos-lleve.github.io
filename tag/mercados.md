@@ -1,6 +1,6 @@
 ---
-layout: tagpage
+layout: category
 title: "Mercados"
-tag: mercados
+tag: Mercados
 --- 
  

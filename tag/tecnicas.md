@@ -1,6 +1,6 @@
 ---
-layout: tagpage
+layout: category
 title: "Técnicas"
-tag: tecnicas
+tag: Técnicas
 --- 
 

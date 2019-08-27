@@ -1,6 +1,6 @@
 ---
-layout: tagpage
+layout: category
 title: "Historias"
-tag: historias
+tag: Historias
 --- 
  

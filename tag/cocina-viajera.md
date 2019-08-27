@@ -1,6 +1,6 @@
 ---
-layout: tagpage
+layout: category
 title: "Cocina viajera"
-tag: cocina viajera
+tag: Cocina viajera
 --- 
  

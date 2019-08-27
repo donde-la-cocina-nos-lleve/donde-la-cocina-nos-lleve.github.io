@@ -46,6 +46,9 @@
     @include for-tablet-landscape-up {
         grid-template-columns: repeat(3, 1fr);
     }
+    @include for-big-desktop-up {
+        grid-template-columns: repeat(4, 1fr);
+    }
 }
 .post{
     font-family: "Franklin";
