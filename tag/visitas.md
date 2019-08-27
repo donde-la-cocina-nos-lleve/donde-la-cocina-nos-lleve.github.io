@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: tagpage
 title: "Visitas"
 tag: visitas
 --- 
