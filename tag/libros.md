@@ -1,5 +1,5 @@
 ---
 layout: category
 title: "Libros"
-tag: Libros
+tag: libros
 --- 

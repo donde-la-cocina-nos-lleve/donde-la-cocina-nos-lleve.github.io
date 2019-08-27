@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "Recetas"
-tag: Recetas
+tag: recetas
 --- 
  
