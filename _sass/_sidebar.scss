@@ -1,59 +1,63 @@
-.enlace_foto{
-	height:150px;
-	width:100%;
-	margin-bottom:30px;
-	text-align:center;
-	background-position: center;
-    background-size: cover;
-    list-style: none;
-    position: relative;
-    .texto{
-        font-size: 40px;
-		text-transform: uppercase;
-        a{
-            position: absolute;
-            top: 50%;
-            -webkit-transform: translateY(-50%);
-            -ms-transform: translateY(-50%);
-            transform: translateY(-50%);
-            width: 100%;
-            display: block;
-        }
-    }
-    .imagen{
-        height:100%;
-    } 
-    img{
-        width: 100%;
-        object-fit: cover;
-        height: 100%;
-    }
-	a{
-		text-decoration:none !important;
-		color:#fff !important;
-	}
-}
-
-.enlace_foto:hover{
-    h4{
-        color: #827653;
-    }
-}
-
-.alfabetico{
-	background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
-} 
-
-@media (max-width: 500px) {
-
-    .sidebar{
+.sidebar{
+    @include for-phone-only {
         display: none;    
+    }
+
+    .destacados{
+        ul{
+            padding: 0px;
+            .enlace_foto{
+                height:150px;
+                width:100%;
+                margin-bottom:30px;
+                text-align:center;
+                background-position: center;
+                background-size: cover;
+                list-style: none;
+                position: relative;
+                .texto{
+                    font-size: 40px;
+                    text-transform: uppercase;
+                    a{
+                        position: absolute;
+                        top: 50%;
+                        -webkit-transform: translateY(-50%);
+                        -ms-transform: translateY(-50%);
+                        transform: translateY(-50%);
+                        width: 100%;
+                        display: block;
+                    }
+                }
+                .imagen{
+                    height:100%;
+                } 
+                img{
+                    width: 100%;
+                    object-fit: cover;
+                    height: 100%;
+                }
+                a{
+                    text-decoration:none !important;
+                    color:#fff !important;
+                }
+            }
+            .enlace_foto:hover{
+                h4{
+                    color: #827653;
+                }
+            }
+
+            .alfabetico{
+                background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
+            } 
+
+        } 
     } 
 } 
 
 .search-container{
     .filtros{
-      display:none;
+        display:none;
     }
     .btn_filtros{
         border: none;
@@ -68,118 +72,116 @@
         background-image: url(/assets/icons/svg/chevron-up.svg);
     }
     .btn {
-      border: 2px solid #fff;
-      margin:2px;
-      outline: none;
-      padding: 8px 16px;
-      cursor: pointer;
-      border-radius:15px;
+        border: 2px solid #fff;
+        margin:2px;
+        outline: none;
+        padding: 8px 16px;
+        cursor: pointer;
+        border-radius:15px;
     }
     .btn.active, .btn:hover{
         border:2px solid;
     }
     .todos{
-      background-color: #ddd; 
+        background-color: #ddd; 
     }
     .todos:hover, .todos.active{
-      background-color: #fff;
-      border-color: $todos !important;
-      color:$todos;
+        background-color: #fff;
+        border-color: $todos !important;
+        color:$todos;
     }
     .pintxos{
         background-color: $pintxos;
     }
     .pintxos:hover, .pintxos.active{
-      background-color:#fff;
-      border-color: $pintxos !important;
-      color:$pintxos;
+        background-color:#fff;
+        border-color: $pintxos !important;
+        color:$pintxos;
     }
     .verduras{
         background-color: $verduras;
     }
     .verduras:hover, .verduras.active{
-      background-color:#fff;
-      border-color: $verduras !important;
-      color:$verduras;
+        background-color:#fff;
+        border-color: $verduras !important;
+        color:$verduras;
     }
     .cremas{
         background-color: $cremas;
     }
     .cremas:hover, .cremas.active{
-      background-color:#fff;
-      border-color: $cremas !important;
-      color:$cremas;
+        background-color:#fff;
+        border-color: $cremas !important;
+        color:$cremas;
     }
     .arroz{
         background-color: $arroz;
     }
     .arroz:hover, .arroz.active{
-      background-color:#fff;
-      border-color: $arroz !important;
-      color:$arroz;
+        background-color:#fff;
+        border-color: $arroz !important;
+        color:$arroz;
     }
     .legumbres{
         background-color: $legumbres;
     }
     .legumbres:hover, .legumbres.active{
-      background-color:#fff;
-      border-color: $legumbres !important;
-      color:$legumbres;
+        background-color:#fff;
+        border-color: $legumbres !important;
+        color:$legumbres;
     }
     .huevos{
         background-color: $huevos;
     }
     .huevos:hover, .huevos.active{
-      background-color:#fff;
-      border-color: $huevos !important;
-      color:$huevos;
+        background-color:#fff;
+        border-color: $huevos !important;
+        color:$huevos;
     }
     .carnes{
         background-color: $carnes;
     }
     .carnes:hover, .carnes.active{
-      background-color:#fff;
-      border-color: $carnes !important;
-      color:$carnes;
+        background-color:#fff;
+        border-color: $carnes !important;
+        color:$carnes;
     }
     .pescados{
         background-color: $pescados;
     }
     .pescados:hover, .pescados.active{
-      background-color:#fff; 
-      border-color: $pescados !important;
-      color:$pescados;
+        background-color:#fff; 
+        border-color: $pescados !important;
+        color:$pescados;
     }
     .postres{
         background-color: $postres;
     }
     .postres:hover, .postres.active{
-      background-color:#fff;
-      border-color: $postres !important;
-      color:$postres;
+        background-color:#fff;
+        border-color: $postres !important;
+        color:$postres;
     }
     .pan{
         background-color: $pan;
     }
     .pan:hover, .pan.active{
-      background-color:#fff;
-      border-color: $pan !important;
-      color:$pan;
+        background-color:#fff;
+        border-color: $pan !important;
+        color:$pan;
     }
 }
 .results{
     padding: 20px;
-    
+
     .objeto_resultado {
-      display: none;
+        display: none;
     }
 
     ul{
         padding-left: 0px;
         list-style: none;
-        li:nth-child(n+11) {
-           display: none; 
-        }
+
         li{
             padding: 5px;
             margin-bottom: 10px;

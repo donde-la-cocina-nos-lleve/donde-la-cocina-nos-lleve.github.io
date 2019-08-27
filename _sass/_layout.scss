@@ -3,47 +3,46 @@
 // Styles for managing the structural hierarchy of the site.
 
 .container {
-  max-width: 50rem;
-  padding-left:  1.5rem;
-  padding-right: 1.5rem;
-  margin-left:  auto;
-  margin-right: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+    @include for-tablet-portrait-up {
+        width: 90%;
+    }
+    @include for-big-desktop-up {
+        width: 80%;
+    }
 }
 
-footer {
-  margin-bottom: 2rem;
+.header {
+    grid-area: header;
 }
-
-.container {
-  display: grid;
-  grid-gap: 20px;
-  grid-template-areas: 
+.main-content {
+    grid-area: content;
+}
+.sidebar {
+    grid-area: sidebar;
+}
+.footer {
+    grid-area: footer;
+}
+.content {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-areas: 
     "header"
     "content"
     "sidebar"
     "footer";
-}
 
-.header {
-  grid-area: header;
-}
-.main-content {
-  grid-area: content;
-}
-.sidebar {
-  grid-area: sidebar;
-}
-.footer {
-  grid-area: footer;
-}
-@media (min-width: 500px) {
-  .container {
-    max-width: 80%;
-    grid-template-columns: 3fr 1fr;
-    grid-template-areas: 
-      "header  header"
-      "content sidebar"
-      "footer  footer";
-  }
+    @include for-tablet-portrait-up {
+        grid-template-columns: 3fr 1fr;
+        grid-template-areas: 
+        "header  header"
+        "content sidebar"
+        "footer  footer";
+    }
 }
 

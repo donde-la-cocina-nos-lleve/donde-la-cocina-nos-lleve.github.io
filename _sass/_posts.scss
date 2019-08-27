@@ -37,11 +37,14 @@
     margin-top: 10px;
 }
 
-@media (min-width: 500px) {
-    .posts{
+.posts{
+    @include for-tablet-portrait-up {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
         grid-gap: 50px;
+    }
+    @include for-tablet-landscape-up {
+        grid-template-columns: repeat(3, 1fr);
     }
 }
 .post{
