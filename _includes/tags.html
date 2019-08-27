@@ -1,14 +1,12 @@
-{{ scope }}
-{% if scope=="page" %}
 <span class="tag_article">
-    {% for category in page.categories %}
+    {% for category in include.scope.categories %}
     {% capture category_link %}
     {% for site_category in site.data.categories %}{% if category == site_category.slug %}{{ site_category.name }}{% endif %}{% endfor %}
     {% endcapture %}
     {% assign category_link = category_link | strip %}
     <a href="/categoria/{{ category_link }}"><code><nobr>{{ category }}</nobr></code></a>
     {% endfor %}
-    {% for tag in page.tags %}
+    {% for tag in include.scope.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     {% capture tag_link %}
     {% for site_tag in site.data.tags %}{% if tag == site_tag.slug %}{{ site_tag.name }}{% endif %}{% endfor %}
@@ -17,22 +15,3 @@
     <a href="/tag/{{ tag_link }}"><code><nobr>{{ tag_name }}</nobr></code></a>
     {% endfor %}
 </span>
-{% else %}
-<span class="tag_article">
-    {% for category in post.categories %}
-    {% capture category_link %}
-    {% for site_category in site.data.categories %}{% if category == site_category.slug %}{{ site_category.name }}{% endif %}{% endfor %}
-    {% endcapture %}
-    {% assign category_link = category_link | strip %}
-    <a href="/categoria/{{ category_link }}"><code><nobr>{{ category }}</nobr></code></a>
-    {% endfor %}
-    {% for tag in post.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    {% capture tag_link %}
-    {% for site_tag in site.data.tags %}{% if tag == site_tag.slug %}{{ site_tag.name }}{% endif %}{% endfor %}
-    {% endcapture %}
-    {% assign tag_link = tag_link | strip %}
-    <a href="/tag/{{ tag_link }}"><code><nobr>{{ tag_name }}</nobr></code></a>
-    {% endfor %}
-</span>
-{% endif %}
