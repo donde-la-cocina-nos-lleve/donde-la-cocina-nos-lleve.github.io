@@ -5,35 +5,38 @@
 .header {
 
     font-family: "Futura";
-    
 
     @include for-phone-only {
+
         h1{
-          margin: 0 auto;
-          width:70%;
+            margin: 0 auto;
+            width:70%;
         }
         .header-nav{
+            display: none;
+        }
+        .header-nav-mobile{
             list-style: none;
             li button{
-              display: block;
-              position: absolute;
-              top: 30px; 
-              background-repeat:no-repeat;
-              background-color: transparent;
-              background-size: 100%;
-              padding:0px;
-              border:none;
-              height:30px;
-              width:30px;
+                display: block;
+                position: absolute;
+                top: 30px; 
+                background-repeat:no-repeat;
+                background-color: transparent;
+                background-size: 100%;
+                padding:0px;
+                border:none;
+                height:30px;
+                width:30px;
             }
             .boton-menu{
-              left:10px;
-              background-image:url(/assets/icons/svg/menu.svg);
+                left:10px;
+                background-image:url(/assets/icons/svg/menu.svg);
 
             }
             .boton-buscar{
-              right: 10px;
-              background-image:url(/assets/icons/svg/search.svg);
+                right: 10px;
+                background-image:url(/assets/icons/svg/search.svg);
             } 
         }
         .menu_abierto{
@@ -51,16 +54,16 @@
             ul{
                 list-style: none;
                 li{
-                  font-size: 20px;
-                  text-transform: uppercase;
-                  padding: 10px 0px;
-                  a{
-                    color:#fff;
-                  }
+                    font-size: 20px;
+                    text-transform: uppercase;
+                    padding: 10px 0px;
+                    a{
+                        color:#fff;
+                    }
                 }
             }
             .boton_cerrar{
-              right: 10px;
+                right: 10px;
             }
         }
         .menu_cerrado{
@@ -79,7 +82,7 @@
             width:85%;
             height: 100%;
             .boton_cerrar{
-              left: 10px;
+                left: 10px;
             }
             .search-container{
                 background-color: $color_corporativo;
@@ -96,6 +99,18 @@
                     height: 40px;
                     border: none;
                 }
+                .btn_filtros{
+                    background-image: url(/assets/icons/svg/chevron-down-white.svg);
+                    background-position: 140px 10px;
+                    font-size: 20px;
+                    color: white;
+                }
+                .btn_filtros.active{
+                    background-image: url(/assets/icons/svg/chevron-up-white.svg);
+                }
+                .btn{
+                    border: 2px solid $color_corporativo;
+                } 
             }
             .results{
                 padding: 20px;
@@ -146,24 +161,54 @@
 }
 @include for-tablet-portrait-up {
     .header{
-        .header-nav, .menu_cerrado, .buscar_cerrado{
+        .header-nav-mobile, .menu_cerrado, .buscar_cerrado{
             display: none;
         }
+
+        display: flex;
+        overflow: hidden;
+        background-color: #fff;
+    }
+    .sticky {
+        position: fixed;
+        .masthead-title{
+            width:350px;
+            height:120px;
+        }
+    }
+
+    .sticky + .main-content {
+        padding-top: 60px;
+    }
+    .masthead-title {
+        width: 550px;
+        height: 200px;
+        display: inline-block;
+        margin-top: 0;
+        margin-bottom: 0;
+        color: $gray-4;
+
+        a {
+            color: inherit;
+        }
+
+        small {
+            font-size: 75%;
+            font-weight: 400;
+            opacity: .5;
+        }
+    }
+
+    .header-nav{
+        display: inline-block;
+
+        ul{
+            list-style: none;
+            display: flex;
+            li{
+                padding:10px; 
+            }
+        }     
+
     }
 }
-.masthead-title {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: $gray-4;
-
-  a {
-    color: inherit;
-  }
-
-  small {
-    font-size: 75%;
-    font-weight: 400;
-    opacity: .5;
-  }
-}
-
