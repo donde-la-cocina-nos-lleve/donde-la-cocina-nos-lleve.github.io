@@ -4,7 +4,7 @@
     @include for-tablet-portrait-up {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        grid-gap: 50px;
+        grid-gap: 20px;
     }
     @include for-tablet-landscape-up {
         grid-template-columns: repeat(3, 1fr);
@@ -45,8 +45,12 @@
     display: block;
     margin-top: 10px;
     a{
-        margin: 5px;
-        display: block;
+        margin: 5px 0px;
+        display: inline-block;
+
+        @include for-phone-only {
+            margin: 10px 0px;
+        }
     }
     code {
         padding: 5px 10px;
