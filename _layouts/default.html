@@ -11,25 +11,25 @@
         </script>
         <header id="header" class="header">
             <div class="container">
-            <h1 class="masthead-title">
-                <a href="{{ site.baseurl }}/" title="Home"><img src="/assets/icons/cabecera.jpg" alt="Imagen cabecera"/><span class="sr-only">{{ site.title }}</span></a>
-            </h1>
-            <nav class="header-nav">
-                <ul>
-                    <li><a href="">Recetas</a></li>
-                    <li><a href="/tag/cocina-viajera/">Cocina viajera </a></li>
-                    <li><a href="/tag/libros/">Libros</a></li>
-                    <li><a href="/tag/historias/">Historias</a></li>
-                    <li><a href="/tag/mercados/">Mercados</a></li>
-                    <li><a href="/tag/tecnicas/">Técnicas</a></li>
-                </ul>
-            </nav>
+                <h1>
+                    <a href="{{ site.baseurl }}/" title="Home"><img src="/assets/icons/cabecera.jpg" alt="Imagen cabecera"/><span class="sr-only">{{ site.title }}</span></a>
+                </h1>
+                <nav class="header-nav">
+                    <ul>
+                        <li><a href="">Recetas</a></li>
+                        <li><a href="/tag/cocina-viajera/">Cocina viajera </a></li>
+                        <li><a href="/tag/libros/">Libros</a></li>
+                        <li><a href="/tag/historias/">Historias</a></li>
+                        <li><a href="/tag/mercados/">Mercados</a></li>
+                        <li><a href="/tag/tecnicas/">Técnicas</a></li>
+                    </ul>
+                </nav>
             </div>
             {% include nav_header_movil.html %}
         </header>
         <div class="container content">
             <main class="main-content">
-            {{ content }}
+                {{ content }}
             </main>
 
             {% include sidebar.html %}
@@ -37,7 +37,6 @@
             {% include footer.html %}
             <script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
             <script src="{{ site.baseurl }}/assets/js/search.js"></script>
-            <!--<script src="{{ site.baseurl }}/assets/js/search-mobile.js"></script>-->
             <script src="{{ site.baseurl }}/assets/js/navegacion.js"></script>
         </div>
     </body>

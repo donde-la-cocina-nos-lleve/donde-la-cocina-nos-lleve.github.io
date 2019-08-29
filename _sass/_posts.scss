@@ -1,41 +1,4 @@
-// Posts and pages
-//
-// Each post is wrapped in `.post` and is used on default and post layouts. Each
-// page is wrapped in `.page` and is only used on the page layout.
-
-.page,
-.post {
-  margin-bottom: 4em;
-
-  li + li {
-    margin-top: .25rem;
-  }
-}
-
-// Blog post or page title
-.page-title,
-.post-title,
-.post-title a {
-  color: #303030;
-}
-.page-title,
-.post-title {
-  margin-top: 0;
-}
-
-// Meta data line below post title
-.post-date {
-  display: block;
-  margin-top: -.5rem;
-  margin-bottom: 1rem;
-  color: #595959;
-}
-
-//tags
-.tag_article{
-    display: block;
-    margin-top: 10px;
-}
+//Estilos de la vista de lista de posts, el post, las tags, comentarios y posts relacionados
 
 .posts{
     @include for-tablet-portrait-up {
@@ -50,51 +13,86 @@
         grid-template-columns: repeat(4, 1fr);
     }
 }
+
 .post{
     font-family: "Franklin";
-    .post-title{
-        font-size: 20px;
-        font-family: "Times New Roman", Times, serif;
-    }
-        
+    margin-bottom: 20px;
+
     .post_image{
         width: 100%;
         height: 200px;
         object-fit: cover;
     }
+
+    .post-title{
+        margin-bottom: 5px;
+        font-size: 20px;
+        font-family: "Times New Roman", Times, serif;
+        a{
+            color: #303030;
+        }
+    }
+
+    .post-date {
+        display: block;
+        color: #595959;
+        margin-bottom:10px;
+    }
 }
 
-// Related posts
+
+.tag_article{
+    display: block;
+    margin-top: 10px;
+    code {
+        padding: 5px 10px;
+        font-size: 18px;
+        color: $color_corporativo;
+        background-color: #fdf0f0;
+        border-radius: 5px; padding: .25em .5em;
+    }
+}
+
+.comentarios{
+    fieldset{
+        border: none;    
+    }
+    .comentario{
+        .datos{
+            border-bottom: 2px solid;
+        }
+        .nombre{
+            font-weight: 600;
+            color: #313131;
+        }
+        .fecha a{
+            color: #515151;
+        }
+    }
+}
+
 .related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  margin-bottom: 2rem;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
 }
 
 .related-posts {
-  padding-left: 0;
-  list-style: none;
+    padding-left: 0;
+    list-style: none;
 
-  h3 {
-    margin-top: 0;
-  }
+    li {
+        padding: 5px 0px;
+        small {
+            font-size: 75%;
+            color: #6B6B6B;
+        }
 
-  li {
-    padding: 5px 0px;
-    small {
-      font-size: 75%;
-      color: #6B6B6B;
+        a:hover {
+            text-decoration: none;
+
+            small {
+                color: inherit;
+            }
+        }
     }
-
-    a:hover {
-      color: #268bd2;
-      text-decoration: none;
-
-      small {
-        color: inherit;
-      }
-    }
-  }
 }

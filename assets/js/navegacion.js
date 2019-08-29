@@ -1,35 +1,27 @@
-function abrirMenu() {
-  document.getElementById("sidebar_menu").className = "menu_abierto";
+function toggleMenu() {
+  document.getElementById("sidebar_menu").classList.toggle("hide");
 }
 
-function cerrarMenu() {
-  document.getElementById("sidebar_menu").className = "menu_cerrado";
-}
-
-function abrirBusqueda() {
-  document.getElementById("sidebar_buscar").className = "buscar_abierto";
-}
-
-function cerrarBusqueda() {
-  document.getElementById("sidebar_buscar").className = "buscar_cerrado";
+function toggleBusqueda() {
+  document.getElementById("sidebar_buscar").classList.toggle("hide");
 }
 
 var btn_abrir_menu = document.getElementById('boton-menu');
 btn_abrir_menu.addEventListener('click', function(event) {
-    abrirMenu();
+    toggleMenu();
 });
 
 var btn_cerrar_menu = document.getElementById('boton-cerrar-menu');
 btn_cerrar_menu.addEventListener('click', function(event) {
-    cerrarMenu();
+    toggleMenu();
 });
 
 var btn_abrir_buscar = document.getElementById('boton-buscar');
 btn_abrir_buscar.addEventListener('click', function(event) {
-    abrirBusqueda();
+    toggleBusqueda();
 });
 
 var btn_cerrar_buscar = document.getElementById('boton-cerrar-buscar');
 btn_cerrar_buscar.addEventListener('click', function(event) {
-    cerrarBusqueda();
+    toggleBusqueda();
 });

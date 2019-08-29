@@ -1,13 +1,7 @@
-// Masthead
-//
-// Super small header above the content for site name and short description.
+//Header que incluye la navegación superior en móvil, con ambos sidebars
 
 .header {
-
-    font-family: "Futura";
-
     @include for-phone-only {
-
         h1{
             margin: 0 auto;
             width:70%;
@@ -39,7 +33,7 @@
                 background-image:url(/assets/icons/svg/search.svg);
             } 
         }
-        .menu_abierto{
+        .menu{
             display: block;
             position: fixed;
             left: 0;
@@ -66,10 +60,7 @@
                 right: 10px;
             }
         }
-        .menu_cerrado{
-            display: none;
-        }
-        .buscar_abierto{
+        .buscar{
             display: block;
             position: fixed;
             right: 0;
@@ -141,9 +132,6 @@
                 }
             }
         }
-        .buscar_cerrado{
-            display: none;
-        }
         .boton_cerrar{
             display: block;
             position: absolute;
@@ -158,9 +146,7 @@
             width:40px;
         }
     }
-}
-@include for-tablet-portrait-up {
-    .header{
+    @include for-tablet-portrait-up {
         .header-nav-mobile, .menu_cerrado, .buscar_cerrado{
             display: none;
         }
@@ -168,47 +154,28 @@
         display: flex;
         overflow: hidden;
         background-color: #fff;
-    }
-    .sticky {
-        position: fixed;
-        .masthead-title{
-            width:350px;
-            height:120px;
-        }
-    }
 
-    .sticky + .main-content {
-        padding-top: 60px;
-    }
-    .masthead-title {
-        width: 550px;
-        height: 200px;
-        display: inline-block;
-        margin-top: 0;
-        margin-bottom: 0;
-        color: $gray-4;
+        h1{
+            display: inline-block;
+            margin-top: 0;
+            margin-bottom: 0;
+            color: $gray-4;
+            width: 550px;
+            height: 200px;
 
-        a {
-            color: inherit;
-        }
-
-        small {
-            font-size: 75%;
-            font-weight: 400;
-            opacity: .5;
-        }
-    }
-
-    .header-nav{
-        display: inline-block;
-
-        ul{
-            list-style: none;
-            display: flex;
-            li{
-                padding:10px; 
+            a {
+                color: inherit;
             }
-        }     
-
+        }
+        .header-nav{
+            display: inline-block;
+            ul{
+                display: flex;
+                list-style: none;
+                li{
+                    padding:10px; 
+                }
+            }     
+        }
     }
 }

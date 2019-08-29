@@ -16,19 +16,10 @@ sass:
   style:            :compressed
 
 
-# Authors:
-bernardo:
-  name: Bernardo I. García de la Torre
-  image: /assets/authors/bernardo.jpg
-teresa:
-  name: Teresa Hidalgo Gutiérrez
-  image: /assets/authors/teresa.jpg
-
 # Categories:
 collections:
   category:
     output: true
-
 
 # Staticman:
 repository: "donde-la-cocina-nos-lleve/donde-la-cocina-nos-lleve.github.io"

@@ -1,20 +1,4 @@
-// Layout
-//
-// Styles for managing the structural hierarchy of the site.
-
-.container {
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-
-    @include for-tablet-portrait-up {
-        width: 90%;
-    }
-    @include for-big-desktop-up {
-        width: 80%;
-    }
-}
+// Layout general que organiza los elementos con grid
 
 .header {
     grid-area: header;

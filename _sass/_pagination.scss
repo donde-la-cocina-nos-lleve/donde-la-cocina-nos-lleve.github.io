@@ -1,56 +1,38 @@
-// Pagination
-//
-// Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
-// there are no more previous or next posts to show.
-
+//Paginación
 .pagination {
-  overflow: hidden; // clearfix
-  margin: 0 -1.5rem 1rem;
-  color: #757575;
-  text-align: center;
+    color: #757575;
+    text-align: center;
+
+    a.pagination-item {
+        background-color: $color_corporativo;
+        &:hover {
+            background-color: #f5f5f5;
+        }
+    }
+    span.pagination-item{
+        background-color: #D6D6D6;
+    }
+
+    .pagination-item {
+        float:left;
+        width: 50px;
+        height: 50px;
+        background-repeat: no-repeat;
+        background-size: 50%;
+        background-position: center;
+
+        &:first-child {
+            background-image: url(/assets/icons/svg/chevron-left-white.svg);
+        }
+        &:last-child {
+            background-image: url(/assets/icons/svg/chevron-right-white.svg);
+            float:right;
+        }
+    }
 
     .numero_paginas{
-         line-height: 50px; 
+        line-height: 50px; 
     }
 
 }
 
-.pagination-item {
-    float: left;
-    display: block;
-    height: 50px;
-    width: 50px;
-    color: white;
-}
-
-a.pagination-item:hover {
-  background-color: #f5f5f5;
-}
-a.pagination-item{
-    background-color: $color_corporativo;
-}
-span.pagination-item{
-    background-color: #D6D6D6;
-}
-
-
-.pagination {
-    margin: 3rem 0;
-}
-
-.pagination-item {
-    float:left;
-    width: 50px;
-    height: 50px;
-    background-repeat: no-repeat;
-    background-size: 50%;
-    background-position: center;
-
-    &:first-child {
-        background-image: url(/assets/icons/svg/chevron-left-white.svg);
-    }
-    &:last-child {
-        background-image: url(/assets/icons/svg/chevron-right-white.svg);
-        float:right;
-    }
-}
