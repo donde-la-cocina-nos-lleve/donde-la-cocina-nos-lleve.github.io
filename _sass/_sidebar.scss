@@ -86,91 +86,92 @@
     }
     .todos{
         background-color: #ddd; 
-    }
-    .todos:hover, .todos.active{
-        background-color: #fff;
-        border-color: $todos !important;
-        color:$todos;
+
+        &.active{
+            background-color: #fff;
+            border-color: $todos !important;
+            color:$todos;
+        }
     }
     .pintxos{
         background-color: $pintxos;
-    }
-    .pintxos:hover, .pintxos.active{
-        background-color:#fff;
-        border-color: $pintxos !important;
-        color:$pintxos;
+        &.active{
+            background-color:#fff;
+            border-color: $pintxos !important;
+            color:$pintxos;
+        }
     }
     .verduras{
         background-color: $verduras;
-    }
-    .verduras:hover, .verduras.active{
-        background-color:#fff;
-        border-color: $verduras !important;
-        color:$verduras;
+        &.active{
+            background-color:#fff;
+            border-color: $verduras !important;
+            color:$verduras;
+        }
     }
     .cremas{
         background-color: $cremas;
-    }
-    .cremas:hover, .cremas.active{
-        background-color:#fff;
-        border-color: $cremas !important;
-        color:$cremas;
+        &.active{
+            background-color:#fff;
+            border-color: $cremas !important;
+            color:$cremas;
+        }
     }
     .arroz{
         background-color: $arroz;
-    }
-    .arroz:hover, .arroz.active{
-        background-color:#fff;
-        border-color: $arroz !important;
-        color:$arroz;
+        &.active{
+            background-color:#fff;
+            border-color: $arroz !important;
+            color:$arroz;
+        }
     }
     .legumbres{
         background-color: $legumbres;
-    }
-    .legumbres:hover, .legumbres.active{
-        background-color:#fff;
-        border-color: $legumbres !important;
-        color:$legumbres;
+        &.active{
+            background-color:#fff;
+            border-color: $legumbres !important;
+            color:$legumbres;
+        }
     }
     .huevos{
         background-color: $huevos;
-    }
-    .huevos:hover, .huevos.active{
-        background-color:#fff;
-        border-color: $huevos !important;
-        color:$huevos;
+        &.active{
+            background-color:#fff;
+            border-color: $huevos !important;
+            color:$huevos;
+        }
     }
     .carnes{
         background-color: $carnes;
-    }
-    .carnes:hover, .carnes.active{
-        background-color:#fff;
-        border-color: $carnes !important;
-        color:$carnes;
+        &.active{
+            background-color:#fff;
+            border-color: $carnes !important;
+            color:$carnes;
+        }
     }
     .pescados{
         background-color: $pescados;
-    }
-    .pescados:hover, .pescados.active{
-        background-color:#fff; 
-        border-color: $pescados !important;
-        color:$pescados;
+        &.active{
+            background-color:#fff; 
+            border-color: $pescados !important;
+            color:$pescados;
+        }
     }
     .postres{
         background-color: $postres;
-    }
-    .postres:hover, .postres.active{
-        background-color:#fff;
-        border-color: $postres !important;
-        color:$postres;
+        &.active{
+            background-color:#fff;
+            border-color: $postres !important;
+            color:$postres;
+        }
     }
     .pan{
         background-color: $pan;
-    }
-    .pan:hover, .pan.active{
-        background-color:#fff;
-        border-color: $pan !important;
-        color:$pan;
+        &.active{
+            background-color:#fff;
+            border-color: $pan !important;
+            color:$pan;
+        }
     }
 }
 .results{

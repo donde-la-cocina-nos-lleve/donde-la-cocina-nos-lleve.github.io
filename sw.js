@@ -12,8 +12,8 @@ var URLS = [
 //network first then cache
 self.addEventListener('fetch', function (e) {
   e.respondWith(
-    fetch(event.request).catch(function() {
-      return caches.match(event.request);
+    fetch(e.request).catch(function() {
+      return caches.match(e.request);
     })
   );
 });
