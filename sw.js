@@ -14,7 +14,7 @@ self.addEventListener('fetch', function (e) {
   e.respondWith(
     fetch(event.request).catch(function() {
       return caches.match(event.request);
-    });
+    })
   );
 });
 
@@ -22,10 +22,10 @@ self.addEventListener('fetch', function (e) {
 self.addEventListener('install', function (e) {
   e.waitUntil(
     caches.open(CACHE_NAME).then(function (cache) {
-      return cache.addAll(URLS)
+      return cache.addAll(URLS);
     })
-  )
-})
+  );
+});
 
 // Delete outdated caches
 self.addEventListener('activate', function (e) {
