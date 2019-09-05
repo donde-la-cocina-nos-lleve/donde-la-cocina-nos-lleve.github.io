@@ -15,52 +15,50 @@ layout: default
 
 </article>
 
-{% if site.related_posts != empty %}
 <aside class="related">
   <h3>Recetas relacionadas</h3>
 
-{% assign maxRelated = 4 %}
-{% assign minCommonTags =  2 %}
-{% assign maxRelatedCounter = 0 %}
-
+  {% assign maxRelated = 4 %}
+  {% assign minCommonTags =  1 %}
+  {% assign maxRelatedCounter = 0 %}
+  {% assign randomPosts = site.posts | sample: site.posts.size %}
   <ul class="related-posts">
-{% for post in site.posts %}
 
-    {% assign sameTagCount = 0 %}
-    {% assign commonTags = '' %}
+      {%- for post in randomPosts -%}
 
-    {% for category in post.categories %}
+      {% assign sameTagCount = 0 %}
+
+      {%- for category in post.categories -%}
       {% if post.url != page.url %}
-        {% if page.categories contains category %}
-          {% assign sameTagCount = sameTagCount | plus: 1 %}
-        {% endif %}
+      {% if page.categories contains category %}
+      {% assign sameTagCount = sameTagCount | plus: 1 %}
       {% endif %}
-    {% endfor %}
+      {% endif %}
+      {%- endfor -%}
 
-    {% if sameTagCount >= minCommonTags %}
+      {% if sameTagCount >= minCommonTags %}
       <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small>{% include fecha.html %}</small>
-        </a>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+              {{ post.title }}
+              <small>{% include fecha.html %}</small>
+          </a>
       </li>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
-        {% break %}
+      {% break %}
       {% endif %}
-    {% endif %}
+      {% endif %}
 
-  {% endfor %}
+      {%- endfor -%}
   </ul>
 </aside>
-{% endif %}
 {% include comments.html %}
 
 <script>
     var post_article=document.getElementsByTagName("article")[0];
-    for (i = 0; i < post_article.getElementsByTagName("img").length; i++) {
-        if(post_article.getElementsByTagName("img")[i].getAttribute("alt")==null){
-            post_article.getElementsByTagName("img")[i].setAttribute("alt","{{ page.title }}"+i);
-        }
+for (i = 0; i < post_article.getElementsByTagName("img").length; i++) {
+    if(post_article.getElementsByTagName("img")[i].getAttribute("alt")==null){
+        post_article.getElementsByTagName("img")[i].setAttribute("alt","{{ page.title }}"+i);
     }
+}
 </script>
