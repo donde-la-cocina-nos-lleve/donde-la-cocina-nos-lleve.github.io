@@ -5,6 +5,13 @@ var URLS = [
     '/offline.html',
     '/styles.css',
     '/assets/icons/cabecera.jpg',
+    '/assets/icons/svg/menu.svg',
+    '/assets/icons/svg/search.svg',
+    '/assets/icons/svg/close.svg',
+    '/assets/icons/svg/chevron-left-white.svg',
+    '/assets/icons/svg/chevron-right-white.svg',
+    '/assets/fonts/Franklin-Gothic-ITC-Book-BT.ttf',
+    '/assets/fonts/FuturaMediumBT.ttf',
     '/assets/js/simple-jekyll-search.js',
     '/assets/js/navegacion.js',
     '/assets/js/search.js'

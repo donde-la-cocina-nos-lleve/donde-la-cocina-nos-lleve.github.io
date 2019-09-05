@@ -1,31 +1,30 @@
 <h3>Deja tu comentario</h3>
 <form id="comment-form" method="post" action="https://dev.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments">
-  <fieldset>
-    <label for="comment-form-message">Comentario</label>
-    <textarea type="text" rows="3" id="comment-form-message" name="fields[message]" ></textarea>
-  </fieldset>
-  <fieldset>
-    <label for="comment-form-name">Nombre</label>
-    <input type="text" id="comment-form-name" name="fields[name]"  />
-  </fieldset>
-  <fieldset>
-    <label for="comment-form-email">Email</label>
-    <input type="email" id="comment-form-email" name="fields[email]" />
-  </fieldset>
-  <fieldset class="hidden" style="display:none;">
-    <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
-  </fieldset>
-  <fieldset>
+    <div class="grupo_form">
+        <label for="comment-form-name">Nombre
+            <input type="text" id="comment-form-name" name="fields[name]"  />
+        </label>
+        <label for="comment-form-email">Email
+            <input type="email" id="comment-form-email" name="fields[email]" />
+        </label>
+    </div>
+    <div class="grupo_form">
+        <label for="comment-form-message">Comentario
+            <textarea type="text" rows="3" id="comment-form-message" name="fields[message]" ></textarea>
+        </label>
+    </div>
+    <div style="display:none;">
+        <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
+    </div>
     <button type="submit" id="comment-form-submit">Enviar</button>
-  </fieldset>
-  <div class="aviso hidden">
-    <p class="aviso_texto"></p>
-  </div>
+    <div class="aviso hidden">
+        <p class="aviso_texto"></p>
+    </div>
 </form>
 <script> 
 
     var form=document.getElementById("comment-form");
-    form.addEventListener("submit", function(evt){
+form.addEventListener("submit", function(evt){
     evt.preventDefault();
 
     var url="https://dev.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments"
@@ -39,32 +38,32 @@
         method:'POST',
         body:data
     })
-    .then(response => response.json())
-    .then(function(json) { 
-        console.log(json["success"]);
-        if(json["success"]){
+        .then(response => response.json())
+        .then(function(json) { 
+            console.log(json["success"]);
+            if(json["success"]){
+                showAlert(
+                    "Gracias por su comentario. Pendiente de moderación"
+                );
+            }
+            else{
+                showAlert(
+                    "Ha habido un error al enviar su comentario, vuelva a intentarlo."
+                );
+            }
+        })
+        .catch(function(error) { 
+            console.log(error);
             showAlert(
-              "Gracias por su comentario. Pendiente de moderación"
-            );
-        }
-        else{
-            showAlert(
-              "Ha habido un error al enviar su comentario, vuelva a intentarlo."
-            );
-        }
-    })
-    .catch(function(error) { 
-        console.log(error);
-        showAlert(
-          "Ha habido un error al enviar su comentario, vuelva a intentarlo."
-        );});
+                "Ha habido un error al enviar su comentario, vuelva a intentarlo."
+            );});
     return false;
-  });
+});
 
-  function showAlert(message) {
+function showAlert(message) {
     var aviso_div=document.querySelectorAll("#comment-form .aviso")[0];
     var aviso_p=document.querySelectorAll("#comment-form .aviso_texto")[0];
     aviso_div.classList.remove("hidden");
     aviso_p.innerHTML=message;
-  }
+}
 </script>
