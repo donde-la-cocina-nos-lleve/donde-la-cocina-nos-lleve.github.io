@@ -88,10 +88,13 @@
         border-radius: 2px;
     }
 
+    .grupo_form{
+        margin-bottom: 10px;
+    }
+
     @include for-tablet-landscape-up {
         .grupo_form{
             display: flex;
-            margin-bottom: 10px;
             label{
                 padding-right: 10px;
             }
