@@ -4,6 +4,7 @@ var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [
     '/offline.html',
     '/styles.css',
+    '/assets/icons/cabecera.jpg',
     '/assets/js/simple-jekyll-search.js',
     '/assets/js/navegacion.js',
     '/assets/js/search.js'
@@ -13,7 +14,13 @@ var URLS = [
 self.addEventListener('fetch', function (e) {
     e.respondWith(
         fetch(e.request).catch(function() {
-            return caches.match(e.request) ||  caches.match('offline.html');
+            return caches.match(e.request)
+                .then(function(res){
+                    if (res === undefined) { 
+                        return caches.match('offline.html');
+                    } 
+                    return res;
+                })
         })
     );
 });
