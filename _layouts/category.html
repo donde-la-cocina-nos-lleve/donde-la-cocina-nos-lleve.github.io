@@ -19,7 +19,7 @@ layout: default
     </h3>
 
   <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
-	{% include fecha.html %}
+	{% include fecha.html scope=page%}
   </time>
 
   {% include tags.html scope=post %}

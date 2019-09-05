@@ -5,7 +5,7 @@ layout: default
 <article class="post">
   <h2 class="post-title">{{ page.title }}</h2>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
-      {% include fecha.html %}
+      {% include fecha.html scope=page%}
   </time>
   {% assign autor = site[page.author] %}
   <!--  <span><a href="/autor/{{ page.author }}"> {{ autor.name }}</a></span> -->
@@ -40,7 +40,7 @@ layout: default
       <li>
           <a href="{{ site.baseurl }}{{ post.url }}">
               {{ post.title }}
-              <small>{% include fecha.html %}</small>
+              <small>{% include fecha.html scope=post%}</small>
           </a>
       </li>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
