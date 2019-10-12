@@ -61,17 +61,49 @@
     .filtros{
         display:none;
     }
-    .btn_filtros{
-        border: none;
-        background-color: transparent;
-        background-image: url(/assets/icons/svg/chevron-down.svg);
-        background-repeat: no-repeat;
-        background-position: 100px 4px;
-        padding: 5px;
-        padding-right: 30px;
+    .toggle-label {
+        font-size: 16px;
+        padding: 10px 0px;
+        cursor: pointer;
+        display: block;
+        @include for-phone-only {
+            color:#fff;
+        }
+        &:after {
+            content: " ";
+            float: right;
+            border: 8px solid transparent;
+            border-top-color: #000;
+            margin-top: 8px;
+            @include for-phone-only {
+                border-top-color: #fff;
+            }
+        }
     }
-    .btn_filtros.active{
-        background-image: url(/assets/icons/svg/chevron-up.svg);
+
+    .toggle-input {
+        display: none;
+
+        &:not(checked) ~ .toggle-content {
+            display: none; //Hide content
+        }
+    }
+
+    .toggle-input:checked {
+        ~ .toggle-content {
+            display: block;
+        }
+
+        ~ .toggle-label {
+            &:after {
+                border: 8px solid transparent;
+                border-bottom-color: #000;
+                margin-top: 0;
+                @include for-phone-only {
+                    border-bottom-color: #fff;
+                }
+            }
+        }
     }
     .btn {
         border: 2px solid #fff;
@@ -81,7 +113,7 @@
         cursor: pointer;
         border-radius:15px;
     }
-    .btn.active, .btn:hover{
+    .btn.active{
         border:2px solid;
     }
     .todos{
@@ -208,4 +240,3 @@
         }
     }
 }
-

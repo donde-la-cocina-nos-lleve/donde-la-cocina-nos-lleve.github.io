@@ -79,7 +79,7 @@
                 background-color: $color_corporativo;
                 padding: 60px 20px 30px 20px;
                 box-shadow: 0px 1px 10px 0px;
-                label{
+                .label_buscar{
                     font-size: 40px;
                     text-transform: uppercase;
                     color: white;
@@ -89,16 +89,6 @@
                     font-size: 15px;
                     height: 40px;
                     border: none;
-                }
-                .btn_filtros{
-                    background-image: url(/assets/icons/svg/chevron-down-white.svg);
-                    background-position: 130px 5px;
-                    font-size: 20px;
-                    color: white;
-                    margin-top: 10px;
-                }
-                .btn_filtros.active{
-                    background-image: url(/assets/icons/svg/chevron-up-white.svg);
                 }
                 .btn{
                     border: 2px solid $color_corporativo;

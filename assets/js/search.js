@@ -19,15 +19,3 @@ else{
       searchResultTemplate: '<li><a href="{url}"><img src="{thumbnail}"/><p>{title}</p></a></li>'
     })
 }
-function mostrarFiltros(elem){
-  if (elem.className.indexOf("active")>-1) {
-    elem.classList.remove("active");
-  } else {
-    elem.classList.add("active");
-  } 
-  if (div_filtros.className.indexOf("show")>-1) {
-    div_filtros.classList.remove("show");
-  } else {
-    div_filtros.classList.add("show");
-  } 
-}

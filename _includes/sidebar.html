@@ -2,8 +2,10 @@
     <div id="search-container" class="search-container">
         <label for="search-input">Buscar</label>
         <input type="text" id="search-input">
-        <button class="btn_filtros" onclick="mostrarFiltros(this)">Mostrar filtros</button>
-        <div id="div_filtros" class="filtros">
+        <input type="checkbox" value="selected" id="toggle_filtros" class="toggle-input">
+        <label for="toggle_filtros" class="toggle-label">Mostrar filtros</label> 
+          
+        <div id="div_filtros" class="toggle-content filtros">
             <button class="btn active todos" data-filter='all'>Todos</button>
             <button class="btn pintxos" data-filter='pintxos-y-aperitivos'>Pintxos y aperitivos</button>
             <button class="btn verduras" data-filter='verduras-y-hortalizas'>Verduras y hortalizas</button>
