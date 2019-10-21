@@ -26,57 +26,31 @@ else{
     }
 }
 
+init(options);
 
 var filtro="";
-window.SimpleJekyllSearch = function (_options) {
-    options = merge(options, _options)
-
-    if (isJSON(options.json)) {
-        initWithJSON(options.json)
-    } else {
-        initWithURL(options.json)
-    }
+function init(options) {
+    load(options.json)
     return {
         search: showMatches
     }
 }
 
-//get JSON via xhr
+//get JSON via fetch
 function initWithJSON (json) {
     put(json)
     registerInput()
 }
 
-function initWithURL (url) {
-    load(url, function (err, json) {
-        if (err) {
-            throw new Error('Error JSON'+url);
-        }
-        initWithJSON(json)
-    })
-}
+function load (location) {
+    fetch(
+        location,
+        { method: 'GET' }
+    )
+        .then( response => response.json() )
+        .then( json => initWithJSON(json) )
+        .catch( error =>  console.log("JSON fetch error"+location));
 
-function load (location, callback) {
-    var xhr = getXHR()
-    xhr.open('GET', location, true)
-    xhr.onreadystatechange = createStateChangeListener(xhr, callback)
-    xhr.send()
-}
-
-function createStateChangeListener (xhr, callback) {
-    return function () {
-        if (xhr.readyState === 4 && xhr.status === 200) {
-            try {
-                callback(null, JSON.parse(xhr.responseText))
-            } catch (err) {
-                callback(err, null)
-            }
-        }
-    }
-}
-
-function getXHR () {
-    return window.XMLHttpRequest ? new window.XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP')
 }
 
 //build array of data from JSON
@@ -215,8 +189,8 @@ function appendToResultsContainer (text) {
 function registerInput () {
     var buttons = options.filtersContainer.getElementsByClassName("btn");
 
-    for (var i = 0; i < buttons.length; i++) {
-        buttons[i].addEventListener('click', filter);    
+    for (let button of buttons) {
+        button.addEventListener('click', filter);    
     }
     options.searchInput.addEventListener('keyup', function (e) {
         if (isWhitelistedKey(e.which)) {
