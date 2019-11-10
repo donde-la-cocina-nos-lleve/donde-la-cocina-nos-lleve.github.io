@@ -8,7 +8,7 @@ paginate: 12
 paginate_path: "/pagina:num/"
 baseurl: ""
 
-url: "https://donde-la-cocina-nos-lleve.github.io"
+url: "https://www.dondelacocinanoslleve.com"
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
