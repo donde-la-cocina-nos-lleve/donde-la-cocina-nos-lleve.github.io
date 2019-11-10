@@ -7,11 +7,7 @@ layout: default
 <div class="posts">
   {% for post in site.categories[page.tag] %}
   <article class="post" id="post{{ forloop.index }}">
-  {% capture src %}
-  {% include get_image_post_src.html %}
-  {% endcapture %}
-  {% assign src = src | strip %}
-  <img class="post_image" src="{{src}}"/>
+  <img class="post_image" alt="{{ post.title }}" src="{% include get_image_post_src.html scope=post%}"/>
     <h3 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}

@@ -1,5 +1,5 @@
 var APP_PREFIX = 'DLCNL'
-var VERSION = 'version_02'
+var VERSION = 'version_03'
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [
     '/offline.html',
@@ -14,7 +14,6 @@ var URLS = [
     '/assets/fonts/FuturaMediumBT.ttf',
     '/assets/js/simple-jekyll-search.js',
     '/assets/js/navegacion.js',
-    '/assets/js/search.js'
 ]
 
 //network first then cache

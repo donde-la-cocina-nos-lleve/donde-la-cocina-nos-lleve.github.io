@@ -1,22 +1,22 @@
-{% if post.thumbnail %}
-    {{ post.thumbnail }}
-{% else %}
-    {% if post.content contains "<img" %}
-    {% assign images = post.content | split:"<img " %}
-    {% for image in images %}
-      {% if image contains 'src' %}
+{%- if include.scope.thumbnail -%}
+    {{ include.scope.thumbnail }}
+{%- else -%}
+    {%- if include.scope.content contains "<img" -%}
+    {% assign images = include.scope.content | split:"<img " %}
+    {%- for image in images -%}
+      {%- if image contains 'src' -%}
         {% assign html = image | split:"/>" | first %}
           {% assign tags = html | split:" " %}
-          {% for tag in tags %}
-            {% if tag contains 'src' %}
+          {%- for tag in tags -%}
+            {%- if tag contains 'src' -%}
               {% assign size = tag.size | minus: 6 %}
               {% assign src = tag | strip | slice: 5, size %}
               {{ src }}
               {% break %}
-            {% endif %}
-          {% endfor %}
+            {%- endif -%}
+          {%- endfor -%}
         {% break %}
-      {% endif %}
-    {% endfor %}
-    {% endif %}
-{% endif %}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- endif -%}
+{%- endif -%}
