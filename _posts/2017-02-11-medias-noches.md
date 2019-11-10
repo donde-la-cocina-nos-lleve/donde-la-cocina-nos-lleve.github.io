@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pan y masas", "Pintxos y aperitivos"]
 modified_time: '2017-02-11T09:06:57.109-08:00'
-thumbnail: https://2.bp.blogspot.com/-V0tHQEGyB5Q/WJ9EltJ50AI/AAAAAAAADaI/AlgU1T53W3U1h0qx8s-uTjIIrwT2XWydgCLcB/s72-c/03.JPG
+thumbnail: https://2.bp.blogspot.com/-V0tHQEGyB5Q/WJ9EltJ50AI/AAAAAAAADaI/AlgU1T53W3U1h0qx8s-uTjIIrwT2XWydgCLcB/s400/03.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1874276699941927925
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/02/medias-noches.html
 ---

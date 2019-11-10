@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2018-07-10T05:06:06.622-07:00'
-thumbnail: https://3.bp.blogspot.com/-ecKYzHCMQ30/W0SgZ7SgT8I/AAAAAAAAES4/RcMEnL0I1Bckk_9q07czUjdiGlu7AoETQCLcBGAs/s72-c/00.JPG
+thumbnail: https://3.bp.blogspot.com/-ecKYzHCMQ30/W0SgZ7SgT8I/AAAAAAAAES4/RcMEnL0I1Bckk_9q07czUjdiGlu7AoETQCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5438252388497110240
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/07/alitas-de-pollo-asadas.html
 ---

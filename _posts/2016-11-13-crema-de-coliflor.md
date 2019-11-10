@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Verduras y hortalizas"]
 modified_time: '2016-11-13T02:29:10.356-08:00'
-thumbnail: https://4.bp.blogspot.com/-X2vE91Pw3Ms/WCg_QmHYt3I/AAAAAAAADH8/Uc3CDyrgZroS9w8xKfMzE50uUAA-paRCQCLcB/s72-c/03.JPG
+thumbnail: https://4.bp.blogspot.com/-X2vE91Pw3Ms/WCg_QmHYt3I/AAAAAAAADH8/Uc3CDyrgZroS9w8xKfMzE50uUAA-paRCQCLcB/s400/03.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8034663892253306737
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/11/crema-de-coliflor.html
 ---

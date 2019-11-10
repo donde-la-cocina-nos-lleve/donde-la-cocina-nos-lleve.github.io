@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados", "Pintxos y aperitivos"]
 modified_time: '2016-08-26T05:46:32.204-07:00'
-thumbnail: https://2.bp.blogspot.com/-SS6RHExXh50/V8A5jeDYPZI/AAAAAAAAC64/E82SaXYuU4MFrILCybrfH10U9q2J41sQQCLcB/s72-c/01.JPG
+thumbnail: https://2.bp.blogspot.com/-SS6RHExXh50/V8A5jeDYPZI/AAAAAAAAC64/E82SaXYuU4MFrILCybrfH10U9q2J41sQQCLcB/s400/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5664934878760262875
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/08/calamares-la-romana-rabas.html
 ---

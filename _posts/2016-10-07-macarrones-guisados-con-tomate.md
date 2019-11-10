@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Arroz y pasta"]
 modified_time: '2016-10-07T09:41:38.449-07:00'
-thumbnail: https://4.bp.blogspot.com/-KQ4XRHjF-N8/V_fP5_ADVgI/AAAAAAAADDI/2hEH8bkGb4UTC2vmN3LbbDNuy8E7uM0PQCLcB/s72-c/P1470764macarr.JPG
+thumbnail: https://4.bp.blogspot.com/-KQ4XRHjF-N8/V_fP5_ADVgI/AAAAAAAADDI/2hEH8bkGb4UTC2vmN3LbbDNuy8E7uM0PQCLcB/s400/P1470764macarr.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1729990360179875120
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/10/macarrones-guisados-con-tomate.html
 ---

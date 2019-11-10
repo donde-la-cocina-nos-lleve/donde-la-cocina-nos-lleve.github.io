@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Verduras y hortalizas"]
 modified_time: '2016-03-07T05:02:08.595-08:00'
-thumbnail: https://2.bp.blogspot.com/-FgnCTnExN1Y/Vt17CPu73_I/AAAAAAAACfo/ZZEEMN454SM/s72-c/VOLOVANES%2BII.JPG
+thumbnail: https://2.bp.blogspot.com/-FgnCTnExN1Y/Vt17CPu73_I/AAAAAAAACfo/ZZEEMN454SM/s400/VOLOVANES%2BII.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7935999863347154405
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/volovanes-rellenos-de-verduras.html
 ---

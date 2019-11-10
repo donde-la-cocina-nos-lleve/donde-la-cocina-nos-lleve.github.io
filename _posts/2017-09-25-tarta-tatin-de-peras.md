@@ -8,7 +8,7 @@ tags:
 - cocina viajera
 categories: ["Postres"]
 modified_time: '2017-09-30T04:15:24.694-07:00'
-thumbnail: https://2.bp.blogspot.com/-IuBgRLwMKQw/WclOFpU_XqI/AAAAAAAAD1s/uRiYlVeQJiIa1o4C1BGYwMU1WDLg-LR3gCLcBGAs/s72-c/00.JPG
+thumbnail: https://2.bp.blogspot.com/-IuBgRLwMKQw/WclOFpU_XqI/AAAAAAAAD1s/uRiYlVeQJiIa1o4C1BGYwMU1WDLg-LR3gCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5470739704646009676
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/09/tarta-tatin-de-peras.html
 ---

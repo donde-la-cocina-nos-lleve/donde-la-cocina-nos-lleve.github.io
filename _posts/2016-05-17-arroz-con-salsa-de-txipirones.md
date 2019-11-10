@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Arroz y pasta"]
 modified_time: '2016-05-17T09:56:21.007-07:00'
-thumbnail: https://3.bp.blogspot.com/-bU9M7h-O210/VztMuaNrZtI/AAAAAAAACr0/fYPevzMo60YtCfu-4c-6lj4WJ5x1ZIA5QCLcB/s72-c/01.jpg
+thumbnail: https://3.bp.blogspot.com/-bU9M7h-O210/VztMuaNrZtI/AAAAAAAACr0/fYPevzMo60YtCfu-4c-6lj4WJ5x1ZIA5QCLcB/s400/01.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-4178414349058339509
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/arroz-con-salsa-de-txipirones.html
 ---

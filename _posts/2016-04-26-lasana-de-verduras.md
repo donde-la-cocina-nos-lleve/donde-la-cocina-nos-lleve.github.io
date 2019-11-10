@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Arroz y pasta", "Verduras y hortalizas"]
 modified_time: '2016-04-26T11:59:54.140-07:00'
-thumbnail: https://4.bp.blogspot.com/-ruNX2s71db4/Vx-5LuosJQI/AAAAAAAACpE/EqZX_9sBl2U4U23YyorT1ZILWC5D-Zm-ACLcB/s72-c/04.JPG
+thumbnail: https://4.bp.blogspot.com/-ruNX2s71db4/Vx-5LuosJQI/AAAAAAAACpE/EqZX_9sBl2U4U23YyorT1ZILWC5D-Zm-ACLcB/s400/04.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-45388253053509261
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/lasana-de-verduras.html
 ---

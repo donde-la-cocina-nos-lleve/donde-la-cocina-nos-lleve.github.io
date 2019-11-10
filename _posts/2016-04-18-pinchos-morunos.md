@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-04-18T07:02:46.883-07:00'
-thumbnail: https://1.bp.blogspot.com/-qpQWvYG8fD4/VxTg_2GFjqI/AAAAAAAACnE/5JQUnLjp4Ic-5SRwRbNiEMRvq3nmetExgCLcB/s72-c/02.JPG
+thumbnail: https://1.bp.blogspot.com/-qpQWvYG8fD4/VxTg_2GFjqI/AAAAAAAACnE/5JQUnLjp4Ic-5SRwRbNiEMRvq3nmetExgCLcB/s400/02.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7073936811280725816
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/pinchos-morunos.html
 ---

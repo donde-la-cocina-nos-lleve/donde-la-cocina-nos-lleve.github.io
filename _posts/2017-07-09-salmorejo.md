@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Cremas y sopas", "Verduras y hortalizas"]
 modified_time: '2017-07-09T06:21:44.042-07:00'
-thumbnail: https://3.bp.blogspot.com/-Eom7CQ9Wi6A/WWIr7HWJ0OI/AAAAAAAADuM/F1azAxes4_Q615rTzz3ZZPyV7Lk4u139wCLcBGAs/s72-c/00.JPG
+thumbnail: https://3.bp.blogspot.com/-Eom7CQ9Wi6A/WWIr7HWJ0OI/AAAAAAAADuM/F1azAxes4_Q615rTzz3ZZPyV7Lk4u139wCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3525470818166756554
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/07/salmorejo.html
 ---

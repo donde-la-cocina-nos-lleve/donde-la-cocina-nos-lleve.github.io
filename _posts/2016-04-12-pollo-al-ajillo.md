@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-04-12T11:44:24.040-07:00'
-thumbnail: https://2.bp.blogspot.com/-jS6t-N6xsgA/Vw1BGIFNzQI/AAAAAAAAClk/Ds3uwNQGfu4o7Q5Fimmzr8J3Tps7Dvn9gCLcB/s72-c/01.JPG
+thumbnail: https://2.bp.blogspot.com/-jS6t-N6xsgA/Vw1BGIFNzQI/AAAAAAAAClk/Ds3uwNQGfu4o7Q5Fimmzr8J3Tps7Dvn9gCLcB/s400/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3034201314855914479
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/pollo-al-ajillo.html
 ---

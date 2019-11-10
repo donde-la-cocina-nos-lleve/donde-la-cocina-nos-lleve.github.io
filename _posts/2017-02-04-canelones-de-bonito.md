@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Arroz y pasta", "Pescados"]
 modified_time: '2017-02-04T07:18:23.496-08:00'
-thumbnail: https://1.bp.blogspot.com/-Fr6aAp-AKzk/WJXvZGJ4gfI/AAAAAAAADY8/lW32ywiebF0b_tHGyMyEwCtXEC4Jy5apgCLcB/s72-c/03.JPG
+thumbnail: https://1.bp.blogspot.com/-Fr6aAp-AKzk/WJXvZGJ4gfI/AAAAAAAADY8/lW32ywiebF0b_tHGyMyEwCtXEC4Jy5apgCLcB/s400/03.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7916386509327025911
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/02/canelones-de-bonito.html
 ---

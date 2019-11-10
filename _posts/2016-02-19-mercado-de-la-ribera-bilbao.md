@@ -6,7 +6,7 @@ author: bernardo
 tags:
 - mercados
 modified_time: '2016-02-22T03:38:17.123-08:00'
-thumbnail: https://3.bp.blogspot.com/-phvvZlRqqjU/VsdIokU9R1I/AAAAAAAACbc/y10vKvdoHGI/s72-c/Pag.%2B256-257.jpg
+thumbnail: https://3.bp.blogspot.com/-phvvZlRqqjU/VsdIokU9R1I/AAAAAAAACbc/y10vKvdoHGI/s400/Pag.%2B256-257.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1201679190058193973
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/02/mercado-de-la-ribera-bilbao.html
 ---

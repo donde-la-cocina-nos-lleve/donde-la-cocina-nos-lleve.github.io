@@ -6,7 +6,7 @@ author: bernardo
 tags:
 - cocina viajera
 modified_time: '2016-03-27T11:49:04.236-07:00'
-thumbnail: https://3.bp.blogspot.com/-Gfksl3MqnNg/VvgmaufHQkI/AAAAAAAACjU/AAaMBdOQ0vo4GuWtLU-_YmN_M31MVctiQ/s72-c/escanear0001.jpg
+thumbnail: https://3.bp.blogspot.com/-Gfksl3MqnNg/VvgmaufHQkI/AAAAAAAACjU/AAaMBdOQ0vo4GuWtLU-_YmN_M31MVctiQ/s400/escanear0001.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-6111207969722683457
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/bretana-galettes.html
 ---

@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes", "Pescados"]
 modified_time: '2017-05-13T09:15:37.017-07:00'
-thumbnail: https://1.bp.blogspot.com/-BnVg5WJEQbo/WRcvmK9NfoI/AAAAAAAADmA/i-bG4e1zXQgA0vuLJz_dspalJ2wnri_zQCLcB/s72-c/01.jpg
+thumbnail: https://1.bp.blogspot.com/-BnVg5WJEQbo/WRcvmK9NfoI/AAAAAAAADmA/i-bG4e1zXQgA0vuLJz_dspalJ2wnri_zQCLcB/s400/01.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3764206287085584162
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/05/popietas-de-cerdo-rellenas-de-calamar.html
 ---

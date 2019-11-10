@@ -8,7 +8,7 @@ tags:
 - cocina viajera
 categories: ["Arroz y pasta", "Pescados"]
 modified_time: '2018-03-11T15:08:25.565-07:00'
-thumbnail: https://1.bp.blogspot.com/-p_JdyHGzV1U/WqWPJtUkl5I/AAAAAAAAELY/i8XSEx060xMndN-8PZh0zup1sdiV5qCAwCLcBGAs/s72-c/C.JPG
+thumbnail: https://1.bp.blogspot.com/-p_JdyHGzV1U/WqWPJtUkl5I/AAAAAAAAELY/i8XSEx060xMndN-8PZh0zup1sdiV5qCAwCLcBGAs/s400/C.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1503628038097557117
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/03/risotto-de-berberechos.html
 ---

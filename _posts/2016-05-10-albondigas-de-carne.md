@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-05-10T13:21:33.604-07:00'
-thumbnail: https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s72-c/01.JPG
+thumbnail: https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s400/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5333971380660128666
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/albondigas-de-carne.html
 ---

@@ -6,7 +6,7 @@ author: bernardo
 tags:
 - visitas
 modified_time: '2016-03-11T10:09:28.437-08:00'
-thumbnail: https://1.bp.blogspot.com/-HPtIpu6-uPE/VuMH5vG5ssI/AAAAAAAACgU/bzfDX_QEm5Ik-zG5lxGHZh6jsBEsGDr_A/s72-c/P2271539.JPG
+thumbnail: https://1.bp.blogspot.com/-HPtIpu6-uPE/VuMH5vG5ssI/AAAAAAAACgU/bzfDX_QEm5Ik-zG5lxGHZh6jsBEsGDr_A/s400/P2271539.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1303145480541088108
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/museo-del-txakoli-txakolingunea-bakio.html
 ---

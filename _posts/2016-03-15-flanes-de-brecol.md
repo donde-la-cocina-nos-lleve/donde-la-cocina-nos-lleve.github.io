@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Verduras y hortalizas"]
 modified_time: '2016-03-15T03:04:54.499-07:00'
-thumbnail: https://1.bp.blogspot.com/-jOOq_8483Gk/Vufd45sKUFI/AAAAAAAACg8/rz9jh8keNM0XUrgOPNyr2jH2aPvspYITw/s72-c/IMG_20141226_115828576.jpg
+thumbnail: https://1.bp.blogspot.com/-jOOq_8483Gk/Vufd45sKUFI/AAAAAAAACg8/rz9jh8keNM0XUrgOPNyr2jH2aPvspYITw/s400/IMG_20141226_115828576.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1632800171036316515
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/flanes-de-brecol.html
 ---

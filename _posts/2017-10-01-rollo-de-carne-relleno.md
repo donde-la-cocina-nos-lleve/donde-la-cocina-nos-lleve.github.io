@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2017-10-01T10:55:36.189-07:00'
-thumbnail: https://1.bp.blogspot.com/-3aPI-kg77D8/WdEqq983SMI/AAAAAAAAD3Q/W9vEPLDvWzAazqI92e5bYHLVAeXa-CIsQCLcBGAs/s72-c/00.jpg
+thumbnail: https://1.bp.blogspot.com/-3aPI-kg77D8/WdEqq983SMI/AAAAAAAAD3Q/W9vEPLDvWzAazqI92e5bYHLVAeXa-CIsQCLcBGAs/s400/00.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8151941065662078047
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/10/rollo-de-carne-relleno.html
 ---

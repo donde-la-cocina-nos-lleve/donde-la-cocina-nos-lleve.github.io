@@ -4,7 +4,7 @@ title: recetas. ÍNDICE TEMÁTICO
 date: '2016-02-16T11:03:00.001-08:00'
 author: bernardo
 modified_time: '2019-05-05T11:11:55.199-07:00'
-thumbnail: https://3.bp.blogspot.com/-7X7VC7_8jaA/WTQHl3d1OKI/AAAAAAAADp8/DQl_h9TGBBs6v62-ri03zv3KargKpZMDgCEw/s72-c/00.JPG
+thumbnail: https://3.bp.blogspot.com/-7X7VC7_8jaA/WTQHl3d1OKI/AAAAAAAADp8/DQl_h9TGBBs6v62-ri03zv3KargKpZMDgCEw/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8548448325529446889
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/02/recetas-indice-tematico.html
 ---

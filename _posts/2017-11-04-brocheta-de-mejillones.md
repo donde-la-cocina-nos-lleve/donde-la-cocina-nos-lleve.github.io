@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2017-11-04T07:58:01.905-07:00'
-thumbnail: https://2.bp.blogspot.com/-mh2n-rDfZXE/Wf3UPIMO5qI/AAAAAAAAD60/4geZiOdCqMYxZ_WSRohFIGr47Q1bOt2QQCLcBGAs/s72-c/00.JPG
+thumbnail: https://2.bp.blogspot.com/-mh2n-rDfZXE/Wf3UPIMO5qI/AAAAAAAAD60/4geZiOdCqMYxZ_WSRohFIGr47Q1bOt2QQCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5643341479122507768
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/11/brocheta-de-mejillones.html
 ---

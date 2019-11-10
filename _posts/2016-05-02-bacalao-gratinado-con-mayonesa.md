@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2016-05-02T13:21:06.197-07:00'
-thumbnail: https://4.bp.blogspot.com/-dA-CJtFcPgc/Vye2LuxRPbI/AAAAAAAACqA/S5rrhqv3VAQcF7hepmJPpioVsPERRxrnACLcB/s72-c/01.jpg
+thumbnail: https://4.bp.blogspot.com/-dA-CJtFcPgc/Vye2LuxRPbI/AAAAAAAACqA/S5rrhqv3VAQcF7hepmJPpioVsPERRxrnACLcB/s400/01.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7823329391998690242
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/bacalao-gratinado-con-mayonesa.html
 ---

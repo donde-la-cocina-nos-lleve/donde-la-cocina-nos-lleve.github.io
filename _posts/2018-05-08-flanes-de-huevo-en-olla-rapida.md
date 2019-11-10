@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Postres"]
 modified_time: '2018-05-08T10:08:27.228-07:00'
-thumbnail: https://1.bp.blogspot.com/-FVwaiMJqdw0/WvHYs2YgSNI/AAAAAAAAEM0/5aVsLoiGXsAI5YWsEg9cLvWqECphMX9VgCLcBGAs/s72-c/00.jpg
+thumbnail: https://1.bp.blogspot.com/-FVwaiMJqdw0/WvHYs2YgSNI/AAAAAAAAEM0/5aVsLoiGXsAI5YWsEg9cLvWqECphMX9VgCLcBGAs/s400/00.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-6339159674910746028
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/05/flanes-de-huevo-en-olla-rapida.html
 ---

@@ -4,7 +4,7 @@ title: MILHOJAS DE BERENJENA Y TOMATE
 date: '2019-08-18T11:07:00.000-07:00'
 tags:
 - recetas
-categories: ["Verduras y hortalizas"]
+categories: ["Verduras y hortalizas", "Pintxos y aperitivos"]
 thumbnail: https://1.bp.blogspot.com/-McgE5SEZ-yQ/XVl_-lsiY2I/AAAAAAAAEsQ/ZUaHPiQrDAoWfAil66fa2C-Q79S_U2OJQCLcBGAs/s400/00.JPG
 ---
 

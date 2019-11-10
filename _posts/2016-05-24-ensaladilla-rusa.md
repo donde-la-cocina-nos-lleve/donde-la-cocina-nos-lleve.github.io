@@ -6,7 +6,7 @@ author: bernardo
 tags:
 - recetas
 modified_time: '2016-05-24T10:42:18.074-07:00'
-thumbnail: https://3.bp.blogspot.com/-2DHTKmG9Q-w/V0SSOtCdP9I/AAAAAAAACs0/ZpGxoueITpcQu4NBPRu1ytEqJPoNdqQQQCLcB/s72-c/P1260770.JPG
+thumbnail: https://3.bp.blogspot.com/-2DHTKmG9Q-w/V0SSOtCdP9I/AAAAAAAACs0/ZpGxoueITpcQu4NBPRu1ytEqJPoNdqQQQCLcB/s400/P1260770.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-63531898377669395
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/ensaladilla-rusa.html
 ---

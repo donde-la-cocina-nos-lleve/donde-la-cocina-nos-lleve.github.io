@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pintxos y aperitivos"]
 modified_time: '2016-09-20T06:55:59.044-07:00'
-thumbnail: https://1.bp.blogspot.com/-9SrmFJuSlKA/V-E_tOAtAPI/AAAAAAAAC-U/ZatzVvpWXRcU_JFWQWkShXo5WTgQYKBsgCLcB/s72-c/04.jpg
+thumbnail: https://1.bp.blogspot.com/-9SrmFJuSlKA/V-E_tOAtAPI/AAAAAAAAC-U/ZatzVvpWXRcU_JFWQWkShXo5WTgQYKBsgCLcB/s400/04.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-569325803164396441
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/09/croquetas-de-jamon.html
 ---

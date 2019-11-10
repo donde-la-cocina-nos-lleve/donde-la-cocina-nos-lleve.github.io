@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Verduras y hortalizas"]
 modified_time: '2017-08-06T06:24:30.186-07:00'
-thumbnail: https://4.bp.blogspot.com/-bEzaL-kaSKM/WYcXwZBDXeI/AAAAAAAADys/URES8yx-7MkdZBougfDV4gVfL5h4bTAgACLcBGAs/s72-c/00.JPG
+thumbnail: https://4.bp.blogspot.com/-bEzaL-kaSKM/WYcXwZBDXeI/AAAAAAAADys/URES8yx-7MkdZBougfDV4gVfL5h4bTAgACLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8480502749314953509
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/08/ensaladilla-campera-ensaladilla-rusa-al.html
 ---

@@ -8,7 +8,7 @@ tags:
 - cocina viajera
 categories: ["Carnes"]
 modified_time: '2017-03-12T08:16:06.339-07:00'
-thumbnail: https://3.bp.blogspot.com/-8u8cCpGqNYM/WMVlIHNxP-I/AAAAAAAADd8/ntZRuH3PyKMGrOk4q8N9ls4nJIDgDA-ZgCLcB/s72-c/P1500347.jpg
+thumbnail: https://3.bp.blogspot.com/-8u8cCpGqNYM/WMVlIHNxP-I/AAAAAAAADd8/ntZRuH3PyKMGrOk4q8N9ls4nJIDgDA-ZgCLcB/s400/P1500347.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1698388800493981118
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/03/pollo-tikka-masala.html
 ---

@@ -8,7 +8,7 @@ tags:
 - cocina viajera
 categories: ["Arroz y pasta", "Carnes", "Verduras y hortalizas"]
 modified_time: '2017-04-02T07:38:53.497-07:00'
-thumbnail: https://2.bp.blogspot.com/-yr-0uKZfPko/WOEMSFFrWNI/AAAAAAAADgY/bhQ6SAm0eCgmvStzQM_gmgxli4LfsgAcwCLcB/s72-c/09.JPG
+thumbnail: https://2.bp.blogspot.com/-yr-0uKZfPko/WOEMSFFrWNI/AAAAAAAADgY/bhQ6SAm0eCgmvStzQM_gmgxli4LfsgAcwCLcB/s400/09.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7995339343651125368
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/04/cous-cous-de-cordero-y-verduras.html
 ---

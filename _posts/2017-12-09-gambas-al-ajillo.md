@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2017-12-09T08:53:44.401-08:00'
-thumbnail: https://2.bp.blogspot.com/-sCir8pK0BHM/WiwTNNTc5bI/AAAAAAAAEAs/Gp57PT-PZc8Tng8z8rhR60ZVF5cmIFURgCLcBGAs/s72-c/00.JPG
+thumbnail: https://2.bp.blogspot.com/-sCir8pK0BHM/WiwTNNTc5bI/AAAAAAAAEAs/Gp57PT-PZc8Tng8z8rhR60ZVF5cmIFURgCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-301941312383656652
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/12/gambas-al-ajillo.html
 ---

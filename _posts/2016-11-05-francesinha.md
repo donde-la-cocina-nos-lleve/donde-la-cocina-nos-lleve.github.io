@@ -8,7 +8,7 @@ tags:
 - cocina viajera
 categories: ["Carnes", "Pan y masas"]
 modified_time: '2016-11-05T12:19:21.861-07:00'
-thumbnail: https://4.bp.blogspot.com/-Vp3nEUQnLyY/WB4tn2cJcHI/AAAAAAAADGY/sDltIuPMrokpnsj87yrqQRAGKAPMYM4eQCLcB/s72-c/01.JPG
+thumbnail: https://4.bp.blogspot.com/-Vp3nEUQnLyY/WB4tn2cJcHI/AAAAAAAADGY/sDltIuPMrokpnsj87yrqQRAGKAPMYM4eQCLcB/s400/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8144198985249332537
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/11/francesinha.html
 ---

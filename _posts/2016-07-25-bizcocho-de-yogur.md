@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Postres"]
 modified_time: '2016-07-25T05:35:19.970-07:00'
-thumbnail: https://2.bp.blogspot.com/-gHq1dv_VaDc/V5YG-gAGBXI/AAAAAAAAC3Q/DRoE-SFxHiwyzqBt68Wgraezebhse9NRQCLcB/s72-c/IMG_20160629_184519296_HDR.jpg
+thumbnail: https://2.bp.blogspot.com/-gHq1dv_VaDc/V5YG-gAGBXI/AAAAAAAAC3Q/DRoE-SFxHiwyzqBt68Wgraezebhse9NRQCLcB/s400/IMG_20160629_184519296_HDR.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-6791674538561900275
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/07/bizcocho-de-yogur.html
 ---

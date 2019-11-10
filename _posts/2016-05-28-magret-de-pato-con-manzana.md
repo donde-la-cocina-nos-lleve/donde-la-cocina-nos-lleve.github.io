@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-05-28T09:50:33.478-07:00'
-thumbnail: https://1.bp.blogspot.com/-mi1UDCdXTlw/V0nLmV51YGI/AAAAAAAACtQ/KhaYWV44o9M4wb_C9ugz6pg7utyJUc9OwCLcB/s72-c/02.JPG
+thumbnail: https://1.bp.blogspot.com/-mi1UDCdXTlw/V0nLmV51YGI/AAAAAAAACtQ/KhaYWV44o9M4wb_C9ugz6pg7utyJUc9OwCLcB/s400/02.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3646405254631455496
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/magret-de-pato-con-manzana.html
 ---

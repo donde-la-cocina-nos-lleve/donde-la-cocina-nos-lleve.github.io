@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes", "Pintxos y aperitivos"]
 modified_time: '2017-12-17T11:36:36.069-08:00'
-thumbnail: https://3.bp.blogspot.com/-CDKIztATCSA/WjbGmM6TKiI/AAAAAAAAEBs/MtDt_C6zcaAEBfvKVaFtKQDHmokF-kiKACLcBGAs/s72-c/00.JPG
+thumbnail: https://3.bp.blogspot.com/-CDKIztATCSA/WjbGmM6TKiI/AAAAAAAAEBs/MtDt_C6zcaAEBfvKVaFtKQDHmokF-kiKACLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-2510962519470690338
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/12/bombones-de-morcilla-y-manzana.html
 ---

@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-08-11T02:30:09.298-07:00'
-thumbnail: https://4.bp.blogspot.com/-jn62pBgUVfI/V6xE_P_XduI/AAAAAAAAC6I/6P_qvNUQ1hQza7Dpx17AB6BW3Jnum_OzACLcB/s72-c/01.jpg
+thumbnail: https://4.bp.blogspot.com/-jn62pBgUVfI/V6xE_P_XduI/AAAAAAAAC6I/6P_qvNUQ1hQza7Dpx17AB6BW3Jnum_OzACLcB/s400/01.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5807137816432855288
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/08/costillas-en-olla-rapida.html
 ---

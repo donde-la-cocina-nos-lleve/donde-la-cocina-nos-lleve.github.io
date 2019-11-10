@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Verduras y hortalizas", "Pescados"]
 modified_time: '2018-08-26T10:58:58.983-07:00'
-thumbnail: https://4.bp.blogspot.com/-N5ebpdhlLsE/W4LpoCZ_rPI/AAAAAAAAEV0/59COhfrOWvU9ohbdMd6pu4N4wppdHWx0QCLcBGAs/s72-c/00.JPG
+thumbnail: https://4.bp.blogspot.com/-N5ebpdhlLsE/W4LpoCZ_rPI/AAAAAAAAEV0/59COhfrOWvU9ohbdMd6pu4N4wppdHWx0QCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8091947594288196577
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/08/marmitako.html
 ---

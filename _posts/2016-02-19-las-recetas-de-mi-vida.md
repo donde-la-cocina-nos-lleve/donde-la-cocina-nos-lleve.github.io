@@ -6,7 +6,7 @@ author: bernardo
 tags:
 - libros
 modified_time: '2016-02-19T06:24:29.336-08:00'
-thumbnail: https://1.bp.blogspot.com/-LiEfj2-HXUc/Vsb3R3BS4bI/AAAAAAAACTg/dl1d4KO3Kfs/s72-c/PORTADA%2Bbis.jpg
+thumbnail: https://1.bp.blogspot.com/-LiEfj2-HXUc/Vsb3R3BS4bI/AAAAAAAACTg/dl1d4KO3Kfs/s400/PORTADA%2Bbis.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8768994722079289501
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/02/las-recetas-de-mi-vida.html
 ---

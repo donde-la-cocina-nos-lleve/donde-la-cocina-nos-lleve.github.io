@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Arroz y pasta", "Carnes"]
 modified_time: '2017-01-22T01:58:29.766-08:00'
-thumbnail: https://2.bp.blogspot.com/-nM-zyWJ79oI/WISBJRqBNTI/AAAAAAAADUY/u7xXDv7lZgIbWIGmG7itZl444yoKAfh2ACLcB/s72-c/01.JPG
+thumbnail: https://2.bp.blogspot.com/-nM-zyWJ79oI/WISBJRqBNTI/AAAAAAAADUY/u7xXDv7lZgIbWIGmG7itZl444yoKAfh2ACLcB/s400/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-6776164461949969908
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/01/arroz-con-carne-en-olla-rapida.html
 ---

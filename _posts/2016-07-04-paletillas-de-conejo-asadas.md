@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-07-04T07:16:48.620-07:00'
-thumbnail: https://4.bp.blogspot.com/-YsGICRAaCMQ/V3pu54qJ4-I/AAAAAAAAC2E/n7g6AUPuxpwMdIjUwwUmEIByMqIm1m4hwCLcB/s72-c/02.JPG
+thumbnail: https://4.bp.blogspot.com/-YsGICRAaCMQ/V3pu54qJ4-I/AAAAAAAAC2E/n7g6AUPuxpwMdIjUwwUmEIByMqIm1m4hwCLcB/s400/02.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7847857264041191009
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/07/paletillas-de-conejo-asadas.html
 ---

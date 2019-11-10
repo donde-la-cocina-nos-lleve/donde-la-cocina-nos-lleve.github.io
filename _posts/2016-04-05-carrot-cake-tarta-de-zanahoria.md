@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Postres"]
 modified_time: '2016-04-05T08:37:15.135-07:00'
-thumbnail: https://1.bp.blogspot.com/-SDTdkUnPawE/VwPaOai1QXI/AAAAAAAACkg/9DgjNcjwmuMHmdgWNPhFj5c7KEseKKKqw/s72-c/01.JPG
+thumbnail: https://1.bp.blogspot.com/-SDTdkUnPawE/VwPaOai1QXI/AAAAAAAACkg/9DgjNcjwmuMHmdgWNPhFj5c7KEseKKKqw/s400/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-808615184576363215
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/carrot-cake-tarta-de-zanahoria.html
 ---

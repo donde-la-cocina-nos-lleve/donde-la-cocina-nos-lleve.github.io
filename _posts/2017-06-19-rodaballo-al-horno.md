@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2017-06-19T03:39:10.400-07:00'
-thumbnail: https://3.bp.blogspot.com/-_2JuDYj3PLo/WUeo0foZBfI/AAAAAAAADtY/YULRJ_QEJrMSnDYQB_1V0dGdVjKQ1hpEgCLcBGAs/s72-c/04.JPG
+thumbnail: https://3.bp.blogspot.com/-_2JuDYj3PLo/WUeo0foZBfI/AAAAAAAADtY/YULRJ_QEJrMSnDYQB_1V0dGdVjKQ1hpEgCLcBGAs/s400/04.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-6404163842921963485
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/06/rodaballo-al-horno.html
 ---

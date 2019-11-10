@@ -6,7 +6,7 @@ author: bernardo
 tags:
 - visitas
 modified_time: '2017-12-22T10:23:25.076-08:00'
-thumbnail: https://1.bp.blogspot.com/-eC_v6OJIL-k/Wj1GIHLw-LI/AAAAAAAAECk/KALOHYMPf8opn7Mt15rQMRQa69pI3gR-gCLcBGAs/s72-c/00.JPG
+thumbnail: https://1.bp.blogspot.com/-eC_v6OJIL-k/Wj1GIHLw-LI/AAAAAAAAECk/KALOHYMPf8opn7Mt15rQMRQa69pI3gR-gCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-2692508687044960637
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/12/mercado-de-santo-tomas-bilbao.html
 ---

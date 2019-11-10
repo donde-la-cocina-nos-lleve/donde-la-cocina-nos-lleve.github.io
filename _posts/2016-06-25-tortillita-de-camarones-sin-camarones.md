@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Huevos", "Pescados", "Pintxos y aperitivos"]
 modified_time: '2016-06-25T02:56:42.525-07:00'
-thumbnail: https://2.bp.blogspot.com/-RrKQ490qFNE/V25UTYHEU_I/AAAAAAAAC1I/tqz457tjWdU7HpzoqXWI_9hkBGa_W216QCLcB/s72-c/01.JPG
+thumbnail: https://2.bp.blogspot.com/-RrKQ490qFNE/V25UTYHEU_I/AAAAAAAAC1I/tqz457tjWdU7HpzoqXWI_9hkBGa_W216QCLcB/s400/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8865148314481308222
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/06/tortillita-de-camarones-sin-camarones.html
 ---

@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes", "Verduras y hortalizas"]
 modified_time: '2016-03-03T05:42:47.859-08:00'
-thumbnail: https://4.bp.blogspot.com/-ViqnMkdG6lY/VsshRyRPwfI/AAAAAAAACc4/xXZuFgNYM0U/s72-c/BERENJENAS%2B1.JPG
+thumbnail: https://4.bp.blogspot.com/-ViqnMkdG6lY/VsshRyRPwfI/AAAAAAAACc4/xXZuFgNYM0U/s400/BERENJENAS%2B1.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1885733939053976169
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/02/berenjenas-rellenas-de-carne.html
 ---

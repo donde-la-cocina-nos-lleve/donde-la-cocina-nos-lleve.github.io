@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2018-09-03T09:23:34.246-07:00'
-thumbnail: https://3.bp.blogspot.com/-XJapmQjRASw/W41fEch1w8I/AAAAAAAAEW4/d3yf8Qxms-oOGqXLP8sOy0tixQH6FfQmgCLcBGAs/s72-c/00.JPG
+thumbnail: https://3.bp.blogspot.com/-XJapmQjRASw/W41fEch1w8I/AAAAAAAAEW4/d3yf8Qxms-oOGqXLP8sOy0tixQH6FfQmgCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5636704940770757077
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/09/costillas-asadas-en-bolsa.html
 ---

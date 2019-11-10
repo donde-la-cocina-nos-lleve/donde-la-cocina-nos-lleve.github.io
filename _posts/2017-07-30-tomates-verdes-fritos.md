@@ -8,7 +8,7 @@ tags:
 - cocina viajera
 categories: ["Verduras y hortalizas"]
 modified_time: '2017-07-30T03:07:33.920-07:00'
-thumbnail: https://4.bp.blogspot.com/-NWGRojZcOk8/WX2uY0-z8RI/AAAAAAAADxs/BG3gMJ83o7gm-zodDGoG6DaiP57erAP_ACLcBGAs/s72-c/00.JPG
+thumbnail: https://4.bp.blogspot.com/-NWGRojZcOk8/WX2uY0-z8RI/AAAAAAAADxs/BG3gMJ83o7gm-zodDGoG6DaiP57erAP_ACLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-2026395969800909937
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/07/tomates-verdes-fritos.html
 ---

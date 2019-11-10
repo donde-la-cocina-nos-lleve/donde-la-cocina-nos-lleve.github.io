@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-11-20T03:49:38.481-08:00'
-thumbnail: https://1.bp.blogspot.com/--aE6zLqKhPY/WDGMleyBeBI/AAAAAAAADIU/jX_31tYGpCwG5Nh-d5hob7bV9BVfQwt5QCLcB/s72-c/guisado%2B2.JPG
+thumbnail: https://1.bp.blogspot.com/--aE6zLqKhPY/WDGMleyBeBI/AAAAAAAADIU/jX_31tYGpCwG5Nh-d5hob7bV9BVfQwt5QCLcB/s400/guisado%2B2.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8040857946779442225
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/11/guisado-de-ternera.html
 ---

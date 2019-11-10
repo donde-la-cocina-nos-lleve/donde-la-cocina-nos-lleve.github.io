@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2017-08-25T10:28:16.623-07:00'
-thumbnail: https://2.bp.blogspot.com/-Gcyklj1XOGU/WaBcklocIfI/AAAAAAAAD0A/DJ5JzVq0PhMEVXnBz86xUoWQy7db0pJvgCLcBGAs/s72-c/00.JPG
+thumbnail: https://2.bp.blogspot.com/-Gcyklj1XOGU/WaBcklocIfI/AAAAAAAAD0A/DJ5JzVq0PhMEVXnBz86xUoWQy7db0pJvgCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3106629050376333681
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/08/chuletas-de-cerdo-la-milanesa.html
 ---

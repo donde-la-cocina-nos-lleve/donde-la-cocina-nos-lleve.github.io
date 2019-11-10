@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Arroz y pasta"]
 modified_time: '2016-10-30T14:23:27.909-07:00'
-thumbnail: https://3.bp.blogspot.com/-Gbe4UQH5WJg/WBX4YY6EiLI/AAAAAAAADF4/t1oWzqzTe80pISsTDCJ9l9NhzRFKRHadQCLcB/s72-c/01.JPG
+thumbnail: https://3.bp.blogspot.com/-Gbe4UQH5WJg/WBX4YY6EiLI/AAAAAAAADF4/t1oWzqzTe80pISsTDCJ9l9NhzRFKRHadQCLcB/s400/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5596390602261686563
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/10/arroz-de-aprovechamiento.html
 ---

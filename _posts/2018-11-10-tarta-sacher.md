@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Postres"]
 modified_time: '2018-11-10T10:23:19.682-08:00'
-thumbnail: https://3.bp.blogspot.com/-DyN-8wAGcno/W-chQRPi3ZI/AAAAAAAAEdI/lGDCN1x0tpAQ23NfqTEwwXxGi3RuLbLVQCLcBGAs/s72-c/00.JPG
+thumbnail: https://3.bp.blogspot.com/-DyN-8wAGcno/W-chQRPi3ZI/AAAAAAAAEdI/lGDCN1x0tpAQ23NfqTEwwXxGi3RuLbLVQCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-2799994773088345529
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/11/tarta-sacher.html
 ---

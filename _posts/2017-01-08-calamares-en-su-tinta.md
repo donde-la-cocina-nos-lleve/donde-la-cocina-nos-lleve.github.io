@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2017-01-08T11:06:15.458-08:00'
-thumbnail: https://4.bp.blogspot.com/-bSLVVqkBvI4/WHKLRhoMv8I/AAAAAAAADSg/tRCfAYYYlRI5ktLKwOq527QvX98PLVcfACLcB/s72-c/19.JPG
+thumbnail: https://4.bp.blogspot.com/-bSLVVqkBvI4/WHKLRhoMv8I/AAAAAAAADSg/tRCfAYYYlRI5ktLKwOq527QvX98PLVcfACLcB/s400/19.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1867094615652807634
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/01/calamares-en-su-tinta.html
 ---

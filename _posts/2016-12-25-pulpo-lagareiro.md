@@ -8,7 +8,7 @@ tags:
 - cocina viajera
 categories: ["Pescados"]
 modified_time: '2016-12-25T07:33:46.643-08:00'
-thumbnail: https://3.bp.blogspot.com/-3FOt1uqGTcA/WF_lyfUQTZI/AAAAAAAADQY/3EPJx5FFwy8xhx7GkymxpG3c0DZItNK9QCLcB/s72-c/05.JPG
+thumbnail: https://3.bp.blogspot.com/-3FOt1uqGTcA/WF_lyfUQTZI/AAAAAAAADQY/3EPJx5FFwy8xhx7GkymxpG3c0DZItNK9QCLcB/s400/05.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8067896651936537415
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/12/pulpo-lagareiro.html
 ---

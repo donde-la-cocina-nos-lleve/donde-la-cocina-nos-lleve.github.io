@@ -6,7 +6,7 @@ author: bernardo
 tags:
 - visitas
 modified_time: '2016-04-18T07:03:01.453-07:00'
-thumbnail: https://1.bp.blogspot.com/-PMbEV8fVihs/VxTkKMbA_AI/AAAAAAAACnU/x3nobv5bNaMLqWOjPwjpqCiZ-L-1e0avQCLcB/s72-c/img_7914.jpg
+thumbnail: https://1.bp.blogspot.com/-PMbEV8fVihs/VxTkKMbA_AI/AAAAAAAACnU/x3nobv5bNaMLqWOjPwjpqCiZ-L-1e0avQCLcB/s400/img_7914.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-875227054150774192
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/fjz-tripas-especias-tes-algas-sales-y.html
 ---

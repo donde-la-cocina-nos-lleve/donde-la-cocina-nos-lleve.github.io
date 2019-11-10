@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-03-23T08:33:20.420-07:00'
-thumbnail: https://1.bp.blogspot.com/-EDvJ2bVNyLk/VvKyspcG0QI/AAAAAAAAChY/QCAcOPEbhKAkdLXVZV-QVN2OMkx7nAtLg/s72-c/pollo%2Bii.jpg
+thumbnail: https://1.bp.blogspot.com/-EDvJ2bVNyLk/VvKyspcG0QI/AAAAAAAAChY/QCAcOPEbhKAkdLXVZV-QVN2OMkx7nAtLg/s400/pollo%2Bii.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3238714893597453453
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/pollo-al-hinojo.html
 ---

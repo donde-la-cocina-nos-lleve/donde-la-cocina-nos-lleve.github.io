@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-04-09T03:08:51.862-07:00'
-thumbnail: https://2.bp.blogspot.com/-6BFIaPPTzd0/VwjUN-a3-NI/AAAAAAAAClM/rtLD6WojmQMuCBlF0wtJj42fdSFg1yJjQ/s72-c/01.jpg
+thumbnail: https://2.bp.blogspot.com/-6BFIaPPTzd0/VwjUN-a3-NI/AAAAAAAAClM/rtLD6WojmQMuCBlF0wtJj42fdSFg1yJjQ/s400/01.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7957499046649534971
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/solomillo-relleno-la-provenzal.html
 ---

@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Postres"]
 modified_time: '2017-04-09T04:12:41.337-07:00'
-thumbnail: https://3.bp.blogspot.com/-p3bNr1VInB4/WOoSZ0ICFJI/AAAAAAAADhQ/DvHTQw08FPwvspy4-JPaUav8qa_7R1kpACLcB/s72-c/05.JPG
+thumbnail: https://3.bp.blogspot.com/-p3bNr1VInB4/WOoSZ0ICFJI/AAAAAAAADhQ/DvHTQw08FPwvspy4-JPaUav8qa_7R1kpACLcB/s400/05.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5002374357089146000
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/04/galletas-de-chocolate-tipo-chips-ahoy.html
 ---

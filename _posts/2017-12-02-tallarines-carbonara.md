@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Arroz y pasta"]
 modified_time: '2017-12-02T07:18:33.168-08:00'
-thumbnail: https://4.bp.blogspot.com/-dtKbH6KOOi4/WiLC0s6OwbI/AAAAAAAAD_4/KFaWChfRP2AupOmgkR__HIAotTBHWoV5ACLcBGAs/s72-c/00.JPG
+thumbnail: https://4.bp.blogspot.com/-dtKbH6KOOi4/WiLC0s6OwbI/AAAAAAAAD_4/KFaWChfRP2AupOmgkR__HIAotTBHWoV5ACLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3076691144693733432
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/12/tallarines-carbonara.html
 ---

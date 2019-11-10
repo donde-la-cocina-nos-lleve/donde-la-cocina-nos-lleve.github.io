@@ -1,5 +1,5 @@
-{% if post.image %}
-    {{ post.image }}
+{% if post.thumbnail %}
+    {{ post.thumbnail }}
 {% else %}
     {% if post.content contains "<img" %}
     {% assign images = post.content | split:"<img " %}

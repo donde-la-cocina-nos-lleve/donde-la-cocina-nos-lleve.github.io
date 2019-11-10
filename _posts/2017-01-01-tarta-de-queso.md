@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Postres"]
 modified_time: '2017-01-01T07:17:26.176-08:00'
-thumbnail: https://3.bp.blogspot.com/-Y-SJ8tB7C4g/WGkcJhHUiuI/AAAAAAAADRI/eWqFdH4YRwQ8xc_UrY-rb8uy0ypQX8sSwCLcB/s72-c/01.JPG
+thumbnail: https://3.bp.blogspot.com/-Y-SJ8tB7C4g/WGkcJhHUiuI/AAAAAAAADRI/eWqFdH4YRwQ8xc_UrY-rb8uy0ypQX8sSwCLcB/s400/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-4827010316362612478
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/01/tarta-de-queso.html
 ---

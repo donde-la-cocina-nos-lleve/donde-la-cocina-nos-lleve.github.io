@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados", "Pan y masas"]
 modified_time: '2018-07-28T08:22:12.550-07:00'
-thumbnail: https://4.bp.blogspot.com/-q9R-yoesr7o/W1yJEjbfqxI/AAAAAAAAETs/dkQFO_70aWwupM1q29oUWnF2aGElgKFdACLcBGAs/s72-c/00%2Baa.JPG
+thumbnail: https://4.bp.blogspot.com/-q9R-yoesr7o/W1yJEjbfqxI/AAAAAAAAETs/dkQFO_70aWwupM1q29oUWnF2aGElgKFdACLcBGAs/s400/00%2Baa.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5691392424186563405
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/07/empanadillas-de-bonito.html
 ---

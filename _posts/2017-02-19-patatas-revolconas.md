@@ -8,7 +8,7 @@ tags:
 - cocina viajera
 categories: ["Verduras y hortalizas", "Pintxos y aperitivos"]
 modified_time: '2017-02-19T05:34:25.328-08:00'
-thumbnail: https://2.bp.blogspot.com/-7Bug23MTmXQ/WKmbO1QEsJI/AAAAAAAADbU/5dELg3PsiWQRVwxoThh6taBLv4ToEO3GgCLcB/s72-c/05.JPG
+thumbnail: https://2.bp.blogspot.com/-7Bug23MTmXQ/WKmbO1QEsJI/AAAAAAAADbU/5dELg3PsiWQRVwxoThh6taBLv4ToEO3GgCLcB/s400/05.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-270508277170504232
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/02/patatas-revolconas.html
 ---

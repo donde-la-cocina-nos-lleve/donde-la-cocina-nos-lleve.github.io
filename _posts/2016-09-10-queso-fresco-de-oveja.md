@@ -6,7 +6,7 @@ author: bernardo
 tags:
 - recetas
 modified_time: '2016-10-11T04:57:22.615-07:00'
-thumbnail: https://1.bp.blogspot.com/-zwNWkC08uqw/V9QUUHcGNuI/AAAAAAAAC8c/_81VZ1BW4wM1pu7KqG04EuH9lxXnGYInACLcB/s72-c/00.JPG
+thumbnail: https://1.bp.blogspot.com/-zwNWkC08uqw/V9QUUHcGNuI/AAAAAAAAC8c/_81VZ1BW4wM1pu7KqG04EuH9lxXnGYInACLcB/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1169779403293205621
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/09/queso-fresco-de-oveja.html
 ---

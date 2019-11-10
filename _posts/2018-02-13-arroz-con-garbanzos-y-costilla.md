@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Arroz y pasta", "Carnes", "Legumbres"]
 modified_time: '2018-02-13T06:46:55.040-08:00'
-thumbnail: https://3.bp.blogspot.com/-yffigoY_Afs/WoL4nmOCG3I/AAAAAAAAEHI/RdC_j0uEoYIvfoY2BtgY41vwWGi-mg2AwCLcBGAs/s72-c/00.JPG
+thumbnail: https://3.bp.blogspot.com/-yffigoY_Afs/WoL4nmOCG3I/AAAAAAAAEHI/RdC_j0uEoYIvfoY2BtgY41vwWGi-mg2AwCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-4420497721346873538
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/02/arroz-con-garbanzos-y-costilla.html
 ---

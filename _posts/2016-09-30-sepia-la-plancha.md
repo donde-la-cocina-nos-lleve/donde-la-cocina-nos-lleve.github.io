@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2016-09-30T08:30:24.846-07:00'
-thumbnail: https://2.bp.blogspot.com/-p2qHx2O09c0/V-6ERKyIe-I/AAAAAAAAC_o/plArD9NFaGgaqZcCLM8EvqX4jctSzXWcQCLcB/s72-c/01.JPG
+thumbnail: https://2.bp.blogspot.com/-p2qHx2O09c0/V-6ERKyIe-I/AAAAAAAAC_o/plArD9NFaGgaqZcCLM8EvqX4jctSzXWcQCLcB/s400/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-4130992333516872745
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/09/sepia-la-plancha.html
 ---

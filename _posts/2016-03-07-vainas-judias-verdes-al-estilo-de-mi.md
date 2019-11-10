@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Verduras y hortalizas"]
 modified_time: '2016-03-07T04:55:21.410-08:00'
-thumbnail: https://4.bp.blogspot.com/-bjpsP-URKbU/Vt14zgAhcmI/AAAAAAAACfU/OHBlapjFz5A/s72-c/vainas.JPG
+thumbnail: https://4.bp.blogspot.com/-bjpsP-URKbU/Vt14zgAhcmI/AAAAAAAACfU/OHBlapjFz5A/s400/vainas.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3791827432726354130
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/vainas-judias-verdes-al-estilo-de-mi.html
 ---

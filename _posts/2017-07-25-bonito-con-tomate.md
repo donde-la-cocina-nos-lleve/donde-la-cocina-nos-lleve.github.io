@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2017-07-25T00:18:42.541-07:00'
-thumbnail: https://3.bp.blogspot.com/-BzrNa-w_uJs/WXbv3JcXRrI/AAAAAAAADxE/eCcX8RzO0aoAOIneurYlnIwPipvnhqqrgCLcBGAs/s72-c/00.jpg
+thumbnail: https://3.bp.blogspot.com/-BzrNa-w_uJs/WXbv3JcXRrI/AAAAAAAADxE/eCcX8RzO0aoAOIneurYlnIwPipvnhqqrgCLcBGAs/s400/00.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8005262762752404536
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/07/bonito-con-tomate.html
 ---

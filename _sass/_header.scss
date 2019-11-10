@@ -143,7 +143,6 @@
         }
 
         display: flex;
-        overflow: hidden;
         background-color: #fff;
 
         h1{
@@ -163,8 +162,56 @@
             ul{
                 display: flex;
                 list-style: none;
+                background-color: #aa3d74;
+                padding: 0;
+
                 li{
+                    cursor: pointer;
                     padding:10px; 
+
+                    &:hover {
+                        background-color: darken($color_corporativo, 5%);
+                    }
+                    a{
+                        color: #fff;
+                        &:hover{
+                            text-decoration: none;
+                        }
+                    }
+                }
+                .dropdown {
+                    position: relative;
+
+                    &:hover > .dropdown-menu {
+                        display: block;
+                        opacity: 1;
+                    }
+                }
+
+                .dropdown-menu {
+                    display: inline-block;
+                    position: absolute;
+                    top: 50px;
+                    left: 0px;
+                    display: none;
+                    opacity: 0;
+                    background-color: $color_corporativo;
+                    transition: opacity 0.5s ease; 
+                    width: max-content;
+                    padding: 0;
+
+                    a {
+                        color: #fff;
+                    }
+                }
+
+                .dropdown-menu-item {
+                    cursor: pointer;
+                    padding: 1em;
+
+                    &:hover {
+                        background-color: darken($color_corporativo, 5%);
+                    }
                 }
             }     
         }

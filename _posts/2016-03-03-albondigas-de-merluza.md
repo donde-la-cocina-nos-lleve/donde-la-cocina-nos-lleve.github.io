@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2016-03-03T05:57:26.068-08:00'
-thumbnail: https://1.bp.blogspot.com/-kLJtSMJPqw0/VthCZeh9mII/AAAAAAAACeg/yXBKGE9W2uE/s72-c/mm.JPG
+thumbnail: https://1.bp.blogspot.com/-kLJtSMJPqw0/VthCZeh9mII/AAAAAAAACeg/yXBKGE9W2uE/s400/mm.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5480487061565743196
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/albondigas-de-merluza.html
 ---

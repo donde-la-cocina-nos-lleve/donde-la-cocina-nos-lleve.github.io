@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2017-06-04T06:22:27.974-07:00'
-thumbnail: https://3.bp.blogspot.com/-7X7VC7_8jaA/WTQHl3d1OKI/AAAAAAAADp8/oGwjdUspYIgL3pE7ovoI_6Nw3pjAP0FWQCLcB/s72-c/00.JPG
+thumbnail: https://3.bp.blogspot.com/-7X7VC7_8jaA/WTQHl3d1OKI/AAAAAAAADp8/oGwjdUspYIgL3pE7ovoI_6Nw3pjAP0FWQCLcB/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-329867197049426758
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/06/anchoas-en-vinagre-boquerones.html
 ---

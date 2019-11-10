@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Verduras y hortalizas"]
 modified_time: '2016-06-12T01:52:59.261-07:00'
-thumbnail: https://4.bp.blogspot.com/-nvFxL0trVXY/V10iOrKlNsI/AAAAAAAACu8/f7NNI0nAhYkPlBQTKQg68uJiDigIGNnEwCLcB/s72-c/01.JPG
+thumbnail: https://4.bp.blogspot.com/-nvFxL0trVXY/V10iOrKlNsI/AAAAAAAACu8/f7NNI0nAhYkPlBQTKQg68uJiDigIGNnEwCLcB/s400/01.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8825654348242927071
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/06/ensalada-con-vinagreta-de-fresas.html
 ---

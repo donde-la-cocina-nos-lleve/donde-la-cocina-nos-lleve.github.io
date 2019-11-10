@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Verduras y hortalizas"]
 modified_time: '2017-05-06T06:05:57.335-07:00'
-thumbnail: https://1.bp.blogspot.com/-taXMUiGy4Ys/WQ3IwpzZdVI/AAAAAAAADlU/76tUTYrEx70lVkIhAR-6niyMWu23tuGtwCLcB/s72-c/05.JPG
+thumbnail: https://1.bp.blogspot.com/-taXMUiGy4Ys/WQ3IwpzZdVI/AAAAAAAADlU/76tUTYrEx70lVkIhAR-6niyMWu23tuGtwCLcB/s400/05.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3018915942657574836
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/05/tartar-de-tomate-aguacate-y-fresas.html
 ---

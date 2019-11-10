@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2018-09-30T01:39:55.524-07:00'
-thumbnail: https://3.bp.blogspot.com/-XSTvAfnWP0U/W7CLj02qqaI/AAAAAAAAEYc/p2R_tkm5tCEb_dvbW1rGHkIbvhbf3eB0gCLcBGAs/s72-c/00.JPG
+thumbnail: https://3.bp.blogspot.com/-XSTvAfnWP0U/W7CLj02qqaI/AAAAAAAAEYc/p2R_tkm5tCEb_dvbW1rGHkIbvhbf3eB0gCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-9128497064335490300
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/09/merluza-frita-rebozada-o-la-romana.html
 ---

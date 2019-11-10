@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Pescados", "Pan y masas"]
 modified_time: '2017-09-02T09:08:20.050-07:00'
-thumbnail: https://4.bp.blogspot.com/-28WQqVSvOb8/WarV9FZ2XPI/AAAAAAAAD0g/PM_94H0WgD8o6NKkJU03UTHuzO4W43IUQCLcBGAs/s72-c/00.JPG
+thumbnail: https://4.bp.blogspot.com/-28WQqVSvOb8/WarV9FZ2XPI/AAAAAAAAD0g/PM_94H0WgD8o6NKkJU03UTHuzO4W43IUQCLcBGAs/s400/00.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3141126982963681221
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/09/hojaldre-de-mejillones-en-escabeche.html
 ---

@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Verduras y hortalizas"]
 modified_time: '2018-03-10T01:42:51.141-08:00'
-thumbnail: https://4.bp.blogspot.com/-8dL5K3nhjWo/Wp_JjsESEUI/AAAAAAAAEKw/ScHwZCiWcKwOUAfW1QiwRQAD3LKTD9COgCLcBGAs/s72-c/05.JPG
+thumbnail: https://4.bp.blogspot.com/-8dL5K3nhjWo/Wp_JjsESEUI/AAAAAAAAEKw/ScHwZCiWcKwOUAfW1QiwRQAD3LKTD9COgCLcBGAs/s400/05.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-2663077089033025413
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/03/patatas-la-riojana.html
 ---

@@ -7,7 +7,7 @@ tags:
 - recetas
 categories: ["Carnes", "Verduras y hortalizas"]
 modified_time: '2016-03-03T05:50:54.173-08:00'
-thumbnail: https://1.bp.blogspot.com/-kIbm8RCXG-U/VthAE28VmHI/AAAAAAAACeM/AhxegmHWzx8/s72-c/P2261536.JPG
+thumbnail: https://1.bp.blogspot.com/-kIbm8RCXG-U/VthAE28VmHI/AAAAAAAACeM/AhxegmHWzx8/s400/P2261536.JPG
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1967966167151855410
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/lacon-con-grelos.html
 ---
