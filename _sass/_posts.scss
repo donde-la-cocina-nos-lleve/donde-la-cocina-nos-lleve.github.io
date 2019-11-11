@@ -141,6 +141,38 @@
     }
 }
 
+.share{
+
+    ul{
+        list-style-type: none;
+        padding-left: 0px;
+        margin-top: 10px;
+        li{
+            padding: 0px 10px;
+            display: inline;
+        }
+        li:before{
+            content: " ";
+            width: 24px;
+            height: 24px;
+            position: absolute;
+        }
+        .twitter:before {
+            background-image: url(/assets/icons/svg/twitter.svg);
+        }
+        .facebook:before {
+            background-image: url(/assets/icons/svg/facebook.svg);
+        }
+        a{
+            display: inline-block;
+            height: 30px;
+            width: 30px;
+            padding-left: 30px;
+            padding-right: 40px;
+        }
+    }
+
+}
 .related {
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;

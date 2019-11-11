@@ -14,6 +14,13 @@ layout: default
   {% include tags.html scope=page %}
 
 </article>
+<div class="share">
+    <h3>Compartir con</h3> 
+    <ul>
+        <li class="twitter"><a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}{% if page.description %}&text={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}" title="Compartir con Twitter">Twitter</a></li>
+        <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}{% if page.description %}&t={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}" title="Compartir con Facebook">Facebook</a></li>
+    </ul>
+</div>
 
 <aside class="related">
   <h3>Recetas relacionadas</h3>
