@@ -14,11 +14,7 @@ layout: null
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
-                    {% capture src %}
-                    {% include get_image_post_src.html %}
-                    {% endcapture %}
-                    {% assign src = src | strip %}
-      "thumbnail": "{{ src }}"
+      "thumbnail": "{% include get_image_post_src.html scope=post%}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
