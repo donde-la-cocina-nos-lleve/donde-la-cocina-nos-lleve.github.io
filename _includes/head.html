@@ -12,13 +12,17 @@
 
   <title>
     {%- if paginator.page -%}
-    {{ site.title }} - Página {{ paginator.page }}
+        {%- if paginator.page > 1 -%}
+          {{ site.title }} - Página {{ paginator.page }}
+        {%- else -%}
+          {{ site.title }} - Inicio
+        {%- endif -%}
     {%- else -%}
-    {%- if page.title -%}
-      {{ page.title }}
-    {%- else -%}
-      {{ site.title }}
-    {%- endif -%}
+        {%- if page.title -%}
+          {{ page.title }}
+        {%- else -%}
+          {{ site.title }}
+        {%- endif -%}
     {%- endif -%}
   </title>
   {% seo title=false %}
