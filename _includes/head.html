@@ -11,11 +11,15 @@
   <meta property="og:image" content="{% include get_image_post_src.html scope=page %}" />
 
   <title>
-    {%if page.title %}
+    {%- if paginator.page -%}
+    {{ site.title }} - Página {{ paginator.page }}
+    {%- else -%}
+    {%- if page.title -%}
       {{ page.title }}
-    {% else %}
+    {%- else -%}
       {{ site.title }}
-    {% endif %}
+    {%- endif -%}
+    {%- endif -%}
   </title>
   {% seo title=false %}
 </head>
