@@ -10,5 +10,12 @@
 
   <meta property="og:image" content="{% include get_image_post_src.html scope=page %}" />
 
-  {% seo %}
+  <title>
+    {%if page.title %}
+      {{ page.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+  {% seo title=false %}
 </head>
