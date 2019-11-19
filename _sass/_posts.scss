@@ -53,6 +53,7 @@
     a{
         margin: 5px 0px;
         display: inline-block;
+        color: $color_corporativo;
 
         @include for-phone-only {
             margin: 10px 0px;
@@ -61,7 +62,6 @@
     code {
         padding: 5px;
         font-size: 14px;
-        color: $color_corporativo;
         background-color: #fdf0f0;
         border-radius: 5px;
     }
