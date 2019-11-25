@@ -1,6 +1,6 @@
 ---
 layout: post
-title: POLLO MARROQUÍ CON LIMONES
+title: POLLO MARROQUÍ CON LIMONES ENCURTIDOS
 date: '2019-11-24T11:07:00.000-07:00'
 description: Una forma distinta de cocinar el pollo con un ingrediente poco conocido pero cada vez más fácil de encontrar, los limones encurtidos.
 tags:
@@ -25,7 +25,7 @@ INGREDIENTES:
 
 ### 1
 
-En primer lugar, mezclamos el comino y el jengibre con un par de cucharadas de aceite y con esta mezcla embadurnamos bien el pollo. Lo ponemos en una fuente, tapamos con film y dejamos en la nevera un mínimo de 2 horas y mejor toda la noche.
+En primer lugar mezclamos el comino y el jengibre con un par de cucharadas de aceite y con esta mezcla embadurnamos bien el pollo. Lo ponemos en una fuente, tapamos con film y dejamos en la nevera un mínimo de 2 horas y mejor toda la noche.
 
 
 ![](/assets/images/pollo-marroqui/02.JPG)
@@ -44,4 +44,4 @@ En una cazuela baja echamos el aceite que nos ha sobrado de freír el pollo una 
 
 ![](/assets/images/pollo-marroqui/04.JPG)
 
-_Podemos acompañarlo de arroz basmati, cous-cous, patatas fritas o con un buen pan para untar la salsa._
+_Podemos acompañarlo con arroz basmati, cous-cous, patatas fritas o con un buen pan para untar la salsa._
