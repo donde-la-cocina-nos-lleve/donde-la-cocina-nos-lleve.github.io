@@ -145,7 +145,7 @@
         }
     }
     @include for-tablet-portrait-up {
-        .header-nav-mobile, .menu_cerrado, .buscar_cerrado{
+        .header-nav-mobile, .side{
             display: none;
         }
 
