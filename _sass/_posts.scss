@@ -35,13 +35,13 @@
         font-size: 20px;
         font-family: "Times New Roman", Times, serif;
         a{
-            color: #303030;
+            color: var(--font-color);
         }
     }
 
     .post-date {
         display: block;
-        color: #595959;
+        color: var(--font-color);
         margin-bottom:10px;
     }
 }
@@ -53,7 +53,7 @@
     a{
         margin: 5px 0px;
         display: inline-block;
-        color: $color_corporativo;
+        color: var(--color-corporativo);
 
         @include for-phone-only {
             margin: 10px 0px;
@@ -62,14 +62,14 @@
     code {
         padding: 5px;
         font-size: 14px;
-        background-color: #fdf0f0;
+        background-color: var(--color-code);
         border-radius: 5px;
     }
 }
 
 .comentarios{
     h3{
-        color: $color_corporativo;
+        color: var(--color-corporativo);
         &:before{
             margin-bottom: 10px;
             content: "";
@@ -77,7 +77,7 @@
             color: #aa3d74;
             width: 50px;
             height: 4px;
-            background-color: $color_corporativo;
+            background-color: var(--color-corporativo);
         }
     }
 
@@ -88,9 +88,10 @@
 
     input, textarea{
         padding: 10px 7px;
+        color: var(--font-color);
         font-size: 18px;
-        background: #f2f2f2;
-        border: 1px solid #f2f2f2;
+        background: var(--form-bg-color);
+        border: 1px solid var(--form-border-color);
         border-radius: 2px;
     }
 
@@ -114,7 +115,7 @@
         cursor: pointer;
         font-weight: 600;
         padding: 10px 15px;
-        background-color: $color_corporativo;
+        background-color: var(--color-corporativo);
     }
     .comentario{
         .datos{
@@ -134,11 +135,11 @@
     }
     .aviso{
         margin-top: 10px;
-        border: 3px solid $color_corporativo;
+        border: 3px solid var(--color-corporativo);
         padding: 10px;   
 
         p{
-            color: $color_corporativo;
+            color: var(--color-corporativo);
             margin-bottom: 0;
         }
     }

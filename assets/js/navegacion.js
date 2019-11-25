@@ -1,9 +1,9 @@
 function toggleMenu() {
-  document.getElementById("sidebar_menu").classList.toggle("hide");
+  document.getElementById("sidebar_menu").classList.toggle("show");
 }
 
 function toggleBusqueda() {
-  document.getElementById("sidebar_buscar").classList.toggle("hide");
+  document.getElementById("sidebar_buscar").classList.toggle("show");
 }
 
 var btn_abrir_menu = document.getElementById('boton-menu');
@@ -25,3 +25,4 @@ var btn_cerrar_buscar = document.getElementById('boton-cerrar-buscar');
 btn_cerrar_buscar.addEventListener('click', function(event) {
     toggleBusqueda();
 });
+

@@ -4,7 +4,7 @@
     text-align: center;
 
     a.pagination-item {
-        background-color: $color_corporativo;
+        background-color: var(--color-corporativo);
         &:hover {
             background-color: #f5f5f5;
         }

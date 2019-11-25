@@ -13,24 +13,24 @@ body {
 }
 
 html {
-    font-family: $root-font-family;
-    font-size: $root-font-size;
-    line-height: $root-line-height;
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
 
     @include for-tablet-portrait-up {
-        font-size: $large-font-size;
+        font-size: var(--large-font-size);
     }
 }
 
 body {
-    color: $body-color;
-    background-color: $body-bg;
+    background-color: var(--bg-color);
+    color: var(--font-color);
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
 }
 
 a {
-    color: $link-color;
+    color: var(--link-color);
     text-decoration: none;
 
     &:hover,
@@ -71,6 +71,9 @@ img {
     border: 0;
 }
 
+.svg_blanco{
+    filter: invert(100%);
+}
 .show {
     display: block !important;
 }

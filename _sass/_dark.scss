@@ -1,0 +1,10 @@
+[data-theme="dark"] {
+    .svg{
+       filter: invert(1); 
+    }
+    .twitter, .facebook{
+        &:before{
+            filter: invert(1); 
+        }
+    }
+}
