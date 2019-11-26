@@ -1,6 +1,6 @@
 ---
 tag: "Carnes"
 permalink: "/categoria/carnes"
-title: "Carnes"
+title: "Categoría - Carnes"
 layout: category
 ---

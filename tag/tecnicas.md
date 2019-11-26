@@ -1,6 +1,7 @@
 ---
 layout: tagpage
-title: "Técnicas"
+title: "Tag - Técnicas"
+header: "Técnicas"
 tag: tecnicas
 --- 
 

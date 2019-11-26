@@ -1,6 +1,6 @@
 ---
 tag: "Pan y masas"
 permalink: "/categoria/pan"
-title: "Pan y masas"
+title: "Categoría - Pan y masas"
 layout: category
 ---

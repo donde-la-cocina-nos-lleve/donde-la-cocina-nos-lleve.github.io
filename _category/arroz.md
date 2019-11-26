@@ -1,6 +1,6 @@
 ---
 tag: "Arroz y pasta"
 permalink: "/categoria/arroz"
-title: "Arroz y pasta"
+title: "Categoría - Arroz y pasta"
 layout: category
 ---

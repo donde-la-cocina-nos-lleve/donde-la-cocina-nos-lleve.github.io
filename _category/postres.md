@@ -1,6 +1,6 @@
 ---
 tag: "Postres"
 permalink: "/categoria/postres"
-title: "Postres"
+title: "Categoría - Postres"
 layout: category
 ---

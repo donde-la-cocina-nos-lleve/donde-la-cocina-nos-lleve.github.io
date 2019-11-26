@@ -1,6 +1,6 @@
 ---
 tag: "Huevos"
 permalink: "/categoria/huevos"
-title: "Huevos"
+title: "Categoría - Huevos"
 layout: category
 ---

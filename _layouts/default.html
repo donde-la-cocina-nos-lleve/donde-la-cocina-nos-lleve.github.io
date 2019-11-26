@@ -14,35 +14,37 @@
                 <h1>
                     <a href="{{ site.baseurl }}/" title="Home"><img src="/assets/icons/cabecera.jpg" alt="Imagen cabecera"/><span class="sr-only">{{ site.title }}</span></a>
                 </h1>
-                <nav class="header-nav">
-                    <ul>
-                        <li class="dropdown"><a href="/tag/recetas/">Recetas</a>
-                            <ul class="dropdown-menu">
-                                <li class="dropdown-menu-item"><a href="/categoria/pintxos">Pintxos y aperitivos</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/verduras">Verduras y hortalizas</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/cremas">Cremas y sopas</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/arroz">Arroz y pasta</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/legumbres">Legumbres</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/huevos">Huevos</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/carnes">Carnes</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/pescados">Pescados</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/postres">Postres</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/pan">Pan y masas</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="/tag/cocina-viajera/">Cocina viajera </a></li>
-                        <li><a href="/tag/libros/">Libros</a></li>
-                        <li><a href="/tag/historias/">Historias</a></li>
-                        <li><a href="/tag/mercados/">Mercados</a></li>
-                        <li><a href="/tag/tecnicas/">Técnicas</a></li>
-                    </ul>
-                </nav>
+                <div class="nav">
+                    <nav class="header-nav">
+                        <ul>
+                            <li class="dropdown"><a href="/tag/recetas/">Recetas</a>
+                                <ul class="dropdown-menu">
+                                    <li class="dropdown-menu-item"><a href="/categoria/pintxos/">Pintxos y aperitivos</a></li>
+                                    <li class="dropdown-menu-item"><a href="/categoria/verduras/">Verduras y hortalizas</a></li>
+                                    <li class="dropdown-menu-item"><a href="/categoria/cremas/">Cremas y sopas</a></li>
+                                    <li class="dropdown-menu-item"><a href="/categoria/arroz/">Arroz y pasta</a></li>
+                                    <li class="dropdown-menu-item"><a href="/categoria/legumbres/">Legumbres</a></li>
+                                    <li class="dropdown-menu-item"><a href="/categoria/huevos/">Huevos</a></li>
+                                    <li class="dropdown-menu-item"><a href="/categoria/carnes/">Carnes</a></li>
+                                    <li class="dropdown-menu-item"><a href="/categoria/pescados/">Pescados</a></li>
+                                    <li class="dropdown-menu-item"><a href="/categoria/postres/">Postres</a></li>
+                                    <li class="dropdown-menu-item"><a href="/categoria/pan/">Pan y masas</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/tag/cocina-viajera/">Cocina viajera </a></li>
+                            <li><a href="/tag/libros/">Libros</a></li>
+                            <li><a href="/tag/historias/">Historias</a></li>
+                            <li><a href="/tag/mercados/">Mercados</a></li>
+                            <li><a href="/tag/tecnicas/">Técnicas</a></li>
+                        </ul>
+                    </nav>
+                </div>
             </div>
             {% include nav_header_movil.html %}
         </header>
         <div class="container content">
             <main class="main-content">
-                {{ content }}
+            {{ content }}
             </main>
 
             {% include sidebar.html %}

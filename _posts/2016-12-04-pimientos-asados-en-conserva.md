@@ -9,8 +9,6 @@ tags:
 categories: ["Verduras y hortalizas"]
 modified_time: '2016-12-04T09:26:24.443-08:00'
 thumbnail: https://1.bp.blogspot.com/-nGImbTsdrQg/WEQxL4dFM0I/AAAAAAAADOY/6Tf3gdAJtLs3Hl4yWkpQQdE7Dwedxs_CACLcB/s400/18.JPG
-blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1960471503844994728
-blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/12/pimientos-asados-en-conserva.html
 ---
 
 ![](https://1.bp.blogspot.com/-nGImbTsdrQg/WEQxL4dFM0I/AAAAAAAADOY/6Tf3gdAJtLs3Hl4yWkpQQdE7Dwedxs_CACLcB/s400/18.JPG)
@@ -57,6 +55,6 @@ _En el proceso de enfriado es cuando se produce el vacío y se aprecia por una l
 
 VÍDEO:
 
-<iframe class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/Gwd2u6VEdq0/0.jpg" src="https://www.youtube.com/embed/Gwd2u6VEdq0?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+<iframe class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/Gwd2u6VEdq0/0.jpg" src="https://www.youtube.com/embed/Gwd2u6VEdq0?feature=player_embedded" width="600" height="450" frameborder="0" allowfullscreen></iframe>
 
 Bernardo I. García de la Torre

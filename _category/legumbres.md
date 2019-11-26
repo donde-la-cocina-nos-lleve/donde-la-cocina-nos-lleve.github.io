@@ -1,6 +1,6 @@
 ---
 tag: "Legumbres"
 permalink: "/categoria/legumbres"
-title: "Legumbres"
+title: "Categoría - Legumbres"
 layout: category
 ---

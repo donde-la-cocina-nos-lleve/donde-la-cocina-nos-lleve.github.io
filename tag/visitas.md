@@ -1,6 +1,7 @@
 ---
 layout: tagpage
-title: "Visitas"
+title: "Tag - Visitas"
+header: "Visitas"
 tag: visitas
 --- 
  

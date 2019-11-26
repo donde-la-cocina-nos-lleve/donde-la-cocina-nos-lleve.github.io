@@ -1,6 +1,6 @@
 ---
 tag: "Pescados"
 permalink: "/categoria/pescados"
-title: "Pescados"
+title: "Categoría - Pescados"
 layout: category
 ---

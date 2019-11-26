@@ -4,6 +4,7 @@ title: QUESO FRESCO DE OVEJA
 date: '2016-09-10T07:28:00.000-07:00'
 author: bernardo
 tags:
+- tecnicas
 - recetas
 modified_time: '2016-10-11T04:57:22.615-07:00'
 thumbnail: https://1.bp.blogspot.com/-zwNWkC08uqw/V9QUUHcGNuI/AAAAAAAAC8c/_81VZ1BW4wM1pu7KqG04EuH9lxXnGYInACLcB/s400/00.JPG
@@ -79,6 +80,6 @@ _Hay que tener en cuenta que de un litro de leche obtendremos un queso de 300 gr
 
 EN VÍDEO:
 
-<iframe class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/IZ50EWEzCOc/0.jpg" src="https://www.youtube.com/embed/IZ50EWEzCOc?feature=player_embedded" frameborder="0" allowfullscreen></iframe>  
+<iframe class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/IZ50EWEzCOc/0.jpg" src="https://www.youtube.com/embed/IZ50EWEzCOc?feature=player_embedded" width="600" height="450" frameborder="0" allowfullscreen></iframe>  
 
 Bernardo I. García de la Torre

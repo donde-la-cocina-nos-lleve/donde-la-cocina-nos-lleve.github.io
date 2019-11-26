@@ -1,5 +1,6 @@
 ---
 layout: tagpage
-title: "Libros"
+title: "Tag - Libros"
+header: "Libros"
 tag: libros
 --- 

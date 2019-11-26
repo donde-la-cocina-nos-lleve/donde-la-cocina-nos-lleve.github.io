@@ -1,6 +1,6 @@
 ---
 tag: "Pintxos y aperitivos"
 permalink: "/categoria/pintxos"
-title: "Pintxos y aperitivos"
+title: "Categoría - Pintxos y aperitivos"
 layout: category
 ---

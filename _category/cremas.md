@@ -1,6 +1,6 @@
 ---
 tag: "Cremas y sopas"
 permalink: "/categoria/cremas"
-title: "Cremas y sopas"
+title: "Categoría - Cremas y sopas"
 layout: category
 ---

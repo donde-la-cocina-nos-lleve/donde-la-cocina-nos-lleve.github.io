@@ -11,9 +11,10 @@ blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-61112079697226834
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/bretana-galettes.html
 ---
 
+![](https://3.bp.blogspot.com/-Gfksl3MqnNg/VvgmaufHQkI/AAAAAAAACjU/AAaMBdOQ0vo4GuWtLU-_YmN_M31MVctiQ/s400/escanear0001.JPG)
+
 En nuestro recorrido por Bretaña, región situada al Noroeste de Francia, pudimos degustar algunos de sus productos y de sus preparaciones culinarias como el _andouille_ (embutido), la _tapenade_ (pasta de aceitunas), el _paté bretón_ de carne o los _moules_ (mejillones). Pero iniciaremos nuestro repaso por un producto ancestral, la _galette_, que tiene su origen en las zonas agrícolas alejadas de la costa.  
 
-![](https://3.bp.blogspot.com/-Gfksl3MqnNg/VvgmaufHQkI/AAAAAAAACjU/AAaMBdOQ0vo4GuWtLU-_YmN_M31MVctiQ/s400/escanear0001.JPG)
 
 Preparación tradicional
 
