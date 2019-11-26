@@ -28,122 +28,76 @@ else{
 
 init(options);
 
-var filtro="";
+var filtro=[];
+var data;
+
 function init(options) {
     load(options.json)
-    return {
-        search: showMatches
-    }
-}
-
-//get JSON via fetch
-function initWithJSON (json) {
-    put(json)
     registerInput()
 }
 
+//get JSON via fetch
 function load (location) {
     fetch(
         location,
         { method: 'GET' }
     )
         .then( response => response.json() )
-        .then( json => initWithJSON(json) )
+        .then( json => data=json )
         .catch( error =>  console.log("JSON fetch error"+location));
 
-}
-
-//build array of data from JSON
-var data = []
-
-function put (data) {
-    if (isObject(data)) {
-        return addObject(data)
-    }
-    if (isArray(data)) {
-        return addArray(data)
-    }
-    return undefined
-}
-function clear () {
-    data.length = 0
-    return data
-}
-
-function isObject (obj) {
-    return Boolean(obj) && Object.prototype.toString.call(obj) === '[object Object]'
-}
-
-function isArray (obj) {
-    return Boolean(obj) && Object.prototype.toString.call(obj) === '[object Array]'
-}
-
-function addObject (_data) {
-    data.push(_data)
-    return data
-}
-
-function addArray (_data) {
-    var added = []
-    clear()
-    for (var i = 0, len = _data.length; i < len; i++) {
-        if (isObject(_data[i])) {
-            added.push(addObject(_data[i]))
-        }
-    }
-    return added
 }
 
 //filter and get matches
 function filterCategory(data, categories){
     var matches = []
-    for (var i = 0; i < data.length; i++) {
-        var match = findCategoryMatch(data[i], categories);
+    for (let i = 0; i < data.length; i++) {
+        let match = findCategoryMatch(data[i], categories);
         if (match){
             matches.push(match);
         }
     }
     return matches;
 }
+
 function findCategoryMatch(object, categories){
-    var arr_categories=categories.substr(0, categories.lastIndexOf(",")).split(",");
-    for(var i=0;i<arr_categories.length;i++){
-        if(object["category"].indexOf(arr_categories[i])>=0){
+    for(let category of categories){
+        if(object["category"].indexOf(category)>=0){
             return object;
         }
     }
 }
+
 function search(crit, category_filter, limit) {
-    if (crit.length==0) {
-        if(category_filter.length>0 && category_filter!="all"){
+    if(category_filter.length>0 && !category_filter.includes("all")){
+        if (crit.length==0) {
             return filterCategory(data, category_filter);
         }
-        else{ 
-            return []
+        else{
+            return findMatches(filterCategory(data, category_filter), crit, limit)
         }
     }
-    return findMatches(filterCategory(data, category_filter), crit, limit)
+    else{ 
+        if (crit.length==0) {
+            return []
+        }
+        else{
+            return findMatches(data, crit, limit)
+        }
+    }
 }
-
 
 function findMatches (data, crit, limit) {
     var matches = []
-    for (var i = 0; i < data.length && matches.length < limit; i++) {
-        var match = findMatchesInObject(data[i], crit)
-        if (match) {
-            matches.push(match)
+    for (let i = 0; i < data.length && matches.length < limit; i++) {
+        if (match(data[i]["title"], crit)) {
+            matches.push(data[i])
         }
     }
     return matches
 }
 
-function findMatchesInObject (obj, crit) {
-    if (matches(obj["title"], crit)) {
-        return obj
-    }
-}
-
-function matches(str, crit) {
+function match(str, crit) {
     if (!str) return false
 
     str = str.trim().toLowerCase()
@@ -165,7 +119,7 @@ function render (results, query) {
     if (len === 0) {
         return appendToResultsContainer(options.noResultsText)
     }
-    for (var i = 0; i < len; i++) {
+    for (let i = 0; i < len; i++) {
         results[i].query = query
         appendToResultsContainer(compile(results[i]))
     }
@@ -204,63 +158,33 @@ function filter(evt) {
     var elem=evt.target;
     var data_filtro=elem.getAttribute("data-filter");
     if (data_filtro == "all"){
-        filtro = "";
+        filtro = [];
         if(elem.className.indexOf("active")==-1){
             var elems = options.filtersContainer.querySelectorAll(".active");
-            [].forEach.call(elems, function(el) {
+            for (let el of elems){
                 el.classList.remove("active");
-            });
+            }
             elem.classList.add("active");
         }
     }
     else{
-        if(elem != null){
-            if(elem.className.indexOf("active")>-1){
-                elem.classList.remove("active");
+        if(elem.className.indexOf("active")>-1 && filtro.indexOf(data_filtro)>-1){
+            elem.classList.remove("active");
+            if (options.filtersContainer.querySelectorAll(".active").length==0){
+                options.filtersContainer.getElementsByClassName("btn")[0].classList.add("active");
+
             }
-            else{
-                options.filtersContainer.getElementsByClassName("btn")[0].classList.remove("active");
-                elem.classList.add("active");
-            }
-            if(filtro.indexOf(data_filtro)>-1){
-                filtro=delete_from_comma_array(filtro.split(","),data_filtro);
-            }
-            else{
-                filtro+=data_filtro+",";
-            }
+
+            filtro=filtro.filter(e => e !== data_filtro);
+        }
+        else if(elem.className.indexOf("active")==-1 && filtro.indexOf(data_filtro)==-1){
+            options.filtersContainer.getElementsByClassName("btn")[0].classList.remove("active");
+            elem.classList.add("active");
+
+            filtro.push(data_filtro);
         }
     }
     showMatches(options.searchInput.value, filtro); 
-}
-
-//utils
-function delete_from_comma_array(arr, str){
-    while (arr.indexOf(str) > -1) {
-        arr.splice(arr.indexOf(str), 1); 
-    }
-    return arr.join(",");
-}
-
-function merge (defaultParams, mergeParams) {
-    var mergedOptions = {}
-    for (var option in defaultParams) {
-        mergedOptions[option] = defaultParams[option]
-        if (typeof mergeParams[option] !== 'undefined') {
-            mergedOptions[option] = mergeParams[option]
-        }
-    }
-    return mergedOptions
-}
-
-function isJSON (json) {
-    try {
-        if (json instanceof Object && JSON.parse(JSON.stringify(json))) {
-            return true
-        }
-        return false
-    } catch (err) {
-        return false
-    }
 }
 
 function isWhitelistedKey (key) {
