@@ -106,7 +106,7 @@
         }
     }
     .btn {
-        border: 2px solid #fff;
+        border: 2px solid var(--bg-color);
         margin:2px;
         outline: none;
         padding: 8px 16px;
@@ -223,7 +223,8 @@
         }
         a{
             display: table;
-            color:#000;
+            color: var(--font-color);
+
             img{
                 display: table-cell;
                 float: left;

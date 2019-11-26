@@ -16,10 +16,6 @@ html {
     font-family: var(--font-family);
     font-size: var(--font-size);
     line-height: var(--line-height);
-
-    @include for-tablet-portrait-up {
-        font-size: var(--large-font-size);
-    }
 }
 
 body {

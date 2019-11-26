@@ -22,43 +22,7 @@ layout: default
     </ul>
 </div>
 
-<aside class="related">
-  <h3>Recetas relacionadas</h3>
-
-  {% assign maxRelated = 4 %}
-  {% assign minCommonTags =  1 %}
-  {% assign maxRelatedCounter = 0 %}
-  {% assign randomPosts = site.posts | sample: site.posts.size %}
-  <ul class="related-posts">
-
-      {%- for post in randomPosts -%}
-
-      {% assign sameTagCount = 0 %}
-
-      {%- for category in post.categories -%}
-      {% if post.url != page.url %}
-      {% if page.categories contains category %}
-      {% assign sameTagCount = sameTagCount | plus: 1 %}
-      {% endif %}
-      {% endif %}
-      {%- endfor -%}
-
-      {% if sameTagCount >= minCommonTags %}
-      <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-              {{ post.title }}
-              <small>{% include fecha.html scope=post%}</small>
-          </a>
-      </li>
-      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-      {% if maxRelatedCounter >= maxRelated %}
-      {% break %}
-      {% endif %}
-      {% endif %}
-
-      {%- endfor -%}
-  </ul>
-</aside>
+{% include related.html %}
 {% include comments.html %}
 
 <script>
