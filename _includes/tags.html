@@ -12,6 +12,6 @@
         {% for site_tag in site.data.tags %}{% if tag == site_tag.slug %}{{ site_tag.name }}{% endif %}{% endfor %}
         {% endcapture %}
         {% assign tag_link = tag_link | strip %}
-        <a href="/tag/{{ tag_link }}"><code>{{ tag_name }}</code></a>
+        <a href="/tag/{{ tag_link }}/"><code>{{ tag_name }}</code></a>
     {% endfor %}
 </span>
