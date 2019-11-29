@@ -5,6 +5,7 @@
         display: none;    
     }
 
+    min-width: 280px;
     .destacados{
         ul{
             padding: 0px;
@@ -58,6 +59,18 @@
 } 
 
 .search-container{
+    label[for=search-input]{
+        font-size: 20px;
+        text-transform: uppercase;
+        font-weight: 600;
+        color: var(--color-corporativo);
+    }
+    input{
+        padding: 5px 10px;
+        font-size: 15px;
+        height: 40px;
+        border: 1px solid var(--color-corporativo);
+    }
     .filtros{
         display:none;
     }
