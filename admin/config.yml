@@ -4,7 +4,7 @@ backend:
   branch: master
   site_domain: blissful-curran-bb1ffb.netlify.com
 
-media_folder: "images/uploads"
+media_folder: "assets/images/uploads"
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
@@ -33,7 +33,7 @@ collections:
     folder: '_category/'
     create: true
     editor:
-    preview: false
+      preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'category' }
       - { label: 'Short Name', name: 'tag', widget: 'string' }
