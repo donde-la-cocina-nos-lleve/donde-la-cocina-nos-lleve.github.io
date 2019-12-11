@@ -10,9 +10,11 @@
             }
         </script>
         <header id="header" class="header">
-            <img src="/assets/icons/icono.png" alt="Imagen cabecera"/>
             <h1>
-                <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+                <a href="{{ site.baseurl }}/" title="Home">
+                    <span class="sr-only">{{ site.title }}</span>
+                    <img src="/assets/icons/cabecera_larga.jpg" alt="Imagen cabecera"/>
+                </a>
             </h1>
             <div class="nav">
                 <nav class="header-nav">
