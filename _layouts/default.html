@@ -5,9 +5,6 @@
 
     <body>
         <script>
-            if (navigator.serviceWorker) {
-                navigator.serviceWorker.register('/sw.js', {scope: '/'})
-            }
         </script>
         <header id="header" class="header">
             <h1>
@@ -51,6 +48,8 @@
             {% include sidebar.html %}
 
             {% include footer.html %}
+            <script src="{{ site.baseurl }}/assets/js/index.js"></script>
+            <p id="token"></p>
             <script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
             <script src="{{ site.baseurl }}/assets/js/navegacion.js"></script>
             <script src="{{ site.baseurl }}/assets/js/night.js"></script>
