@@ -54,6 +54,8 @@ self.addEventListener('activate', function (e) {
         })
     );
 });
+
+
 self.addEventListener('push', ev => {
   const data = ev.data.json();
   self.registration.showNotification(data.title, {
@@ -62,4 +64,25 @@ self.addEventListener('push', ev => {
     badge: '/assets/icons/icono.png',
     icon: '/assets/icons/icon-512x512.png'
   });
+});
+
+self.addEventListener('notificationclick', function(event) {
+    let url = event.notification.data.url;
+    event.notification.close(); // Android needs explicit close.
+    event.waitUntil(
+        clients.matchAll({type: 'window'}).then( windowClients => {
+            // Check if there is already a window/tab open with the target URL
+            for (var i = 0; i < windowClients.length; i++) {
+                var client = windowClients[i];
+                // If so, just focus it.
+                if (client.url === url && 'focus' in client) {
+                    return client.focus();
+                }
+            }
+            // If not, then open the target URL in a new window/tab.
+            if (clients.openWindow) {
+                return clients.openWindow(url);
+            }
+        })
+    );
 });

@@ -21,22 +21,16 @@ if ('serviceWorker' in navigator) {
 }
 
 async function run() {
-    console.log('Registering service worker');
     const registration = await navigator.serviceWorker.
         register('/sw.js', {scope: '/'});
-    console.log('Registered service worker');
 
-    console.log('Registering push');
-    const subscription = await registration.pushManager.
+    /*const subscription = await registration.pushManager.
         subscribe({
             userVisibleOnly: true,
             applicationServerKey: urlBase64ToUint8Array(publicVapidKey)
         });
-    console.log('Registered push');
-    console.log(JSON.stringify(subscription));
     document.getElementById("token").innerHTML=JSON.stringify(subscription);
 
-    console.log('Sending push');
     await fetch('https://boiling-gorge-78886.herokuapp.com/subscribe', {
         method: 'POST',
         headers: {
@@ -45,7 +39,6 @@ async function run() {
         },
         body: JSON.stringify(data),
         mode: 'no-cors',
-    });
-    console.log('Sent push');
+    });*/
 }
 
