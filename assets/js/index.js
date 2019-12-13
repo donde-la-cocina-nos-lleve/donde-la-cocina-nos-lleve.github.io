@@ -20,7 +20,8 @@ if ('serviceWorker' in navigator) {
             userVisibleOnly: true,
             applicationServerKey: urlBase64ToUint8Array(publicVapidKey)
         }).then(subscription => {
-            console.log(JSON.stringify(subscription));
+            body={ subscription: subscription, categoria: "Postres"}
+            console.log(JSON.stringify(body));
             //document.getElementById("token").innerHTML=JSON.stringify(subscription);
             fetch('https://boiling-gorge-78886.herokuapp.com/subscribe', {
                 method: 'POST',
@@ -28,7 +29,7 @@ if ('serviceWorker' in navigator) {
                     Accept: 'application/json',
                     'Content-Type': 'application/json',
                 },
-                body: JSON.stringify({subscription: JSON.stringify(subscription), categoria: 'Postres'}),
+                body: JSON.stringify(body),
             });
         })
     })
