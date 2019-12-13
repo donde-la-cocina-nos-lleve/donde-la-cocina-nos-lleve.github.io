@@ -28,7 +28,7 @@ if ('serviceWorker' in navigator) {
                     Accept: 'application/json',
                     'Content-Type': 'application/json',
                 },
-                body: JSON.stringify({subscription=JSON.stringify(subscription), categoria='Postres'}),
+                body: JSON.stringify({subscription: JSON.stringify(subscription), categoria: 'Postres'}),
             });
         })
     }
