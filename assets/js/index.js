@@ -22,13 +22,14 @@ if ('serviceWorker' in navigator) {
         }).then(subscription => {
             console.log(JSON.stringify(subscription));
             //document.getElementById("token").innerHTML=JSON.stringify(subscription);
-            await fetch('https://boiling-gorge-78886.herokuapp.com/subscribe', {
+            fetch('https://boiling-gorge-78886.herokuapp.com/subscribe', {
                 method: 'POST',
                 headers: {
                     Accept: 'application/json',
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({subscription=JSON.stringify(subscription), categoria='Postres'}),
-        });
-    })
+            });
+        })
+    }
 }
