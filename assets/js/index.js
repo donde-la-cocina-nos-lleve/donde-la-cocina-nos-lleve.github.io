@@ -31,5 +31,5 @@ if ('serviceWorker' in navigator) {
                 body: JSON.stringify({subscription: JSON.stringify(subscription), categoria: 'Postres'}),
             });
         })
-    }
+    })
 }
