@@ -15,10 +15,8 @@
 
         h1{
             margin: 0;
-            font-size: 5vw;
-            line-height: 40px;
-            width: max-content;
-            color:var(--font-color);
+            width: 75%;
+            margin: auto;
 
             a {
                 color: inherit;
@@ -29,10 +27,11 @@
         }
         .header-nav-mobile{
             list-style: none;
+            padding: 0;
             li button{
                 display: block;
                 position: absolute;
-                top: 20px; 
+                top: 30px; 
                 background-repeat:no-repeat;
                 background-color: transparent;
                 background-size: 100%;
@@ -60,6 +59,7 @@
             overflow: auto;
             width:85%;
             height: 100%;
+            z-index: 1;
         }
         .menu{
             margin-right: 15%; 
@@ -147,6 +147,14 @@
                     }
                 }
             }
+        }
+        .boton-configuracion{
+            position: absolute;
+            top: 20px;
+            background-image: url(/assets/icons/svg/settings.svg);
+            height: 24px;
+            width: 24px;
+            filter: invert(1);
         }
         .boton-cerrar{
             display: block;
