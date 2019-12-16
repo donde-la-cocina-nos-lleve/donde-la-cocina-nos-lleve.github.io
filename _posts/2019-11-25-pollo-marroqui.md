@@ -8,7 +8,6 @@ tags:
 categories: ["Carnes"]
 thumbnail: /assets/images/pollo-marroqui/00.JPG
 ---
-
 ![](/assets/images/pollo-marroqui/01.JPG)
 
 INGREDIENTES:
@@ -45,3 +44,7 @@ En una cazuela baja echamos el aceite que nos ha sobrado de freír el pollo una 
 ![](/assets/images/pollo-marroqui/04.JPG)
 
 _Podemos acompañarlo con arroz basmati, cous-cous, patatas fritas o con un buen pan para untar la salsa._
+
+### VÍDEO:
+
+<iframe class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/BrQANq3Z_mk/0.jpg" src="https://www.youtube.com/embed/BrQANq3Z_mk?feature=player_embedded" frameborder="0" allowfullscreen></iframe>

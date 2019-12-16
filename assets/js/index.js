@@ -1,3 +1,5 @@
+---
+---
 function urlBase64ToUint8Array(base64String) {
     const padding = '='.repeat((4 - base64String.length % 4) % 4);
     const base64 = (base64String + padding)
@@ -14,31 +16,34 @@ function urlBase64ToUint8Array(base64String) {
 }
 const publicVapidKey = 'BEgC9Ob9muH0OjvrkXxmQsy6lnNCdSnIEX2lWjbxnNRsh9JvhFHqm0Mo9cCHkBl5GrrnHIlpJCH0TWjIrzgRwnM';
 
+let swRegistration = null;
+
 if ('serviceWorker' in navigator) {
-    console.log('Registering service worker');
+    navigator.serviceWorker.register('/sw.js', {scope: '/'}).then(registration => {
+        swRegistration = registration;
+        registration.pushManager.getSubscription()
+        .then(function(subscription) {
+            if(subscription === null){
+                registration.pushManager.subscribe({
+                    userVisibleOnly: true,
+                    applicationServerKey: urlBase64ToUint8Array(publicVapidKey)
+                }).then(subscription => {
+                    let categoria="{% for categoria in site.category %}{{ categoria.slug }},{% endfor %}"
+                    localStorage.setItem('categoria', categoria); 
 
-    run().catch(error => console.error(error));
+                    body={ subscription: subscription, categoria: categoria}
+                    console.log(JSON.stringify(body));
+                    //document.getElementById("token").innerHTML=JSON.stringify(subscription);
+                    fetch('https://boiling-gorge-78886.herokuapp.com/subscribe', {
+                        method: 'POST',
+                        headers: {
+                            Accept: 'application/json',
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify(body),
+                    });
+                })
+            }
+        })
+    })
 }
-
-async function run() {
-    const registration = await navigator.serviceWorker.
-        register('/sw.js', {scope: '/'});
-
-    /*const subscription = await registration.pushManager.
-        subscribe({
-            userVisibleOnly: true,
-            applicationServerKey: urlBase64ToUint8Array(publicVapidKey)
-        });
-    document.getElementById("token").innerHTML=JSON.stringify(subscription);
-
-    await fetch('https://boiling-gorge-78886.herokuapp.com/subscribe', {
-        method: 'POST',
-        headers: {
-            Accept: 'application/json',
-            'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(data),
-        mode: 'no-cors',
-    });*/
-}
-
