@@ -4,6 +4,7 @@ layout: default
 
 <article class="post">
   <h2 class="post-title">{{ page.title }}</h2>
+  <button class="share-button svg" id="share-button"></button>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
       {% include fecha.html scope=page%}
   </time>
@@ -26,10 +27,27 @@ layout: default
 {% include comments.html %}
 
 <script>
-    var post_article=document.getElementsByTagName("article")[0];
-for (i = 0; i < post_article.getElementsByTagName("img").length; i++) {
-    if(post_article.getElementsByTagName("img")[i].getAttribute("alt")==null){
-        post_article.getElementsByTagName("img")[i].setAttribute("alt","{{ page.title }}"+i);
+
+    document.getElementById('share-button').addEventListener('click', function() {
+        if(navigator.share) {
+            navigator.share({
+                title: '{{ page.title }}',
+                text: '{{ page.description }}',
+                url: '{{ site.url }}{{ page.url }}'
+            })
+                .then(() => console.log('Share complete'))
+                .error((error) => console.error('Could not share at this time', error))
+        }
+    });
+
+    if(!navigator.share){
+        document.getElementById('share-button').classList+=" hide"; 
     }
-}
+
+    var post_article=document.getElementsByTagName("article")[0];
+    for (i = 0; i < post_article.getElementsByTagName("img").length; i++) {
+        if(post_article.getElementsByTagName("img")[i].getAttribute("alt")==null){
+            post_article.getElementsByTagName("img")[i].setAttribute("alt","{{ page.title }}"+i);
+        }
+    }
 </script>

@@ -31,12 +31,22 @@
         max-width: 400px;
     }
     .post-title{
+        display: inline;
         margin-bottom: 5px;
         font-size: 20px;
         font-family: "Times New Roman", Times, serif;
         a{
             color: var(--font-color);
         }
+    }
+
+    .share-button{
+        float: right;
+        border: none;
+        height: 24px;
+        width: 24px;
+        background: transparent;
+        background-image: url(/assets/icons/svg/share.svg);
     }
 
     .post-date {
