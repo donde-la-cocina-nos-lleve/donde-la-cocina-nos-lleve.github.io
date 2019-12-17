@@ -64,7 +64,10 @@ self.addEventListener('push', ev => {
     body: data.body,
     image: data.image,
     badge: '/assets/icons/icono.png',
-    icon: '/assets/icons/icon-512x512.png'
+    icon: '/assets/icons/icon-512x512.png',
+    data: {
+        url: data.url
+    }     
   });
 });
 
