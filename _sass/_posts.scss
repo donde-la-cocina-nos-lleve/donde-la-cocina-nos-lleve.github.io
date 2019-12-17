@@ -7,6 +7,9 @@
         grid-gap: 20px;
     }
     @include for-tablet-landscape-up {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    @include for-desktop-up {
         grid-template-columns: repeat(3, 1fr);
     }
     @include for-big-desktop-up {
@@ -32,7 +35,6 @@
     }
     .post-title{
         display: inline;
-        margin-bottom: 5px;
         font-size: 20px;
         font-family: "Times New Roman", Times, serif;
         a{

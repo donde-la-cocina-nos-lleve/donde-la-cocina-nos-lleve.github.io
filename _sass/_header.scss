@@ -170,16 +170,14 @@
             width:40px;
         }
     }
+
     @include for-tablet-portrait-up {
         .header-nav-mobile, .side{
             display: none;
         }
 
-        display: flex;
-        align-items: center;
-        width: 90%;
-        margin: auto;
-        margin-bottom: 50px;
+        display: block;
+        text-align: center;
 
 
         h1{
@@ -188,9 +186,8 @@
             a {
                 color: inherit;
                 > img{
+                    margin:auto;
                     height: 150px;
-                    margin-left: 20px;
-                    margin-bottom: 0px;
                 }
             }
         }
@@ -199,6 +196,8 @@
             background-color: #252422;
             position: relative;
             top: 2px;
+            width: max-content;
+            margin: auto;
 
             .header-nav{
                 display: inline-block;
@@ -258,6 +257,19 @@
                     }
                 }     
             }
+        }
+    }
+    @include for-desktop-up {
+        display: flex;
+        align-items: center;
+        width: 90%;
+        margin: auto;
+        margin-bottom: 50px;
+        h1 a img{
+            margin-left: 20px;
+        }
+        .nav{
+            margin: 0;
         }
     }
 }
