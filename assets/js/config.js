@@ -1,61 +1,55 @@
----
----
+const toggleNotification= document.getElementById('notification');
 
-var currentCategoria= localStorage.getItem('categoria'); 
-{% for categoria in site.category %}
-
-    const toggle{{ categoria.slug }}= document.getElementById('{{ categoria.slug }}');
-
-    if (currentCategoria) {
-        if (currentCategoria.includes("{{ categoria.slug }}")) {
-            toggle{{ categoria.slug }}.checked = true;
-        }
-    }
-
-    function switch{{ categoria.slug }}(e) {
-        if (e.target.checked) {
-            if (!currentCategoria) {
-                localStorage.setItem('categoria', "{{ categoria.slug }},"); 
-            }
-            else if (!currentCategoria.includes("{{ categoria.slug }}")) {
-                localStorage.setItem('categoria', currentCategoria+"{{ categoria.slug }},"); 
-            }
-        }
-        else {
-            if (currentCategoria.includes("{{ categoria.slug }}")) {
-                localStorage.setItem('categoria', removeValue(currentCategoria, "{{ categoria.slug }}")); 
-            }    
-        }    
-        currentCategoria= localStorage.getItem('categoria'); 
-    }
-
-    toggle{{ categoria.slug }}.addEventListener('change', switch{{ categoria.slug }}, false);
-
-{% endfor %}
-
-function saveConfig() {
-    let categoria=localStorage.getItem("categoria");
-    console.log(categoria);
-    console.log(swRegistration);
-    swRegistration.pushManager.subscribe({
-        userVisibleOnly: true,
-        applicationServerKey: urlBase64ToUint8Array(publicVapidKey)
-    }).then(subscription => {
-        body={ subscription: subscription, categoria: categoria}
-        console.log(JSON.stringify(body));
-        fetch('https://boiling-gorge-78886.herokuapp.com/subscribe', {
-            method: 'POST',
-            headers: {
-                Accept: 'application/json',
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify(body),
-        });
-    })
+if (localStorage.getItem('notification') && localStorage.getItem('notification')=="true") {
+    toggleNotification.checked = true;
 }
 
-const saveButton = document.getElementById('save');
-saveButton.addEventListener('click', saveConfig, false);
+function switchNotification(e) {
+    if (e.target.checked) {
+        localStorage.setItem('notification', "true"); 
+        updateSubscription(true);
+    }
+    else {
+        localStorage.setItem('notification', "false"); 
+        updateSubscription(false);
+    }    
+}
+
+toggleNotification.addEventListener('change', switchNotification, false);
+
+
+function updateSubscription(subscribe) {
+    if(subscribe){
+        swRegistration.pushManager.subscribe({
+            userVisibleOnly: true,
+            applicationServerKey: urlBase64ToUint8Array(publicVapidKey)
+        }).then(subscription => {
+            fetch('https://boiling-gorge-78886.herokuapp.com/subscribe', {
+                method: 'POST',
+                headers: {
+                    Accept: 'application/json',
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(subscription),
+            })
+        })
+    }
+    else{
+        swRegistration.pushManager.getSubscription().then(subscription => {
+            subscription.unsubscribe().then(res => {
+                fetch('https://boiling-gorge-78886.herokuapp.com/unsubscribe', {
+                    method: 'POST',
+                    headers: {
+                        Accept: 'application/json',
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(subscription),
+                })
+            })
+        })
+    }
+}
+
 
 function removeValue(list, value) {
   var separator = ",";
@@ -71,14 +65,9 @@ function removeValue(list, value) {
 
 
 const toggleDark = document.getElementById('night');
-const currentTheme = localStorage.getItem('theme'); 
-
-if (currentTheme) {
-    document.documentElement.setAttribute('data-theme', currentTheme);
-
-    if (currentTheme === 'dark') {
+ 
+if (localStorage.getItem('theme') && localStorage.getItem('theme') == 'dark') {
         toggleDark.checked = true;
-    }
 }
 
 function switchTheme(e) {

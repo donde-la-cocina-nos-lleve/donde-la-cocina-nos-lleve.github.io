@@ -2,29 +2,21 @@
 layout: default
 ---
 
-
 <h2>Configuración</h2>
-<h3 class="notification_title">Notificaciones</h3>
-<p>Categorías</p>
-{% for categoria in site.category %}
 <div class="switch-wrapper">
-    <label class="switch" for="{{ categoria.slug }}">
-        <input type="checkbox" id="{{ categoria.slug }}" />
+    <h3 class="notification_title">Notificaciones</h3>
+    <label class="switch" for="notification">
+        <input type="checkbox" id="notification" />
         <div class="slider round"></div>
     </label>
-    <span>{{ categoria.tag }}</span>
 </div>
-{% endfor %}
 
-<button id="save">Guardar</button>
-
-<h3 class="night_title">Modo noche</h3>
 <div class="switch-wrapper">
+<h3 class="night_title">Modo noche</h3>
     <label class="switch" for="night">
         <input type="checkbox" id="night" />
         <div class="slider round"></div>
     </label>
-    <span>Modo noche</span>
 </div>
 
 

@@ -1,17 +1,19 @@
 var APP_PREFIX = 'DLCNL'
-var VERSION = 'version_03'
+var VERSION = 'version_04'
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [
     '/offline.html',
     '/styles.css',
-    '/assets/icons/cabecera.jpg',
+    '/assets/icons/cabecera_larga.jpg',
     '/assets/icons/svg/menu.svg',
     '/assets/icons/svg/search.svg',
     '/assets/icons/svg/close.svg',
+    '/assets/icons/svg/settings.svg',
     '/assets/icons/svg/chevron-left-white.svg',
     '/assets/icons/svg/chevron-right-white.svg',
     '/assets/fonts/Franklin-Gothic-ITC-Book-BT.ttf',
     '/assets/fonts/FuturaMediumBT.ttf',
+    '/assets/js/index.js',
     '/assets/js/simple-jekyll-search.js',
     '/assets/js/navegacion.js',
 ]
