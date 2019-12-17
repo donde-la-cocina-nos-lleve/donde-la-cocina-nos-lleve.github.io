@@ -59,35 +59,48 @@ self.addEventListener('activate', function (e) {
 
 
 self.addEventListener('push', ev => {
-  const data = ev.data.json();
-  self.registration.showNotification(data.title, {
-    body: data.body,
-    image: data.image,
-    badge: '/assets/icons/icono.png',
-    icon: '/assets/icons/icon-512x512.png',
-    data: {
-        url: data.url
+    const data = ev.data.json();
+    let notification={
+        body: data.body,
+        image: data.image,
+        badge: '/assets/icons/icono.png',
+        icon: '/assets/icons/icon-512x512.png',
+        data: {
+            url: data.url
+        }     
+    }
+    if(navigator.share) {
+        notification.actions=[{action: "share", title: "Compartir"}]     
     }     
-  });
+    self.registration.showNotification(data.title, notification);
 });
 
 self.addEventListener('notificationclick', function(event) {
     let url = event.notification.data.url;
-    event.notification.close(); // Android needs explicit close.
-    event.waitUntil(
-        clients.matchAll({type: 'window'}).then( windowClients => {
-            // Check if there is already a window/tab open with the target URL
-            for (var i = 0; i < windowClients.length; i++) {
-                var client = windowClients[i];
-                // If so, just focus it.
-                if (client.url === url && 'focus' in client) {
-                    return client.focus();
+    if(event.action == "share"){
+        navigator.share({
+            title: event.notification.body,
+            url: url
+        }).then(() => console.log('Share complete'))
+          .error((error) => console.error('Could not share at this time', error))
+    }
+    else{
+        event.notification.close(); // Android needs explicit close.
+        event.waitUntil(
+            clients.matchAll({type: 'window'}).then( windowClients => {
+                // Check if there is already a window/tab open with the target URL
+                for (var i = 0; i < windowClients.length; i++) {
+                    var client = windowClients[i];
+                    // If so, just focus it.
+                    if (client.url === url && 'focus' in client) {
+                        return client.focus();
+                    }
                 }
-            }
-            // If not, then open the target URL in a new window/tab.
-            if (clients.openWindow) {
-                return clients.openWindow(url);
-            }
-        })
-    );
+                // If not, then open the target URL in a new window/tab.
+                if (clients.openWindow) {
+                    return clients.openWindow(url);
+                }
+            })
+        );
+    }
 });
