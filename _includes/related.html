@@ -1,4 +1,4 @@
-<aside class="related">
+<div class="related">
   <h3>Recetas relacionadas</h3>
 
   {% assign maxRelated = 4 %}
@@ -22,7 +22,7 @@
       {% if sameTagCount >= minCommonTags %}
       <li>
           <a href="{{ site.baseurl }}{{ post.url }}">
-              <img src="{% include get_image_post_src.html scope=post%}"></img>
+              <img alt="{{ post.title }}" src="{% include get_image_post_src.html scope=post%}"></img>
               <p>
               {{ post.title }}
               <small>{% include fecha.html scope=post%}</small>
@@ -37,4 +37,4 @@
 
       {%- endfor -%}
   </ul>
-</aside>
+</div>

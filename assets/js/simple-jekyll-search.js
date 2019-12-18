@@ -7,7 +7,7 @@ if(window.innerWidth>500){
         resultsContainer: document.getElementById('results-container'),
         filtersContainer: document.getElementById('div_filtros'), 
         json: '/search.json',
-        searchResultTemplate: '<li class="objeto_resultado show {category}"><a href="{url}"><img src="{thumbnail}"/><p>{title}</p></a></li>',
+        searchResultTemplate: '<li class="objeto_resultado show {category}"><a href="{url}"><img alt="Imagen de {title}" src="{thumbnail}"/><p>{title}</p></a></li>',
         noResultsText: 'No hay resultados',
         limit: 10,
         exclude: []
@@ -19,7 +19,7 @@ else{
         resultsContainer: document.getElementById('results-container-mobile'),
         filtersContainer: document.getElementById('div-filtros-mobile'), 
         json: '/search.json',
-        searchResultTemplate: '<li><a href="{url}"><img src="{thumbnail}"/><p>{title}</p></a></li>',
+        searchResultTemplate: '<li><a href="{url}"><img alt="Imagen de {title}" src="{thumbnail}"/><p>{title}</p></a></li>',
         noResultsText: 'No hay resultados',
         limit: 10,
         exclude: []

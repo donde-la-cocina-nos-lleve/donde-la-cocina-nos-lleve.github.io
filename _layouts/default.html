@@ -12,31 +12,7 @@
                     <img src="/assets/icons/cabecera_larga.jpg" alt="Imagen cabecera"/>
                 </a>
             </h1>
-            <div class="nav">
-                <nav class="header-nav">
-                    <ul>
-                        <li class="dropdown"><a href="/tag/recetas/">Recetas</a>
-                            <ul class="dropdown-menu">
-                                <li class="dropdown-menu-item"><a href="/categoria/pintxos">Pintxos y aperitivos</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/verduras">Verduras y hortalizas</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/cremas">Cremas y sopas</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/arroz">Arroz y pasta</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/legumbres">Legumbres</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/huevos">Huevos</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/carnes">Carnes</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/pescados">Pescados</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/postres">Postres</a></li>
-                                <li class="dropdown-menu-item"><a href="/categoria/pan">Pan y masas</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="/tag/cocina-viajera/">Cocina viajera </a></li>
-                        <li><a href="/tag/libros/">Libros</a></li>
-                        <li><a href="/tag/historias/">Historias</a></li>
-                        <li><a href="/tag/mercados/">Mercados</a></li>
-                        <li><a href="/tag/tecnicas/">Técnicas</a></li>
-                    </ul>
-                </nav>
-            </div>
+            {% include nav_header.html %}
             {% include nav_header_movil.html %}
         </header>
         <div class="container content">
