@@ -30,7 +30,7 @@ if ('serviceWorker' in navigator) {
                         applicationServerKey: urlBase64ToUint8Array(publicVapidKey)
                     }).then(subscription => {
                         localStorage.setItem('notification', "true"); 
-                        fetch('https://boiling-gorge-78886.herokuapp.com/subscribe', {
+                        fetch('https://pushdlcnl.herokuapp.com/subscribe', {
                             method: 'POST',
                             headers: {
                                 Accept: 'application/json',

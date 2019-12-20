@@ -6,6 +6,18 @@
     }
 
     min-width: 280px;
+    .link-youtube{
+        text-align: center;
+        p{
+            font-weight: bold;
+            font-size: 20px;
+        }
+        img{
+            width: 100%;
+            padding: 0px 50px;
+        }
+    }
+
     .destacados{
         ul{
             padding: 0px;
