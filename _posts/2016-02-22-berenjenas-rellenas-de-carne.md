@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes", "Verduras y hortalizas"]
 modified_time: '2016-03-03T05:42:47.859-08:00'
-thumbnail: https://4.bp.blogspot.com/-ViqnMkdG6lY/VsshRyRPwfI/AAAAAAAACc4/xXZuFgNYM0U/s400/BERENJENAS%2B1.JPG
+thumbnail: /assets/images/berenjenas-rellenas-de-carne/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1885733939053976169
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/02/berenjenas-rellenas-de-carne.html
 ---
 
-![](https://4.bp.blogspot.com/-ViqnMkdG6lY/VsshRyRPwfI/AAAAAAAACc4/xXZuFgNYM0U/s400/BERENJENAS%2B1.JPG)
+![](/assets/images/berenjenas-rellenas-de-carne/0.jpg)
 
   
 INGREDIENTES:  
@@ -44,7 +44,7 @@ Una vez asadas las berenjenas las dejamos enfriar un poco para poder manejarlas.
 
 _Acompañadas de una ensalada verde constituyen un menú completo._  
 
-![](https://4.bp.blogspot.com/-91KforuY-d8/VsshqHfmMEI/AAAAAAAACc8/Gbx2yfXTjxU/s400/BERENJENAS%2B2.JPG)
+![](/assets/images/berenjenas-rellenas-de-carne/1.jpg)
 
   
 

@@ -8,12 +8,12 @@ tags:
 - cocina viajera
 categories: ["Arroz y pasta", "Carnes"]
 modified_time: '2016-11-05T12:24:40.992-07:00'
-thumbnail: https://1.bp.blogspot.com/-DPqcUivs6XU/V1Q7M9J3ghI/AAAAAAAACto/xw6kENBtC0ER-EB1QKWNaFXuIzZd4oUqwCLcB/s400/04.JPG
+thumbnail: /assets/images/fideos-de-vendimia-fideus-de-veremar/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3946698626413636255
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/06/fideos-de-vendimia-fideus-de-veremar.html
 ---
 
-![](https://1.bp.blogspot.com/-DPqcUivs6XU/V1Q7M9J3ghI/AAAAAAAACto/xw6kENBtC0ER-EB1QKWNaFXuIzZd4oUqwCLcB/s400/04.JPG)
+![](/assets/images/fideos-de-vendimia-fideus-de-veremar/0.jpg)
 
   
 El pueblo mallorquín de Binissalem da nombre a la Denominación de Origen vinícola de la zona, por lo que sus fiestas más renombradas son las dedicadas a la vendimia. Se celebran en el mes de septiembre y durante las mismas es una tradición degustar estos fideos hechos con cordero. Era la comida que antaño se daba a los vendimiadores.  
@@ -42,11 +42,11 @@ Pelamos los tomates (podemos escaldarlos unos segundos para que sea más fácil)
 
 Incorporamos la carne, los fideos y el caldo, comprobando el punto de sazón para rectificar de sal y pimienta. Cocemos los fideos entre 7 y 9 minutos, dependiendo del espesor, hasta que se consuma el caldo. Servimos caliente.  
 
-![](https://2.bp.blogspot.com/-15oDSiP93AU/V1Q7iLgFH0I/AAAAAAAACtw/wfrBTqm8RBMYigwCPErHFyV1CVQ_F9MhACLcB/s400/02.JPG)
+![](/assets/images/fideos-de-vendimia-fideus-de-veremar/1.jpg)
 
   
 
-![](https://3.bp.blogspot.com/-kj0egNpr_xY/V1Q701mQqNI/AAAAAAAACt4/1-NK6Hingaw3SsYefSwguLVTwOplISi3gCLcB/s400/03.JPG)
+![](/assets/images/fideos-de-vendimia-fideus-de-veremar/2.jpg)
 
   
 

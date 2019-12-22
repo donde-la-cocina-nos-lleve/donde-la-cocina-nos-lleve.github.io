@@ -8,12 +8,12 @@ tags:
 - cocina viajera
 categories: ["Arroz y pasta", "Pescados"]
 modified_time: '2018-03-11T15:08:25.565-07:00'
-thumbnail: https://1.bp.blogspot.com/-p_JdyHGzV1U/WqWPJtUkl5I/AAAAAAAAELY/i8XSEx060xMndN-8PZh0zup1sdiV5qCAwCLcBGAs/s400/C.JPG
+thumbnail: /assets/images/risotto-de-berberechos/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1503628038097557117
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/03/risotto-de-berberechos.html
 ---
 
-![](https://1.bp.blogspot.com/-p_JdyHGzV1U/WqWPJtUkl5I/AAAAAAAAELY/i8XSEx060xMndN-8PZh0zup1sdiV5qCAwCLcBGAs/s400/C.JPG)
+![](/assets/images/risotto-de-berberechos/0.jpg)
 
   
 INGREDIENTES:
@@ -31,7 +31,7 @@ INGREDIENTES:
 
   
 
-![](https://1.bp.blogspot.com/-WNnfchdXwGk/WqWPft7nekI/AAAAAAAAELc/SjkFBP4ZaE8mV2nvtgW_pas9GypZ-xpOQCLcBGAs/s320/A.JPG)
+![](/assets/images/risotto-de-berberechos/1.jpg)
 
   
 
@@ -47,7 +47,7 @@ Picamos finamente la cebolla, el ajo y el pimiento. Los rehogamos en una cazuela
 
 Echamos el vino y dejamos evaporar el alcohol. Vamos agregando el caldo caliente y moviendo el arroz. No añadiremos más caldo hasta que se haya absorbido el anterior. Aprovechamos también para esto el agua de cocer los berberechos. Seguiremos con esta operación unos 15-18 minutos, hasta que el arroz esté en su punto. 4 Por último añadimos los berberechos y el queso mascarpone y mezclamos bien.  
 
-![](https://2.bp.blogspot.com/-qI_I-1ovQkA/WqWPzFrefnI/AAAAAAAAELk/S62P1w8hpdUliPlwVMjWl_O50Qfz45O4wCLcBGAs/s320/B.JPG)
+![](/assets/images/risotto-de-berberechos/2.jpg)
 
   
 _En esta ocasión hemos mantecado el risotto con queso mascarpone, pero también podríamos haber utilizado mantequilla o yogur griego._

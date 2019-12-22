@@ -6,12 +6,12 @@ author: bernardo
 tags:
 - libros
 modified_time: '2019-04-14T09:35:44.664-07:00'
-thumbnail: https://3.bp.blogspot.com/-BttW6PeafyI/XLNg-lnqkQI/AAAAAAAAEgQ/QtF4TiwLbcsulFvEAF0wcz2k5WcgfYv9wCLcBGAs/s400/PORTADA%2BJPG.jpg
+thumbnail: /assets/images/amatxu-sukaldari/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-64276015837343063
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2019/04/amatxu-sukaldari.html
 ---
 
-![](https://3.bp.blogspot.com/-BttW6PeafyI/XLNg-lnqkQI/AAAAAAAAEgQ/QtF4TiwLbcsulFvEAF0wcz2k5WcgfYv9wCLcBGAs/s640/PORTADA%2BJPG.JPG)
+![](/assets/images/amatxu-sukaldari/0.jpg)
 
 El pasado jueves 11 de abril se publicó el primer libro de recetas de la colaboradora de este blog Teresa Hidalgo Gutiérrez, con el título "AMATXU SUKALDARI (harina la que admita)". Seguro que va a ser el primero de una larga lista...   
 Algunas de las recetas que aparecen en él ya están en nuestro blog y el resto las iremos incluyendo poco a poco.  

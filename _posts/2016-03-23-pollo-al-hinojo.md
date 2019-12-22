@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-03-23T08:33:20.420-07:00'
-thumbnail: https://1.bp.blogspot.com/-EDvJ2bVNyLk/VvKyspcG0QI/AAAAAAAAChY/QCAcOPEbhKAkdLXVZV-QVN2OMkx7nAtLg/s400/pollo%2Bii.jpg
+thumbnail: /assets/images/pollo-al-hinojo/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3238714893597453453
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/pollo-al-hinojo.html
 ---
 
-![](https://1.bp.blogspot.com/-EDvJ2bVNyLk/VvKyspcG0QI/AAAAAAAAChY/QCAcOPEbhKAkdLXVZV-QVN2OMkx7nAtLg/s400/pollo%2Bii.JPG)
+![](/assets/images/pollo-al-hinojo/0.jpg)
 
   
 INGREDIENTES:
@@ -40,7 +40,7 @@ Introducimos en el horno y tenemos durante hora y media aproximadamente, hasta q
 
 Emplatar acompañado de la guarnición de patatas y cebolla.  
 
-![](https://3.bp.blogspot.com/-xswP5w6IkME/VvKzDTKBa_I/AAAAAAAAChc/2T9zGiD8DIMko0sYG8zbAqkhP4Ax1qpFg/s320/pollo%2Biii.JPG)
+![](/assets/images/pollo-al-hinojo/1.jpg)
 
   
 Teresa Hidalgo Gutiérrez

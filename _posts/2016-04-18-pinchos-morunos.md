@@ -7,20 +7,20 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-04-18T07:02:46.883-07:00'
-thumbnail: https://1.bp.blogspot.com/-qpQWvYG8fD4/VxTg_2GFjqI/AAAAAAAACnE/5JQUnLjp4Ic-5SRwRbNiEMRvq3nmetExgCLcB/s400/02.JPG
+thumbnail: /assets/images/pinchos-morunos/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7073936811280725816
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/pinchos-morunos.html
 ---
 
-![](https://1.bp.blogspot.com/-qpQWvYG8fD4/VxTg_2GFjqI/AAAAAAAACnE/5JQUnLjp4Ic-5SRwRbNiEMRvq3nmetExgCLcB/s400/02.JPG)
+![](/assets/images/pinchos-morunos/0.jpg)
 
   
 Aprovechando nuestra visita a FJZ, donde nos aprovisionamos de especias:  
   
 
-[![](https://2.bp.blogspot.com/-ii326WuU6U8/VxTn1LG2IqI/AAAAAAAACoA/eXCbXRoId8klOup0gnXeQ81LtGkzQ2ThgCLcB/s200/img_7914.JPG)](http://www.dondelacocinanoslleve.blogspot.com.es/2016/04/fjz-tripas-especias-tes-algas-sales-y.html)
+![](/assets/images/pinchos-morunos/1.jpg)
 
-[FJZ](http://www.dondelacocinanoslleve.blogspot.com.es/2016/04/fjz-tripas-especias-tes-algas-sales-y.html)
+![](/assets/images/pinchos-morunos/2.jpg)
 
   
 vamos a elaborar uno de los bocados más solicitados en los bares y comidas campestres, esta brocheta de carne condimentada con una mezcla de especias (ras al hanout).  
@@ -43,7 +43,7 @@ Ensartamos los trozos de carne en los pinchos, que pueden ser de madera si se va
 
 Calentamos la plancha y colocamos los pinchos en ella. Vamos girándolos para que se doren por todos los lados. Servir bien calientes acompañados de una ensalada verde y de la mezcla de especias picantes para aquéllos a quienes les guste y lo toleren.  
 
-![](https://3.bp.blogspot.com/-_VBOtP0GpyY/VxThWSJdvgI/AAAAAAAACnI/Pwq0Ld8XUUA9AW8g3ho-aFxm-ODpN-isACLcB/s400/01.JPG)
+![](/assets/images/pinchos-morunos/3.jpg)
 
   
   

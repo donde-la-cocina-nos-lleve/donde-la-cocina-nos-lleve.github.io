@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Postres"]
 modified_time: '2017-01-01T07:17:26.176-08:00'
-thumbnail: https://3.bp.blogspot.com/-Y-SJ8tB7C4g/WGkcJhHUiuI/AAAAAAAADRI/eWqFdH4YRwQ8xc_UrY-rb8uy0ypQX8sSwCLcB/s400/01.JPG
+thumbnail: /assets/images/tarta-de-queso/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-4827010316362612478
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/01/tarta-de-queso.html
 ---
 
-![](https://3.bp.blogspot.com/-Y-SJ8tB7C4g/WGkcJhHUiuI/AAAAAAAADRI/eWqFdH4YRwQ8xc_UrY-rb8uy0ypQX8sSwCLcB/s400/01.JPG)
+![](/assets/images/tarta-de-queso/0.jpg)
 
   
 INGREDIENTES:(Para un molde de 26 cm)
@@ -40,15 +40,15 @@ Montamos la nata con el azúcar. Cuando esté firme añadimos el queso ablandado
 
     Cuando ya esté cuajada, ponemos en un cazo la mermelada de arándanos con una cucharada de agua y tenemos un poco a fuego medio hasta que se vuelva más líquida. Dejamos enfriar un poco y echamos sobre la tarta. Metemos de nuevo al frigorífico hasta el momento de servir.  
 
-![](https://1.bp.blogspot.com/-SQ_BeBGM83c/WGkcsRiAthI/AAAAAAAADRM/DcZyYwZt22wdsZnrnxxxlCTh_dV37DhnwCLcB/s320/02.JPG)
+![](/assets/images/tarta-de-queso/1.jpg)
 
   
 
-![](https://3.bp.blogspot.com/-8kmGsnvTa44/WGkc_cLlrEI/AAAAAAAADRU/RTofDNq72d4iPIpE9bdQ1TEjsxGiCSibgCLcB/s320/03.JPG)
+![](/assets/images/tarta-de-queso/2.jpg)
 
   
 
-![](https://3.bp.blogspot.com/-MIVVRZHD64s/WGkdQI38nVI/AAAAAAAADRY/tys1Ewt7hZk_XjFmTefSV0w37JcWTcWZQCLcB/s320/04.JPG)
+![](/assets/images/tarta-de-queso/3.jpg)
 
   
 

@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-08-11T02:30:09.298-07:00'
-thumbnail: https://4.bp.blogspot.com/-jn62pBgUVfI/V6xE_P_XduI/AAAAAAAAC6I/6P_qvNUQ1hQza7Dpx17AB6BW3Jnum_OzACLcB/s400/01.jpg
+thumbnail: /assets/images/costillas-en-olla-rapida/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5807137816432855288
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/08/costillas-en-olla-rapida.html
 ---
 
-![](https://4.bp.blogspot.com/-jn62pBgUVfI/V6xE_P_XduI/AAAAAAAAC6I/6P_qvNUQ1hQza7Dpx17AB6BW3Jnum_OzACLcB/s400/01.JPG)
+![](/assets/images/costillas-en-olla-rapida/0.jpg)
 
   
 INGREDIENTES 
@@ -34,7 +34,7 @@ En un recipiente suficientemente grande mezclamos los ingredientes del adobo. In
 
 ubrimos el fondo de la olla con aceite. Cuando esté caliente vamos friendo las costillas, que previamente habremos escurrido. Salpimentamos y cuando estén doradas incorporamos el adobo. Echamos un poco de agua o caldo si el líquido no es suficiente.  
 
-![](https://4.bp.blogspot.com/-EDY5CxkW0nY/V6xFWQII5HI/AAAAAAAAC6M/JGYKK8W25jIHzB-gW4XTCU73Yz6h07yEQCLcB/s320/03.JPG)
+![](/assets/images/costillas-en-olla-rapida/1.jpg)
 
   
 

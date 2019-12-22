@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Pescados", "Pintxos y aperitivos"]
 modified_time: '2016-08-26T05:46:32.204-07:00'
-thumbnail: https://2.bp.blogspot.com/-SS6RHExXh50/V8A5jeDYPZI/AAAAAAAAC64/E82SaXYuU4MFrILCybrfH10U9q2J41sQQCLcB/s400/01.JPG
+thumbnail: /assets/images/calamares-la-romana-rabas/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5664934878760262875
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/08/calamares-la-romana-rabas.html
 ---
 
-![](https://2.bp.blogspot.com/-SS6RHExXh50/V8A5jeDYPZI/AAAAAAAAC64/E82SaXYuU4MFrILCybrfH10U9q2J41sQQCLcB/s400/01.JPG)
+![](/assets/images/calamares-la-romana-rabas/0.jpg)
 
   
 Aperitivo o tapa típica de nuestra gastronomía estos calamares rebozados, que en algunas zonas se sirve incluso en bocadillo. Tengo el recuerdo imborrable de los “bocadillos de calamares” que se servían en la Plaza Mayor de Madrid y que eran una cita ineludible en cada visita a esa ciudad. Como siempre en estos casos, mil y una recetas diferentes, sobre todo en lo que se refiere a la masa para el rebozado. Os presentamos la nuestra.  
@@ -40,7 +40,7 @@ Vamos introduciendo los trozos de calamar en la masa hasta que se impregnen bien
 
 Presentamos los calamares escurridos en un plato o fuente que podemos adornar con una ramita de perejil. No somos partidarios de acompañarlos con limón, que es opcional. Calentitos y acompañados de una cerveza fría… bocado divino.  
 
-![](https://2.bp.blogspot.com/-Tjb3-OaSplI/V8A5459i1oI/AAAAAAAAC68/qjwLkaYQki0KdbjJ14KViRQHyLbWIy-mACLcB/s320/02.JPG)
+![](/assets/images/calamares-la-romana-rabas/1.jpg)
 
   
 _Hay que ser cauto con la sal ya que a veces el calamar trae ya un punto salado. Cuanto más grande sea el calamar, más carnosas y tiernas serán las “rabas”. Se puede sustituir la cerveza por agua mineral con gas._  

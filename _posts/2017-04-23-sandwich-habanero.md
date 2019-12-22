@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Pintxos y aperitivos"]
 modified_time: '2017-04-23T08:17:53.891-07:00'
-thumbnail: https://1.bp.blogspot.com/-SXQRQA-4ApM/WPzFQjOHi0I/AAAAAAAADjw/PW2WUJ5nwqAV5ElC2aTIX4t-Tt5cSotoQCLcB/s400/P1500321.JPG
+thumbnail: /assets/images/sandwich-habanero/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1332525711642103379
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/04/sandwich-habanero.html
 ---
 
-![](https://1.bp.blogspot.com/-SXQRQA-4ApM/WPzFQjOHi0I/AAAAAAAADjw/PW2WUJ5nwqAV5ElC2aTIX4t-Tt5cSotoQCLcB/s400/P1500321.JPG)
+![](/assets/images/sandwich-habanero/0.jpg)
 
   
 INGREDIENTES (para cada sándwich):  
@@ -25,7 +25,7 @@ INGREDIENTES (para cada sándwich):
 * 1 pepinillo grande
 * Mayonesa  
 
-![](https://2.bp.blogspot.com/-U39HeoTkkj4/WPzFb74YuQI/AAAAAAAADj0/bDN2nL-F_PUq7P2x9Pbk0Bawquk3RCx_gCLcB/s320/P1510083.JPG)
+![](/assets/images/sandwich-habanero/1.jpg)
 
   
 

@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Pescados", "Pan y masas"]
 modified_time: '2016-03-27T11:20:42.303-07:00'
-thumbnail: https://1.bp.blogspot.com/-Y9I9iOoNT0I/Vvgju1CepxI/AAAAAAAACjE/--h1dw4DgZglUQo15gTFXtOfMRU0OGdNA/s400/02.JPG
+thumbnail: /assets/images/galette-de-vieiras/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-4649216408694726389
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/galette-de-vieiras.html
 ---
 
-![](https://1.bp.blogspot.com/-Y9I9iOoNT0I/Vvgju1CepxI/AAAAAAAACjE/--h1dw4DgZglUQo15gTFXtOfMRU0OGdNA/s400/02.JPG)
+![](/assets/images/galette-de-vieiras/0.jpg)
 
   
 La _galette_ es una preparación tradicional de la gastronomía bretona que admite multitud de guarniciones, generalmente saladas. Como no disponemos de la _billig_ (plancha o placa tradicional para su elaboración utilizada en Bretaña) utilizaremos una sartén amplia para cocinar la masa. En este caso vamos a elaborar la masa básica de _galette_, exclusivamente con harina de trigo sarraceno.  
@@ -39,6 +39,6 @@ Marcamos las vieiras en la sartén a fuego fuerte y las escaldamos troceadas en 
 En una cazuela hacemos una salsa blanca con un poco de mantequilla, la misma cantidad de harina y el caldo de pescado, dejando reducir hasta que quede espesa, añadiendo al final un chorrete de nata y la pimienta. Corregimos de sal, agregamos las vieiras a la salsa para que se calienten y hacemos un huevo a la plancha en la sartén. Colocamos las verduras sobre la galette, sobre ellas las vieiras y encima el huevo frito, espolvoreando perejil picado. Doblamos un poco los bordes de la galette para que no se desborde la guarnición.  
 _La bebida más popular para acompañar las galettes saladas es la sidra (cidre), obtenida a partir de la fermentación de la manzana. También hay algún cóctel como la “sidra endiablada” que incorpora frambuesas, miel, canela y algún licor._
 
-![](https://2.bp.blogspot.com/-tewaai8WTDs/VvgjWWjm9sI/AAAAAAAACjI/_uDaf0Spr2IOs-y-zaRK2rA2jwfDEk-lA/s400/01.JPG)
+![](/assets/images/galette-de-vieiras/1.jpg)
 
 Bernardo I. García de la Torre

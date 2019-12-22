@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2016-05-02T13:21:06.197-07:00'
-thumbnail: https://4.bp.blogspot.com/-dA-CJtFcPgc/Vye2LuxRPbI/AAAAAAAACqA/S5rrhqv3VAQcF7hepmJPpioVsPERRxrnACLcB/s400/01.jpg
+thumbnail: /assets/images/bacalao-gratinado-con-mayonesa/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7823329391998690242
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/bacalao-gratinado-con-mayonesa.html
 ---
 
-![](https://4.bp.blogspot.com/-dA-CJtFcPgc/Vye2LuxRPbI/AAAAAAAACqA/S5rrhqv3VAQcF7hepmJPpioVsPERRxrnACLcB/s400/01.JPG)
+![](/assets/images/bacalao-gratinado-con-mayonesa/0.jpg)
 
   
 INGREDIENTES:
@@ -36,7 +36,7 @@ En una fuente que pueda ir al horno colocamos la preparación anterior y sobre e
 
 Sacamos la fuente del horno y ponemos una generosa cantidad de mayonesa, preferiblemente casera, sobre el pescado. Volvemos a meter en el horno, esta vez en función de gratinado, hasta que se dore.  
 
-![](https://1.bp.blogspot.com/-57gMANtQ7aA/Vye2aQgEMOI/AAAAAAAACqE/kBsodNU5qG0BROvhazkqVvAAxgE34lWWwCLcB/s400/02.JPG)
+![](/assets/images/bacalao-gratinado-con-mayonesa/1.jpg)
 
   
 _En esta ocasión he utilizado bacalao, pero la receta se puede hacer con otros pescados, como merluza, salmón... En vez de champiñones podemos poner verduras (pimientos, calabacín…) o unas patatas panadera. Al gusto de cada cual o a lo que tengamos en la despensa._  

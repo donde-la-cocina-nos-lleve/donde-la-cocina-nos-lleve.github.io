@@ -6,12 +6,12 @@ author: bernardo
 tags:
 - visitas
 modified_time: '2017-12-22T10:23:25.076-08:00'
-thumbnail: https://1.bp.blogspot.com/-eC_v6OJIL-k/Wj1GIHLw-LI/AAAAAAAAECk/KALOHYMPf8opn7Mt15rQMRQa69pI3gR-gCLcBGAs/s400/00.JPG
+thumbnail: /assets/images/mercado-de-santo-tomas-bilbao/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-2692508687044960637
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/12/mercado-de-santo-tomas-bilbao.html
 ---
 
-![](https://1.bp.blogspot.com/-eC_v6OJIL-k/Wj1GIHLw-LI/AAAAAAAAECk/KALOHYMPf8opn7Mt15rQMRQa69pI3gR-gCLcBGAs/s400/00.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/0.jpg)
 
   
 DLCNLL visitó, el pasado jueves 21 de Diciembre, el tradicional mercado de Santo Tomás en Bilbao, que este año cumple su edición número setenta y que se desarrolla entre la Plaza Nueva y El Arenal, en el entorno del Casco Viejo.  
@@ -21,100 +21,100 @@ El “talo” (torta de harina de maíz) con “txistorra” (un tipo de chorizo
 _Pinchando sobre cualquiera de las fotografías se abre la galería de imágenes._  
 DLCNLL  
 
-![](https://4.bp.blogspot.com/-11_6m1QIUTQ/Wj1GZLN1gqI/AAAAAAAAECo/VEdXNMpQghIXPa0by3GI6nZwvHDlR2GwgCLcBGAs/s320/01.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/1.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-ci3OMcl1p8w/Wj1HoD7eZbI/AAAAAAAAEC0/vKjwBrtlkkAT3-yQJYftquTb1N9w-_2nQCLcBGAs/s320/02.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/2.jpg)
 
   
 
-![](https://2.bp.blogspot.com/-rbINLcYYZDI/Wj1H0WBwfRI/AAAAAAAAEC4/dJXqr68KBYEWICWk-EiMe8fH3lblW5t9gCLcBGAs/s320/03.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/3.jpg)
 
   
 
-![](https://3.bp.blogspot.com/-Zw82EVAlf5k/Wj1IFMFFPqI/AAAAAAAAEC8/6qFSSNyKgDobOw6YC0Yyh4VEYH1lDwbhACLcBGAs/s320/04.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/4.jpg)
 
   
 
-![](https://1.bp.blogspot.com/-q8YMcqYONgs/Wj1IVBHly8I/AAAAAAAAEDE/ekd_6ZNnvw0soBSQ8ZzSrVVSA26LKQDvQCLcBGAs/s320/05.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/5.jpg)
 
   
 
-![](https://1.bp.blogspot.com/-rPboAhrkllw/Wj1InNvDWMI/AAAAAAAAEDI/GBaUJ4UGXT0PmqK6E1X0wjVHhCc4M4yEQCLcBGAs/s320/06.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/6.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-b_HmavQXd3s/Wj1Izi_trtI/AAAAAAAAEDM/UecmjA8OK98t-QZWvFCg_otCJ3nJifCewCLcBGAs/s320/07.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/7.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-juA7j68nJsI/Wj1JDW3RKMI/AAAAAAAAEDU/VcPv6dxtWHEJaNi5AjegKLnFrWO7uny2gCLcBGAs/s320/08.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/8.jpg)
 
   
 
-![](https://3.bp.blogspot.com/-Z8Ipq87_2tI/Wj1JTDWnw9I/AAAAAAAAEDY/Kf9DgmctCdcSuDmZ1qnOMDXPQkCCb9FEgCLcBGAs/s320/09.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/9.jpg)
 
   
 
-![](https://2.bp.blogspot.com/-_CSC0eNHu2E/Wj1JgGYENNI/AAAAAAAAEDc/1onvY9eAn306M9w6kGxEdx8ekP0ACVg4QCLcBGAs/s320/10.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/10.jpg)
 
   
 
-![](https://1.bp.blogspot.com/-WhTJjlt-n3k/Wj1JrzoUotI/AAAAAAAAEDk/mRMlM8KcNEsns1sdzdcIZwc0GH7-1qRCACLcBGAs/s320/11.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/11.jpg)
 
   
 
-![](https://3.bp.blogspot.com/-3G6hljYvyqk/Wj1J41Gw18I/AAAAAAAAEDo/vGUER1_9KQcT0VmtkInurORzNxJAYnmyQCLcBGAs/s320/12.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/12.jpg)
 
   
 
-![](https://2.bp.blogspot.com/-Ng3pKcB6Tcc/Wj1KO-dwCWI/AAAAAAAAEDw/A3ktYfuggzQcPc-FMhAPAFgjXh3IQEPugCLcBGAs/s320/13.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/13.jpg)
 
   
 
-![](https://3.bp.blogspot.com/-Y771v_gLjco/Wj1KdtZ8jPI/AAAAAAAAED0/zn-zPc7zFigEtUpZnCzTe7SOHLiltWYYACLcBGAs/s320/14.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/14.jpg)
 
   
 
-![](https://3.bp.blogspot.com/-UJHDh5ZvJao/Wj1LG7mV4KI/AAAAAAAAEEA/uDwPyTZplVgfI57MkAatEsOiZbaMS_v5ACLcBGAs/s320/15.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/15.jpg)
 
   
 
-![](https://2.bp.blogspot.com/-rFx49DhFUYk/Wj1LVULsNvI/AAAAAAAAEEE/DOPs_SlPIOwrAqAeSQl8St9io16VNpHDwCLcBGAs/s320/16.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/16.jpg)
 
   
 
-![](https://3.bp.blogspot.com/-ekLdJ7uV6Og/Wj1Lhsz7pBI/AAAAAAAAEEI/TbgHmsWEBa8LhHNhqll0DWCiKF-hhlUsACLcBGAs/s320/17.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/17.jpg)
 
   
 
-![](https://2.bp.blogspot.com/-r7rZB4WB3bY/Wj1LufD0-NI/AAAAAAAAEEQ/9AewKOA51Q8JPkwnb1NMdIxHsvR1GqtEgCLcBGAs/s320/18.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/18.jpg)
 
   
 
-![](https://1.bp.blogspot.com/-E5U_kzsDfUk/Wj1L_3I1aJI/AAAAAAAAEEU/cAkmXpOuoqAPUzylG7ZsOBsZp-7vVNdsACLcBGAs/s320/19.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/19.jpg)
 
   
 
-![](https://1.bp.blogspot.com/-pAqqbUINM5U/Wj1MMnJLOOI/AAAAAAAAEEY/5GZ98dJolK01Rktuyu81El8mI670fn1hQCLcBGAs/s320/20.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/20.jpg)
 
   
 
-![](https://3.bp.blogspot.com/-Oq300zfuKCE/Wj1MYWI7kuI/AAAAAAAAEEg/v69fQr1Uducm77IVgb88tn4az5GwysjTgCLcBGAs/s320/21.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/21.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-5VKdGkaUJsg/Wj1MmDORYmI/AAAAAAAAEEk/Edv933GK_Y89mhv_gztgX5MB4rbpNY24gCLcBGAs/s320/22.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/22.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-QYu_Tqtx2Nk/Wj1MyQJJLSI/AAAAAAAAEEo/n2v5jmViF7EZPvAATRGA5j9RBvsqpW66QCLcBGAs/s320/23.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/23.jpg)
 
   
 
-![](https://1.bp.blogspot.com/-SmHT_jHy-EQ/Wj1M_fVvC_I/AAAAAAAAEEw/gKsdk_8f1Zc9uJLH0-r5ZN9TLbMQNQ-YQCLcBGAs/s320/24.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/24.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-OcDCazv6WAo/Wj1NLh17LsI/AAAAAAAAEE0/jmgknbGUQy0aXQUd-mm5sAbKrVj01aAsACLcBGAs/s400/25.JPG)
+![](/assets/images/mercado-de-santo-tomas-bilbao/25.jpg)

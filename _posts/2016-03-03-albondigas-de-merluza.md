@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2016-03-03T05:57:26.068-08:00'
-thumbnail: https://1.bp.blogspot.com/-kLJtSMJPqw0/VthCZeh9mII/AAAAAAAACeg/yXBKGE9W2uE/s400/mm.JPG
+thumbnail: /assets/images/albondigas-de-merluza/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5480487061565743196
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/albondigas-de-merluza.html
 ---
 
-![](https://1.bp.blogspot.com/-kLJtSMJPqw0/VthCZeh9mII/AAAAAAAACeg/yXBKGE9W2uE/s320/mm.JPG)
+![](/assets/images/albondigas-de-merluza/0.jpg)
 
   
 INGREDIENTES:  
@@ -43,7 +43,7 @@ Ponemos al fuego una sartén o tartera con un poco de aceite. Echamos un ajo fin
 
 _Se pueden acompañar de alguna guarnición como arroz blanco, patatas fritas, guisantes o cualquier otra verdura que tengamos en ese momento._
 
-![](https://3.bp.blogspot.com/-F3sUSh76F50/VthCUZwiwPI/AAAAAAAACec/-A5xeO8Ju_c/s320/m.JPG)
+![](/assets/images/albondigas-de-merluza/1.jpg)
 
   
 Teresa Hidalgo Gutiérrez

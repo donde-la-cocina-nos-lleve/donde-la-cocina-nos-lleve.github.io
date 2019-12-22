@@ -8,12 +8,12 @@ tags:
 - cocina viajera
 categories: ["Verduras y hortalizas", "Pintxos y aperitivos"]
 modified_time: '2017-02-19T05:34:25.328-08:00'
-thumbnail: https://2.bp.blogspot.com/-7Bug23MTmXQ/WKmbO1QEsJI/AAAAAAAADbU/5dELg3PsiWQRVwxoThh6taBLv4ToEO3GgCLcB/s400/05.JPG
+thumbnail: /assets/images/patatas-revolconas/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-270508277170504232
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/02/patatas-revolconas.html
 ---
 
-![](https://2.bp.blogspot.com/-7Bug23MTmXQ/WKmbO1QEsJI/AAAAAAAADbU/5dELg3PsiWQRVwxoThh6taBLv4ToEO3GgCLcB/s400/05.JPG)
+![](/assets/images/patatas-revolconas/0.jpg)
 
   
 
@@ -43,7 +43,7 @@ Pelamos y cascamos las patatas. Las ponemos en una cazuela junto con dos dientes
 
 Mientras se hacen las patatas cortamos la panceta en tiras y éstas en trozos de unos 3 cm. En una sartén con una cucharada de aceite de oliva freímos la panceta hasta que esté dorada. Reservamos.
 
-![](https://1.bp.blogspot.com/-rtCH203zhyM/WKmbjrrNGtI/AAAAAAAADbY/NnM6JStInr4l94FJjDgQ-yLHNkwS3RLSgCLcB/s320/02.JPG)
+![](/assets/images/patatas-revolconas/1.jpg)
 
 ### 3
 
@@ -56,7 +56,7 @@ Una vez hechas las patatas, retiramos el agua de cocción, reservando un par de 
 Una vez hecho lo retiramos y añadimos los pimentones, teniendo cuidado de retirar rápido del fuego, para que no se quemen. Regamos con un poco de caldo de la cocción de las patatas. Echamos el contenido de la sartén sobre el puré de patatas mezclando muy bien. Si hiciera falta podríamos añadir un poco más del agua de cocción. Finalmente servimos las patatas acompañadas de los trozos de panceta.
   
 
-![](https://4.bp.blogspot.com/-OAXTZ2ej7vE/WKmb0KGO_hI/AAAAAAAADbc/a9zMdh5lGoowBXX-HqMCu6iAPHNXgZkbwCLcB/s320/03.JPG)
+![](/assets/images/patatas-revolconas/2.jpg)
 
 Teresa Hidalgo Gutiérrez
 

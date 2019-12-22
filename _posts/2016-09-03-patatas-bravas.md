@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Pintxos y aperitivos"]
 modified_time: '2016-09-03T07:03:06.221-07:00'
-thumbnail: https://1.bp.blogspot.com/-wmt0h1xxsBs/V8rW2ZDHwRI/AAAAAAAAC74/-YC6Q0-pzFAAZskyGNqGiQHUWqa3OI4RACLcB/s400/01.JPG
+thumbnail: /assets/images/patatas-bravas/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-2378960088680294116
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/09/patatas-bravas.html
 ---
 
-![](https://1.bp.blogspot.com/-wmt0h1xxsBs/V8rW2ZDHwRI/AAAAAAAAC74/-YC6Q0-pzFAAZskyGNqGiQHUWqa3OI4RACLcB/s400/01.JPG)
+![](/assets/images/patatas-bravas/0.jpg)
 
   
 Hartos de que nos sirvan patatas mal descongeladas y peor cocinadas, con cualquier salsa de poco pelo, vamos a reivindicar esta tapa o aperitivo tan tradicional a lo largo de nuestra geografía. Y para ello vamos a esmerarnos tanto en la preparación del producto base, la patata, como de sus dos salsas clásicas.  
@@ -50,7 +50,7 @@ Para hacer la salsa blanca preparamos por un lado una mayonesa: aceite de giraso
 
 Servimos las patatas con sus dos salsas por encima, la roja y la blanca. Se puede acompañar de una cerveza o un vino blanco.  
 
-![](https://4.bp.blogspot.com/-hjxIK-TmSTs/V8rXKY5d1yI/AAAAAAAAC78/DajZOELo9Sc9LjNWHxIvMo39-9iX28UZACLcB/s320/02.JPG)
+![](/assets/images/patatas-bravas/1.jpg)
 
   
 _Las salsas rojas “de poco pelo” suelen ser con tomate, producto que la salsa auténtica no lleva. Otro error consiste en servir como salsa blanca una salsa ali-oli, ya que entonces estamos hablando de una receta diferente. El chile chipotle (que aporta un picante muy “amable”), se puede sustituir por la carne de otro pimiento rojo picante o por pimentón picante. Las patatas, en lugar de freírlas, se pueden hacer asadas en una bandeja o fuente de horno._  

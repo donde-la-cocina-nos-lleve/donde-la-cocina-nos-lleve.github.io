@@ -7,14 +7,14 @@ tags:
 - recetas
 categories: ["Pan y masas"]
 modified_time: '2019-01-27T04:33:54.830-08:00'
-thumbnail: https://2.bp.blogspot.com/-F1lvcuGZKXI/XE2knFCbprI/AAAAAAAAEfE/1r-V-p0c060GdYMl2VZEC1IdOLaLELrIwCLcBGAs/s400/IMG_20190108_210712_HDR.jpg
+thumbnail: /assets/images/masa-para-pizza/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-2333585988756918280
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2019/01/masa-para-pizza.html
 ---
 
   
 
-![](https://2.bp.blogspot.com/-F1lvcuGZKXI/XE2knFCbprI/AAAAAAAAEfE/1r-V-p0c060GdYMl2VZEC1IdOLaLELrIwCLcBGAs/s400/IMG_20190108_210712_HDR.JPG)
+![](/assets/images/masa-para-pizza/0.jpg)
 
   
 INGREDIENTES:

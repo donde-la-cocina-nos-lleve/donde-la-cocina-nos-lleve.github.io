@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2016-09-30T08:30:24.846-07:00'
-thumbnail: https://2.bp.blogspot.com/-p2qHx2O09c0/V-6ERKyIe-I/AAAAAAAAC_o/plArD9NFaGgaqZcCLM8EvqX4jctSzXWcQCLcB/s400/01.JPG
+thumbnail: /assets/images/sepia-la-plancha/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-4130992333516872745
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/09/sepia-la-plancha.html
 ---
 
-![](https://2.bp.blogspot.com/-p2qHx2O09c0/V-6ERKyIe-I/AAAAAAAAC_o/plArD9NFaGgaqZcCLM8EvqX4jctSzXWcQCLcB/s400/01.JPG)
+![](/assets/images/sepia-la-plancha/0.jpg)
 
   
 Descubrí este bocado junto a mis compañeros de nuestra etapa universitaria en Valladolid, en un pequeño bar junto a la Plaza Mayor. Cuanto más grande es la sepia más sabroso es el bocado pero también más difícil de limpiar.    
@@ -43,7 +43,7 @@ Preparamos una mayonesa añadiendo medio diente de ajo y perejil picado: cascamo
 
 Presentamos la sepia en una fuente con la mayonesa en un lado para ir untando. Espolvoreamos por encima con perejil picado.  
 
-![](https://1.bp.blogspot.com/-fnSzxr8UFFA/V-6Ee5zrYKI/AAAAAAAAC_s/mwXpt704x5IrsYOSo2wBtlt6-OR-0e5hwCLcB/s320/02.JPG)
+![](/assets/images/sepia-la-plancha/1.jpg)
 
   
 _Normalmente no es necesario añadir sal a la sepia porque ella misma ya posee un alto grado. Es necesario que la temperatura de la plancha o sartén sea alta porque si no la sepia se cuece en el agua que va soltando y no queda tierna. Asimismo si está mucho tiempo sobre la plancha se queda dura. El éxito radica en cogerle bien el punto._  

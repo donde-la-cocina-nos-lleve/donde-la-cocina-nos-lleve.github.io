@@ -8,10 +8,10 @@ tags:
 - recetas
 categories: ["Verduras y hortalizas"]
 modified_time: '2016-12-04T09:26:24.443-08:00'
-thumbnail: https://1.bp.blogspot.com/-nGImbTsdrQg/WEQxL4dFM0I/AAAAAAAADOY/6Tf3gdAJtLs3Hl4yWkpQQdE7Dwedxs_CACLcB/s400/18.JPG
+thumbnail: /assets/images/pimientos-asados-en-conserva/0.jpg
 ---
 
-![](https://1.bp.blogspot.com/-nGImbTsdrQg/WEQxL4dFM0I/AAAAAAAADOY/6Tf3gdAJtLs3Hl4yWkpQQdE7Dwedxs_CACLcB/s400/18.JPG)
+![](/assets/images/pimientos-asados-en-conserva/0.jpg)
 
   
 
@@ -25,7 +25,7 @@ INGREDIENTES:
 
 Esterilizamos los frascos y sus tapas sumergiéndolos en un recipiente cubiertos de agua y manteniéndolos en ebullición durante 10 minutos. Podemos rodearlos con un trapo para que no se golpeen entre ellos. Los escurrimos hasta que queden totalmente secos.  
 
-![](https://4.bp.blogspot.com/-XQwG2X4vtiE/WEQt4voFLiI/AAAAAAAADN8/w4Y9bhvozJw3a_d0EpQlZvHFAp8gaXAOwCLcB/s320/02.JPG)
+![](/assets/images/pimientos-asados-en-conserva/1.jpg)
 
 
 
@@ -33,7 +33,7 @@ Esterilizamos los frascos y sus tapas sumergiéndolos en un recipiente cubiertos
 
 Colocamos los pimientos pringados de aceite en una bandeja de horno. Los asamos en el horno a temperatura alta (220 º C) hasta que veamos que el pimiento “cae” (se ablanda) y la piel está ligeramente quemada, durante 25 minutos aproximadamente. En este proceso vamos girando los pimientos dos o tres veces.  
 
-![](https://3.bp.blogspot.com/-7JzCwcHlIx0/WEQuiOEFAOI/AAAAAAAADOI/KjeUCszXXg8LUVpE8D94kAUYvEl60xZIgCLcB/s320/05.JPG)
+![](/assets/images/pimientos-asados-en-conserva/2.jpg)
 
   
 
@@ -41,7 +41,7 @@ Colocamos los pimientos pringados de aceite en una bandeja de horno. Los asamos 
 
  Una vez sacados los pimientos del horno los cubrimos con papel de aluminio y los dejamos reposar durante 10 minutos. A continuación, y sin dejar que se enfríen, (se pelan mejor en caliente), los pelamos con la mano y les quitamos las pepitas. Los cortamos en tiras con las manos y los escurrimos en un colador para que suelten todo su jugo.  
 
-![](https://3.bp.blogspot.com/-DUFnmXZpTNw/WEQuC9cw5sI/AAAAAAAADOA/DNP5ld9NNnYRDuFIy4LS9BjGNxy7Sh_SwCLcB/s320/09.JPG)
+![](/assets/images/pimientos-asados-en-conserva/3.jpg)
 
   
 
@@ -49,7 +49,7 @@ Colocamos los pimientos pringados de aceite en una bandeja de horno. Los asamos 
 
 Vamos introduciendo las tiras de pimiento en los frascos, sin apretarlos demasiado, y los cubrimos con aceite de oliva. Es importante que en la parte superior del frasco quede un espacio libre de, al menos, medio centímetro. Los cerramos bien con su tapa y los introducimos en un recipiente cubiertos de agua, manteniéndolos en ebullición suave durante 15 minutos (el tiempo dependerá del tamaño de los frascos). Sacamos los frascos, los dejamos escurrir y enfriar, y ya están listos para guardar.  
 
-![](https://2.bp.blogspot.com/-dBW2hyu1qoc/WEQxSDHiAZI/AAAAAAAADOc/uUGjSuUane0j916I3x7R2QYp9lrObt6cACLcB/s320/24.JPG)  
+![](/assets/images/pimientos-asados-en-conserva/4.jpg)
 
 _En el proceso de enfriado es cuando se produce el vacío y se aprecia por una ligera curvatura de la tapa hacia el interior. Pero la mejor comprobación de un correcto sellado es el “flop” que debemos escuchar al abrirlo. Aunque se garantiza una duración de dos años no aconsejo alargarlo por encima de un año. Una vez abiertos se pueden consumir directamente en frío (ensalada) o pasándolos ligeramente por el fuego en una sartén o tartera con unos ajos dorados y un poco de sal, en su propio aceite._  
 

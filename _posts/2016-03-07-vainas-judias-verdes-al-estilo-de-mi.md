@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Verduras y hortalizas"]
 modified_time: '2016-03-07T04:55:21.410-08:00'
-thumbnail: https://4.bp.blogspot.com/-bjpsP-URKbU/Vt14zgAhcmI/AAAAAAAACfU/OHBlapjFz5A/s400/vainas.JPG
+thumbnail: /assets/images/vainas-judias-verdes-al-estilo-de-mi/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3791827432726354130
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/vainas-judias-verdes-al-estilo-de-mi.html
 ---
 
-![](https://4.bp.blogspot.com/-bjpsP-URKbU/Vt14zgAhcmI/AAAAAAAACfU/OHBlapjFz5A/s320/vainas.JPG)
+![](/assets/images/vainas-judias-verdes-al-estilo-de-mi/0.jpg)
 
   
 INGREDIENTES:
@@ -39,7 +39,7 @@ INGREDIENTES:
 
   
 
-![](https://4.bp.blogspot.com/-cmcIu-cwrj0/Vt15VK0zKhI/AAAAAAAACfY/YWCwuBlqX5A/s320/vainasss.JPG)
+![](/assets/images/vainas-judias-verdes-al-estilo-de-mi/1.jpg)
 
   
 Teresa Hidalgo Gutiérrez

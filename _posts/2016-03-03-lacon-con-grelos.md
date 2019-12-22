@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes", "Verduras y hortalizas"]
 modified_time: '2016-03-03T05:50:54.173-08:00'
-thumbnail: https://1.bp.blogspot.com/-kIbm8RCXG-U/VthAE28VmHI/AAAAAAAACeM/AhxegmHWzx8/s400/P2261536.JPG
+thumbnail: /assets/images/lacon-con-grelos/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1967966167151855410
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/lacon-con-grelos.html
 ---
 
-![](https://1.bp.blogspot.com/-kIbm8RCXG-U/VthAE28VmHI/AAAAAAAACeM/AhxegmHWzx8/s320/P2261536.JPG)
+![](/assets/images/lacon-con-grelos/0.jpg)
 
   
 Esta receta tradicional de la gastronomía gallega se puede disfrutar en los meses de invierno (Febrero fundamentalmente) coincidiendo con la época de recolección de los grelos (brotes verdes del nabo previo a la floración). El atractivo de este plato radica en la combinación entre el punto salado del lacón y el amargor del grelo.  
@@ -45,6 +45,6 @@ INGREDIENTES:
 
 _También se puede espolvorear un poco de pimentón picante sobre los cachelos y los grelos. El lacón sobrante cortado en lonchas finas en frío es un buen fiambre para tomar como aperitivo._
 
-![](https://2.bp.blogspot.com/--U2NHrizyls/VthAX3N138I/AAAAAAAACeQ/NTgZzCkM-IM/s320/P2261534.JPG)
+![](/assets/images/lacon-con-grelos/1.jpg)
 
 Bernardo I. García de la Torre

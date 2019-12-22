@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2017-10-01T10:55:36.189-07:00'
-thumbnail: https://1.bp.blogspot.com/-3aPI-kg77D8/WdEqq983SMI/AAAAAAAAD3Q/W9vEPLDvWzAazqI92e5bYHLVAeXa-CIsQCLcBGAs/s400/00.jpg
+thumbnail: /assets/images/rollo-de-carne-relleno/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8151941065662078047
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/10/rollo-de-carne-relleno.html
 ---
 
-![](https://1.bp.blogspot.com/-3aPI-kg77D8/WdEqq983SMI/AAAAAAAAD3Q/W9vEPLDvWzAazqI92e5bYHLVAeXa-CIsQCLcBGAs/s400/00.JPG)
+![](/assets/images/rollo-de-carne-relleno/0.jpg)
 
   
 INGREDIENTES:
@@ -32,7 +32,7 @@ INGREDIENTES:
   * Queso cheddar rallado
   * Tomate seco en aceite.  
 
-![](https://2.bp.blogspot.com/-r04V3RDp0i8/WdErAnAePbI/AAAAAAAAD3U/RbfHU6NjHJ0n8BEG4ZxsdaEgdXWBpVowwCLcBGAs/s320/01.JPG)
+![](/assets/images/rollo-de-carne-relleno/1.jpg)
 
   
 
@@ -40,7 +40,7 @@ INGREDIENTES:
 
 En un bol grande echamos la carne, el huevo, pan rallado, leche, los ajos picados, perejil, nuez moscada rallada, sal y pimienta. Amalgamamos bien todos estos ingredientes.  
 
-![](https://4.bp.blogspot.com/-3V_Z1OSzazQ/WdErPwvOSYI/AAAAAAAAD3Y/NCmAp1DG-E4Uu3C4JSySsxnAww1h5I3oACLcBGAs/s320/02.JPG)
+![](/assets/images/rollo-de-carne-relleno/2.jpg)
 
   
 
@@ -48,11 +48,11 @@ En un bol grande echamos la carne, el huevo, pan rallado, leche, los ajos picado
 
 Cubrimos una bandeja de horno con film de cocina y extendemos la mezcla anterior. Sobre la carne colocamos el relleno que hayamos elegido. En este caso hemos hecho dos rollos, uno lo hemos rellenado de tomate seco en aceite y el otro de espinacas y queso rallado.  
 
-![](https://2.bp.blogspot.com/-d4Ddet8I1lI/WdErejuHoNI/AAAAAAAAD3c/mePvzqxIUYE-AL1SuNKKIGx43K3Xou2KwCLcBGAs/s320/03.JPG)
+![](/assets/images/rollo-de-carne-relleno/3.jpg)
 
   
 
-![](https://1.bp.blogspot.com/-vVC7Ftbjk0g/WdErrGDp-9I/AAAAAAAAD3g/zKJM0arfDzcM2QspeIMg0e7-2yQ3M5UDACLcBGAs/s320/04.JPG)
+![](/assets/images/rollo-de-carne-relleno/4.jpg)
 
   
 
@@ -68,7 +68,7 @@ Untamos la bandeja de horno con un poco de aceite y ponemos los rollos sobre ell
 
 Mientras se asan, podemos ir preparando algún acompañamiento. En esta ocasión hemos hecho una salsa con cebolla, zanahoria, pimienta rosa y un poco de salsa Perrins y brandy, pero igualmente se puede acompañar de salsa de mostaza, de nata con champiñones, salsa española, puré de patatas…  
 
-![](https://3.bp.blogspot.com/-_uc1OnYbWrs/WdEr6Pqb5OI/AAAAAAAAD3k/uQsJwtrJMsMV3MuDfCNeqZtYTpWDuFXGwCLcBGAs/s320/05.JPG)
+![](/assets/images/rollo-de-carne-relleno/5.jpg)
 
   
 _Este plato admite multitud de rellenos. Como ejemplos: queso en lonchas y jamón york, pimientos asados, jamón serrano, huevo duro, aceitunas, pepinillos, champiñones, cebolla caramelizada…_  

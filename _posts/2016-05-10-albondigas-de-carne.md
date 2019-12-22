@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-05-10T13:21:33.604-07:00'
-thumbnail: https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s400/01.JPG
+thumbnail: /assets/images/albondigas-de-carne/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5333971380660128666
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/albondigas-de-carne.html
 ---
 
-![](https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s400/01.JPG)
+![](/assets/images/albondigas-de-carne/0.jpg)
 
   
 INGREDIENTES:
@@ -35,7 +35,7 @@ INGREDIENTES:
 * Medio vaso de vino tinto
 * Aceite de oliva virgen  
 
-![](https://3.bp.blogspot.com/-dm0UcUefZcU/VzJCMlERpXI/AAAAAAAACqg/zmgvuE-QeAIVPTmOuOP_0dlCyO1bxxKZACLcB/s320/02.JPG)
+![](/assets/images/albondigas-de-carne/1.jpg)
 
   
 
@@ -56,7 +56,7 @@ En la cazuela donde estamos haciendo la salsa, añadimos media cucharada de hari
 Retiramos las albóndigas y pasamos la salsa con la batidora hasta que quede fina. Una vez hecho, volvemos a unir las albóndigas y la salsa y dejamos que hierva todo junto otros diez minutos.  
 Servir acompañadas de guisantes, patatas fritas, puré de patatas, arroz…  
 
-![](https://2.bp.blogspot.com/-OkC1OhNUQCc/VzJCZqrRDUI/AAAAAAAACqk/JrtPtmun4zwzq5gYjPlgjkb0e_TtXraIQCLcB/s400/03.JPG)
+![](/assets/images/albondigas-de-carne/2.jpg)
 
   
 Teresa Hidalgo Gutiérrez

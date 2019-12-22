@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Pescados", "Verduras y hortalizas"]
 modified_time: '2017-01-29T07:05:29.877-08:00'
-thumbnail: https://2.bp.blogspot.com/-YWsj_VXvl-M/WI4DezFAliI/AAAAAAAADXk/TAf1-OwxLbwkNvW_v3gMlAx6zdltgcGHwCLcB/s400/10.JPG
+thumbnail: /assets/images/berenjena-rellena-de-bacalao/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3380566883102989229
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/01/berenjena-rellena-de-bacalao.html
 ---
 
-![](https://2.bp.blogspot.com/-YWsj_VXvl-M/WI4DezFAliI/AAAAAAAADXk/TAf1-OwxLbwkNvW_v3gMlAx6zdltgcGHwCLcB/s400/10.JPG)
+![](/assets/images/berenjena-rellena-de-bacalao/0.jpg)
 
   
 INGREDIENTES:
@@ -32,7 +32,7 @@ INGREDIENTES:
 
 Precalentamos el horno a 180 º. Mientras tanto partimos la berenjena por la mitad de forma longitudinal y hacemos unos cortes con el cuchillo en su carne sin llegar a la piel. Colocamos la berenjena con la piel hacia abajo en una fuente de horno y la rociamos con un chorrete de aceite.  
 
-![](https://3.bp.blogspot.com/-oyyowf9HC18/WI4Dn0xp5lI/AAAAAAAADXo/33Unm0NUVYAn61ipBmlMFXWuB5VSP6A2QCLcB/s320/02.JPG)
+![](/assets/images/berenjena-rellena-de-bacalao/1.jpg)
 
 
 
@@ -46,7 +46,7 @@ Sacamos la berenjena del horno y con una cuchara sacamos la carne con cuidado si
 
   
 
-![](https://1.bp.blogspot.com/-fl5SllQs2Lc/WI4EPdZDxiI/AAAAAAAADX8/rT7TP_5wZtsgi2Lf_MvWngE1k_Hbr9J2wCLcB/s320/05.JPG)
+![](/assets/images/berenjena-rellena-de-bacalao/2.jpg)
 
   
 
@@ -54,12 +54,12 @@ Sacamos la berenjena del horno y con una cuchara sacamos la carne con cuidado si
 
 Rellenamos las berenjenas con la mezcla de bacalao y verduras. Lo cubrimos con una capa fina de pan rallado y perejil picado. Lo introducimos en el horno y lo gratinamos hasta que el pan rallado quede ligeramente dorado. Lo servimos templado.  
 
-![](https://1.bp.blogspot.com/-2y5lnvXO3zw/WI4EYWzIOQI/AAAAAAAADYA/5SjOjRdY_c0RzyJq50VxCjV9_KcVsVxTACLcB/s320/08.JPG)
+![](/assets/images/berenjena-rellena-de-bacalao/3.jpg)
 
   
 _Con esta preparación la piel de la berenjena queda tierna y se puede comer sin dificultad._
 
-![](https://3.bp.blogspot.com/-cWeuzI6jsYg/WI4EeAMaLQI/AAAAAAAADYE/X-2Vi9yieQQNFmVQWaiBpUq8pUgpMYMrgCLcB/s320/11.JPG)
+![](/assets/images/berenjena-rellena-de-bacalao/4.jpg)
 
   
   

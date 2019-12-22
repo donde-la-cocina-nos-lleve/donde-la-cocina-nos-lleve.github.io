@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-04-09T03:08:51.862-07:00'
-thumbnail: https://2.bp.blogspot.com/-6BFIaPPTzd0/VwjUN-a3-NI/AAAAAAAAClM/rtLD6WojmQMuCBlF0wtJj42fdSFg1yJjQ/s400/01.jpg
+thumbnail: /assets/images/solomillo-relleno-la-provenzal/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7957499046649534971
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/solomillo-relleno-la-provenzal.html
 ---
 
-![](https://2.bp.blogspot.com/-6BFIaPPTzd0/VwjUN-a3-NI/AAAAAAAAClM/rtLD6WojmQMuCBlF0wtJj42fdSFg1yJjQ/s400/01.JPG)
+![](/assets/images/solomillo-relleno-la-provenzal/0.jpg)
 
   
 INGREDIENTES:
@@ -48,7 +48,7 @@ Cubrimos de aceite el fondo de la olla rápida y calentamos. Freímos el solomil
 Sacamos el solomillo, quitamos el cordel y cortamos en lonchas. Servir con la salsa.  
   
 
-![](https://4.bp.blogspot.com/-Bp46yQ8Ciq8/VwjUa1PsNEI/AAAAAAAAClQ/ct7-MfNHQkEyVO3NZXmOz9D1QlMoV9HdA/s400/02.JPG)
+![](/assets/images/solomillo-relleno-la-provenzal/1.jpg)
 
   
 Teresa Hidalgo Gutiérrez

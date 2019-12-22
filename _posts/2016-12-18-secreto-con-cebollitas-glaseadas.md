@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-12-18T08:44:46.134-08:00'
-thumbnail: https://2.bp.blogspot.com/-AUz0Z_6gki4/WFa8ohis6MI/AAAAAAAADPg/MNWT2rsBVVEilywGLbP8PL5Yh8pJ0Iw5QCLcB/s400/01.JPG
+thumbnail: /assets/images/secreto-con-cebollitas-glaseadas/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-6754838237737316469
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/12/secreto-con-cebollitas-glaseadas.html
 ---
 
-![](https://2.bp.blogspot.com/-AUz0Z_6gki4/WFa8ohis6MI/AAAAAAAADPg/MNWT2rsBVVEilywGLbP8PL5Yh8pJ0Iw5QCLcB/s400/01.JPG)
+![](/assets/images/secreto-con-cebollitas-glaseadas/0.jpg)
 
   
 INGREDIENTES:  
@@ -36,7 +36,7 @@ Mientras se hacen las cebollitas vamos a ir preparando las zanahorias que tambi�
 
 De vez en cuando damos la vuelta a las hortalizas para que se caramelicen bien por todos los lados. Una vez se haya evaporado casi todo el líquido estarán listas, aunque lo comprobaremos introduciendo la punta de un cuchillo, que debe entrar sin problema.  
 
-![](https://3.bp.blogspot.com/-57uPbuGCiOk/WFa8zP_vd3I/AAAAAAAADPk/gPzRKwlWb7kXBBFCFwkjMAne0yoJ28l0wCLcB/s320/02.JPG)
+![](/assets/images/secreto-con-cebollitas-glaseadas/1.jpg)
 
  
 

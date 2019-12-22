@@ -8,12 +8,12 @@ tags:
 - cocina viajera
 categories: ["Arroz y pasta", "Carnes", "Verduras y hortalizas"]
 modified_time: '2017-04-02T07:38:53.497-07:00'
-thumbnail: https://2.bp.blogspot.com/-yr-0uKZfPko/WOEMSFFrWNI/AAAAAAAADgY/bhQ6SAm0eCgmvStzQM_gmgxli4LfsgAcwCLcB/s400/09.JPG
+thumbnail: /assets/images/cous-cous-de-cordero-y-verduras/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7995339343651125368
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/04/cous-cous-de-cordero-y-verduras.html
 ---
 
-![](https://2.bp.blogspot.com/-yr-0uKZfPko/WOEMSFFrWNI/AAAAAAAADgY/bhQ6SAm0eCgmvStzQM_gmgxli4LfsgAcwCLcB/s400/09.JPG)
+![](/assets/images/cous-cous-de-cordero-y-verduras/0.jpg)
 
   
 INGREDIENTES:  
@@ -45,7 +45,7 @@ Picamos la cebolla y el ajo en trozos pequeños y ponemos a pochar en una cazuel
 
 Mientras tanto vamos preparando el resto de verduras. Pelamos la calabaza y la cortamos en trozos y el calabacín lo lavamos y troceamos, sin pelar. Una vez pasado el tiempo mencionado incorporamos a la cazuela las verduras y los garbanzos escurridos. Volvemos a tapar y dejamos hacer durante 20 minutos más.  
 
-![](https://2.bp.blogspot.com/-U1Q9-XkiQ6Q/WOEMZEFhILI/AAAAAAAADgc/zTjIvBDwtxwmIgEmhBHHgWaeSmIe6bx9gCLcB/s320/05.JPG)
+![](/assets/images/cous-cous-de-cordero-y-verduras/1.jpg)
 
   
 
@@ -57,7 +57,7 @@ Ponemos a calentar el resto del caldo. Cuando empiece a hervir retiramos y echam
 
 Presentamos en una fuente poniendo el cous-cous en primer lugar, en el centro el cordero con los garbanzos y las verduras alrededor. Adornamos con una rama de cilantro. Servimos la salsa en salsera aparte.  
 
-![](https://2.bp.blogspot.com/-r2pss7FMbm4/WOEMfFWcmUI/AAAAAAAADgg/a2OvS7jq0nYk3AMImmC9h_rx6ZZvcHzwwCLcB/s320/11.JPG)
+![](/assets/images/cous-cous-de-cordero-y-verduras/2.jpg)
 
   
 

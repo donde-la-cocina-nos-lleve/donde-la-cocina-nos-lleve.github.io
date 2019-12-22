@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Pescados"]
 modified_time: '2017-06-19T03:39:10.400-07:00'
-thumbnail: https://3.bp.blogspot.com/-_2JuDYj3PLo/WUeo0foZBfI/AAAAAAAADtY/YULRJ_QEJrMSnDYQB_1V0dGdVjKQ1hpEgCLcBGAs/s400/04.JPG
+thumbnail: /assets/images/rodaballo-al-horno/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-6404163842921963485
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/06/rodaballo-al-horno.html
 ---
 
-![](https://3.bp.blogspot.com/-_2JuDYj3PLo/WUeo0foZBfI/AAAAAAAADtY/YULRJ_QEJrMSnDYQB_1V0dGdVjKQ1hpEgCLcBGAs/s400/04.JPG)
+![](/assets/images/rodaballo-al-horno/0.jpg)
 
   
 INGREDIENTES:
@@ -26,7 +26,7 @@ INGREDIENTES:
 * Perejil
 * Aceite de oliva virgen extra  
 
-![](https://3.bp.blogspot.com/-qBbnP-IlDO8/WUepInoqaPI/AAAAAAAADtc/2HxoT6eCRz4TUQQzJwfN2zpwRv41bJ8yQCLcBGAs/s320/01.JPG)
+![](/assets/images/rodaballo-al-horno/1.jpg)
 
   
 
@@ -42,7 +42,7 @@ En el mismo aceite freímos ligeramente las patatas cortadas en rodajas de medio
 
 Hacemos un majado con los ajos y el perejil y finalmente añadimos al mortero el txakoli. Lavamos el rodaballo, hacemos unas incisiones sin llegar al hueso, lo salpimentamos y colocamos en la bandeja del horno. Echamos sobre él el contenido del mortero y un buen chorro de aceite.  
 
-![](https://1.bp.blogspot.com/-4_am28dFrOA/WUepguwqdKI/AAAAAAAADtg/IE9v-z4JdvcoU2JOdZ1ndwoL2PI6rpFRACLcBGAs/s320/03.JPG)
+![](/assets/images/rodaballo-al-horno/2.jpg)
 
   
 

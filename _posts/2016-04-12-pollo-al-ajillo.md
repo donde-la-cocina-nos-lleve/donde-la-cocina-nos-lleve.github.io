@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-04-12T11:44:24.040-07:00'
-thumbnail: https://2.bp.blogspot.com/-jS6t-N6xsgA/Vw1BGIFNzQI/AAAAAAAAClk/Ds3uwNQGfu4o7Q5Fimmzr8J3Tps7Dvn9gCLcB/s400/01.JPG
+thumbnail: /assets/images/pollo-al-ajillo/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3034201314855914479
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/pollo-al-ajillo.html
 ---
 
-![](https://2.bp.blogspot.com/-jS6t-N6xsgA/Vw1BGIFNzQI/AAAAAAAAClk/Ds3uwNQGfu4o7Q5Fimmzr8J3Tps7Dvn9gCLcB/s400/01.JPG)
+![](/assets/images/pollo-al-ajillo/0.jpg)
 
   
 INGREDIENTES:
@@ -38,6 +38,6 @@ Servimos el pollo regándolo con la salsa, acompañado de los ajos y de las hier
   
 _También se puede acompañar con unos pimientos del piquillo confitados. Si se desea un pollo más desgrasado se le puede quitar la piel._
 
-![](https://4.bp.blogspot.com/-t7bbFgyHYCs/Vw1BaFljlBI/AAAAAAAAClo/YuLKtRl8ZiYhpsB7qnwM2n6ywlPvufnMwCLcB/s400/02.JPG)
+![](/assets/images/pollo-al-ajillo/1.jpg)
 
 Bernardo I. García de la Torre

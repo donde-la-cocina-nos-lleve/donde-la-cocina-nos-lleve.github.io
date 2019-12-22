@@ -6,7 +6,7 @@ author: bernardo
 tags:
 - libros
 modified_time: '2016-02-19T06:24:29.336-08:00'
-thumbnail: https://1.bp.blogspot.com/-LiEfj2-HXUc/Vsb3R3BS4bI/AAAAAAAACTg/dl1d4KO3Kfs/s400/PORTADA%2Bbis.jpg
+thumbnail: /assets/images/las-recetas-de-mi-vida/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8768994722079289501
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/02/las-recetas-de-mi-vida.html
 ---
@@ -29,7 +29,7 @@ Lo más importante de todo este periplo culinario, como de otros, ha sido el apr
 
   
 
-![](https://1.bp.blogspot.com/-LiEfj2-HXUc/Vsb3R3BS4bI/AAAAAAAACTg/dl1d4KO3Kfs/s400/PORTADA%2Bbis.JPG)
+![](/assets/images/las-recetas-de-mi-vida/0.jpg)
 
   
 
@@ -53,157 +53,157 @@ El empujón de alguien cercano a mí, que también andaba en una tarea similar, 
 
   
 
-![](https://2.bp.blogspot.com/-pe52UCUXqBQ/Vsb3-f5Ou4I/AAAAAAAACTo/8J4dCbDQlIk/s400/PAGINA%2B03%2Bbis.JPG)
+![](/assets/images/las-recetas-de-mi-vida/1.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-k1XITBkWmRA/Vsb4YCUym0I/AAAAAAAACTs/YZoVwcWhh8E/s200/ALBONDIGAS%2BDE%2BCARNE%2Bbis.JPG)** ALBÓNDIGAS DE CARNE**
+![](/assets/images/las-recetas-de-mi-vida/2.jpg)
 
   
 
-![](https://2.bp.blogspot.com/-YHiwXaCdLSc/Vsb6af2XRFI/AAAAAAAACT8/OucE1t3MtZg/s200/ALITAS%2BDE%2BPOLLO%2Bbis.JPG) **ALITAS DE POLLO**
+![](/assets/images/las-recetas-de-mi-vida/3.jpg)
 
   
 
-![](https://4.bp.blogspot.com/--6vmAstzKuI/Vsb6vrREe0I/AAAAAAAACUA/0KcCYn_r72U/s200/ALUBIAS%2BROJAS%2Bbis.JPG) **ALUBIAS ROJAS**
+![](/assets/images/las-recetas-de-mi-vida/4.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-MynNfb5XHhM/Vsb7FpvEgsI/AAAAAAAACUE/9gErML8y0VM/s200/ANCHOAS%2BA%2BLA%2BCAZUELA%2BY%2BREBOZADAS%2Bbis.JPG) **ANCHOAS A LA CAZUELA Y REBOZADAS**
+![](/assets/images/las-recetas-de-mi-vida/5.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-arLGUun8OQE/Vsb7cYhfm3I/AAAAAAAACUM/Ot6043qCECw/s200/ARROZ%2BCON%2BMEJILLONES%2Bbis.JPG)** ARROZ CON MEJILLONES**
+![](/assets/images/las-recetas-de-mi-vida/6.jpg)
 
   
 
-![](https://1.bp.blogspot.com/-F6O1NTQz0wU/Vsb7wp5h2II/AAAAAAAACUU/AlWhSZKIeZk/s200/BACALAO%2BA%2BLA%2BVIZCA%25C3%258DNA%2Bbis.JPG)** BACALAO A LA VIZCAÍNA**
+![](/assets/images/las-recetas-de-mi-vida/7.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-28Dz3OZtRbo/Vsb8G5kecFI/AAAAAAAACUc/dVYUyf4qnc4/s200/BIZCOCHO%2BCON%2BNUECES%2Bbis.JPG)** BIZCOCHO CON NUECES**
+![](/assets/images/las-recetas-de-mi-vida/8.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-8bVDvZUAzHI/Vsb8fC-KeWI/AAAAAAAACUk/2LDw-sHCpi0/s200/CALABACIN%2BEN%2BESCABECHE%2Bbis.JPG) **CALABACÍN EN ESCABECHE**
+![](/assets/images/las-recetas-de-mi-vida/9.jpg)
 
   
 
-![](https://2.bp.blogspot.com/-3BRsc6bZURo/Vsb-8-Z5ffI/AAAAAAAACVE/yBf6JKJgphg/s200/CARRILLERAS%2BDE%2BTERNERA%2Bbis.JPG) **CARRILLERAS DE TERNERA**
+![](/assets/images/las-recetas-de-mi-vida/10.jpg)
 
-![](https://4.bp.blogspot.com/-yh7kP1fW-TU/VscRunvjUBI/AAAAAAAACVg/6yaqVuug-cQ/s200/CEVICHE%2BDE%2BPESCADO%2Bbis.JPG) **CEVICHE DE PESCADO**
+![](/assets/images/las-recetas-de-mi-vida/11.jpg)
 
-![](https://2.bp.blogspot.com/-sONesL6HlYI/VscSEiZsIUI/AAAAAAAACVk/U06da4EfzOs/s200/CHAMPI%25C3%2591ONES%2BEN%2BREVUELTO%2Bbis.JPG) **CHAMPIÑONES EN REVUELTO**
+![](/assets/images/las-recetas-de-mi-vida/12.jpg)
 
-![](https://3.bp.blogspot.com/-yfdzIhIexUE/VscSbFMuENI/AAAAAAAACVs/Y40OMRWVdKA/s200/CHAMPI%25C3%2591ONES%2BRELLENOS%2Bbis.JPG) **CHAMPIÑONES RELLENOS**
+![](/assets/images/las-recetas-de-mi-vida/13.jpg)
 
-![](https://4.bp.blogspot.com/-S7vR77KI2gs/VscSyYOqWQI/AAAAAAAACVw/NxhgpCwkNL8/s200/CHORIZO%2BA%2BLA%2BSIDRA%2Bbis.JPG) **CHORIZO A LA SIDRA**
+![](/assets/images/las-recetas-de-mi-vida/14.jpg)
 
-![](https://1.bp.blogspot.com/-XDbYlzFOVpM/VscTJBVw9PI/AAAAAAAACV4/HO-54Sro6T8/s200/COCIDO%2BMONTA%25C3%2591ES%2Bbis.JPG) **COCIDO MONTAÑÉS**
+![](/assets/images/las-recetas-de-mi-vida/15.jpg)
 
-![](https://2.bp.blogspot.com/-F2FjmXP_kLg/VscTw3IhcgI/AAAAAAAACWA/ZYt6UKjUNyA/s200/COCTEL%2BDE%2BMARISCO%2Bbis.JPG) **CÓCTEL DE MARISCO**
+![](/assets/images/las-recetas-de-mi-vida/16.jpg)
 
-![](https://2.bp.blogspot.com/-dkoYEtUgZUA/VscVC3I2hTI/AAAAAAAACWM/j483cXBqakM/s200/CODORNICES%2BEN%2BESCABECHE%2Bbis.JPG) **CODORNICES EN ESCABECHE**
+![](/assets/images/las-recetas-de-mi-vida/17.jpg)
 
-![](https://3.bp.blogspot.com/-5mrzNxdZfOQ/VscVZeuR3tI/AAAAAAAACWQ/0LhVrBpBA5M/s200/CONEJO%2BGUISADO%2Bbis.JPG) **CONEJO GUISADO**
+![](/assets/images/las-recetas-de-mi-vida/18.jpg)
 
-![](https://2.bp.blogspot.com/-QaYhWFgd7ig/VscVypO3NgI/AAAAAAAACWU/3vBwvbpBB0M/s200/COSTILLAS%2BCON%2BSALSA%2BAGRIDULCE%2Bbis.JPG) **COSTILLAS CON SALSA AGRIDULCE**
+![](/assets/images/las-recetas-de-mi-vida/19.jpg)
 
-![](https://3.bp.blogspot.com/--VL_iUWVres/VscWKZEUfPI/AAAAAAAACWc/7k3R--YMY6E/s200/CREMA%2BDE%2BCALABACIN%2Bbis.JPG) **CREMA DE CALABACÍN**
+![](/assets/images/las-recetas-de-mi-vida/20.jpg)
 
-![](https://4.bp.blogspot.com/-KVW0dumMb3s/VscWgxV5ocI/AAAAAAAACWk/_8_MrZQYMqg/s200/CROQUETAS%2BDE%2BGALLINA%2Bbis.JPG) **CROQUETAS DE GALLINA**
+![](/assets/images/las-recetas-de-mi-vida/21.jpg)
 
-![](https://1.bp.blogspot.com/-4BgGoPlbeg0/VscW2pOBZTI/AAAAAAAACWs/g71GM2JSMq8/s200/DORADA%2BA%2BLA%2BSAL%2Bbis.JPG) **DORADA A LA SAL**
+![](/assets/images/las-recetas-de-mi-vida/22.jpg)
 
-![](https://1.bp.blogspot.com/-ov8752NErRU/VscXsKpX1xI/AAAAAAAACWw/LigMAdCLcm8/s200/ENDIBIAS%2BCON%2BQUESO%2Bbis.JPG) **ENDIBIAS CON QUESO**
+![](/assets/images/las-recetas-de-mi-vida/23.jpg)
 
-![](https://4.bp.blogspot.com/-sq626qrQSh0/VscYEJ_VfKI/AAAAAAAACW4/B50A01ehsyM/s200/ENSALADA%2BDE%2BBACALAO%2Bbis.JPG) **ENSALADA DE BACALAO**
+![](/assets/images/las-recetas-de-mi-vida/24.jpg)
 
-![](https://3.bp.blogspot.com/-Nu3WnP2awzs/VscYbY3ZhtI/AAAAAAAACW8/RnfQ8vqS-40/s200/ENSALADILLA%2BEN%2BROLLO%2Bbis.JPG) **ENSALADILLA EN ROLLO**
+![](/assets/images/las-recetas-de-mi-vida/25.jpg)
 
-![](https://3.bp.blogspot.com/-YaFkkdrt8As/VscYyeEg9rI/AAAAAAAACXE/lfe-DGn6qgQ/s200/ESPAGUETIS%2BCON%2BSALSA%2BDE%2BQUESO%2Bbis.JPG) **ESPAGUETIS CON SALSA DE QUESO**
+![](/assets/images/las-recetas-de-mi-vida/26.jpg)
 
-![](https://1.bp.blogspot.com/-XjSiIAnksQc/VscZLfX2hJI/AAAAAAAACXQ/DZy0DqE-r7I/s200/GARBANZOS%2BFRITOS%2BCON%2BESPINACAS%2Bbis.JPG) **GARBANZOS FRITOS CON ESPINACAS**
+![](/assets/images/las-recetas-de-mi-vida/27.jpg)
 
-![](https://3.bp.blogspot.com/-USkIGATMp6w/VscZhuMuO4I/AAAAAAAACXY/7sULBdkYpEw/s200/GAZPACHO%2Bbis.JPG) **GAZPACHO**
+![](/assets/images/las-recetas-de-mi-vida/28.jpg)
 
-![](https://2.bp.blogspot.com/-SkO8HvXAmFE/VscZ3w1VsLI/AAAAAAAACXg/Ga9CmZogKZU/s200/GUACAMOLE%2Bbis.JPG) **GUACAMOLE**
+![](/assets/images/las-recetas-de-mi-vida/29.jpg)
 
-![](https://2.bp.blogspot.com/-OmV7PDNk21c/VscaNN5OjbI/AAAAAAAACXk/YlFXrVHtGZU/s200/HUEVOS%2BRELLENOS%2Bbis.JPG) **HUEVOS RELLENOS**
+![](/assets/images/las-recetas-de-mi-vida/30.jpg)
 
-![](https://1.bp.blogspot.com/-26ObLrpzUAc/VscajR8_3WI/AAAAAAAACXs/FBUBosbvgHo/s200/JUD%25C3%258DAS%2BVERDES%2Bbis.JPG) **JUDÍAS VERDES CON PATATAS**
+![](/assets/images/las-recetas-de-mi-vida/31.jpg)
 
-![](https://2.bp.blogspot.com/-7Y-qXZyqaAM/Vsca5qnYxaI/AAAAAAAACX0/rFGghBROCXc/s200/LASA%25C3%2591A%2BDE%2BVERDURAS%2Bbis.JPG) **LASAÑA DE VERDURAS**
+![](/assets/images/las-recetas-de-mi-vida/32.jpg)
 
-![](https://3.bp.blogspot.com/-Cldxq_SPvvk/VscbQzculrI/AAAAAAAACX4/fSQDh4ZP6Zo/s200/LENTEJAS%2BCON%2BCHORIZO%2Bbis.JPG) **LENTEJAS CON CHORIZO**
+![](/assets/images/las-recetas-de-mi-vida/33.jpg)
 
-![](https://3.bp.blogspot.com/-wHtZ_emfIQc/Vscb1IF6ZCI/AAAAAAAACYA/XPO-Pk7kfq0/s200/MAGRET%2BDE%2BPATO%2Bbis.JPG) **MAGRET DE PATO**
+![](/assets/images/las-recetas-de-mi-vida/34.jpg)
 
-![](https://3.bp.blogspot.com/-1ivf8IiKfAA/VscdsSV7lnI/AAAAAAAACYQ/YG9bZ0QVnCw/s200/MERLUZA%2BREBOZADA%2Bbis.JPG) **MERLUZA REBOZADA**
+![](/assets/images/las-recetas-de-mi-vida/35.jpg)
 
-![](https://1.bp.blogspot.com/-WLS8S73Cdhw/VsceBLCY4JI/AAAAAAAACYU/T0kUD3MIOB8/s200/MIGAS%2BDE%2BPASTOR%2Bbis.JPG) **MIGAS DE PASTOR**
+![](/assets/images/las-recetas-de-mi-vida/36.jpg)
 
-![](https://2.bp.blogspot.com/-Tk6HD57ux9k/VsceW8bhWyI/AAAAAAAACYY/jYRBgfBU78k/s200/PASTAS%2BDE%2BALMENDRA%2Bbis.JPG) **PASTAS DE ALMENDRA**
+![](/assets/images/las-recetas-de-mi-vida/37.jpg)
 
-![](https://1.bp.blogspot.com/-lVZwqQH-2-g/Vscepy2EwAI/AAAAAAAACYg/J-NO-xLwMOc/s200/PATATAS%2BA%2BLA%2BRIOJANA%2Bbis.JPG) **PATATAS A LA RIOJANA**
+![](/assets/images/las-recetas-de-mi-vida/38.jpg)
 
-![](https://4.bp.blogspot.com/-D8mAly8W1OU/Vsce-Oeq5SI/AAAAAAAACYo/VlrmtBtaFKs/s200/PATATAS%2BFRITAS%2Bbis.JPG) **PATATAS FRITAS**
+![](/assets/images/las-recetas-de-mi-vida/39.jpg)
 
-![](https://2.bp.blogspot.com/-LW26zFMErSY/VscfSf6hpFI/AAAAAAAACYs/ga6x9WRpiUs/s200/PENCAS%2BRELLENAS%2Bbis.JPG) **PENCAS RELLENAS**
+![](/assets/images/las-recetas-de-mi-vida/40.jpg)
 
-![](https://3.bp.blogspot.com/-diY4cA92ABI/VscflrwS2FI/AAAAAAAACY0/bRO5oQ2Kqx0/s200/PIMIENTOS%2BRELLENOS%2BDE%2BCARNE%2Bbis.JPG) **PIMIENTOS RELLENOS DE CARNE**
+![](/assets/images/las-recetas-de-mi-vida/41.jpg)
 
-![](https://1.bp.blogspot.com/-Rpedf0FUjic/Vscf7GLi35I/AAAAAAAACY8/Pahu7N4VNSA/s200/PIMIENTOS%2BVERDES%2BFRITOS%2Bbis.JPG) **PIMIENTOS VERDES FRITOS**
+![](/assets/images/las-recetas-de-mi-vida/42.jpg)
 
-![](https://3.bp.blogspot.com/-O8F_yzM8nb4/VscgQ5PHCWI/AAAAAAAACZA/Sdn1O-DX_vk/s200/POLLO%2BASADO%2Bbis.JPG) **POLLO ASADO**
+![](/assets/images/las-recetas-de-mi-vida/43.jpg)
 
-![](https://2.bp.blogspot.com/-itYxfUh6L3g/Vscgli-56TI/AAAAAAAACZI/8AdD7k89KY8/s200/POLLO%2BCON%2BVERDURAS%2BAL%2BWOK%2Bbis.JPG) **POLLO CON VERDURAS AL WOK**
+![](/assets/images/las-recetas-de-mi-vida/44.jpg)
 
-![](https://4.bp.blogspot.com/-GjF7Dd1YZrc/Vscg5gEWthI/AAAAAAAACZM/aSaNh35lBxQ/s200/PORRUSALDA%2Bbis.JPG) **PORRUSALDA**
+![](/assets/images/las-recetas-de-mi-vida/45.jpg)
 
-![](https://2.bp.blogspot.com/-DICpEUyz4vI/VschOqDWpkI/AAAAAAAACZQ/Z1P8ibwfkOI/s200/PUDIN%2BDE%2BMERLUZA%2Bbis.JPG) **PUDIN DE MERLUZA**
+![](/assets/images/las-recetas-de-mi-vida/46.jpg)
 
-![](https://2.bp.blogspot.com/-wP-NXb-0ezc/Vsch67OUJOI/AAAAAAAACZc/yoW-Eh446vI/s200/PULPO%2BA%2BLA%2BGALLEGA%2Bbis.JPG) **PULPO A LA GALLEGA**
-
-  
-
-![](https://1.bp.blogspot.com/-GlWe3rtV-Wk/Vscigy3Hp8I/AAAAAAAACZs/OBv3LO4ntpA/s200/RABO%2BDE%2BTORO%2Bbis.JPG) **RABO DE TORO**
+![](/assets/images/las-recetas-de-mi-vida/47.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-8NbjtDSMTrI/VscieIzLX5I/AAAAAAAACZk/ym8APhZJ3_w/s200/SALMON%2BMARINADO%2Bbis.JPG) **SALMÓN MARINADO**
+![](/assets/images/las-recetas-de-mi-vida/48.jpg)
 
   
 
-![](https://3.bp.blogspot.com/-CFvnrnhE_Dg/VscifHPw4WI/AAAAAAAACZo/wKCUGZ5Ivwg/s200/SEPIA%2BA%2BLA%2BPLANCHA%2Bbis.JPG) **SEPIA A LA PLANCHA**
+![](/assets/images/las-recetas-de-mi-vida/49.jpg)
 
   
 
-![](https://2.bp.blogspot.com/-_REDpiJ7Eh8/Vsci7fu1vMI/AAAAAAAACZ0/b9_0Jh5nuhE/s200/SETAS%2BGRATINADAS%2Bbis.JPG) **SETAS GRATINADAS**
+![](/assets/images/las-recetas-de-mi-vida/50.jpg)
 
   
 
-![](https://1.bp.blogspot.com/-Ztv1YkT1s3k/Vsci8BKmr7I/AAAAAAAACZ4/fT2X7sdzaYM/s200/TARTA%2BDE%2BMANZANA%2Bbis.JPG) **TARTA DE MANZANA**
+![](/assets/images/las-recetas-de-mi-vida/51.jpg)
 
   
 
-![](https://1.bp.blogspot.com/-H1Tqh0ixBn4/Vsci8EsUVwI/AAAAAAAACZ8/5Zoi-nvG5w4/s200/TORTILLA%2BDE%2BCHORIZO%2Bbis.JPG) **TORTILLA DE CHORIZO EN BOCADILLO**
+![](/assets/images/las-recetas-de-mi-vida/52.jpg)
 
   
 
-![](https://1.bp.blogspot.com/-eaLmwjZ9VZE/VscjSnE1tXI/AAAAAAAACaA/v4o4B8C3KTc/s200/TORTILLA%2BDE%2BPATATA%2Bbis.JPG) **TORTILLA DE PATATA**
+![](/assets/images/las-recetas-de-mi-vida/53.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-Md7mubfZhx4/VscjZoUahUI/AAAAAAAACaM/fgNlnsibWds/s200/TXIPIRONES%2BEN%2BSU%2BTINTA%2Bbis.JPG) **TXIPIRONES EN SU TINTA**
+![](/assets/images/las-recetas-de-mi-vida/54.jpg)
 
   
 
-![](https://3.bp.blogspot.com/-AntkxHCTayE/VscjXi2-n9I/AAAAAAAACaI/r32gsn_d15M/s200/VENTRESCA%2BDE%2BBONITO%2Bbis.JPG) **VENTRESCA DE BONITO**
+![](/assets/images/las-recetas-de-mi-vida/55.jpg)
 
   
 
-![](https://2.bp.blogspot.com/-Y2O-rZyX6d8/VscjjNuUtII/AAAAAAAACaQ/MfPU4c__0vE/s200/ZANCARRON%2BCON%2BTOMATE%2BY%2BPIMIENTOS%2Bbis.JPG) **ZANCARRÓN CON TOMATE Y PIMIENTOS**
+![](/assets/images/las-recetas-de-mi-vida/56.jpg)
+
+  
+
+![](/assets/images/las-recetas-de-mi-vida/57.jpg)
 
 De forma premeditada no se han incluido en las recetas las **cantidades de los ingredientes**, salvo en aquellos casos en los que las proporciones entre ellos eran absolutamente necesarias.
 
@@ -225,4 +225,4 @@ _Este libro vio la luz en Marzo de 2014._
 
   
 
-![](https://4.bp.blogspot.com/-lFSfK8mZ3ts/Vsck-XSGjiI/AAAAAAAACag/vv1JXtJSHPs/s400/PAGINA%2B121%2Bbis.JPG)
+![](/assets/images/las-recetas-de-mi-vida/58.jpg)

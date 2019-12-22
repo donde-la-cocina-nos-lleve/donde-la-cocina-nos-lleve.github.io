@@ -8,12 +8,12 @@ tags:
 - cocina viajera
 categories: ["Carnes"]
 modified_time: '2017-03-12T08:16:06.339-07:00'
-thumbnail: https://3.bp.blogspot.com/-8u8cCpGqNYM/WMVlIHNxP-I/AAAAAAAADd8/ntZRuH3PyKMGrOk4q8N9ls4nJIDgDA-ZgCLcB/s400/P1500347.jpg
+thumbnail: /assets/images/pollo-tikka-masala/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1698388800493981118
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/03/pollo-tikka-masala.html
 ---
 
-![](https://3.bp.blogspot.com/-8u8cCpGqNYM/WMVlIHNxP-I/AAAAAAAADd8/ntZRuH3PyKMGrOk4q8N9ls4nJIDgDA-ZgCLcB/s400/P1500347.JPG)
+![](/assets/images/pollo-tikka-masala/0.jpg)
 
   
 
@@ -54,7 +54,7 @@ En primer lugar ponemos a macerar el pollo con todos los ingredientes del adobo.
 
   
 
-![](https://2.bp.blogspot.com/-KD434c-Yj64/WMVlkOvk30I/AAAAAAAADeA/kEXnK2AWLUsYbJIuzyAVMZv9d2Wh13SpACLcB/s320/P1500329.JPG)
+![](/assets/images/pollo-tikka-masala/1.jpg)
 
   
 
@@ -62,7 +62,7 @@ En primer lugar ponemos a macerar el pollo con todos los ingredientes del adobo.
 
 Para la salsa ponemos un par de cucharadas de aceite de girasol en una cazuela y sofreímos en él el ajo machacado, la cebolla picada y el jengibre. Cuando la cebolla comience a dorarse añadimos el tomate y tenemos unos diez minutos. Echamos sal, un poco de azúcar y el comino. Añadimos la nata o leche de coco y la pasta de tikka masala. Por último echamos el agua y dejamos hacer mientras cocinamos el pollo.
 
-![](https://2.bp.blogspot.com/-kgAPSletxOo/WMVmAik2U9I/AAAAAAAADeE/L8XjdXm59r8AxVMHwPAMBbmcN-f8YZrGwCLcB/s320/P1500335.JPG)
+![](/assets/images/pollo-tikka-masala/2.jpg)
 
 ### 3
 

@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Arroz y pasta", "Verduras y hortalizas"]
 modified_time: '2016-04-26T11:59:54.140-07:00'
-thumbnail: https://4.bp.blogspot.com/-ruNX2s71db4/Vx-5LuosJQI/AAAAAAAACpE/EqZX_9sBl2U4U23YyorT1ZILWC5D-Zm-ACLcB/s400/04.JPG
+thumbnail: /assets/images/lasana-de-verduras/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-45388253053509261
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/lasana-de-verduras.html
 ---
 
-![](https://4.bp.blogspot.com/-ruNX2s71db4/Vx-5LuosJQI/AAAAAAAACpE/EqZX_9sBl2U4U23YyorT1ZILWC5D-Zm-ACLcB/s400/04.JPG)
+![](/assets/images/lasana-de-verduras/0.jpg)
 
   
 INGREDIENTES:
@@ -50,11 +50,11 @@ Salteamos las espinacas (en caso de utilizar congeladas, las hervimos unos minut
 
 Procedemos a montar la lasaña. Para ello, engrasamos una fuente que pueda ir al horno. Ponemos una capa de láminas de lasaña y sobre ella el relleno de champiñones. Cubrimos con un poco de bechamel. Disponemos otra capa de pasta y el relleno de espinacas, y de nuevo cubrimos con más bechamel. Por último, otra capa de lasaña y una buena capa de bechamel. Rallamos el queso (se puede usar queso ya rallado) y lo echamos por encima. Metemos en el horno a 200º con el grill encendido hasta que la superficie esté dorada. Echamos un poco de orégano fresco  picado y servimos bien caliente.  
 
-![](https://1.bp.blogspot.com/-3qQtU6uDVK0/Vx-5i6O_MSI/AAAAAAAACpI/aRgZb0czMgwgy9a_M_w0oJZBeQdsth5gACLcB/s400/01.JPG)
+![](/assets/images/lasana-de-verduras/1.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-FJWXK7dykWI/Vx-6AfVs7-I/AAAAAAAACpQ/lgiPo8qEWM0RLsDhKYlF8iH1mlhwpOBiQCLcB/s400/03.JPG)
+![](/assets/images/lasana-de-verduras/2.jpg)
 
   
 

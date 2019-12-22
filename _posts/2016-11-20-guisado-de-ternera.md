@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-11-20T03:49:38.481-08:00'
-thumbnail: https://1.bp.blogspot.com/--aE6zLqKhPY/WDGMleyBeBI/AAAAAAAADIU/jX_31tYGpCwG5Nh-d5hob7bV9BVfQwt5QCLcB/s400/guisado%2B2.JPG
+thumbnail: /assets/images/guisado-de-ternera/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-8040857946779442225
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/11/guisado-de-ternera.html
 ---
 
-![](https://1.bp.blogspot.com/--aE6zLqKhPY/WDGMleyBeBI/AAAAAAAADIU/jX_31tYGpCwG5Nh-d5hob7bV9BVfQwt5QCLcB/s400/guisado%2B2.JPG)
+![](/assets/images/guisado-de-ternera/0.jpg)
 
   
 INGREDIENTES:
@@ -39,7 +39,7 @@ En primer lugar picamos la cebolla, la zanahoria y el ajo y ponemos a pochar en 
 
 Enharinamos los trozos de carne una vez salpimentados y los vamos friendo. Incorporamos a la cazuela donde tenemos el sofrito de verduras, añadimos el pimentón y damos unas vueltas.  
 
-![](https://3.bp.blogspot.com/-7n-5AHoFIe8/WDGNbvVkMuI/AAAAAAAADIY/6m3Gr-Tge6kP9misURPqjofFOdZoo3JJQCLcB/s320/guisado%2B1.JPG)
+![](/assets/images/guisado-de-ternera/1.jpg)
 
   
 

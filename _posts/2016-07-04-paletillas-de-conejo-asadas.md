@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-07-04T07:16:48.620-07:00'
-thumbnail: https://4.bp.blogspot.com/-YsGICRAaCMQ/V3pu54qJ4-I/AAAAAAAAC2E/n7g6AUPuxpwMdIjUwwUmEIByMqIm1m4hwCLcB/s400/02.JPG
+thumbnail: /assets/images/paletillas-de-conejo-asadas/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7847857264041191009
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/07/paletillas-de-conejo-asadas.html
 ---
 
-![](https://4.bp.blogspot.com/-YsGICRAaCMQ/V3pu54qJ4-I/AAAAAAAAC2E/n7g6AUPuxpwMdIjUwwUmEIByMqIm1m4hwCLcB/s400/02.JPG)
+![](/assets/images/paletillas-de-conejo-asadas/0.jpg)
 
   
 El horno, que tan abandonado tenemos a veces, sustituye en este caso a otras preparaciones más habituales de la carne de conejo como los guisos, los arroces  o las frituras. Y las paletillas en concreto resultan muy adecuadas para esta sencilla receta.  
@@ -38,7 +38,7 @@ Cuando las paletillas empiezan a dorarse les damos la vuelta. Controlamos que ha
 
 Sacamos las paletillas de la fuente y los jugos que hayan soltado los “ligamos” con una cuchara, añadiendo un poco más de líquido si fuera necesario. Las servimos con su jugo. Se pueden acompañar con patatas o una ensalada de lechuga y cebolleta.  
 
-![](https://2.bp.blogspot.com/-acpldhZ70YQ/V3pvMGFe_II/AAAAAAAAC2I/UmBsyEmcyMQxIawlpUjitt-DifFN2LmZgCKgB/s400/01.JPG)
+![](/assets/images/paletillas-de-conejo-asadas/1.jpg)
 
   
 _Es importante que la fuente de horno siempre contenga algo de líquido para que la carne no quede seca. Se puede sustituir el vino por cerveza, lo que le da un toque amargo. Junto a las paletillas se pueden poner unas patatas troceadas para que se asen conjuntamente._  

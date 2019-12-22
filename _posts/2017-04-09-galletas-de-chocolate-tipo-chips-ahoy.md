@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Postres"]
 modified_time: '2017-04-09T04:12:41.337-07:00'
-thumbnail: https://3.bp.blogspot.com/-p3bNr1VInB4/WOoSZ0ICFJI/AAAAAAAADhQ/DvHTQw08FPwvspy4-JPaUav8qa_7R1kpACLcB/s400/05.JPG
+thumbnail: /assets/images/galletas-de-chocolate-tipo-chips-ahoy/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-5002374357089146000
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/04/galletas-de-chocolate-tipo-chips-ahoy.html
 ---
 
-![](https://3.bp.blogspot.com/-p3bNr1VInB4/WOoSZ0ICFJI/AAAAAAAADhQ/DvHTQw08FPwvspy4-JPaUav8qa_7R1kpACLcB/s400/05.JPG)
+![](/assets/images/galletas-de-chocolate-tipo-chips-ahoy/0.jpg)
 
   
 INGREDIENTES:
@@ -30,7 +30,7 @@ INGREDIENTES:
 
 Ponemos en un bol grande los dos tipos de azúcar y la mantequilla a temperatura ambiente. Mezclamos con varilla eléctrica durante unos cinco minutos, hasta conseguir una crema. Añadimos el huevo y mezclamos hasta integrar perfectamente.  
 
-![](https://3.bp.blogspot.com/-kbG66I3BNt8/WOoTvOx16qI/AAAAAAAADhc/EhM3irmjocYXWSIQxvZUK6c9qGmgPJbLACLcB/s320/01.JPG)
+![](/assets/images/galletas-de-chocolate-tipo-chips-ahoy/1.jpg)
 
 
 
@@ -38,7 +38,7 @@ Ponemos en un bol grande los dos tipos de azúcar y la mantequilla a temperatura
 
 Tamizamos la harina junto con el bicarbonato y la sal y lo añadimos a la crema anterior, mezclando bien con una cuchara o espátula. Echamos la vainilla y el chocolate y mezclamos hasta que éste se reparta bien por toda la mezcla.  
 
-![](https://1.bp.blogspot.com/-vddeUNk7wOA/WOoUfpA9owI/AAAAAAAADhk/RNyxDAU_LL8cHFmIsZ0dqEjoqMCnrXpnACLcB/s320/02.JPG)
+![](/assets/images/galletas-de-chocolate-tipo-chips-ahoy/2.jpg)
 
   
 
@@ -48,7 +48,7 @@ Metemos la masa en el frigorífico durante un par de horas por lo menos. Si pode
   
   
 
-![](https://3.bp.blogspot.com/-22d-04w7qF8/WOoWiXQTekI/AAAAAAAADh8/kAh-1c5t_F8_NNPVU6vmuUYPaP6kMm0FACLcB/s320/03.JPG)
+![](/assets/images/galletas-de-chocolate-tipo-chips-ahoy/3.jpg)
 
   
 
@@ -58,7 +58,7 @@ Horneamos durante 12 minutos aproximadamente, hasta que tengan un ligero color d
   
   
 
-![](https://1.bp.blogspot.com/-AJbPy8FVhOo/WOoVt5wJOGI/AAAAAAAADh0/uZhf9YTDS10bne3cHF8pUG0PdTlYhkfQwCLcB/s320/04.JPG)  
+![](/assets/images/galletas-de-chocolate-tipo-chips-ahoy/4.jpg)
 
 _Se conservan en una lata o tapadas con un plástico, teniendo en cuenta que en este caso tendrán una consistencia más blanda._  
 

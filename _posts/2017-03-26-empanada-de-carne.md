@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Pan y masas", "Carnes"]
 modified_time: '2017-03-26T08:21:38.503-07:00'
-thumbnail: https://4.bp.blogspot.com/-AkyXPF5qKmc/WNfbeSR3HoI/AAAAAAAADfs/02aMMW-eKX4pB9Y5RYF6KvCaYxYZfp0hQCLcB/s400/03.JPG
+thumbnail: /assets/images/empanada-de-carne/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-9159532707937559043
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/03/empanada-de-carne.html
 ---
 
-![](https://4.bp.blogspot.com/-AkyXPF5qKmc/WNfbeSR3HoI/AAAAAAAADfs/02aMMW-eKX4pB9Y5RYF6KvCaYxYZfp0hQCLcB/s400/03.JPG)
+![](/assets/images/empanada-de-carne/0.jpg)
 
   
 INGREDIENTES:
@@ -54,11 +54,11 @@ Añadimos el aceite y la sal y vamos mezclando con las manos. Espolvoreamos de h
 
 Una vez haya doblado su volumen, la amasamos un poco para que suelte el aire. Dividimos la masa en dos, una un poco más grande que la otra. Sobre la encimera enharinada, amasamos de nuevo y las estiramos con el rodillo hasta obtener dos láminas rectangulares. Extendemos la más grande sobre la bandeja del horno, que habremos cubierto con papel de hornear, recortando los sobrantes. Añadimos el relleno escurrido y lo repartimos por toda la base, si bien dejaremos un centímetro libre por todo el perímetro.Tapamos con la otra lámina y sellamos todo el borde, pellizcando la masa para que quede bien cerrada. Hacemos un orificio en el centro y pinchamos la superficie con un tenedor. Hacemos adornos con la masa sobrante y pincelamos la superficie con huevo batido al que habremos añadido un chorrito de leche.Metemos en el horno precalentado a 180º y dejamos cocer durante unos 40 minutos, hasta que la superficie esté dorada.  
 
-![](https://4.bp.blogspot.com/-y7c9mzHbs_g/WNfb91DiQnI/AAAAAAAADfw/LB7dYOX8Zhw0J0uEY6i7YzdDDd6V2wWnACLcB/s320/01.JPG)
+![](/assets/images/empanada-de-carne/1.jpg)
 
   
 
-![](https://4.bp.blogspot.com/-JjxrK2lzEQw/WNfcXCcB9pI/AAAAAAAADf4/8VWf_ZMVDSgJExq_7a3sJcxXY_mb97WogCLcB/s320/02.JPG)
+![](/assets/images/empanada-de-carne/2.jpg)
 
   
   

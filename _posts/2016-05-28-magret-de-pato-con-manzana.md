@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2016-05-28T09:50:33.478-07:00'
-thumbnail: https://1.bp.blogspot.com/-mi1UDCdXTlw/V0nLmV51YGI/AAAAAAAACtQ/KhaYWV44o9M4wb_C9ugz6pg7utyJUc9OwCLcB/s400/02.JPG
+thumbnail: /assets/images/magret-de-pato-con-manzana/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3646405254631455496
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/magret-de-pato-con-manzana.html
 ---
 
-![](https://1.bp.blogspot.com/-mi1UDCdXTlw/V0nLmV51YGI/AAAAAAAACtQ/KhaYWV44o9M4wb_C9ugz6pg7utyJUc9OwCLcB/s320/02.JPG)
+![](/assets/images/magret-de-pato-con-manzana/0.jpg)
 
   
 INGREDIENTES  
@@ -40,7 +40,7 @@ Hacemos unos cortes en forma de rombo en la piel del magret. Colocamos en una sa
 
 _Podemos sustituir la manzana por pera conferencia._
 
-![](https://3.bp.blogspot.com/-k-uy57NVLaw/V0nLq_8_TGI/AAAAAAAACtU/ctSz2DdGrIcj32wCKSBt84owD4r17HAYgCKgB/s400/01.JPG)
+![](/assets/images/magret-de-pato-con-manzana/1.jpg)
 
   
   

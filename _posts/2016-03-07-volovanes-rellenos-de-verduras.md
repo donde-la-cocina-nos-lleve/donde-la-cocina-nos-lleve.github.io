@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Verduras y hortalizas"]
 modified_time: '2016-03-07T05:02:08.595-08:00'
-thumbnail: https://2.bp.blogspot.com/-FgnCTnExN1Y/Vt17CPu73_I/AAAAAAAACfo/ZZEEMN454SM/s400/VOLOVANES%2BII.JPG
+thumbnail: /assets/images/volovanes-rellenos-de-verduras/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-7935999863347154405
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/volovanes-rellenos-de-verduras.html
 ---
 
-![](https://2.bp.blogspot.com/-FgnCTnExN1Y/Vt17CPu73_I/AAAAAAAACfo/ZZEEMN454SM/s320/VOLOVANES%2BII.JPG)
+![](/assets/images/volovanes-rellenos-de-verduras/0.jpg)
 
   
 INGREDIENTES: 
@@ -47,6 +47,6 @@ _Conviene no rellenar los volovanes con mucha antelación, para que no pierdan s
 
 _Utilizando volovanes medianos o grandes pueden servirse como entrante, pero si usamos de tamaño pequeño, resultan una buena opción como aperitivo._
 
-![](https://3.bp.blogspot.com/-WUJ4TkcXSo8/Vt17gUJNfdI/AAAAAAAACfs/GKQTLOlXlRY/s320/1%2B%25281%2529.JPG)
+![](/assets/images/volovanes-rellenos-de-verduras/1.jpg)
 
 Teresa Hidalgo Gutiérrez

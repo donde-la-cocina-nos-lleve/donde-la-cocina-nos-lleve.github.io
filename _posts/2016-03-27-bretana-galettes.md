@@ -6,12 +6,12 @@ author: bernardo
 tags:
 - cocina viajera
 modified_time: '2016-03-27T11:49:04.236-07:00'
-thumbnail: https://3.bp.blogspot.com/-Gfksl3MqnNg/VvgmaufHQkI/AAAAAAAACjU/AAaMBdOQ0vo4GuWtLU-_YmN_M31MVctiQ/s400/escanear0001.jpg
+thumbnail: /assets/images/bretana-galettes/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-6111207969722683457
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/bretana-galettes.html
 ---
 
-![](https://3.bp.blogspot.com/-Gfksl3MqnNg/VvgmaufHQkI/AAAAAAAACjU/AAaMBdOQ0vo4GuWtLU-_YmN_M31MVctiQ/s400/escanear0001.JPG)
+![](/assets/images/bretana-galettes/0.jpg)
 
 En nuestro recorrido por Bretaña, región situada al Noroeste de Francia, pudimos degustar algunos de sus productos y de sus preparaciones culinarias como el _andouille_ (embutido), la _tapenade_ (pasta de aceitunas), el _paté bretón_ de carne o los _moules_ (mejillones). Pero iniciaremos nuestro repaso por un producto ancestral, la _galette_, que tiene su origen en las zonas agrícolas alejadas de la costa.  
 
@@ -24,7 +24,7 @@ A veces se asocia o se confunde a la _galette_ con la _crepe_, pero existen algu
 
   
 
-![](https://2.bp.blogspot.com/-JcXzCg-k4Vs/Vvgm8HpqSfI/AAAAAAAACjY/GUa4GoJRg0AkBcsETy9asfuLGusNPmN1A/s320/si.JPG)
+![](/assets/images/bretana-galettes/1.jpg)
 
 Harina de trigo sarraceno o trigo negro
 
@@ -44,25 +44,25 @@ Un cucharón como medida, para verter la masa.
 
   
 
-![](https://1.bp.blogspot.com/-advCCSc9d5w/VvgnfRzVI0I/AAAAAAAACjg/2mypO8Jj-V4rToM4kA3uMHwTt6I5tE0AA/s400/escanear0002.JPG)
+![](/assets/images/bretana-galettes/2.jpg)
 
 Elaboración. Imagen de Christian Rérart, Éditions Jos
 
   
 Existen casi tantas recetas para la elaboración de la masa como lugares en los que se prepara, desde la masa básica compuesta por harina, sal y agua, hasta algunas que añaden además leche, huevos e incluso miel. También hay masas en las que se mezcla harina de trigo sarraceno con harina de trigo candeal. La masa tiene que quedar tostada y crujiente, pero a la vez flexible para permitir su manipulación. Por nuestra experiencia, no es fácil conseguir el punto adecuado.En cuanto a las guarniciones que se incorporan sobre la masa, generalmente en el caso de la _galette_ son preparaciones saladas, dejando para la _crepe_ las guarniciones dulces. Las guarniciones más tradicionales son las compuestas por algunos de estos productos: mantequilla, huevos, jamón, tocino, morcilla, _andouille_, queso de cabra… Pero, poco a poco, se han ido incorporando nuevos ingredientes, mucho de ellos provenientes de la pesca en el litoral, como los mejillones, el salmón, las vieiras o el calamar, así como todo tipo de verduras y salsas.  
 
-![](https://2.bp.blogspot.com/-kbc7DbjgnpY/VvgoDECE84I/AAAAAAAACjo/tubhLvlfKZ0ffLXoW-t2KmJZ9PkiRk3_Q/s320/DINAN.JPG)
+![](/assets/images/bretana-galettes/3.jpg)
 
   
 
-![](https://2.bp.blogspot.com/-gRXGkzpUtcw/VvgoTFyHtMI/AAAAAAAACjs/bwZVWYAoHUEizBkQefplrNCWXl5ZBAmrw/s320/dinan%2B2.JPG)
+![](/assets/images/bretana-galettes/4.jpg)
 
 Galette y sidra (_cidre_) en Dinan, al norte de Bretaña
 
   
 La _galette_ normalmente se presenta abierta, sobre un plato amplio, doblada y con los bordes plegados para contener mejor la guarnición en su interior.  
 
-![](https://4.bp.blogspot.com/-VDLhTJlbRKw/Vvgo4P-V5EI/AAAAAAAACj0/fx1GDjUdgk4DwUT-Omx7hFSXX-H2LONdA/s400/escanear0003.JPG)
+![](/assets/images/bretana-galettes/5.jpg)
 
 Presentación habitual.  
 Imagen de Christian Rérart, Éditions Jos
@@ -71,6 +71,6 @@ Imagen de Christian Rérart, Éditions Jos
 DLCNLL ha hecho su versión de esta emblemática especialidad bretona y os deja esta receta:   
 Galette de vieiras con verduras y huevo.  
 
-[![](https://3.bp.blogspot.com/-Y9I9iOoNT0I/Vvgju1CepxI/AAAAAAAACjQ/iXzM1D4fibEVmF3UbsIJeQoI0oje4NkFg/s400/02.JPG)](http://www.dondelacocinanoslleve.blogspot.com.es/2016/03/galette-de-vieiras.html)
+![](/assets/images/bretana-galettes/6.jpg)
 
-[GALETTE DE VIEIRAS](http://www.dondelacocinanoslleve.blogspot.com.es/2016/03/galette-de-vieiras.html)
+![](/assets/images/bretana-galettes/7.jpg)

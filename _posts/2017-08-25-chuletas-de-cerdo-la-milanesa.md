@@ -7,12 +7,12 @@ tags:
 - recetas
 categories: ["Carnes"]
 modified_time: '2017-08-25T10:28:16.623-07:00'
-thumbnail: https://2.bp.blogspot.com/-Gcyklj1XOGU/WaBcklocIfI/AAAAAAAAD0A/DJ5JzVq0PhMEVXnBz86xUoWQy7db0pJvgCLcBGAs/s400/00.JPG
+thumbnail: /assets/images/chuletas-de-cerdo-la-milanesa/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3106629050376333681
 blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/08/chuletas-de-cerdo-la-milanesa.html
 ---
 
-![](https://2.bp.blogspot.com/-Gcyklj1XOGU/WaBcklocIfI/AAAAAAAAD0A/DJ5JzVq0PhMEVXnBz86xUoWQy7db0pJvgCLcBGAs/s400/00.JPG)
+![](/assets/images/chuletas-de-cerdo-la-milanesa/0.jpg)
 
   
 INGREDIENTES:
@@ -29,7 +29,7 @@ INGREDIENTES:
 
 Mezclamos aceite de oliva con el zumo de limón y las hierbas. Untamos las chuletas con la salsa resultante y las colocamos sobre una bandeja. Tapamos con papel film y las llevamos a la nevera, dejándolas reposar un mínimo de media hora.  
 
-![](https://2.bp.blogspot.com/-xpUgcJpuO8c/WaBdDly9ONI/AAAAAAAAD0I/Llry56OEbeIlVEQy13fd1byCjG_812CYQCLcBGAs/s320/01.JPG)
+![](/assets/images/chuletas-de-cerdo-la-milanesa/1.jpg)
 
   
 
@@ -41,12 +41,12 @@ Mezclamos el pan rallado con el queso en caso de que decidamos utilizarlo. Batim
 
 Cubrimos el fondo de una sartén con aceite de oliva, menos cantidad que para una fritura, tan sólo cubrir el fondo ligeramente. Llevamos al fuego y cuando esté bien caliente introducimos las chuletas sin amontonar y bajamos la intensidad del fuego a la mitad. Dejamos hacer hasta que se doren.  
 
-![](https://3.bp.blogspot.com/-NHenL5f4KWk/WaBdfvE3eXI/AAAAAAAAD0M/ifdLG2NejpgNGScl9CSvu2LYpLBVB69UwCLcBGAs/s320/02.JPG)
+![](/assets/images/chuletas-de-cerdo-la-milanesa/2.jpg)
 
   
 _Con esta preparación las chuletas quedan muy sabrosas y jugosas. Servir recién hechas, acompañadas de patatas fritas, ensalada, pimientos del piquillo asados…_
 
-![](https://2.bp.blogspot.com/-QUfXBmfE3Rs/WaBd7Z64a2I/AAAAAAAAD0Q/ZFn6CG-XWgUKEUbQ3RNClJ3vZKm4ZjsjwCLcBGAs/s320/03.JPG)
+![](/assets/images/chuletas-de-cerdo-la-milanesa/3.jpg)
 
   
   
