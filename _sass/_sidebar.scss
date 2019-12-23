@@ -1,39 +1,46 @@
 //Sidebar desktop + busqueda 
 
-.sidebar{
+.sidebar {
     @include for-phone-only {
         display: none;    
     }
 
     min-width: 280px;
-    .link-youtube{
+
+    .link-youtube {
         text-align: center;
-        p{
+
+        p {
             font-weight: bold;
             font-size: 20px;
         }
-        img{
+
+        img {
             width: 100%;
-            padding: 0px 50px;
+            padding: 0 50px;
         }
     }
 
-    .destacados{
-        ul{
-            padding: 0px;
-            .enlace_foto{
-                height:150px;
+    .destacados {
+
+        ul {
+            padding: 0;
+
+            .enlace_foto {
+                height: 150px;
                 width:100%;
-                margin-bottom:30px;
-                text-align:center;
+                margin-bottom: 30px;
+                text-align: center;
                 background-position: center;
                 background-size: cover;
                 list-style: none;
                 position: relative;
-                .texto{
+
+                .texto {
                     font-size: 40px;
                     text-transform: uppercase;
-                    a{
+
+                    a {
                         position: absolute;
                         top: 50%;
                         -webkit-transform: translateY(-50%);
@@ -43,65 +50,71 @@
                         display: block;
                     }
                 }
-                .imagen{
-                    height:100%;
+
+                .imagen {
+                    height: 100%;
                 } 
-                img{
+
+                img {
                     width: 100%;
                     object-fit: cover;
                     height: 100%;
                 }
-                a{
-                    text-decoration:none !important;
-                    color:#fff !important;
+
+                a {
+                    text-decoration: none !important;
+                    color: $white !important;
                 }
             }
-            .enlace_foto:hover{
-                h4{
+
+            .enlace_foto:hover {
+                h4 {
                     color: #827653;
                 }
             }
-
-            .alfabetico{
-                background-image:url(https://1.bp.blogspot.com/-3BY84rvO9Ls/VzJB1EVu7fI/AAAAAAAACqc/QlgTIhhH0Lc9-dKbuG4IULvunAbUINUOACLcB/s1600/01.JPG);
-            } 
-
         } 
     } 
 } 
 
-.search-container{
-    label[for=search-input]{
+.search-container {
+
+    label[for=search-input] {
         font-size: 20px;
         text-transform: uppercase;
         font-weight: 600;
         color: var(--color-corporativo);
     }
-    input{
+
+    input {
         padding: 5px 10px;
         font-size: 15px;
         height: 40px;
         border: 1px solid var(--color-corporativo);
     }
-    .filtros{
-        display:none;
+
+    .filtros {
+        display: none;
     }
+
     .toggle-label {
         font-size: 16px;
-        padding: 10px 0px;
+        padding: 10px 0;
         cursor: pointer;
         display: block;
+
         @include for-phone-only {
-            color:#fff;
+            color: $white;
         }
-        &:after {
+
+        &::after {
             content: " ";
             float: right;
             border: 8px solid transparent;
             border-top-color: #000;
             margin-top: 8px;
+
             @include for-phone-only {
-                border-top-color: #fff;
+                border-top-color: $white;
             }
         }
     }
@@ -120,144 +133,172 @@
         }
 
         ~ .toggle-label {
-            &:after {
+            &::after {
                 border: 8px solid transparent;
                 border-bottom-color: #000;
                 margin-top: 0;
+
                 @include for-phone-only {
-                    border-bottom-color: #fff;
+                    border-bottom-color: $white;
                 }
             }
         }
     }
+
     .btn {
         border: 2px solid var(--bg-color);
-        margin:2px;
+        margin: 2px;
         outline: none;
         padding: 8px 16px;
         cursor: pointer;
-        border-radius:15px;
+        border-radius: 15px;
     }
-    .btn.active{
-        border:2px solid;
+
+    .btn.active {
+        border: 2px solid;
     }
-    .todos{
+
+    .todos {
         background-color: #ddd; 
 
-        &.active{
-            background-color: #fff;
+
+        &.active {
+            background-color: $white;
             border-color: $todos !important;
-            color:$todos;
+            color: $todos;
         }
     }
-    .pintxos{
+
+    .pintxos {
         background-color: $pintxos;
-        &.active{
-            background-color:#fff;
+
+        &.active {
+            background-color: $white;
             border-color: $pintxos !important;
-            color:$pintxos;
+            color: $pintxos;
         }
     }
-    .verduras{
+
+    .verduras {
         background-color: $verduras;
-        &.active{
-            background-color:#fff;
+
+        &.active {
+            background-color: $white;
             border-color: $verduras !important;
-            color:$verduras;
+            color: $verduras;
         }
     }
-    .cremas{
+
+    .cremas {
         background-color: $cremas;
-        &.active{
-            background-color:#fff;
+
+        &.active {
+            background-color: $white;
             border-color: $cremas !important;
-            color:$cremas;
+            color: $cremas;
         }
     }
-    .arroz{
+
+    .arroz {
         background-color: $arroz;
-        &.active{
-            background-color:#fff;
+
+        &.active {
+            background-color: $white;
             border-color: $arroz !important;
-            color:$arroz;
+            color: $arroz;
         }
     }
-    .legumbres{
+
+    .legumbres {
         background-color: $legumbres;
-        &.active{
-            background-color:#fff;
+
+        &.active {
+            background-color: $white;
             border-color: $legumbres !important;
-            color:$legumbres;
+            color: $legumbres;
         }
     }
-    .huevos{
+
+    .huevos {
         background-color: $huevos;
-        &.active{
-            background-color:#fff;
+
+        &.active {
+            background-color: $white;
             border-color: $huevos !important;
-            color:$huevos;
+            color: $huevos;
         }
     }
-    .carnes{
+
+    .carnes {
         background-color: $carnes;
-        &.active{
-            background-color:#fff;
+
+        &.active {
+            background-color: $white;
             border-color: $carnes !important;
-            color:$carnes;
+            color: $carnes;
         }
     }
-    .pescados{
+
+    .pescados {
         background-color: $pescados;
-        &.active{
-            background-color:#fff; 
+
+        &.active {
+            background-color: $white; 
             border-color: $pescados !important;
-            color:$pescados;
+            color: $pescados;
         }
     }
-    .postres{
+
+    .postres {
         background-color: $postres;
-        &.active{
-            background-color:#fff;
+
+        &.active {
+            background-color: $white;
             border-color: $postres !important;
-            color:$postres;
+            color: $postres;
         }
     }
-    .pan{
+
+    .pan {
         background-color: $pan;
-        &.active{
-            background-color:#fff;
+
+        &.active {
+            background-color: $white;
             border-color: $pan !important;
-            color:$pan;
+            color: $pan;
         }
     }
 }
-.results{
+
+.results {
     padding: 20px;
 
     .objeto_resultado {
         display: none;
     }
 
-    ul{
-        padding-left: 0px;
+    ul {
+        padding-left: 0;
         list-style: none;
 
-        li{
+        li {
             padding: 5px;
             margin-bottom: 10px;
         }
-        a{
+
+        a {
             display: table;
             color: var(--font-color);
 
-            img{
+            img {
                 display: table-cell;
                 float: left;
                 margin: 0;
                 max-width: 100px;
                 width: 100px;
             }
-            p{
+
+            p {
                 display: table-cell;
                 margin: 0;
                 padding-left: 10px;

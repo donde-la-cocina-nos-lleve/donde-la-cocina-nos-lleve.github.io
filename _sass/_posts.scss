@@ -1,48 +1,54 @@
 //Estilos de la vista de lista de posts, el post, las tags, comentarios y posts relacionados
 
-.posts{
+.posts {
     @include for-tablet-portrait-up {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 20px;
     }
+
     @include for-tablet-landscape-up {
         grid-template-columns: repeat(2, 1fr);
     }
+
     @include for-desktop-up {
         grid-template-columns: repeat(3, 1fr);
     }
+
     @include for-big-desktop-up {
         grid-template-columns: repeat(4, 1fr);
     }
 }
 
-.post{
+.post {
     font-family: "Franklin";
     margin-bottom: 20px;
 
-    .post_image{
+    .post_image {
         width: 100%;
         height: 200px;
         object-fit: cover;
     }
 
-    img{
+    img {
         @include for-phone-only {
            width: 100%; 
         }
+
         max-width: 400px;
     }
-    .post-title{
+
+    .post-title {
         display: inline;
         font-size: 20px;
         font-family: "Times New Roman", Times, serif;
-        a{
+
+        a {
             color: var(--font-color);
         }
     }
 
-    .share-button{
+    .share-button {
         float: right;
         border: none;
         height: 24px;
@@ -59,18 +65,20 @@
 }
 
 
-.tag_article{
+.tag_article {
     display: block;
     margin-top: 10px;
-    a{
-        margin: 5px 0px;
+
+    a {
+        margin: 5px 0;
         display: inline-block;
         color: var(--color-corporativo);
 
         @include for-phone-only {
-            margin: 10px 0px;
+            margin: 10px 0;
         }
     }
+
     code {
         padding: 5px;
         font-size: 14px;
@@ -79,10 +87,11 @@
     }
 }
 
-.comentarios{
-    h3{
+.comentarios {
+    h3 {
         color: var(--color-corporativo);
-        &:before{
+
+        &::before {
             margin-bottom: 10px;
             content: "";
             display: block;
@@ -93,12 +102,12 @@
         }
     }
 
-    input, textarea, label{
+    input, textarea, label {
         display: block;
         width: 100%;
     }
 
-    input, textarea{
+    input, textarea {
         padding: 10px 7px;
         color: var(--font-color);
         font-size: 18px;
@@ -107,79 +116,89 @@
         border-radius: 2px;
     }
 
-    .grupo_form{
+    .grupo_form {
         margin-bottom: 10px;
     }
 
     @include for-tablet-landscape-up {
-        .grupo_form{
+        .grupo_form {
             display: flex;
-            label{
+
+            label {
                 padding-right: 10px;
             }
         }
     }
 
-    button{
+    button {
         border-radius: 4px;
         border: 0;
-        color: #fff;
+        color: $white;
         cursor: pointer;
         font-weight: 600;
         padding: 10px 15px;
         background-color: var(--color-corporativo);
     }
-    .comentario{
-        .datos{
+
+    .comentario {
+        .datos {
             border-bottom: 2px solid;
         }
-        .nombre{
+
+        .nombre {
             font-weight: 600;
             color: #313131;
         }
-        .fecha a{
+
+        .fecha a {
             color: #515151;
         }
     }
 
-    .hidden{
+    .hidden {
         display: none;
     }
-    .aviso{
+
+    .aviso {
         margin-top: 10px;
         border: 3px solid var(--color-corporativo);
         padding: 10px;   
 
-        p{
+        p {
             color: var(--color-corporativo);
             margin-bottom: 0;
         }
     }
 }
 
-.share{
+.share {
 
-    ul{
+    ul {
         list-style-type: none;
-        padding-left: 0px;
+        padding-left: 0;
         margin-top: 10px;
-        li{
-            padding: 0px 10px;
+
+        li {
+            padding: 0 10px;
             display: inline;
         }
-        li:before{
+
+        li:before {
             content: " ";
             width: 24px;
             height: 24px;
             position: absolute;
         }
+
         .twitter:before {
             background-image: url(/assets/icons/svg/twitter.svg);
         }
+
         .facebook:before {
             background-image: url(/assets/icons/svg/facebook.svg);
         }
-        a{
+
+        a {
             display: inline-block;
             height: 30px;
             width: 30px;
@@ -189,6 +208,7 @@
     }
 
 }
+
 .related {
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;
@@ -199,28 +219,31 @@
     list-style: none;
 
     li {
-        padding: 5px 0px;
+        padding: 5px 0;
+
         small {
             font-size: 75%;
             color: #6B6B6B;
         }
 
-        a{
+        a {
             display: flex;
 
-            img{
+            img {
                 width: 100px;
                 height: 70px;
                 margin: 0;
                 object-fit: cover;
             }
-            p{
+
+            p {
                 margin: 0;
                 padding-left: 10px;
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
             }
+
             &:hover {
                 text-decoration: none;
 

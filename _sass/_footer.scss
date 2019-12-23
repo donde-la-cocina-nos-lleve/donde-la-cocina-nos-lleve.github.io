@@ -1,44 +1,44 @@
 //Footer
 
-
-
-
-.icon-configuracion{
+.icon-configuracion {
     background-image: url(/assets/icons/svg/settings.svg);
 }
-.icon-twitter{
+
+.icon-twitter {
     background-image: url(/assets/icons/svg/twitter.svg);
 }
 
-.icon-facebook{
+.icon-facebook {
     background-image: url(/assets/icons/svg/facebook.svg);
 }
 
-.icon-youtube{
+.icon-youtube {
     background-image: url(/assets/icons/svg/youtube.svg);
 }
 
-.icon-github{
+.icon-github {
     background-image: url(/assets/icons/svg/github.svg);
 }
 
-.icon-rss{
+.icon-rss {
     background-image: url(/assets/icons/svg/rss.svg);
 }
 
-.footer{
+.footer {
     text-align: center;
     margin-bottom: 20px;
-    ul{
-        list-style-type: none;
-        padding-left: 0px;
 
-        li{
+    ul {
+        list-style-type: none;
+        padding-left: 0;
+
+        li {
             display: inline;
             background-repeat: no-repeat;
             background-position: center;
-            padding: 5px 0px;
-            a{
+            padding: 5px 0;
+
+            a {
                 display: inline-block;
                 height: 30px;
                 width: 30px;

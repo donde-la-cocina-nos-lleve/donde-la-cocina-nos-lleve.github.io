@@ -4,16 +4,16 @@
     @include for-phone-only {
         display: flex;
         align-items: center;
-        padding: 16px 0px;
+        padding: 16px 0;
 
-        > img{
+        > img {
             height: 40px;
             margin-left:40px;
             margin-bottom: 0;
             filter: drop-shadow(3px 4px 4px rgba(0,0,0,0.5));
         }
 
-        h1{
+        h1 {
             margin: 0;
             width: 75%;
             margin: auto;
@@ -22,35 +22,41 @@
                 color: inherit;
             }
         }
-        .header-nav{
+
+        .header-nav {
             display: none;
         }
-        .header-nav-mobile{
+
+        .header-nav-mobile {
             list-style: none;
             padding: 0;
-            li button{
+
+            li button {
                 display: block;
                 position: absolute;
                 top: 30px; 
                 background-repeat:no-repeat;
                 background-color: transparent;
                 background-size: 100%;
-                padding:0px;
+                padding:0;
                 border:none;
                 height:30px;
                 width:30px;
             }
-            .boton-menu{
+
+            .boton-menu {
                 left:10px;
                 background-image:url(/assets/icons/svg/menu.svg);
 
             }
-            .boton-buscar{
+
+            .boton-buscar {
                 right: 10px;
                 background-image:url(/assets/icons/svg/search.svg);
             } 
         }
-        .side{
+
+        .side {
             display: block;
             position: fixed;
             top: 0;
@@ -61,84 +67,99 @@
             height: 100%;
             z-index: 1;
         }
-        .menu{
+
+        .menu {
             margin-right: 15%; 
             padding:50px 20px;
             right:85%;
 
-            &.show{
-                transform: translate(100%, 0px);
+            &.show {
+                transform: translate(100%, 0);
             }
 
-            ul{
+            ul {
                 display: flex;
                 flex-direction: column;
                 justify-content: space-around;
                 height: 100%;
                 list-style: none;
-                li{
+
+                li {
                     font-size: 20px;
                     text-transform: uppercase;
-                    padding: 10px 0px;
-                    a{
-                        color:#fff;
+                    padding: 10px 0;
+
+                    a {
+                        color: $white;
                     }
                 }
             }
-            .boton-cerrar{
+
+            .boton-cerrar {
                 right: 10px;
             }
         }
-        .buscar{
+
+        .buscar {
             background-color: var(--bg-color);
             margin-left: 15%; 
             left:85%;
 
-            &.show{
-                transform: translate(-100%, 0px);
+            &.show {
+                transform: translate(-100%, 0);
             }
 
-            .boton-cerrar{
+            .boton-cerrar {
                 left: 10px;
             }
-            .search-container{
+
+            .search-container {
                 background-color: var(--color-corporativo-bg);
                 padding: 60px 20px 30px 20px;
-                .label_buscar{
+
+                .label_buscar {
                     font-size: 40px;
                     text-transform: uppercase;
-                    color: white;
+                    color: $white;
                 }
-                input{
+
+                input {
                     padding: 5px 10px;
                     font-size: 15px;
                     height: 40px;
                     border: none;
                 }
-                .btn{
+
+                .btn {
                     border: 2px solid var(--color-corporativo-bg);
                 } 
             }
-            .results{
+
+            .results {
                 padding: 20px;
-                ul{
-                    padding-left: 0px;
+
+                ul {
+                    padding-left: 0;
                     list-style: none;
-                    li{
+
+                    li {
                         padding: 5px;
                         margin-bottom: 10px;
                     }
-                    a{
+
+                    a {
                         display: table;
                         color:var(--font-color);
-                        img{
+
+                        img {
                             display: table-cell;
                             float: left;
                             margin: 0;
                             max-width: 100px;
                             width: 100px;
                         }
-                        p{
+
+                        p {
                             display: table-cell;
                             margin: 0;
                             padding-left: 10px;
@@ -148,7 +169,8 @@
                 }
             }
         }
-        .boton-configuracion{
+
+        .boton-configuracion {
             position: absolute;
             top: 20px;
             background-image: url(/assets/icons/svg/settings.svg);
@@ -156,7 +178,8 @@
             width: 24px;
             filter: invert(1);
         }
-        .boton-cerrar{
+
+        .boton-cerrar {
             display: block;
             position: absolute;
             top: 10px;
@@ -164,7 +187,7 @@
             background-size: 100%;
             background-repeat:no-repeat;
             background-color: transparent;
-            padding:0px;
+            padding:0;
             border:none;
             height:40px;
             width:40px;
@@ -172,7 +195,7 @@
     }
 
     @include for-tablet-portrait-up {
-        .header-nav-mobile, .side{
+        .header-nav-mobile, .side {
             display: none;
         }
 
@@ -180,18 +203,20 @@
         text-align: center;
 
 
-        h1{
+        h1 {
             margin: 0;
 
             a {
                 color: inherit;
-                > img{
+
+                > img {
                     margin:auto;
                     height: 150px;
                 }
             }
         }
-        .nav{
+
+        .nav {
             display: flex;
             background-color: #252422;
             position: relative;
@@ -199,28 +224,32 @@
             width: max-content;
             margin: auto;
 
-            .header-nav{
+            .header-nav {
                 display: inline-block;
-                ul{
+
+                ul {
                     display: flex;
                     list-style: none;
                     padding: 0;
                     margin: 0;
 
-                    li{
+                    li {
                         cursor: pointer;
                         padding:10px; 
 
                         &:hover {
                             background-color: var(--color-corporativo);
                         }
-                        a{
+
+                        a {
                             color:var(--heading-color);
-                            &:hover{
+
+                            &:hover {
                                 text-decoration: none;
                             }
                         }
                     }
+
                     .dropdown {
                         position: relative;
 
@@ -234,7 +263,7 @@
                         display: inline-block;
                         position: absolute;
                         top: 44px;
-                        left: 0px;
+                        left: 0;
                         display: none;
                         opacity: 0;
                         background-color: #252422;
@@ -243,7 +272,7 @@
                         padding: 0;
 
                         a {
-                            color: #fff;
+                            color: $white;
                         }
                     }
 
@@ -259,16 +288,19 @@
             }
         }
     }
+
     @include for-desktop-up {
         display: flex;
         align-items: center;
         width: 90%;
         margin: auto;
         margin-bottom: 50px;
-        h1 a img{
+
+        h1 a img {
             margin-left: 20px;
         }
-        .nav{
+
+        .nav {
             margin: 0;
         }
     }

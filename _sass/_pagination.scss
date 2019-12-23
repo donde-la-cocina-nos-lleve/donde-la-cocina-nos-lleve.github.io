@@ -5,11 +5,13 @@
 
     a.pagination-item {
         background-color: var(--color-corporativo);
+
         &:hover {
             background-color: #f5f5f5;
         }
     }
-    span.pagination-item{
+
+    span.pagination-item {
         background-color: #D6D6D6;
     }
 
@@ -24,13 +26,14 @@
         &:first-child {
             background-image: url(/assets/icons/svg/chevron-left-white.svg);
         }
+
         &:last-child {
             background-image: url(/assets/icons/svg/chevron-right-white.svg);
             float:right;
         }
     }
 
-    .numero_paginas{
+    .numero_paginas {
         line-height: 50px; 
     }
 
