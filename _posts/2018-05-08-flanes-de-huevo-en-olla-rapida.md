@@ -1,6 +1,7 @@
 ---
 layout: post
 title: FLANES DE HUEVO EN OLLA RÁPIDA
+redirect_from: /2018/05/flanes-de-huevo-en-olla-rapida
 date: '2018-05-08T10:08:00.000-07:00'
 author: bernardo
 tags:

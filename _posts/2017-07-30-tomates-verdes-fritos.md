@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TOMATES VERDES FRITOS
+redirect_from: /2017/07/tomates-verdes-fritos
 date: '2017-07-30T03:07:00.000-07:00'
 author: bernardo
 tags:

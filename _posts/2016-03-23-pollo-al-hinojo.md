@@ -1,6 +1,7 @@
 ---
 layout: post
 title: POLLO AL HINOJO
+redirect_from: /2016/03/pollo-al-hinojo
 date: '2016-03-23T08:16:00.000-07:00'
 author: bernardo
 tags:

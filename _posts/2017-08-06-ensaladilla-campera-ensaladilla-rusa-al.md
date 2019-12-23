@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ENSALADILLA CAMPERA  (ENSALADILLA RUSA AL ESTILO DE MI AMIGA MARIAN)
+redirect_from: /2017/08/ensaladilla-campera-ensaladilla-rusa-al
 date: '2017-08-06T06:24:00.000-07:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TOSTADAS DE CARNAVAL (TORRIJAS)
+redirect_from: /2017/02/tostadas-de-carnaval-torrijas
 date: '2017-02-23T03:23:00.000-08:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'BRETAÑA: GALETTES'
+redirect_from: /2016/03/bretana-galettes
 date: '2016-03-27T11:45:00.000-07:00'
 author: bernardo
 tags:

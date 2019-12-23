@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CROQUETAS DE JAMÓN
+redirect_from: /2016/09/croquetas-de-jamon
 date: '2016-09-20T06:55:00.002-07:00'
 author: bernardo
 tags:

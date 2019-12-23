@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LASAÑA DE SALSA BOLOÑESA
+redirect_from: /2018/01/lasana-de-salsa-bolonesa
 date: '2018-01-14T01:21:00.000-08:00'
 author: bernardo
 tags:

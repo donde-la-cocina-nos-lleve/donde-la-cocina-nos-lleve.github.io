@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'MALLORCA: GRANADA DE BERENJENAS (GRANADA D’ALBERGÍNIES)'
+redirect_from: /2016/10/granada-de-berenjenas-granada
 date: '2016-10-23T06:32:00.000-07:00'
 author: bernardo
 tags:

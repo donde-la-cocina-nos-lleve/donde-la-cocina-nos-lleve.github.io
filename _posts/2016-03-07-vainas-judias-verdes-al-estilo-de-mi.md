@@ -1,6 +1,7 @@
 ---
 layout: post
 title: VAINAS (JUDÍAS VERDES) AL ESTILO DE MI MADRE
+redirect_from: /2016/03/vainas-judias-verdes-al-estilo-de-mi
 date: '2016-03-07T04:55:00.000-08:00'
 author: bernardo
 tags:

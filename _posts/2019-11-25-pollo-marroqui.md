@@ -1,6 +1,7 @@
 ---
 layout: post
 title: POLLO MARROQUÍ CON LIMONES ENCURTIDOS
+redirect_from: /2019/11/pollo-marroqui
 date: '2019-11-24T11:07:00.000-07:00'
 description: Una forma distinta de cocinar el pollo con un ingrediente poco conocido pero cada vez más fácil de encontrar, los limones encurtidos.
 tags:

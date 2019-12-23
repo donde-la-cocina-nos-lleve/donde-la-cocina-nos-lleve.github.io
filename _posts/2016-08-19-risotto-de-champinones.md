@@ -1,6 +1,7 @@
 ---
 layout: post
 title: RISOTTO DE CHAMPIÑONES
+redirect_from: /2016/08/risotto-de-champinones
 date: '2016-08-19T08:16:00.002-07:00'
 author: bernardo
 tags:

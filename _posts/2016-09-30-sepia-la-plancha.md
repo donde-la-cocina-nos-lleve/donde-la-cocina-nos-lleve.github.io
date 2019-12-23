@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SEPIA A LA PLANCHA
+redirect_from: /2016/09/sepia-la-plancha
 date: '2016-09-30T08:30:00.000-07:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BIZCOCHO DE YOGUR
+redirect_from: /2016/07/bizcocho-de-yogur
 date: '2016-07-25T05:35:00.000-07:00'
 author: bernardo
 tags:

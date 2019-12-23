@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MEDIAS NOCHES
+redirect_from: /2017/02/medias-noches
 date: '2017-02-11T08:59:00.000-08:00'
 author: bernardo
 tags:

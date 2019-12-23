@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BONITO CON TOMATE
+redirect_from: /2017/07/bonito-con-tomate
 date: '2017-07-25T00:18:00.000-07:00'
 author: bernardo
 tags:

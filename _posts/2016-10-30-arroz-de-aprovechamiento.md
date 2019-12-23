@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ARROZ DE APROVECHAMIENTO
+redirect_from: /2016/10/arroz-de-aprovechamiento
 date: '2016-10-30T06:42:00.003-07:00'
 author: bernardo
 tags:

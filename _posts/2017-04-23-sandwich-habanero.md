@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SÁNDWICH HABANERO
+redirect_from: /2017/04/sandwich-habanero
 date: '2017-04-23T08:17:00.003-07:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: POLLO AL AJILLO
+redirect_from: /2016/04/pollo-al-ajillo
 date: '2016-04-12T11:44:00.000-07:00'
 author: bernardo
 tags:

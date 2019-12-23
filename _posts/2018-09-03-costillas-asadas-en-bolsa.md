@@ -1,6 +1,7 @@
 ---
 layout: post
 title: COSTILLAS ASADAS EN BOLSA
+redirect_from: /2018/09/costillas-asadas-en-bolsa
 date: '2018-09-03T09:23:00.000-07:00'
 author: bernardo
 tags:

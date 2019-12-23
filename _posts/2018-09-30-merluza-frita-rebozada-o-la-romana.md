@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MERLUZA FRITA (REBOZADA O A LA ROMANA)
+redirect_from: /2018/09/merluza-frita-rebozada-o-la-romana
 date: '2018-09-30T01:39:00.002-07:00'
 author: bernardo
 tags:

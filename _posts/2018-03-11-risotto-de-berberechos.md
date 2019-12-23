@@ -1,6 +1,7 @@
 ---
 layout: post
 title: RISOTTO DE BERBERECHOS
+redirect_from: /2018/03/risotto-de-berberechos
 date: '2018-03-11T13:23:00.001-07:00'
 author: bernardo
 tags:

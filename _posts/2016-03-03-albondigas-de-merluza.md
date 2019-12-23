@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ALBÓNDIGAS DE MERLUZA
+redirect_from: /2016/03/albondigas-de-merluza
 date: '2016-03-03T05:57:00.000-08:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: QUESO FRESCO DE OVEJA
+redirect_from: /2016/09/queso-fresco-de-oveja
 date: '2016-09-10T07:28:00.000-07:00'
 author: bernardo
 tags:

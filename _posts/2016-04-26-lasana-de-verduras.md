@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LASAÑA DE VERDURAS
+redirect_from: /2016/04/lasana-de-verduras
 date: '2016-04-26T11:59:00.001-07:00'
 author: bernardo
 tags:

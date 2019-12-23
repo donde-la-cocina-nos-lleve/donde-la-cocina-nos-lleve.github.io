@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BERENJENA RELLENA DE BACALAO
+redirect_from: /2017/01/berenjena-rellena-de-bacalao
 date: '2017-01-29T07:05:00.000-08:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: COUS-COUS DE CORDERO Y VERDURAS
+redirect_from: /2017/04/cous-cous-de-cordero-y-verduras
 date: '2017-04-02T07:38:00.002-07:00'
 author: bernardo
 tags:

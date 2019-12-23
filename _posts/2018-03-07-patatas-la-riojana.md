@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PATATAS A LA RIOJANA
+redirect_from: /2018/03/patatas-la-riojana
 date: '2018-03-07T03:19:00.002-08:00'
 author: bernardo
 tags:

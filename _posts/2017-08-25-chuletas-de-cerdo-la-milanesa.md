@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CHULETAS DE CERDO A LA MILANESA
+redirect_from: /2017/08/chuletas-de-cerdo-la-milanesa
 date: '2017-08-25T10:28:00.000-07:00'
 author: bernardo
 tags:

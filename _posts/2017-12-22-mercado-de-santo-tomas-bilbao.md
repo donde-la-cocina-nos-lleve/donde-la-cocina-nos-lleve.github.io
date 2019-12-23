@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MERCADO DE SANTO TOMÁS. BILBAO
+redirect_from: /2017/12/mercado-de-santo-tomas-bilbao
 date: '2017-12-22T10:23:00.000-08:00'
 author: bernardo
 tags:

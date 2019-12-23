@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GALLETAS DE CHOCOLATE  (TIPO CHIPS AHOY)
+redirect_from: /2017/04/galletas-de-chocolate-tipo-chips-ahoy
 date: '2017-04-09T04:12:00.001-07:00'
 author: bernardo
 tags:

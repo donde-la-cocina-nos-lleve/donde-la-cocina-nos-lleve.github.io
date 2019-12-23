@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TORTILLITA DE CAMARONES (SIN CAMARONES)
+redirect_from: /2016/06/tortillita-de-camarones-sin-camarones
 date: '2016-06-25T02:56:00.000-07:00'
 author: bernardo
 tags:

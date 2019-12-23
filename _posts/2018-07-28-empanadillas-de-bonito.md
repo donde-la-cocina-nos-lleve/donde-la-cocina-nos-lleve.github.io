@@ -1,6 +1,7 @@
 ---
 layout: post
 title: EMPANADILLAS DE BONITO
+redirect_from: /2018/07/empanadillas-de-bonito
 date: '2018-07-28T08:22:00.000-07:00'
 author: bernardo
 tags:

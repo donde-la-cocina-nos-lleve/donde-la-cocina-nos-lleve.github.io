@@ -1,6 +1,7 @@
 ---
 layout: post
 title: RODABALLO AL HORNO
+redirect_from: /2017/06/rodaballo-al-horno
 date: '2017-06-19T03:39:00.000-07:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CARROT CAKE (TARTA DE ZANAHORIA)
+redirect_from: /2016/04/carrot-cake-tarta-de-zanahoria
 date: '2016-04-05T08:37:00.000-07:00'
 author: bernardo
 tags:

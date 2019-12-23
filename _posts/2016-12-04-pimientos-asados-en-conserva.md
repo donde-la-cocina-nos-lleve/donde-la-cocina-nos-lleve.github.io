@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PIMIENTOS ASADOS EN CONSERVA
+redirect_from: /2016/12/pimientos-asados-en-conserva
 date: '2016-12-04T06:58:00.000-08:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MERCADO DE LA RIBERA. Bilbao
+redirect_from: /2016/02/mercado-de-la-ribera-bilbao
 date: '2016-02-19T08:58:00.001-08:00'
 author: bernardo
 tags:

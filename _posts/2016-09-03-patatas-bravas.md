@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PATATAS BRAVAS
+redirect_from: /2016/09/patatas-bravas
 date: '2016-09-03T07:03:00.000-07:00'
 author: bernardo
 tags:

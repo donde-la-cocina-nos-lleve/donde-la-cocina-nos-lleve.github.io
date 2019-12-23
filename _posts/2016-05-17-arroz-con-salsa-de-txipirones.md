@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ARROZ CON SALSA DE TXIPIRONES
+redirect_from: /2016/05/arroz-con-salsa-de-txipirones
 date: '2016-05-17T09:56:00.000-07:00'
 author: bernardo
 tags:

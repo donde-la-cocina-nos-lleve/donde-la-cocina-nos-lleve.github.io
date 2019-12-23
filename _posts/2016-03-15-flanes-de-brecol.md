@@ -1,6 +1,7 @@
 ---
 layout: post
 title: FLANES  DE BRÉCOL
+redirect_from: /2016/03/flanes-de-brecol
 date: '2016-03-15T03:04:00.000-07:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CALAMARES EN SU TINTA
+redirect_from: /2017/01/calamares-en-su-tinta
 date: '2017-01-08T11:06:00.000-08:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ENSALADILLA RUSA
+redirect_from: /2016/05/ensaladilla-rusa
 date: '2016-05-24T10:42:00.000-07:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'MALLORCA: FIDEOS DE VENDIMIA (FIDEUS DE VEREMAR)'
+redirect_from: /2016/06/fideos-de-vendimia-fideus-de-veremar
 date: '2016-06-05T07:51:00.000-07:00'
 author: bernardo
 tags:

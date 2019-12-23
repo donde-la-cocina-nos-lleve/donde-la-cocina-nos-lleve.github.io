@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PATATAS REVOLCONAS
+redirect_from: /2017/02/patatas-revolconas
 date: '2017-02-19T05:34:00.000-08:00'
 author: bernardo
 tags:

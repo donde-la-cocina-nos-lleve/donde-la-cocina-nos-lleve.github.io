@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SALMOREJO
+redirect_from: /2017/07/salmorejo
 date: '2017-07-09T06:21:00.001-07:00'
 author: bernardo
 tags:

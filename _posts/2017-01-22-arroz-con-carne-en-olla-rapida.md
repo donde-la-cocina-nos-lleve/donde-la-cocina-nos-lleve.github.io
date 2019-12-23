@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ARROZ CON CARNE EN OLLA RÁPIDA
+redirect_from: /2017/01/arroz-con-carne-en-olla-rapida
 date: '2017-01-22T01:58:00.000-08:00'
 author: bernardo
 tags:

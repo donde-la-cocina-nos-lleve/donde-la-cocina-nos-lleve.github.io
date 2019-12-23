@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GREIXONERA DE REQUESÓN
+redirect_from: /2016/12/greixonera-de-requeson
 date: '2016-12-11T06:32:00.000-08:00'
 author: bernardo
 tags:

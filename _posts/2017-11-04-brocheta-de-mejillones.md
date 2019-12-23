@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BROCHETA DE MEJILLONES
+redirect_from: /2017/11/brocheta-de-mejillones
 date: '2017-11-04T07:58:00.000-07:00'
 author: bernardo
 tags:

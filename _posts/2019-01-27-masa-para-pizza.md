@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MASA PARA PIZZA
+redirect_from: /2019/01/masa-para-pizza
 date: '2019-01-27T04:33:00.001-08:00'
 author: bernardo
 tags:

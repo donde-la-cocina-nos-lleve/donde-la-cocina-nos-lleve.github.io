@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MUSEO DEL TXAKOLÍ – TXAKOLINGUNEA. BAKIO
+redirect_from: /2016/03/museo-del-txakoli-txakolingunea-bakio
 date: '2016-03-11T10:09:00.000-08:00'
 author: bernardo
 tags:

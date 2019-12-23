@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ROLLO DE CARNE RELLENO
+redirect_from: /2017/10/rollo-de-carne-relleno
 date: '2017-10-01T10:55:00.000-07:00'
 author: bernardo
 tags:

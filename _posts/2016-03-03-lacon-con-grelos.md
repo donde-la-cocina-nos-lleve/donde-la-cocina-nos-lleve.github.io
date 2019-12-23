@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LACÓN CON GRELOS
+redirect_from: /2016/03/lacon-con-grelos
 date: '2016-03-03T05:50:00.000-08:00'
 author: bernardo
 tags:

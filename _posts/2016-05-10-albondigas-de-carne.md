@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ALBÓNDIGAS DE CARNE
+redirect_from: /2016/05/albondigas-de-carne
 date: '2016-05-10T13:21:00.000-07:00'
 author: bernardo
 tags:

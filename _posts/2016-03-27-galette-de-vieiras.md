@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GALETTE DE VIEIRAS
+redirect_from: /2016/03/galette-de-vieiras
 date: '2016-03-27T11:20:00.002-07:00'
 author: bernardo
 tags:

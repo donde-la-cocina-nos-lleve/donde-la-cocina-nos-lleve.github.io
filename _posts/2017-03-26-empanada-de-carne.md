@@ -1,6 +1,7 @@
 ---
 layout: post
 title: EMPANADA DE CARNE
+redirect_from: /2017/03/empanada-de-carne
 date: '2017-03-26T08:21:00.002-07:00'
 author: bernardo
 tags:

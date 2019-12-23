@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MARMITAKO
+redirect_from: /2018/08/marmitako
 date: '2018-08-26T10:58:00.002-07:00'
 author: bernardo
 tags:

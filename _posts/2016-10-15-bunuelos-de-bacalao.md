@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BUÑUELOS DE BACALAO
+redirect_from: /2016/10/bunuelos-de-bacalao
 date: '2016-10-15T06:07:00.000-07:00'
 author: bernardo
 tags:

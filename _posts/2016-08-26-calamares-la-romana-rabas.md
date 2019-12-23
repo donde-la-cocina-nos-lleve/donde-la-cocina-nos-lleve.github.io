@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CALAMARES A LA ROMANA (RABAS)
+redirect_from: /2016/08/calamares-la-romana-rabas
 date: '2016-08-26T05:46:00.000-07:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BONITO ENCEBOLLADO 
+redirect_from: /2019/08/bonito-encebollado
 date: '2019-08-11T11:07:00.000-07:00'
 tags:
 - recetas

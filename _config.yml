@@ -32,5 +32,13 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 theme: jekyll-theme-slate
+
+
+exclude:
+  - CNAME
+  - README.md
+  - LICENSE.md
+  - scripts

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BOMBONES DE MORCILLA Y MANZANA
+redirect_from: /2017/12/bombones-de-morcilla-y-manzana
 date: '2017-12-17T11:36:00.000-08:00'
 author: bernardo
 tags:

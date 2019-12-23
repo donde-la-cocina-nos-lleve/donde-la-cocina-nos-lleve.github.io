@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ANCHOAS EN VINAGRE (BOQUERONES)
+redirect_from: /2017/06/anchoas-en-vinagre-boquerones
 date: '2017-06-04T06:22:00.000-07:00'
 author: bernardo
 tags:

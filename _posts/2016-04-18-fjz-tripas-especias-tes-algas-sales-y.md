@@ -1,6 +1,7 @@
 ---
 layout: post
 title: FJZ. TRIPAS, ESPECIAS, TÉS, ALGAS, SALES Y ÚTILES. BILBAO.
+redirect_from: /2016/04/fjz-tripas-especias-tes-algas-sales-y
 date: '2016-04-18T06:52:00.000-07:00'
 author: bernardo
 tags:

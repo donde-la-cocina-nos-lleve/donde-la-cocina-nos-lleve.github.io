@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MAGRET DE PATO CON MANZANA
+redirect_from: /2016/05/magret-de-pato-con-manzana
 date: '2016-05-28T09:50:00.000-07:00'
 author: bernardo
 tags:

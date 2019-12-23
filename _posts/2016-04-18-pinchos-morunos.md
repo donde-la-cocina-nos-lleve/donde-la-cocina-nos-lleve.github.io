@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PINCHOS MORUNOS
+redirect_from: /2016/04/pinchos-morunos
 date: '2016-04-18T06:31:00.000-07:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ALITAS DE POLLO ASADAS
+redirect_from: /2018/07/alitas-de-pollo-asadas
 date: '2018-07-10T05:06:00.000-07:00'
 author: bernardo
 tags:

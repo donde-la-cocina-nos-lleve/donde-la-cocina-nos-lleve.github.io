@@ -1,6 +1,7 @@
 ---
 layout: post
 title: COSTILLAS EN OLLA RÁPIDA
+redirect_from: /2016/08/costillas-en-olla-rapida
 date: '2016-08-11T02:30:00.000-07:00'
 author: bernardo
 tags:

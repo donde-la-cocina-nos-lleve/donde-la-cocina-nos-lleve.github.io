@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HOJALDRE DE MEJILLONES EN ESCABECHE
+redirect_from: /2017/09/hojaldre-de-mejillones-en-escabeche
 date: '2017-09-02T09:08:00.000-07:00'
 author: bernardo
 tags:

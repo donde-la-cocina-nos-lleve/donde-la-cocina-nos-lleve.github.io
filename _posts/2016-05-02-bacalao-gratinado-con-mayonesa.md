@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BACALAO GRATINADO CON MAYONESA
+redirect_from: /2016/05/bacalao-gratinado-con-mayonesa
 date: '2016-05-02T13:21:00.000-07:00'
 author: bernardo
 tags:

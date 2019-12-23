@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PALETILLAS DE CONEJO ASADAS
+redirect_from: /2016/07/paletillas-de-conejo-asadas
 date: '2016-07-04T07:16:00.000-07:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LE MARCHÉ DES ENFANTS ROUGES
+redirect_from: /2017/03/le-marche-des-enfants-rouges
 date: '2017-03-19T03:43:00.001-07:00'
 author: bernardo
 tags:

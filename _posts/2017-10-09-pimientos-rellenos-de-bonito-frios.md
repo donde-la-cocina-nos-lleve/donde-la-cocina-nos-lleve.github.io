@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PIMIENTOS RELLENOS DE BONITO (FRÍOS)
+redirect_from: /2017/10/pimientos-rellenos-de-bonito-frios
 date: '2017-10-09T08:48:00.000-07:00'
 author: bernardo
 tags:

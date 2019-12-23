@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TARTA TATIN DE PERAS
+redirect_from: /2017/09/tarta-tatin-de-peras
 date: '2017-09-25T11:47:00.001-07:00'
 author: bernardo
 tags:

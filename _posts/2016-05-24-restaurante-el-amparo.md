@@ -1,6 +1,7 @@
 ---
 layout: post
 title: RESTAURANTE “EL AMPARO”
+redirect_from: /2016/05/restaurante-el-amparo
 description: Historia del restaurante "El Amparo"
 date: '2016-05-24T08:35:00.000-07:00'
 author: bernardo

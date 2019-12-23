@@ -1,6 +1,7 @@
 ---
 layout: post
 title: COSTILLAS ASADAS AL HORNO
+redirect_from: /2017/10/costillas-asadas-al-horno
 date: '2017-10-19T09:07:00.000-07:00'
 author: bernardo
 tags:

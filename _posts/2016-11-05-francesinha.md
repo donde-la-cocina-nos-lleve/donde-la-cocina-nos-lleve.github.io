@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'PORTUGAL: FRANCESINHA'
+redirect_from: /2016/11/francesinha
 date: '2016-11-05T12:11:00.000-07:00'
 author: bernardo
 tags:

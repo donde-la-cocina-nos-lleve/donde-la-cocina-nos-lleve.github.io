@@ -1,6 +1,7 @@
 ---
 layout: post
 title: POPIETAS DE CERDO RELLENAS DE CALAMAR
+redirect_from: /2017/05/popietas-de-cerdo-rellenas-de-calamar
 date: '2017-05-13T09:15:00.001-07:00'
 author: bernardo
 tags:

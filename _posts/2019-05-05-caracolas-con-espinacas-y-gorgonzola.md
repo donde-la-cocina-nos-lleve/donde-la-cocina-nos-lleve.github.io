@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CARACOLAS CON ESPINACAS Y GORGONZOLA
+redirect_from: /2019/05/caracolas-con-espinacas-y-gorgonzola
 date: '2019-05-05T11:07:00.000-07:00'
 author: bernardo
 tags:

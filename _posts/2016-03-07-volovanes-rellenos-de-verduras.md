@@ -1,6 +1,7 @@
 ---
 layout: post
 title: VOLOVANES RELLENOS DE VERDURAS
+redirect_from: /2016/03/volovanes-rellenos-de-verduras
 date: '2016-03-07T05:02:00.000-08:00'
 author: bernardo
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PASTEL DE CARNE Y PATATA
+redirect_from: /2016/06/pastel-de-carne-y-patata
 date: '2016-06-19T07:06:00.000-07:00'
 author: bernardo
 tags:

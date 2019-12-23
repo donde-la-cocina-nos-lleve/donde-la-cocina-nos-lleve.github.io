@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SANDWICH CROQUE-MONSIEUR
+redirect_from: /2017/06/sandwich-croque-monsieur
 date: '2017-06-11T09:24:00.000-07:00'
 author: bernardo
 tags:

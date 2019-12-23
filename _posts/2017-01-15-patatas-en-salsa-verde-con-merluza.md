@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PATATAS EN SALSA VERDE CON MERLUZA
+redirect_from: /2017/01/patatas-en-salsa-verde-con-merluza
 date: '2017-01-15T01:44:00.000-08:00'
 author: bernardo
 tags:

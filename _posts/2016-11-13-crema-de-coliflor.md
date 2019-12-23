@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CREMA DE COLIFLOR
+redirect_from: /2016/11/crema-de-coliflor
 date: '2016-11-13T02:29:00.000-08:00'
 author: bernardo
 tags:

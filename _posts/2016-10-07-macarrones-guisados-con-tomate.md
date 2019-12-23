@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MACARRONES GUISADOS CON TOMATE
+redirect_from: /2016/10/macarrones-guisados-con-tomate
 date: '2016-10-07T09:41:00.000-07:00'
 author: bernardo
 tags:

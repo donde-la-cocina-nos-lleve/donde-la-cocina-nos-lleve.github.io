@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BERENJENAS RELLENAS DE CARNE
+redirect_from: /2016/02/berenjenas-rellenas-de-carne
 date: '2016-02-22T06:58:00.000-08:00'
 author: bernardo
 tags:

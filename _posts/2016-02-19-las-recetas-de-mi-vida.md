@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Las recetas de mi vida
+redirect_from: /2016/02/las-recetas-de-mi-vida
 date: '2016-02-19T03:42:00.001-08:00'
 author: bernardo
 tags:

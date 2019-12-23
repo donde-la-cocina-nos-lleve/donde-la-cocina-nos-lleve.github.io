@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CANELONES DE BONITO
+redirect_from: /2017/02/canelones-de-bonito
 date: '2017-02-04T07:18:00.000-08:00'
 author: bernardo
 tags:

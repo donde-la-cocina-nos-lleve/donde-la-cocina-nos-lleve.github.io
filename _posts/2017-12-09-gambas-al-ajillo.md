@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GAMBAS AL AJILLO
+redirect_from: /2017/12/gambas-al-ajillo
 date: '2017-12-09T08:53:00.001-08:00'
 author: bernardo
 tags:

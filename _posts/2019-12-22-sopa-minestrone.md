@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SOPA MINESTRONE
+redirect_from: /2019/12/sopa-minestrone
 date: '2019-12-21T11:07:00.000-07:00'
 description: Para este invierno que empieza, una sopa reconstituyente.
 tags:

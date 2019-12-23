@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TARTA SACHER
+redirect_from: /2018/11/tarta-sacher
 date: '2018-11-10T10:23:00.000-08:00'
 author: bernardo
 tags:

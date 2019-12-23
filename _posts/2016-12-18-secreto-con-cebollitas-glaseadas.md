@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SECRETO CON CEBOLLITAS GLASEADAS
+redirect_from: /2016/12/secreto-con-cebollitas-glaseadas
 date: '2016-12-18T08:44:00.002-08:00'
 author: bernardo
 tags:

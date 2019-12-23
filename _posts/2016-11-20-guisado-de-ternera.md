@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GUISADO DE TERNERA
+redirect_from: /2016/11/guisado-de-ternera
 date: '2016-11-20T03:49:00.000-08:00'
 author: bernardo
 tags:

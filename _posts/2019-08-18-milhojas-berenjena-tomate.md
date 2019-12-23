@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MILHOJAS DE BERENJENA Y TOMATE 
+redirect_from: /2019/08/milhojas-berenjena-tomate
 date: '2019-08-18T11:07:00.000-07:00'
 tags:
 - recetas

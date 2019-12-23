@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AMATXU SUKALDARI
+redirect_from: /2019/04/amatxu-sukaldari
 date: '2019-04-14T09:35:00.000-07:00'
 author: bernardo
 tags:

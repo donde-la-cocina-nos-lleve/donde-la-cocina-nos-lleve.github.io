@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TARTAR DE TOMATE, AGUACATE Y FRESAS
+redirect_from: /2017/05/tartar-de-tomate-aguacate-y-fresas
 date: '2017-05-06T06:05:00.000-07:00'
 author: bernardo
 tags:

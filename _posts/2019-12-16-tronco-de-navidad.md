@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TRONCO DE NAVIDAD
+redirect_from: /2019/12/tronco-de-navidad
 date: '2019-12-15T11:07:00.000-07:00'
 description: Se acercan las Navidades y aprovechamos para compartir este clásico postre.
 tags:

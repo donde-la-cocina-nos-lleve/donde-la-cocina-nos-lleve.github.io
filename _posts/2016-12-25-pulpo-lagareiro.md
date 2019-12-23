@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PULPO LAGAREIRO
+redirect_from: /2016/12/pulpo-lagareiro
 date: '2016-12-25T07:33:00.001-08:00'
 author: bernardo
 tags:

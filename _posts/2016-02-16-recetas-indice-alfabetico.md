@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Recetas. Índice alfabético
+redirect_from: /2016/02/recetas-indice-alfabetico
 description: Índice alfabético de recetas
 date: '2016-02-16T10:52:00.002-08:00'
 ---

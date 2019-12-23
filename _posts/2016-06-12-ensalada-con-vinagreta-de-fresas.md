@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ENSALADA CON VINAGRETA DE FRESAS
+redirect_from: /2016/06/ensalada-con-vinagreta-de-fresas
 date: '2016-06-12T01:52:00.000-07:00'
 author: bernardo
 tags:

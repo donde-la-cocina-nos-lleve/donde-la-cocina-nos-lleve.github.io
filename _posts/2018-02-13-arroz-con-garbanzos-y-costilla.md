@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ARROZ CON GARBANZOS Y COSTILLA
+redirect_from: /2018/02/arroz-con-garbanzos-y-costilla
 date: '2018-02-13T06:46:00.002-08:00'
 author: bernardo
 tags:

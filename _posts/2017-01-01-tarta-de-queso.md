@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TARTA DE QUESO
+redirect_from: /2017/01/tarta-de-queso
 date: '2017-01-01T07:17:00.000-08:00'
 author: bernardo
 tags:

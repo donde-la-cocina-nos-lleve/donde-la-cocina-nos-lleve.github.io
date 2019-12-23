@@ -1,6 +1,7 @@
 ---
 layout: post
 title: POLLO TIKKA MASALA
+redirect_from: /2017/03/pollo-tikka-masala
 date: '2017-03-12T08:16:00.000-07:00'
 author: bernardo
 tags:

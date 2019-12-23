@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SOLOMILLO RELLENO A LA PROVENZAL
+redirect_from: /2016/04/solomillo-relleno-la-provenzal
 date: '2016-04-09T03:08:00.000-07:00'
 author: bernardo
 tags:
