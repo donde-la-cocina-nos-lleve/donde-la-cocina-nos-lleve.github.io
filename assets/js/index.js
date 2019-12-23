@@ -38,6 +38,8 @@ if ('serviceWorker' in navigator) {
                             },
                             body: JSON.stringify(subscription),
                         });
+                    }).catch(e => {
+                        console.log(e)
                     })
                 }
             }
