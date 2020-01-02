@@ -3,36 +3,35 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post" id="post{{ forloop.index }}">
-  
-  <img class="post_image" alt="{{ post.title }}" src="{% include get_image_post_src.html scope=post%}"/>
-    <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
+    {% for post in paginator.posts %}
+    <article class="post" id="post{{ forloop.index }}">
 
-  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
-	{% include fecha.html scope=page%}
-  </time>
+        <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">
+            <img class="post_image" alt="{{ post.title }}" src="{% include get_image_post_src.html scope=post%}"/>
+            <h2 class="post-title">
+                {{ post.title }}
+            </h2>
+        </a>
 
-  
-  {% include tags.html scope=post %}
-  </article>
-  {% endfor %}
+        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
+            {% include fecha.html scope=post%}
+        </time>
+
+        {% include tags.html scope=post %}
+    </article>
+    {% endfor %}
 </div>
 
 <div class="pagination">
-  {% if paginator.previous_page %}
+    {% if paginator.previous_page %}
     <a class="pagination-item newer" title="Página anterior" href="{{ paginator.previous_page_path | prepend: site.baseurl }}"></a>
-  {% else %}
+    {% else %}
     <span class="pagination-item newer"><span class="sr-only">Página anterior</span></span>
-  {% endif %}
-  <span class="numero_paginas">{{paginator.page}}/{{paginator.total_pages}}</span>
-  {% if paginator.next_page %}
-  <a class="pagination-item older" title="Página siguiente" href="{{ paginator.next_page_path | prepend: site.baseurl }}"></a>
-  {% else %}
+    {% endif %}
+    <span class="numero_paginas">{{paginator.page}}/{{paginator.total_pages}}</span>
+    {% if paginator.next_page %}
+    <a class="pagination-item older" title="Página siguiente" href="{{ paginator.next_page_path | prepend: site.baseurl }}"></a>
+    {% else %}
     <span class="pagination-item older"><span class="sr-only">Página siguiente</span></span>
-  {% endif %}
+    {% endif %}
 </div>

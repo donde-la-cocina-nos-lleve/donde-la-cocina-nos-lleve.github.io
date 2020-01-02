@@ -7,15 +7,16 @@ layout: default
 <div class="posts">
   {% for post in site.categories[page.tag] %}
   <article class="post" id="post{{ forloop.index }}">
-  <img class="post_image" alt="{{ post.title }}" src="{% include get_image_post_src.html scope=post%}"/>
-    <h3 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
+
+      <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">
+          <img class="post_image" alt="{{ post.title }}" src="{% include get_image_post_src.html scope=post%}"/>
+          <h3 class="post-title">
+              {{ post.title }}
+          </h3>
       </a>
-    </h3>
 
   <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
-	{% include fecha.html scope=page%}
+	{% include fecha.html scope=post %}
   </time>
 
   {% include tags.html scope=post %}
