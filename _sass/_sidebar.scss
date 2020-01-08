@@ -20,60 +20,6 @@
             padding: 0 50px;
         }
     }
-
-    .destacados {
-
-        ul {
-            padding: 0;
-
-            .enlace_foto {
-                height: 150px;
-                width:100%;
-                margin-bottom: 30px;
-                text-align: center;
-                background-position: center;
-                background-size: cover;
-                list-style: none;
-                position: relative;
-
-                .texto {
-                    font-size: 40px;
-                    text-transform: uppercase;
-
-                    a {
-                        position: absolute;
-                        top: 50%;
-                        -webkit-transform: translateY(-50%);
-                        -ms-transform: translateY(-50%);
-                        transform: translateY(-50%);
-                        width: 100%;
-                        display: block;
-                    }
-                }
-
-                .imagen {
-                    height: 100%;
-                } 
-
-                img {
-                    width: 100%;
-                    object-fit: cover;
-                    height: 100%;
-                }
-
-                a {
-                    text-decoration: none !important;
-                    color: $white !important;
-                }
-            }
-
-            .enlace_foto:hover {
-                h4 {
-                    color: #827653;
-                }
-            }
-        } 
-    } 
 } 
 
 .search-container {
@@ -158,117 +104,20 @@
         border: 2px solid;
     }
 
-    .todos {
-        background-color: #ddd; 
 
-
-        &.active {
-            background-color: $white;
-            border-color: $todos !important;
-            color: $todos;
-        }
-    }
-
-    .pintxos {
-        background-color: $pintxos;
-
-        &.active {
-            background-color: $white;
-            border-color: $pintxos !important;
-            color: $pintxos;
-        }
-    }
-
-    .verduras {
-        background-color: $verduras;
-
-        &.active {
-            background-color: $white;
-            border-color: $verduras !important;
-            color: $verduras;
-        }
-    }
-
-    .cremas {
-        background-color: $cremas;
-
-        &.active {
-            background-color: $white;
-            border-color: $cremas !important;
-            color: $cremas;
-        }
-    }
-
-    .arroz {
-        background-color: $arroz;
-
-        &.active {
-            background-color: $white;
-            border-color: $arroz !important;
-            color: $arroz;
-        }
-    }
-
-    .legumbres {
-        background-color: $legumbres;
-
-        &.active {
-            background-color: $white;
-            border-color: $legumbres !important;
-            color: $legumbres;
-        }
-    }
-
-    .huevos {
-        background-color: $huevos;
-
-        &.active {
-            background-color: $white;
-            border-color: $huevos !important;
-            color: $huevos;
-        }
-    }
-
-    .carnes {
-        background-color: $carnes;
-
-        &.active {
-            background-color: $white;
-            border-color: $carnes !important;
-            color: $carnes;
-        }
-    }
-
-    .pescados {
-        background-color: $pescados;
-
-        &.active {
-            background-color: $white; 
-            border-color: $pescados !important;
-            color: $pescados;
-        }
-    }
-
-    .postres {
-        background-color: $postres;
-
-        &.active {
-            background-color: $white;
-            border-color: $postres !important;
-            color: $postres;
-        }
-    }
-
-    .pan {
-        background-color: $pan;
-
-        &.active {
-            background-color: $white;
-            border-color: $pan !important;
-            color: $pan;
+    @each $category, $color in $categories {
+        .#{$category} {
+            background-color: #{$color};
+            &.active {
+                background-color: $white;
+                border-color: #{$color}!important;
+                color: #{$color};
+            }
         }
     }
 }
+
+
 
 .results {
     padding: 20px;

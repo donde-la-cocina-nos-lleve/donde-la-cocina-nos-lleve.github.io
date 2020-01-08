@@ -96,7 +96,7 @@
             }
 
             .boton-cerrar {
-                right: 10px;
+                right: 20px;
             }
         }
 
@@ -110,7 +110,7 @@
             }
 
             .boton-cerrar {
-                left: 10px;
+                left: 20px;
             }
 
             .search-container {
@@ -170,27 +170,21 @@
             }
         }
 
-        .boton-configuracion {
+        .boton{
             position: absolute;
             top: 20px;
-            background-image: url(/assets/icons/svg/settings.svg);
             height: 24px;
             width: 24px;
+            background-color: transparent;
+            border:none;
+        }
+        .boton-configuracion {
             filter: invert(1);
+            background-image: url(/assets/icons/svg/settings.svg);
         }
 
         .boton-cerrar {
-            display: block;
-            position: absolute;
-            top: 10px;
             background-image: url(/assets/icons/svg/close.svg);
-            background-size: 100%;
-            background-repeat:no-repeat;
-            background-color: transparent;
-            padding:0;
-            border:none;
-            height:40px;
-            width:40px;
         }
     }
 
