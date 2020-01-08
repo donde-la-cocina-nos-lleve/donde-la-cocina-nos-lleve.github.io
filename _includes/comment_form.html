@@ -1,5 +1,5 @@
 <h3>Deja tu comentario</h3>
-<form id="comment-form" method="post" action="https://dev.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+<form id="comment-form" method="post" action="https://staticman-dlcnl.herokuapp.com/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments">
     <div class="grupo_form">
         <label for="comment-form-name">Nombre
             <input type="text" id="comment-form-name" name="fields[name]"  />
@@ -27,7 +27,7 @@
 form.addEventListener("submit", function(evt){
     evt.preventDefault();
 
-    var url="https://dev.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments"
+    var url="https://staticman-dlcnl.herokuapp.com/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments"
     console.log("enviando comentario a "+url);
     //convertir form a urlsearchparams para mandar como application/x-www-form-urlencoded
     const data = new URLSearchParams();
