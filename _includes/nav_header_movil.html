@@ -31,10 +31,10 @@
         <input type="checkbox" value="selected" id="toggle_filtros_mobile" class="toggle-input">
         <label for="toggle_filtros_mobile" class="toggle-label">Mostrar filtros</label> 
         <div id="div-filtros-mobile" class="toggle-content filtros">
-        <button class="btn active todos" data-filter='all'>Todos</button>
+            <button class="btn active todos" data-filter='all'>Todos</button>
             {%- for category in site.category -%}
-          <button class="btn {{ category.slug }}" data-filter='{{ category.slug }}'>{{ category.title }}</button>
-        {%- endfor -%}
+                <button class="btn {{ category.slug }}" data-filter='{{ category.slug }}'>{{ category.title }}</button>
+            {%- endfor -%}
         </div>
     </div>
     <div class="results">
