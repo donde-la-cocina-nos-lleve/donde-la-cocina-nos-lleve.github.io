@@ -7,16 +7,9 @@
           
         <div id="div_filtros" class="toggle-content filtros">
             <button class="btn active todos" data-filter='all'>Todos</button>
-            <button class="btn pintxos" data-filter='pintxos-y-aperitivos'>Pintxos y aperitivos</button>
-            <button class="btn verduras" data-filter='verduras-y-hortalizas'>Verduras y hortalizas</button>
-            <button class="btn cremas" data-filter='cremas-y-sopas'>Cremas y sopas</button>
-            <button class="btn arroz" data-filter='arroz-y-pasta'>Arroz y pasta</button>
-            <button class="btn legumbres" data-filter='legumbres'>Legumbres</button>
-            <button class="btn huevos" data-filter='huevos'>Huevos</button>
-            <button class="btn carnes" data-filter='carnes'>Carnes</button>
-            <button class="btn pescados" data-filter='pescados'>Pescados</button>
-            <button class="btn postres" data-filter='postres'>Postres</button>
-            <button class="btn pan" data-filter='pan-y-masas'>Pan y masas</button>
+            {%- for category in site.category -%}
+                <button class="btn {{ category.slug }}" data-filter='{{ category.slug }}'>{{ category.title }}</button>
+            {%- endfor -%}
         </div>
     </div>
     <div role="complementary" class="results">

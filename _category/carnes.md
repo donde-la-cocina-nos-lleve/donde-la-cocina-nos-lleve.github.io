@@ -1,7 +1,5 @@
 ---
-tag: "Carnes"
 slug: "carnes"
-permalink: "/categoria/carnes"
-title: "Categoría - Carnes"
+title: "Carnes"
 layout: category
 ---

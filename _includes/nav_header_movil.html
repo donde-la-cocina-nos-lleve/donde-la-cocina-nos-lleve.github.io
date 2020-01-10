@@ -6,38 +6,36 @@
     <a href="/configuracion" class="boton boton-configuracion"><span class="sr-only">Configuración</span></a>
     <button id="boton-cerrar-menu" class="boton boton-cerrar"><span class="sr-only">Ocultar</span></button>
     <ul>
-        <li><a href="/categoria/pintxos">Pintxos y aperitivos</a></li>
-        <li><a href="/categoria/verduras">Verduras y hortalizas</a></li>
-        <li><a href="/categoria/cremas">Cremas y sopas</a></li>
-        <li><a href="/categoria/arroz">Arroz y pasta</a></li>
-        <li><a href="/categoria/legumbres">Legumbres</a></li>
-        <li><a href="/categoria/huevos">Huevos</a></li>
-        <li><a href="/categoria/carnes">Carnes</a></li>
-        <li><a href="/categoria/pescados">Pescados</a></li>
-        <li><a href="/categoria/postres">Postres</a></li>
-        <li><a href="/categoria/pan">Pan y masas</a></li>
+        {% assign tags = site.tag | sort: 'order' %}
+        {%- for tag in tags -%}
+            <li>
+                <a href="{{ tag.url }}">{{ tag.title }}</a>
+            {%- if tag.slug=="recetas" -%}   
+                <ul>
+                    {%- for category in site.category -%}
+                        <li class="dropdown-menu-item"><a href="{{ category.url }}">{{ category.title }}</a></li>
+                    {%- endfor -%}
+                </ul>
+            </li>
+            {%- else -%}   
+            </li>
+            {%- endif -%}
+        {%- endfor -%}
     </ul>
 </div>
 <div id="sidebar_buscar" class="buscar side">
     <button id="boton-cerrar-buscar" class="boton boton-cerrar"><span class="sr-only">Ocultar</span></button>
     <div id="search-container-mobile" class="search-container">
-      <label class="label_buscar" for="search-input-mobile">Buscar</label>
-      <input type="text" id="search-input-mobile">
-      <input type="checkbox" value="selected" id="toggle_filtros_mobile" class="toggle-input">
-      <label for="toggle_filtros_mobile" class="toggle-label">Mostrar filtros</label> 
-      <div id="div-filtros-mobile" class="toggle-content filtros">
-          <button class="btn active todos" data-filter='all'>Todos</button>
-          <button class="btn pintxos" data-filter='pintxos-y-aperitivos'>Pintxos y aperitivos</button>
-          <button class="btn verduras" data-filter='verduras-y-hortalizas'>Verduras y hortalizas</button>
-          <button class="btn cremas" data-filter='cremas-y-sopas'>Cremas y sopas</button>
-          <button class="btn arroz" data-filter='arroz-y-pasta'>Arroz y pasta</button>
-          <button class="btn legumbres" data-filter='legumbres'>Legumbres</button>
-          <button class="btn huevos" data-filter='huevos'>Huevos</button>
-          <button class="btn carnes" data-filter='carnes'>Carnes</button>
-          <button class="btn pescados" data-filter='pescados'>Pescados</button>
-          <button class="btn postres" data-filter='postres'>Postres</button>
-          <button class="btn pan" data-filter='pan-y-masas'>Pan y masas</button>
-      </div>
+        <label class="label_buscar" for="search-input-mobile">Buscar</label>
+        <input type="text" id="search-input-mobile">
+        <input type="checkbox" value="selected" id="toggle_filtros_mobile" class="toggle-input">
+        <label for="toggle_filtros_mobile" class="toggle-label">Mostrar filtros</label> 
+        <div id="div-filtros-mobile" class="toggle-content filtros">
+        <button class="btn active todos" data-filter='all'>Todos</button>
+            {%- for category in site.category -%}
+          <button class="btn {{ category.slug }}" data-filter='{{ category.slug }}'>{{ category.title }}</button>
+        {%- endfor -%}
+        </div>
     </div>
     <div class="results">
       <ul id="results-container-mobile"></ul>

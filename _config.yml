@@ -1,5 +1,3 @@
-# Permalinks
-permalink: /:title/
 # Setup
 title: "Donde la cocina nos lleve"
 description: "Blog de cocina de Bernardo I. García de la Torre y Teresa Hidalgo"
@@ -7,6 +5,7 @@ lang: "es_ES"
 paginate: 12
 paginate_path: "/pagina:num/"
 baseurl: ""
+permalink: /:title/
 
 url: "https://www.dondelacocinanoslleve.com"
 # Assets
@@ -19,8 +18,12 @@ sass:
 
 # Categories:
 collections:
+  tag:
+    output: true
+    permalink: /tag/:title
   category:
     output: true
+    permalink: /categoria/:title
 
 # Staticman:
 repository: "donde-la-cocina-nos-lleve/donde-la-cocina-nos-lleve.github.io"

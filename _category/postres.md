@@ -1,7 +1,5 @@
 ---
-tag: "Postres"
 slug: "postres"
-permalink: "/categoria/postres"
-title: "Categoría - Postres"
+title: "Postres"
 layout: category
 ---

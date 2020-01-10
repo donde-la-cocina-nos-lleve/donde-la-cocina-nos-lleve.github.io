@@ -7,7 +7,11 @@ layout: null
       "title"    : "{{ post.title | escape }}",
                     {%- capture categorias -%}
                     {%- for categoria in post.categories -%}
-                    {{ categoria | downcase | replace: ' ', '-' | append: ' ' }}
+                    {%- for site_categoria in site.category -%}
+                    {%- if categoria==site_categoria.title -%}
+                    {{ site_categoria.slug | append: ' ' }}
+                    {%- endif -%}
+                    {%- endfor -%}
                     {%- endfor -%}
                     {%- endcapture -%}
       "category" : "{{ categorias }}",

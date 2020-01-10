@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<h2>{{ page.tag }}</h2>
+<h2>{{ page.title }}</h2>
 
 <div class="posts">
-  {% for post in site.categories[page.tag] %}
+  {% for post in site.categories[page.title] %}
   <article class="post" id="post{{ forloop.index }}">
 
       <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">

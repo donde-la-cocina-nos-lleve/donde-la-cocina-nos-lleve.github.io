@@ -80,7 +80,6 @@
             ul {
                 display: flex;
                 flex-direction: column;
-                justify-content: space-around;
                 height: 100%;
                 list-style: none;
 
@@ -91,6 +90,9 @@
 
                     a {
                         color: $white;
+                    }
+                    ul{
+                        margin-bottom: 0;
                     }
                 }
             }

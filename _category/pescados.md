@@ -1,7 +1,5 @@
 ---
-tag: "Pescados"
 slug: "pescados"
-permalink: "/categoria/pescados"
-title: "Categoría - Pescados"
+title: "Pescados"
 layout: category
 ---

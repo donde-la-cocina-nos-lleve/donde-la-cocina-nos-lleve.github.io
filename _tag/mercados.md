@@ -1,7 +1,9 @@
 ---
 layout: tagpage
-title: "Tag - Mercados"
+title: "Mercados"
 header: "Mercados"
 tag: mercados
+slug: mercados
+order: 4
 --- 
  
