@@ -1,0 +1,19 @@
+<div class="posts">
+    {% for post in posts %}
+    <article class="post" id="post{{ forloop.index }}">
+        <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">
+            <img class="post_image" alt="{{ post.title }}" src="{% include get_image_post_src.html scope=post%}"/>
+            <h3 class="post-title">
+                {{ post.title }}
+            </h3>
+        </a>
+
+        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
+            {% include fecha.html scope=post %}
+        </time>
+
+        {% include tags.html scope=post %}
+    </article>
+    {% endfor %}
+</div>
+

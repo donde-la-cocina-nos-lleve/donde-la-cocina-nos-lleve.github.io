@@ -4,31 +4,6 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-<div class="posts">
-  {% for post in site.tags[page.tag] %}
-  <article class="post" id="post{{ forloop.index }}">
-
-      <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">
-          <img class="post_image" alt="{{ post.title }}" src="{% include get_image_post_src.html scope=post%}"/>
-          <h3 class="post-title">
-              {{ post.title }}
-          </h3>
-      </a>
-
-  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
-	{% include fecha.html scope=post %}
-  </time>
-
-  {% include tags.html scope=post %}
-  
-  </article>
-    <script>
-        var post_article=document.getElementById("post{{ forloop.index }}");
-        for (i = 0; i < post_article.getElementsByTagName("img").length; i++) {
-            if(post_article.getElementsByTagName("img")[i].getAttribute("alt")==null){
-                post_article.getElementsByTagName("img")[i].setAttribute("alt","{{ post.title }}"+i);
-            }
-        }
-    </script>
-  {% endfor %}
-</div>
+aaa
+{% assign posts = site.tags[page.tag] %}
+{% include posts.html %}
