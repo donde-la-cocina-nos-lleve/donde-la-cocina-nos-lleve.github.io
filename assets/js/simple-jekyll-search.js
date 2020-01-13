@@ -50,22 +50,11 @@ function load (location) {
 
 //filter and get matches
 function filterCategory(data, categories){
-    var matches = []
-    for (let i = 0; i < data.length; i++) {
-        let match = findCategoryMatch(data[i], categories);
-        if (match){
-            matches.push(match);
-        }
-    }
-    return matches;
+    return data.filter(item => findCategoryMatch(item, categories));
 }
 
 function findCategoryMatch(object, categories){
-    for(let category of categories){
-        if(object["category"].indexOf(category)>=0){
-            return object;
-        }
-    }
+    return categories.some(category => object["category"].includes(category)); 
 }
 
 function search(crit, category_filter, limit) {
