@@ -1,22 +1,10 @@
-//Header que incluye la navegación superior en móvil, con ambos sidebars
-
 .header {
     @include for-phone-only {
-        display: flex;
-        align-items: center;
         padding: 16px 0;
 
-        > img {
-            height: 40px;
-            margin-left:40px;
-            margin-bottom: 0;
-            filter: drop-shadow(3px 4px 4px rgba(0,0,0,0.5));
-        }
-
         h1 {
-            margin: 0;
-            width: 75%;
             margin: auto;
+            width: 75%;
 
             a {
                 color: inherit;
@@ -79,8 +67,8 @@
 
             ul {
                 display: flex;
-                flex-direction: column;
                 height: 100%;
+                flex-direction: column;
                 list-style: none;
 
                 li {
@@ -126,9 +114,6 @@
                 }
 
                 input {
-                    padding: 5px 10px;
-                    font-size: 15px;
-                    height: 40px;
                     border: none;
                 }
 
@@ -136,52 +121,15 @@
                     border: 2px solid var(--color-corporativo-bg);
                 } 
             }
-
-            .results {
-                padding: 20px;
-
-                ul {
-                    padding-left: 0;
-                    list-style: none;
-
-                    li {
-                        padding: 5px;
-                        margin-bottom: 10px;
-                    }
-
-                    a {
-                        display: table;
-                        color:var(--font-color);
-
-                        img {
-                            display: table-cell;
-                            float: left;
-                            margin: 0;
-                            max-width: 100px;
-                            width: 100px;
-                        }
-
-                        p {
-                            display: table-cell;
-                            margin: 0;
-                            padding-left: 10px;
-                            vertical-align: middle;
-                        }
-                    }
-                }
-            }
         }
 
         .boton{
             position: absolute;
             top: 20px;
-            height: 24px;
-            width: 24px;
-            background-color: transparent;
-            border:none;
-        }
-        .boton-configuracion {
             filter: invert(1);
+        }
+
+        .boton-configuracion {
             background-image: url(/assets/icons/svg/settings.svg);
         }
 
@@ -198,22 +146,16 @@
         display: block;
         text-align: center;
 
-
         h1 {
             margin: 0;
 
-            a {
-                color: inherit;
-
-                > img {
-                    margin:auto;
-                    height: 150px;
-                }
+            img {
+                margin:auto;
+                height: 150px;
             }
         }
 
         .nav {
-            display: flex;
             background-color: #252422;
             position: relative;
             top: 2px;
@@ -221,68 +163,51 @@
             min-width: 525px;
             margin: auto;
 
-            .header-nav {
-                display: inline-block;
+            ul {
+                display: flex;
+                list-style: none;
+                padding: 0;
+                margin: 0;
 
-                ul {
-                    display: flex;
-                    list-style: none;
+                li {
+                    cursor: pointer;
+                    padding:10px; 
+
+                    &:hover {
+                        background-color: var(--color-corporativo);
+                    }
+
+                    a {
+                        color:var(--heading-color);
+
+                        &:hover {
+                            text-decoration: none;
+                        }
+                    }
+                }
+
+                .dropdown {
+                    position: relative;
+
+                    &:hover > .dropdown-menu {
+                        display: block;
+                    }
+                }
+
+                .dropdown-menu {
+                    display: none;
+                    position: absolute;
+                    top: 44px;
+                    left: 0;
+                    width: max-content;
+                    background-color: #252422;
                     padding: 0;
-                    margin: 0;
 
-                    li {
-                        cursor: pointer;
-                        padding:10px; 
-
-                        &:hover {
-                            background-color: var(--color-corporativo);
-                        }
-
-                        a {
-                            color:var(--heading-color);
-
-                            &:hover {
-                                text-decoration: none;
-                            }
-                        }
+                    a {
+                        color: $white;
                     }
-
-                    .dropdown {
-                        position: relative;
-
-                        &:hover > .dropdown-menu {
-                            display: block;
-                            opacity: 1;
-                        }
-                    }
-
-                    .dropdown-menu {
-                        display: inline-block;
-                        position: absolute;
-                        top: 44px;
-                        left: 0;
-                        display: none;
-                        opacity: 0;
-                        background-color: #252422;
-                        transition: opacity 0.5s ease; 
-                        width: max-content;
-                        padding: 0;
-
-                        a {
-                            color: $white;
-                        }
-                    }
-
-                    .dropdown-menu-item {
-                        cursor: pointer;
-                        padding: 1em;
-
-                        &:hover {
-                            background-color: var(--color-corporativo);
-                        }
-                    }
-                }     
-            }
+                }
+            }     
         }
     }
 

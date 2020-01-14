@@ -7,7 +7,7 @@
             {%- endif -%}
         {%- endfor -%}
         {%- endcapture -%}
-        <a href="{{ category_link }}"><code>{{ category }}</code></a>
+        <a href="{{ category_link }}"><span>{{ category }}</span></a>
     {% endfor %}
     {% for tag in include.scope.tags %}
         {%- capture tag_link -%}
@@ -17,6 +17,6 @@
             {%- endif -%}
         {%- endfor -%}
         {%- endcapture -%}
-        <a href="{{ tag_link }}"><code>{{ tag }}</code></a>
+        <a href="{{ tag_link }}"><span>{{ tag }}</span></a>
     {% endfor %}
 </span>

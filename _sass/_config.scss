@@ -21,7 +21,7 @@
     }
 }
 
-.notification-title {
+.notification-title, .night-title {
     width: max-content;
 
     &::before {
@@ -32,23 +32,14 @@
         padding-left: 15px;
         width: 24px;
         height: 24px;
-        background-image: url(/assets/icons/svg/bell.svg);
     }
 }
 
-.night-title {
-    width: max-content;
-
-    &::before {
-        content: " ";
-        float: right;
-        background-repeat: no-repeat;
-        background-position: center;
-        padding-left: 15px;
-        width: 24px;
-        height: 24px;
-        background-image: url(/assets/icons/svg/moon.svg);
-    }
+.notification-title::before {
+    background-image: url(/assets/icons/svg/bell.svg);
+}
+.night-title::before {
+    background-image: url(/assets/icons/svg/moon.svg);
 }
 
 .switch-wrapper {

@@ -17,53 +17,51 @@
         <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
     </div>
     <button type="submit" id="comment-form-submit">Enviar</button>
-    <div class="aviso hidden">
+    <div class="aviso hide">
         <p class="aviso_texto"></p>
     </div>
 </form>
 <script> 
+    const form=document.getElementById("comment-form");
+    form.addEventListener("submit", function(evt){
+        evt.preventDefault();
 
-    var form=document.getElementById("comment-form");
-form.addEventListener("submit", function(evt){
-    evt.preventDefault();
-
-    var url="https://staticman-dlcnl.herokuapp.com/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments"
-    console.log("enviando comentario a "+url);
-    //convertir form a urlsearchparams para mandar como application/x-www-form-urlencoded
-    const data = new URLSearchParams();
-    for (const pair of new FormData(form)) {
-        data.append(pair[0], pair[1]);
-    }
-    fetch(url,{
-        method:'POST',
-        body:data
-    })
-        .then(response => response.json())
-        .then(function(json) { 
-            console.log(json["success"]);
-            if(json["success"]){
-                showAlert(
-                    "Gracias por su comentario. Pendiente de moderación"
-                );
-            }
-            else{
+        const url="https://staticman-dlcnl.herokuapp.com/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments"
+        //convertir form a urlsearchparams para mandar como application/x-www-form-urlencoded
+        const data = new URLSearchParams();
+        for (const pair of new FormData(form)) {
+            data.append(pair[0], pair[1]);
+        }
+        fetch(url,{
+            method:'POST',
+            body:data
+        })
+            .then(response => response.json())
+            .then(json => { 
+                console.log(json["success"]);
+                if(json["success"]){
+                    showAlert(
+                        "Gracias por su comentario. Pendiente de moderación"
+                    );
+                }
+                else{
+                    showAlert(
+                        "Ha habido un error al enviar su comentario, vuelva a intentarlo."
+                    );
+                }
+            })
+            .catch(function(error) { 
+                console.log(error);
                 showAlert(
                     "Ha habido un error al enviar su comentario, vuelva a intentarlo."
-                );
-            }
-        })
-        .catch(function(error) { 
-            console.log(error);
-            showAlert(
-                "Ha habido un error al enviar su comentario, vuelva a intentarlo."
-            );});
-    return false;
-});
+                );});
+        return false;
+    });
 
-function showAlert(message) {
-    var aviso_div=document.querySelectorAll("#comment-form .aviso")[0];
-    var aviso_p=document.querySelectorAll("#comment-form .aviso_texto")[0];
-    aviso_div.classList.remove("hidden");
-    aviso_p.innerHTML=message;
-}
+    function showAlert(message) {
+        let aviso_div=document.querySelectorAll("#comment-form .aviso")[0];
+        let aviso_p=document.querySelectorAll("#comment-form .aviso_texto")[0];
+        aviso_div.classList.remove("hide");
+        aviso_p.innerHTML=message;
+    }
 </script>

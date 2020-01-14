@@ -1,5 +1,3 @@
-//Sidebar desktop + busqueda 
-
 .sidebar {
     @include for-phone-only {
         display: none;    
@@ -38,10 +36,6 @@
         border: 1px solid var(--color-corporativo);
     }
 
-    .filtros {
-        display: none;
-    }
-
     .toggle-label {
         font-size: 16px;
         padding: 10px 0;
@@ -56,20 +50,16 @@
             content: " ";
             float: right;
             border: 8px solid transparent;
-            border-top-color: #000;
+            border-top-color: inherit;
             margin-top: 8px;
-
-            @include for-phone-only {
-                border-top-color: $white;
-            }
         }
     }
 
     .toggle-input {
         display: none;
 
-        &:not(checked) ~ .toggle-content {
-            display: none; //Hide content
+        &:not(checked) ~ .filtros {
+            display: none; 
         }
     }
 
@@ -81,12 +71,8 @@
         ~ .toggle-label {
             &::after {
                 border: 8px solid transparent;
-                border-bottom-color: #000;
+                border-bottom-color: inherit;
                 margin-top: 0;
-
-                @include for-phone-only {
-                    border-bottom-color: $white;
-                }
             }
         }
     }
@@ -116,8 +102,6 @@
         }
     }
 }
-
-
 
 .results {
     padding: 20px;

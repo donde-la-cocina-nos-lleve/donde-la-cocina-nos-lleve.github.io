@@ -8,7 +8,7 @@
                 {%- if tag.slug=="recetas" -%}   
                     <ul class="dropdown-menu">
                         {%- for category in site.category -%}
-                            <li class="dropdown-menu-item"><a href="{{ category.url }}">{{ category.title }}</a></li>
+                            <li><a href="{{ category.url }}">{{ category.title }}</a></li>
                         {%- endfor -%}
                     </ul>
                 </li>
