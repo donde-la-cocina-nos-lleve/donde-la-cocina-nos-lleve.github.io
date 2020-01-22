@@ -14,7 +14,7 @@ layout: default
     {%- endif -%}
 
     {{ content }}
-
+    <img alt="{{ page.title }}" src="{% include get_image_post_src.html scope=page%}"/>
     {% include tags.html scope=page %}
 
 </article>
