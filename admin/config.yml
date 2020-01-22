@@ -23,9 +23,10 @@ collections:
           name: 'categories',
           widget: 'relation',
           collection: 'categories',
-          displayFields: [tag],
-          searchFields: [tag],
-          valueField: 'tag',
+          displayFields: [title],
+          searchFields: [title],
+          valueField: 'title',
+          multiple: true
         }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
   - name: 'categories'
