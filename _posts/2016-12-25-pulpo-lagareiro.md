@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/12/pulpo-lagareiro.
 
   
 Hay vida más allá del “pulpo a la gallega” o “pulpo a feira”. En nuestra vecina Portugal lo demuestran cocinando este cefalópodo de mil y una formas. Y una de las más tradicionales es el “polvo à Lagareiro”, término que hace referencia a los trabajadores que pisaban las aceitunas para extraer el aceite o las uvas para elaborar vino.  
-INGREDIENTES:
+### INGREDIENTES:
 * 1 pulpo mediano (1,5 kg.)
 * 1 cabeza de ajos
 * 5 patatas medianas

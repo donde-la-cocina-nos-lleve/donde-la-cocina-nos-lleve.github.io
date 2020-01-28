@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/06/tortillita-de-ca
   
 Sin duda, uno de los aperitivos más sabrosos de la cocina andaluza y, más en concreto, de la gaditana. En nuestra zona resulta casi imposible conseguir camarones así que haremos nuestra versión con un producto que se asemeja bastante en sabor, la gamba arrocera. Otra opción sería sustituir el camarón por quisquilla.  
   
-INGREDIENTES:
+### INGREDIENTES:
 * 200 gr. de gamba arrocera (o camarón, o quisquilla)
 * 1 Cebolleta
 * 200 gr. de harina de garbanzo

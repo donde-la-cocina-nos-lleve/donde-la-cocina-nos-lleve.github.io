@@ -17,7 +17,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/galette-de-vieir
 
   
 La _galette_ es una preparación tradicional de la gastronomía bretona que admite multitud de guarniciones, generalmente saladas. Como no disponemos de la _billig_ (plancha o placa tradicional para su elaboración utilizada en Bretaña) utilizaremos una sartén amplia para cocinar la masa. En este caso vamos a elaborar la masa básica de _galette_, exclusivamente con harina de trigo sarraceno.  
-INGREDIENTES:
+### INGREDIENTES:
 * Harina de trigo sarraceno (trigo negro).
 * Sal (30 gr. por kg. de harina)
 * Agua (2 litros por kg. de harina)  

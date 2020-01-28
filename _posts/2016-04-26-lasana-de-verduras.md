@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/lasana-de-verdur
 ![](/assets/images/lasana-de-verduras/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * Láminas de lasaña verde
 * 200 gr de espinacas
 * 200 gr de champiñones

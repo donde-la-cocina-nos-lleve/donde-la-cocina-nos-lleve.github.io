@@ -17,7 +17,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/04/cous-cous-de-cor
 ![](/assets/images/cous-cous-de-cordero-y-verduras/0.jpg)
 
   
-INGREDIENTES:  
+### INGREDIENTES:  
 
 * 150 gr de cous-cous
 * 400 gr de cordero

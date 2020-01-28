@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/10/costillas-asadas
   
 Habitualmente asamos directamente las costillas, bien sea en la barbacoa o en el horno. Pero con una cocción y un adobo previos conseguimos una carne más tierna, más sabrosa y con menos cantidad de grasa. Y reducimos el tiempo de asado.  
 
-INGREDIENTES:
+### INGREDIENTES:
 * 1 Kg. de costillas de cerdo
 * 1 cebolla
 * 1 zanahoria

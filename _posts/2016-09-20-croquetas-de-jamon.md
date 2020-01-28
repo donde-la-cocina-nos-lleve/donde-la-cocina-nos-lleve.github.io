@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/09/croquetas-de-jam
 ![](/assets/images/croquetas-de-jamon/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 120 gr de jamón
 * 60 gr de mantequilla
 * 60 gr de harina

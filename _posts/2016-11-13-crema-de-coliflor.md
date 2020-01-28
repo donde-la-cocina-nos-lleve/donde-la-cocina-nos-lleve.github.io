@@ -17,7 +17,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/11/crema-de-coliflo
 
   
 De septiembre a enero es la época en la que esta verdura se encuentra en su mejor momento. Tiene poco aporte calórico y una cantidad importante de fibra, vitaminas y minerales, aparte de sus propiedades diuréticas. Además de sus preparaciones habituales (con bechamel, con refrito…) esta sencilla receta en forma de crema nos permite utilizarla como un plato en sí misma o como guarnición de carnes y pescados.  
-INGREDIENTES:
+### INGREDIENTES:
 * 1 coliflor mediana
 * 100 ml. de leche
 * Aceite de oliva virgen

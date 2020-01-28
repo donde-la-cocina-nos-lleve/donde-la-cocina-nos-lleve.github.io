@@ -17,7 +17,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/09/merluza-frita-re
 
   
 Plato sencillo que solo requiere una buena materia prima. Afortunadamente hoy en día es fácil encontrarla a buen precio.  
-INGREDIENTES:
+### INGREDIENTES:
 * Lomos de merluza
 * 1 diente de ajo
 * Sal

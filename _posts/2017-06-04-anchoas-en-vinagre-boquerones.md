@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/06/anchoas-en-vinag
   
 La anchoa (o bocarte) permite múltiples preparaciones, un bocado exquisito en todos los casos: rebozadas, a la cazuela con ajo y guindilla, en vinagre… Hoy vamos a realizar esta última preparación, que habitualmente conocemos como boquerón, y que es uno de los aperitivos más apreciados en nuestra zona.  
 
-INGREDIENTES:
+### INGREDIENTES:
 * Anchoas
 * Agua
 * Vinagre de jerez

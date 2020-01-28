@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/03/pollo-tikka-masa
 
   
 
-INGREDIENTES
+### INGREDIENTES
 
 * Para macerar el pollo:
   * 500 gr de pollo (puede ser pechuga o cualquier otra parte siempre que esté limpia de piel y huesos)

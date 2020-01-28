@@ -15,7 +15,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/10/macarrones-guisa
 ![](/assets/images/macarrones-guisados-con-tomate/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 400 gr de macarrones 
 * 300 gr de chorizo
 * 1 cebolla

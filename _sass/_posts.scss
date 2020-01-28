@@ -19,7 +19,7 @@
 }
 
 .post {
-    font-family: "Franklin";
+    font-family: "Nimbus", sans-serif;
     margin-bottom: 20px;
 
     .post_image {
@@ -27,6 +27,7 @@
         height: 200px;
         object-fit: cover;
     }
+    
 
     img {
         @include for-phone-only {
@@ -43,7 +44,7 @@
     .post-title {
         display: inline;
         font-size: 20px;
-        font-family: "Times New Roman", Times, serif;
+        font-family: "Reglo", sans-serif;
     }
 
     .share-button {
@@ -243,6 +244,67 @@
                         color: inherit;
                     }
                 }
+            }
+        }
+    }
+}
+.mobile {
+    .header{
+        display:none;
+    }
+    .post {
+        p:first-of-type img{
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+            max-width: 100vw;
+            height: 270px;
+            filter: brightness(50%);
+            object-fit: cover;
+        }
+
+        h3:first-of-type + p, ul + p{
+            font-size: 20px;
+            border-bottom: 4px solid var(--font-color);
+        }
+        ul{
+            padding: 0;
+
+            li:nth-child(even) {
+                background-color: var(--bg-color);
+            }
+            li:nth-child(odd) {
+                background-color: var(--form-bg-color);
+            }
+        }
+        li{
+            list-style-type: none;
+            border-bottom: 1px solid black;
+        }
+
+        .post-info{
+            height:260px;
+            position: relative;
+            padding-top: 70px;
+                
+            .icon-home {
+                background-image: url(/assets/icons/svg/home.svg);
+                left: 0px;
+            }
+            .share-button {
+                right: 10px;
+            }
+            .share-button, .icon-home {
+                top: 0px;
+                position: absolute;
+                filter: invert(1);
+            }
+            .post-date {
+                color:white;
+            }
+            > * {
+                color:white;
             }
         }
     }

@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/08/calamares-la-rom
   
 Aperitivo o tapa típica de nuestra gastronomía estos calamares rebozados, que en algunas zonas se sirve incluso en bocadillo. Tengo el recuerdo imborrable de los “bocadillos de calamares” que se servían en la Plaza Mayor de Madrid y que eran una cita ineludible en cada visita a esa ciudad. Como siempre en estos casos, mil y una recetas diferentes, sobre todo en lo que se refiere a la masa para el rebozado. Os presentamos la nuestra.  
 
-INGREDIENTES:
+### INGREDIENTES:
 * 1 calamar grande
 * 1 huevoHarina de trigo
 * Cerveza

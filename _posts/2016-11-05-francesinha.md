@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/11/francesinha.html
 
   
 En una reciente visita a Oporto tuvimos la oportunidad de degustar este contundente sándwich. Parece ser una versión sui géneris de otro sándwich también famoso, el francés Croque-Monsieur.  
-INGREDIENTES (para cada sándwich)
+### INGREDIENTES (para cada sándwich)
 * 2 rebanadas de pan de molde con miga densa
 * 1 salchicha blanca de carnicería
 * 1 trozo de chistorra

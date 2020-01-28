@@ -15,7 +15,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/ensaladilla-rusa
 ![](/assets/images/ensaladilla-rusa/0.jpg)
 
   
-INGREDIENTES 
+### INGREDIENTES 
 * 4 patatas nuevas
 * 2 zanahorias
 * 3 huevos

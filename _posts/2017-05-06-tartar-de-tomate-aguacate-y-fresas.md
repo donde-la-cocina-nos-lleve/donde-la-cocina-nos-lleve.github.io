@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/05/tartar-de-tomate
 ![](/assets/images/tartar-de-tomate-aguacate-y-fresas/0.jpg)
 
   
-INGREDIENTES (por persona):
+### INGREDIENTES (por persona):
 * 1 tomate
 * 1/2 aguacate maduro
 * 5-7 fresas

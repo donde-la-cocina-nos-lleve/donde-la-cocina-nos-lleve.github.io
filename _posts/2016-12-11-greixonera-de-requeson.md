@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/12/greixonera-de-re
 
   
 Este postre tradicional de la gastronomía mallorquina (“greixonera de brossat”), muy rico en calcio, se elabora normalmente en una “greixonera” (cazuela de barro), de ahí su nombre. Pero también puede usarse un molde bajo para tartas.  
-INGREDIENTES:
+### INGREDIENTES:
 * 1 kg. de requesón
 * 200 gr. de azúcar
 * 200 ml. de leche

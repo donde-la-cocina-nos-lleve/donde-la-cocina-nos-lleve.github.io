@@ -13,7 +13,7 @@ thumbnail: /assets/images/bonito-encebollado/0.jpg
 
 ![](/assets/images/bonito-encebollado/0.jpg)
 
-INGREDIENTES:
+### INGREDIENTES:
 * 750  gr de bonito
 * 3 cebollas
 * 2 dientes de ajo

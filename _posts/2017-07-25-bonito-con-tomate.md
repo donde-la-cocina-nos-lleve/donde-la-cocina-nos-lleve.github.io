@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/07/bonito-con-tomat
 ![](/assets/images/bonito-con-tomate/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 750 gr de bonito (un par de buenas rodajas)
 * Salsa de tomate casera
 * 2 cebollas (opcional)

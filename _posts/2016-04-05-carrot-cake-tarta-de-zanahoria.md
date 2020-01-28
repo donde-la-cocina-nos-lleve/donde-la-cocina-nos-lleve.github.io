@@ -17,7 +17,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/carrot-cake-tart
 
   
 Me inicié en esto de la cocina con la repostería y ahora inauguro la sección de postres con la última preparación dulce que he incluido en mi recetario y que ha resultado todo un éxito. Lo mejor de todo ha sido compartirla en buena compañía tras una agradable ruta por la comarca burgalesa de Páramos.  
-INGREDIENTES:  
+### INGREDIENTES:  
 
 PARA EL BIZCOCHO
 

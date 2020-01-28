@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/albondigas-de-ca
 ![](/assets/images/albondigas-de-carne/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 750 gr de carne de ternera
 * 250 gr de carne de cerdo
 * 100 gr de miga de pan

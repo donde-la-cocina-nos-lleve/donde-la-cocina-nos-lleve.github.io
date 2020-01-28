@@ -22,7 +22,7 @@ Aunque es este un plato típico de Ávila, tierra de mis ancestros, debo decir q
 
   
 
-INGREDIENTES
+### INGREDIENTES
 
 * 4 patatas grandes
 * 200 gr de panceta

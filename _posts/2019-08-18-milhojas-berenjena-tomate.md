@@ -13,7 +13,7 @@ thumbnail: /assets/images/milhojas-berenjena-tomate/0.jpg
 
 ![](/assets/images/milhojas-berenjena-tomate/0.jpg)
 
-INGREDIENTES:
+### INGREDIENTES:
 * 1 berenjena
 * 2 tomates maduros
 * Queso de rulo de cabra

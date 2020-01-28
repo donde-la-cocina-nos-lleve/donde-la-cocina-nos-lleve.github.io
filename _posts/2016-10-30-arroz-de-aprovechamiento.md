@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/10/arroz-de-aprovec
 ![](/assets/images/arroz-de-aprovechamiento/0.jpg)
 
   
-INGREDIENTES  
+### INGREDIENTES  
 
 * 100 gr de arroz por persona
 * Verduras, las que tengamos en el momento

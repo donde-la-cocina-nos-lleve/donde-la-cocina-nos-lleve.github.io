@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/flanes-de-brecol
 ![](/assets/images/flanes-de-brecol/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 1 brócoli pequeño
 * 1 puerro (la parte blanca)
 * 3 huevos

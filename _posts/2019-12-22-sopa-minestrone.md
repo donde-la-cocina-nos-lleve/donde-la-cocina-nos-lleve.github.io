@@ -12,7 +12,7 @@ thumbnail: /assets/images/sopa-minestrone/00.JPG
 
 ![](/assets/images/sopa-minestrone/01.JPG)
 
-INGREDIENTES:
+### INGREDIENTES:
 
 * 100 gr de alubias blancas
 * 2 zanahorias

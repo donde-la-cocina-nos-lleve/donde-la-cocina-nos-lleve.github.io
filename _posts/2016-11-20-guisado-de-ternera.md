@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/11/guisado-de-terne
 ![](/assets/images/guisado-de-ternera/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 750 gr de carne de ternera
 * 1 cebolla
 * 2 dientes de ajo

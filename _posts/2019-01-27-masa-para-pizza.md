@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2019/01/masa-para-pizza.
 ![](/assets/images/masa-para-pizza/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 500 gr de harina de fuerza (o 400 gr de harina de fuerza y 100 gr de harina integral)
 * 2 cucharadas de sémola (opcional)
 * 1 cucharadita de sal

@@ -19,7 +19,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/07/tomates-verdes-f
   
 La entrañable película de este mismo nombre (_Jon Avnet_, 1991) despertó mi interés por esta receta tradicional del sur de los Estados Unidos. En aquellas tierras se utiliza la variedad de tomate “miltomate”, de origen mexicano, que no es fácil encontrar en nuestro entorno. Así que utilizaremos un tomate de nuestra huerta, verde pero a punto de madurar.  
 
-INGREDIENTES:
+### INGREDIENTES:
 * Tomates verdes
 * Huevos
 * Harina de trigo

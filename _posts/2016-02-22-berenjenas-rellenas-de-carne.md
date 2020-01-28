@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/02/berenjenas-relle
 ![](/assets/images/berenjenas-rellenas-de-carne/0.jpg)
 
   
-INGREDIENTES:  
+### INGREDIENTES:  
 
 * 2 berenjenas
 * ½ cebolla

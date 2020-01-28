@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/06/ensalada-con-vin
 ![](/assets/images/ensalada-con-vinagreta-de-fresas/0.jpg)
 
   
-INGREDIENTES 
+### INGREDIENTES 
 * Lechugas variadas
 * Langostinos
 * Setas

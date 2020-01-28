@@ -25,7 +25,7 @@ Aprovechando nuestra visita a FJZ, donde nos aprovisionamos de especias:
 
   
 vamos a elaborar uno de los bocados más solicitados en los bares y comidas campestres, esta brocheta de carne condimentada con una mezcla de especias (ras al hanout).  
-INGREDIENTES:
+### INGREDIENTES:
 * Carne de cordero o pollo (en esta ocasión hemos usado dos pechugas de pollo)
 * Especias para adobo de pinchos morunos (25 gr por cada kg de carne)
 * Especias picantes para acompañar

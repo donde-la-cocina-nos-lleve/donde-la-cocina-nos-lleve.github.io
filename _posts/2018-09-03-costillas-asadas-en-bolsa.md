@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/09/costillas-asadas
 ![](/assets/images/costillas-asadas-en-bolsa/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 1 costillar de cerdo
 * 2 dientes de ajo
 * 2 cucharadas de salsa Perrins

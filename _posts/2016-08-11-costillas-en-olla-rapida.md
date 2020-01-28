@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/08/costillas-en-oll
 ![](/assets/images/costillas-en-olla-rapida/0.jpg)
 
   
-INGREDIENTES 
+### INGREDIENTES 
 * 1 kg de costillas de cerdo troceadas
 * Sal, pimienta 
 * Aceite de oliva virgen  

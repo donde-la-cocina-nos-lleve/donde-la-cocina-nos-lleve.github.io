@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/07/paletillas-de-co
   
 El horno, que tan abandonado tenemos a veces, sustituye en este caso a otras preparaciones más habituales de la carne de conejo como los guisos, los arroces  o las frituras. Y las paletillas en concreto resultan muy adecuadas para esta sencilla receta.  
   
-INGREDIENTES:
+### INGREDIENTES:
 * Paletillas de conejo
 * Aceite de oliva virgen
 * Sal

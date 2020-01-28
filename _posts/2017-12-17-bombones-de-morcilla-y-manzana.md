@@ -17,7 +17,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/12/bombones-de-morc
 
   
 Un original aperitivo con dos productos que combinan muy bien, la morcilla y la manzana.  
-INGREDIENTES:
+### INGREDIENTES:
 * 1 morcilla1 manzana reineta
 * 50 gr. de granos de maíz
 * 50 gr. de copos de patata

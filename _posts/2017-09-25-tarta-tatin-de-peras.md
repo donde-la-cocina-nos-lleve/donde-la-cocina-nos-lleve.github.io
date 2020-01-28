@@ -19,7 +19,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/09/tarta-tatin-de-p
   
 Aprovechando la buena cosecha de pera conferencia que hemos tenido, me he decidido a hacer esta tarta que hacía tiempo tenía pendiente. Ha sido un éxito. Receta con nombre propio, muy sencilla y con un excelente resultado, tanto en sabor como en presentación. Oportuno “error” de las hermanas Tatin.  
 
-INGREDIENTES:
+### INGREDIENTES:
 
 * 1 plancha de masa quebrada o de hojaldre
 * 100 gr de azúcar

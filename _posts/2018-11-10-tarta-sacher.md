@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/11/tarta-sacher.htm
 ![](/assets/images/tarta-sacher/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * Para el bizcocho:
   * 100 gr de harina de repostería
   * 1 sobre de levadura (impulsor)

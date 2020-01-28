@@ -15,7 +15,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/10/pimientos-rellen
 ![](/assets/images/pimientos-rellenos-de-bonito-frios/0.jpg)
 
   
-INGREDIENTES:  
+### INGREDIENTES:  
 
 * 1 lata de pimientos de piquillo para rellenar (unos 16 pimientos)
 * 200 gr de bonito en aceite de oliva 

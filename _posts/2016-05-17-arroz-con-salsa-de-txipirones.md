@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/arroz-con-salsa-
 ![](/assets/images/arroz-con-salsa-de-txipirones/0.jpg)
 
   
-INGREDIENTES (para dos raciones)
+### INGREDIENTES (para dos raciones)
 * 200 gr de arroz bomba
 * 8 gambones o langostinos
 * 300 gr de berberechos

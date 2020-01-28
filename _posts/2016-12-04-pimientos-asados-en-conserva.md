@@ -17,7 +17,7 @@ thumbnail: /assets/images/pimientos-asados-en-conserva/0.jpg
   
 
 La historia de las conservas se remonta a los primeros enclaves primitivos en los que la desecación al sol, al viento y al fuego fueron las primeras formas de conservación que se utilizaron. En casa podemos recurrir a este método sencillo para disfrutar de la propia comida a lo largo de todo el año. En este caso, pimientos asados.  
-INGREDIENTES:
+### INGREDIENTES:
 * 6 pimientos morrones grandes
 * Aceite de oliva
 * 3 Frascos de vidrio con tapa, de tamaño mediano  

@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/magret-de-pato-c
 ![](/assets/images/magret-de-pato-con-manzana/0.jpg)
 
   
-INGREDIENTES  
+### INGREDIENTES  
 
 * Magret de pato
 * 1 manzana reineta 

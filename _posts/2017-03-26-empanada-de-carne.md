@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/03/empanada-de-carn
 ![](/assets/images/empanada-de-carne/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * Para la masa:
   * 650 gr de harina 
   * 1 cucharadita de sal

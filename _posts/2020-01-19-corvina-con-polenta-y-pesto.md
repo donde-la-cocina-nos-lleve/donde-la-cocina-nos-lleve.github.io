@@ -11,7 +11,7 @@ thumbnail: /assets/images/corvina-con-polenta-y-pesto/00.JPG
 
 ![](/assets/images/corvina-con-polenta-y-pesto/01.JPG)
 
-INGREDIENTES:
+### INGREDIENTES:
 
 PARA LA POLENTA:
 * 100 gr de sémola de maíz

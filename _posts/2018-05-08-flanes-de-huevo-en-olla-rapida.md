@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/05/flanes-de-huevo-
   
 Pensando en ampliar las opciones de postre para que mi hijo pueda llevar a la empresa donde está haciendo las prácticas y como le gusta tanto el flan, se me ocurrió hacer estos flanes en tarritos, fácilmente transportables.  
 
-INGREDIENTES:
+### INGREDIENTES:
 * ½ l de leche
 * 4 huevos
 * 5 cucharadas de azúcar

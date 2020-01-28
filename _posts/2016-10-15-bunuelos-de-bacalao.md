@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/10/bunuelos-de-baca
   
 He tardado en animarme a hacer esta receta que hacía mi madre y a la que muchas veces pedí que me enseñara. Y lo hacía…pero cuando llegaba a esa medida de “harina la que admita”, yo ya no me sentía capaz de reproducir la receta. Ahora por fin me he decidido, y aunque en los ingredientes especifico una cantidad en gramos de harina, finalmente he comprobado  que la cantidad exacta es “harina la que admita”.  
 
-INGREDIENTES:
+### INGREDIENTES:
 * 200 gr de bacalao desalado
 * 1 huevo
 * 110 gr de harina

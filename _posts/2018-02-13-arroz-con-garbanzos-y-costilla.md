@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/02/arroz-con-garban
 ![](/assets/images/arroz-con-garbanzos-y-costilla/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 350 gr de arroz bomba o similar
 * 250 gr de garbanzos cocidos
 * 500 gr de costillas de cerdo en trozos

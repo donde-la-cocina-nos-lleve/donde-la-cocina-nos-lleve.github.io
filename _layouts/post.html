@@ -3,18 +3,23 @@ layout: default
 ---
 
 <article class="post">
-    <h2 class="post-title">{{ page.title }}</h2>
-    <button class="share-button svg" id="share-button"></button>
-    <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
-        {% include fecha.html scope=page%}
-    </time>
+    <div class="post-info">
+        <h2 class="post-title">{{ page.title }}</h2>
+        <button class="share-button svg" id="share-button"></button>
+        <a href="/" class="icon-home svg"><span class="sr-only">Home</span></a>
+        <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
+            {% include fecha.html scope=page%}
+        </time>
 
-    {%- if page.description -%}
-    <p>{{ page.description }}</p>
-    {%- endif -%}
+        {%- if page.description -%}
+        <p>{{ page.description }}</p>
+        {%- endif -%}
+    </div>
 
     {{ content }}
+
     <img alt="{{ page.title }}" src="{% include get_image_post_src.html scope=page%}"/>
+
     {% include tags.html scope=page %}
 
 </article>
@@ -46,6 +51,11 @@ layout: default
     if(!navigator.share){
         document.getElementById('share-button').classList+=" hide"; 
     }
+    else{
+        document.body.classList.add("mobile");
+    }
+    
+    
 
     var post_article=document.getElementsByTagName("article")[0];
     for (i = 0; i < post_article.getElementsByTagName("img").length; i++) {

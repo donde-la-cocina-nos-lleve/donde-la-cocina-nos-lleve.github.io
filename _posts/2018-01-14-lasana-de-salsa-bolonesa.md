@@ -15,7 +15,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/01/lasana-de-salsa-
 ![](/assets/images/lasana-de-salsa-bolonesa/0.jpg)
 
   
-INGREDIENTES:  
+### INGREDIENTES:  
 * 1 caja de láminas de lasaña
 * 500 gr de carne de vacuno picada
 * 1 cebolla
