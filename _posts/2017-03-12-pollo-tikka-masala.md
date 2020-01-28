@@ -20,30 +20,33 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/03/pollo-tikka-masa
 
 ### INGREDIENTES
 
-* Para macerar el pollo:
-  * 500 gr de pollo (puede ser pechuga o cualquier otra parte siempre que esté limpia de piel y huesos)
-  * 1 yogur natural
-  * El zumo de 1/2 limón
-  * ½ cucharadita de chile en polvo
-  * ½ cucharadita de comino molido
-  * 1 cucharadita de jengibre molido
-  * ½ cucharadita de canela
-  * 2 dientes de ajo machacados
-  * 2 cucharadas de aceite de girasol
-  * Sal
-* Para la salsa:
-  * ½ cebolla
-  * 2 dientes de ajo
-  * 200 gr de tomate triturado
-  * 1 cucharadita de jengibre molido
-  * ½ cucharadita de comino molido
-  * 2 cucharadas de pasta tikka masala
-  * 200 ml de nata o leche de coco
-  * 200 ml de agua
-  * Sal
-  * Azúcar
-  * Aceite de girasol
-  * Aceite de oliva
+PARA MACERAR EL POLLO
+
+* 500 gr de pollo (puede ser pechuga o cualquier otra parte siempre que esté limpia de piel y huesos)
+* 1 yogur natural
+* El zumo de 1/2 limón
+* ½ cucharadita de chile en polvo
+* ½ cucharadita de comino molido
+* 1 cucharadita de jengibre molido
+* ½ cucharadita de canela
+* 2 dientes de ajo machacados
+* 2 cucharadas de aceite de girasol
+* Sal
+  
+PARA LA SALSA
+
+* ½ cebolla
+* 2 dientes de ajo
+* 200 gr de tomate triturado
+* 1 cucharadita de jengibre molido
+* ½ cucharadita de comino molido
+* 2 cucharadas de pasta tikka masala
+* 200 ml de nata o leche de coco
+* 200 ml de agua
+* Sal
+* Azúcar
+* Aceite de girasol
+* Aceite de oliva
 
   
 

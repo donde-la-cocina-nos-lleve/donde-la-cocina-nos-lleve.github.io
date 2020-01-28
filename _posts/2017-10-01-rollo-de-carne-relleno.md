@@ -28,10 +28,11 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/10/rollo-de-carne-r
 * Pimienta
 * Sal
 * Aceite de oliva virgen extra  
-* PARA EL RELLENO:
-  * Espinacas
-  * Queso cheddar rallado
-  * Tomate seco en aceite.  
+
+PARA EL RELLENO:
+* Espinacas
+* Queso cheddar rallado
+* Tomate seco en aceite.  
 
 ![](/assets/images/rollo-de-carne-relleno/1.jpg)
 

@@ -26,14 +26,16 @@ Habitualmente asamos directamente las costillas, bien sea en la barbacoa o en el
 * Pimienta
 * 1 cucharada de aceite de oliva
 * Salsa de soja
-* Para la salsa:
-  * 3 cucharadas de aceite de oliva virgen extra
-  * 2 dientes de ajo
-  * Zumo de medio limón
-  * 1 cucharada de vinagre
-  * Perejil picado
-  * Sal
-  * Pimienta  
+
+PARA LA SALSA:
+
+* 3 cucharadas de aceite de oliva virgen extra
+* 2 dientes de ajo
+* Zumo de medio limón
+* 1 cucharada de vinagre
+* Perejil picado
+* Sal
+* Pimienta  
 
 ![](/assets/images/costillas-asadas-al-horno/1.jpg)
 

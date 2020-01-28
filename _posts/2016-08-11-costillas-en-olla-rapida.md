@@ -20,11 +20,12 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/08/costillas-en-oll
 * 1 kg de costillas de cerdo troceadas
 * Sal, pimienta 
 * Aceite de oliva virgen  
-* Para el adobo:
-  * 3 cucharadas de miel
-  * 1 cucharada de pimentón
-  * Una copa de vino blanco
-  * Tomillo, orégano o cualquier otra hierba que nos guste  
+
+PARA EL ADOBO:
+* 3 cucharadas de miel
+* 1 cucharada de pimentón
+* Una copa de vino blanco
+* Tomillo, orégano o cualquier otra hierba que nos guste  
 
 
 ### 1

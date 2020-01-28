@@ -17,23 +17,27 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/03/empanada-de-carn
 
   
 ### INGREDIENTES:
-* Para la masa:
-  * 650 gr de harina 
-  * 1 cucharadita de sal
-  * 200 ml de agua templada
-  * 150 ml del aceite con el que hemos hecho el sofrito del relleno
-  * 35 gr de levadura fresca 
-* Para el relleno:
-  * ½ kg de magro de cerdo
-  * 1 pimiento verde italiano
-  * 1pimiento rojo
-  * 2 cebollas
-  * 2 dientes de ajo
-  * ½ vaso de vino blanco
-  * Aceite de oliva
-  * Sal
-  * Pimentón
-  * 1 huevo  
+
+PARA LA MASA:
+
+* 650 gr de harina 
+* 1 cucharadita de sal
+* 200 ml de agua templada
+* 150 ml del aceite con el que hemos hecho el sofrito del relleno
+* 35 gr de levadura fresca 
+
+PARA EL RELLENO:
+
+* ½ kg de magro de cerdo
+* 1 pimiento verde italiano
+* 1pimiento rojo
+* 2 cebollas
+* 2 dientes de ajo
+* ½ vaso de vino blanco
+* Aceite de oliva
+* Sal
+* Pimentón
+* 1 huevo  
 
 ### 1
 
