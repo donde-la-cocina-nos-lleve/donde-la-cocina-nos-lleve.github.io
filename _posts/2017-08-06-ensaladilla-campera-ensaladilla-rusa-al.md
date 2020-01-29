@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/08/ensaladilla-camp
 ![](/assets/images/ensaladilla-campera-ensaladilla-rusa-al/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * ½ kg de patatas de tamaño similar
 * 2 huevos 
 * ½ cebolleta

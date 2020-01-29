@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/04/pollo-al-ajillo.
 ![](/assets/images/pollo-al-ajillo/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * Muslos de pollo troceados
 * Ajos
 * Aceite de oliva virgen 

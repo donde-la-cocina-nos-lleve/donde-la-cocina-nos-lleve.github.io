@@ -12,7 +12,7 @@ thumbnail: /assets/images/tronco-navidad/TRONCONAVIDAD.JPG
 
 ![](/assets/images/tronco-navidad/IMG_6875.JPG)
 
-INGREDIENTES:
+### INGREDIENTES:
 
 PARA EL BIZCOCHO:
 * 120 gr de harina

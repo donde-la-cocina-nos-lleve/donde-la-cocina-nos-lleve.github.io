@@ -5,7 +5,7 @@ redirect_from: /2016/02/mercado-de-la-ribera-bilbao
 date: '2016-02-19T08:58:00.001-08:00'
 author: bernardo
 tags:
-- mercados
+- visitas
 modified_time: '2016-02-22T03:38:17.123-08:00'
 thumbnail: /assets/images/mercado-de-la-ribera-bilbao/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-1201679190058193973

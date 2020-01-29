@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/12/gambas-al-ajillo
 ![](/assets/images/gambas-al-ajillo/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 400 gr de gambas peladas
 * 4-5 dientes de ajo1 guindilla de cayena
 * Aceite de oliva

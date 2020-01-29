@@ -19,7 +19,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/06/fideos-de-vendim
   
 El pueblo mallorquín de Binissalem da nombre a la Denominación de Origen vinícola de la zona, por lo que sus fiestas más renombradas son las dedicadas a la vendimia. Se celebran en el mes de septiembre y durante las mismas es una tradición degustar estos fideos hechos con cordero. Era la comida que antaño se daba a los vendimiadores.  
 
-INGREDIENTES:
+### INGREDIENTES:
 * 1 pierna de cordero
 * 2 tomates maduros
 * 300 gr. de cebollas

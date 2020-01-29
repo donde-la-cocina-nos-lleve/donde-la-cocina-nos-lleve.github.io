@@ -17,7 +17,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/06/pastel-de-carne-
 
   
 Comencé a hacer este pastel allá por finales de los ochenta. Supongo que vería la receta en alguna revista ya que todavía Internet no había entrado en mi vida. Ahora he podido saber que es una versión del típico pastel británico “shepherd´s pie” y también que está en el recetario de mucha gente. Aunque podéis encontrar infinidad de versiones en la red, quiero compartir la mía con vosotros.  
-INGREDIENTES 
+### INGREDIENTES 
 * ½ kg. de carne picada (ternera y cerdo)
 * ½ kg. de patatas
 * 1 cebolla

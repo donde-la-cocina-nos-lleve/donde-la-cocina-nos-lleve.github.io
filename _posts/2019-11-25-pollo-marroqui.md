@@ -11,7 +11,7 @@ thumbnail: /assets/images/pollo-marroqui/00.JPG
 ---
 ![](/assets/images/pollo-marroqui/01.JPG)
 
-INGREDIENTES:
+### INGREDIENTES:
 * 10 jamoncitos de pollo
 * 2 cebollas
 * 2 dientes de ajo

@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/vainas-judias-ve
 ![](/assets/images/vainas-judias-verdes-al-estilo-de-mi/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * Vainas
 * Zanahorias
 * Patatas

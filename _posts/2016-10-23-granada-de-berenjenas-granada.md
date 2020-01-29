@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/10/granada-de-beren
   
 Esta receta tradicional de la cocina mallorquina es un plato de fiesta, de origen medieval y de reminiscencias árabes. Se puede servir caliente o a temperatura ambiente.  
 
-INGREDIENTES:
+### INGREDIENTES:
 * 600 gr. de berenjenas
 * 5 huevos
 * 1 cebolla grande

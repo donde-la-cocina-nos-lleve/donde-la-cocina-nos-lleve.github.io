@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/09/sepia-la-plancha
   
 Descubrí este bocado junto a mis compañeros de nuestra etapa universitaria en Valladolid, en un pequeño bar junto a la Plaza Mayor. Cuanto más grande es la sepia más sabroso es el bocado pero también más difícil de limpiar.    
 
-INGREDIENTES:
+### INGREDIENTES:
 * Sepia
 * Ajo
 * Aceite de oliva

@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/pollo-al-hinojo.
 ![](/assets/images/pollo-al-hinojo/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 1 pollo troceado o jamoncitos de pollo
 * 1 cebolla grande
 * 2 dientes de ajo

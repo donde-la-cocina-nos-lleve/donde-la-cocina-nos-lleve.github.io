@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/01/tarta-de-queso.h
 ![](/assets/images/tarta-de-queso/0.jpg)
 
   
-INGREDIENTES:(Para un molde de 26 cm)
+### INGREDIENTES:(Para un molde de 26 cm)
 * 250 gr de galletas
 * 125 gr de mantequilla
 * 400 gr de queso cremoso

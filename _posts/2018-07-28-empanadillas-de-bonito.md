@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/07/empanadillas-de-
 ![](/assets/images/empanadillas-de-bonito/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 275 gr de harina (puede ser normal o harina de repostería)
 * 25 gr de vino blanco
 * 60 gr de agua

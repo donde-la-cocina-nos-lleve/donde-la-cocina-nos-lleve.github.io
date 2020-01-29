@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/lacon-con-grelos
   
 Esta receta tradicional de la gastronomía gallega se puede disfrutar en los meses de invierno (Febrero fundamentalmente) coincidiendo con la época de recolección de los grelos (brotes verdes del nabo previo a la floración). El atractivo de este plato radica en la combinación entre el punto salado del lacón y el amargor del grelo.  
 
-INGREDIENTES:  
+### INGREDIENTES:  
 
 * Lacón salado
 * Grelos

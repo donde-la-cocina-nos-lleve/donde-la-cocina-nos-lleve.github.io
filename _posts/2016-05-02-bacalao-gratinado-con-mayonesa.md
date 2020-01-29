@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/05/bacalao-gratinad
 ![](/assets/images/bacalao-gratinado-con-mayonesa/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 2 lomos de bacalao Skrei
 * 250 gr de champiñones
 * ½ cebolla

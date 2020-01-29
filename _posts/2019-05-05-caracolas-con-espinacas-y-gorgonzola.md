@@ -17,7 +17,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2019/05/caracolas-con-es
 
 ![](/assets/images/caracolas-con-espinacas-y-gorgonzola/0.jpg)
 
-INGREDIENTES:
+### INGREDIENTES:
 
 * 400 gr de caracolas (pasta)
 * 350 gr de espinacas frescas

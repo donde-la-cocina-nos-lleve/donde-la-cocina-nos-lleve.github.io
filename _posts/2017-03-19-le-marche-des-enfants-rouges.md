@@ -5,7 +5,7 @@ redirect_from: /2017/03/le-marche-des-enfants-rouges
 date: '2017-03-19T03:43:00.001-07:00'
 author: bernardo
 tags:
-- mercados
+- visitas
 modified_time: '2017-03-19T04:18:33.123-07:00'
 thumbnail: /assets/images/le-marche-des-enfants-rouges/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5113370346961639215.post-3789521345642370028

@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/07/bizcocho-de-yogu
   
 Dulce, sencillo y rápido. Por eso es un clásico.  
 
-INGREDIENTES 
+### INGREDIENTES 
 * 1 yogur natural (utilizamos el envase como medidor para el resto de ingredientes)
 * 1 medida de aceite de girasol o de oliva suave
 * 2 medidas de azúcar

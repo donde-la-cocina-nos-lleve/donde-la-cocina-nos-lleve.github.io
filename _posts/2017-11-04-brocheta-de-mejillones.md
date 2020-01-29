@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/11/brocheta-de-meji
   
 Aperitivo rápido y sencillo con pocos ingredientes para un capricho o una visita inesperada.  
 
-INGREDIENTES:
+### INGREDIENTES:
 * Mejillones en escabeche 
 * Huevo
 * Pan rallado

@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/04/sandwich-habaner
 ![](/assets/images/sandwich-habanero/0.jpg)
 
   
-INGREDIENTES (para cada sándwich):  
+### INGREDIENTES (para cada sándwich):  
 
 * 3 rebanadas de pan de molde
 * 2 lonchas de bacón

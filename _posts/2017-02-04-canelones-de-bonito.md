@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/02/canelones-de-bon
 ![](/assets/images/canelones-de-bonito/0.jpg)
 
   
-INGREDIENTES:  
+### INGREDIENTES:  
 
 * 1 paquete de canelones
 * 250 gr de bonito en aceite escurrido

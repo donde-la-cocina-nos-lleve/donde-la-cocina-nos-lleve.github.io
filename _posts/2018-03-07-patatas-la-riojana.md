@@ -17,7 +17,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/03/patatas-la-rioja
 
   
 Esta receta reconfortante en invierno, tradicional y humilde y que a casi todo el mundo gusta, no debe faltar en ningún recetario.  
-INGREDIENTES:
+### INGREDIENTES:
 * 1 kg de patatas
 * 250 gr de chorizo dulce o picante
 * ½ cebolla

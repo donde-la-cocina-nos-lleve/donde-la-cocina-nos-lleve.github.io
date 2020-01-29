@@ -17,7 +17,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/01/calamares-en-su-
 
   
 Nos sorprendemos ante platos de aspecto “extraño” cuando visitamos otras tierras con culturas gastronómicas diferentes, pero he visto expresiones de auténtica extrañeza de quienes nos visitan y ven por primera vez este “plato negro”. Durante años me he decantado por los txipirones, pero para muchos comensales me parecen más apropiados los calamares: menos trabajo para limpiarlos y bocado más suculento.  
-INGREDIENTES (para 8-10 personas):
+### INGREDIENTES (para 8-10 personas):
 * 1,5 kg. de calamares (dos calamares grandes)
 * 4 cebollas rojas
 * 1 pimiento verde

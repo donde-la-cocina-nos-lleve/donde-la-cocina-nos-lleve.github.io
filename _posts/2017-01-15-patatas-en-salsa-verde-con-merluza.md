@@ -15,7 +15,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/01/patatas-en-salsa
 
 ![](/assets/images/patatas-en-salsa-verde-con-merluza/0.jpg)
 
-INGREDIENTES:
+### INGREDIENTES:
 * 4 patatas medianas
 * 2 lomos de merluza
 * 1 zanahoria

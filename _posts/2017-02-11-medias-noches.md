@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/02/medias-noches.ht
 ![](/assets/images/medias-noches/0.jpg)
 
   
-INGREDIENTES:  
+### INGREDIENTES:  
 
 * 525 gr de harina de fuerza
 * 170 gr de leche

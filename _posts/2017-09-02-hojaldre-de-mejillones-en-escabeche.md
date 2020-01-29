@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/09/hojaldre-de-meji
 ![](/assets/images/hojaldre-de-mejillones-en-escabeche/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 
 * 1 cebolla mediana
 * 1 diente de ajo

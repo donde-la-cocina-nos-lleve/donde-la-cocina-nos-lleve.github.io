@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/03/albondigas-de-me
 ![](/assets/images/albondigas-de-merluza/0.jpg)
 
   
-INGREDIENTES:  
+### INGREDIENTES:  
 
 * ½ kg de merluza
 * 2 huevos

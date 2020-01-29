@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/08/chuletas-de-cerd
 ![](/assets/images/chuletas-de-cerdo-la-milanesa/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 4 chuletas de cerdo
 * Aceite de oliva virgen extra
 * Zumo de medio limónHierbas variadas (tomillo, orégano, perejil…)

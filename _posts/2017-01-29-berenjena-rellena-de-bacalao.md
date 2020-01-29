@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/01/berenjena-rellen
 ![](/assets/images/berenjena-rellena-de-bacalao/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 1 berenjena
 * 150 gr. de bacalao desalado desmigado
 * 1 diente de ajo

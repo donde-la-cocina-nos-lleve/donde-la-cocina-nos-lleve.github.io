@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/05/popietas-de-cerd
 ![](/assets/images/popietas-de-cerdo-rellenas-de-calamar/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 6 filetes de cerdo
 * 3-4 calamares 
 * 1 cebolla

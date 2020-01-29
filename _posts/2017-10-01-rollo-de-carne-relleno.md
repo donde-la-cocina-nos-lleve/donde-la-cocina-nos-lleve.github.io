@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/10/rollo-de-carne-r
 ![](/assets/images/rollo-de-carne-relleno/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 1 kg de carne picada
 * 200 gr de bacon en lonchas
 * 1 huevo
@@ -28,10 +28,11 @@ INGREDIENTES:
 * Pimienta
 * Sal
 * Aceite de oliva virgen extra  
-* PARA EL RELLENO:
-  * Espinacas
-  * Queso cheddar rallado
-  * Tomate seco en aceite.  
+
+PARA EL RELLENO:
+* Espinacas
+* Queso cheddar rallado
+* Tomate seco en aceite.  
 
 ![](/assets/images/rollo-de-carne-relleno/1.jpg)
 

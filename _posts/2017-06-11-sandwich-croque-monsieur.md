@@ -19,7 +19,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/06/sandwich-croque-
   
 Desde que vi la cara de satisfacción de mi hija comiendo un croque-monsieur en Dax pensé en hacer uno para ella. Aquí está. Y creo que lo ha disfrutado casi tanto como aquella vez.  
 
-INGREDIENTES (Para dos sándwiches):
+### INGREDIENTES (Para dos sándwiches):
 * 4 rebanadas de pan de molde firme
 * 200 gr de queso gruyère
 * 2 buenas lonchas de jamón cocido

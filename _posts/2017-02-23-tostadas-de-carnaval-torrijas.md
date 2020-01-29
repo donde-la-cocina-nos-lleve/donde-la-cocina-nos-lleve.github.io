@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/02/tostadas-de-carn
 ![](/assets/images/tostadas-de-carnaval-torrijas/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 1 l de leche entera
 * 1 barra de pan para tostadas
 * ½ rama de canela

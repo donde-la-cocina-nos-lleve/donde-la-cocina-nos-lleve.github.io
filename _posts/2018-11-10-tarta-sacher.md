@@ -18,21 +18,25 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/11/tarta-sacher.htm
 ![](/assets/images/tarta-sacher/0.jpg)
 
   
-INGREDIENTES:
-* Para el bizcocho:
-  * 100 gr de harina de repostería
-  * 1 sobre de levadura (impulsor)
-  * 110 gr de mantequilla
-  * 100 gr de azúcar glas
-  * 6 huevos
-  * 110 gr de almendras molidas
-  * 150 gr de chocolate negro
-  * 110 gr de azúcar 
-  * 1 tarro de mermelada de albaricoque (unos 300gr)  
-* Para el glaseado:
-  * 200 gr de chocolate de cobertura
-  * 200 gr de nata
-  * 50 gr de mantequilla  
+### INGREDIENTES:
+
+PARA EL BIZCOCHO:
+
+* 100 gr de harina de repostería
+* 1 sobre de levadura (impulsor)
+* 110 gr de mantequilla
+* 100 gr de azúcar glas
+* 6 huevos
+* 110 gr de almendras molidas
+* 150 gr de chocolate negro
+* 110 gr de azúcar 
+* 1 tarro de mermelada de albaricoque (unos 300gr)  
+
+PARA EL GLASEADO:
+
+* 200 gr de chocolate de cobertura
+* 200 gr de nata
+* 50 gr de mantequilla  
 
 ![](/assets/images/tarta-sacher/1.jpg)
 

@@ -21,7 +21,7 @@ Tras varias pruebas y experimentos hemos dado con un procedimiento sencillo y r√
 ![](/assets/images/queso-fresco-de-oveja/1.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 1 l. de leche fresca de oveja
 * Cuajo (coagulante) de leche
 * Sal  

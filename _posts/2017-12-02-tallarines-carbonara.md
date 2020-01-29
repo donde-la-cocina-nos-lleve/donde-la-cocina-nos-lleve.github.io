@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/12/tallarines-carbo
 ![](/assets/images/tallarines-carbonara/0.jpg)
 
   
-INGREDIENTES:  
+### INGREDIENTES:  
 Por cada persona  
 
 * 120 gr de pasta

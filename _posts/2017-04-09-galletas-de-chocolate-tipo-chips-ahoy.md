@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/04/galletas-de-choc
 ![](/assets/images/galletas-de-chocolate-tipo-chips-ahoy/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 350 gr de harina
 * 140 gr de azúcar blanquilla
 * 150 gr de azúcar moreno

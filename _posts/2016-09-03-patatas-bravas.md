@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2016/09/patatas-bravas.h
   
 Hartos de que nos sirvan patatas mal descongeladas y peor cocinadas, con cualquier salsa de poco pelo, vamos a reivindicar esta tapa o aperitivo tan tradicional a lo largo de nuestra geografía. Y para ello vamos a esmerarnos tanto en la preparación del producto base, la patata, como de sus dos salsas clásicas.  
 
-INGREDIENTES:
+### INGREDIENTES:
 * 4 patatas medianas
 * 1 diente de ajo
 * 2 chiles chipotles

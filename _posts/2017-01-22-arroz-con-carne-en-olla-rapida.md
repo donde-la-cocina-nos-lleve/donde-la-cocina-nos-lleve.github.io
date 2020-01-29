@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/01/arroz-con-carne-
 ![](/assets/images/arroz-con-carne-en-olla-rapida/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 400 gr de arroz bomba
 * 8 salchichas frescas
 * 200 gr de lomo adobado

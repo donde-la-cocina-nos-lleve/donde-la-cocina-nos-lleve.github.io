@@ -16,7 +16,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/08/marmitako.html
 ![](/assets/images/marmitako/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * 800 gr de bonito
 * 4 patatas grandes
 * 1 cebolla o cebolleta

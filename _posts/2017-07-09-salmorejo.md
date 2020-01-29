@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/07/salmorejo.html
   
 El salmorejo, de origen cordobés, ha ido desplazando poco a poco al popular gazpacho como la sopa fría del verano, al menos en nuestro caso. Ahora que los tomates empiezan a madurar en las huertas es el momento de preparar esta sencilla receta de la que os presentamos su formulación original.  
 
-INGREDIENTES:
+### INGREDIENTES:
 * 1 kg. de tomates maduros
 * 200 gr. de miga de pan blanco
 * 125 ml. de aceite de oliva virgen extra

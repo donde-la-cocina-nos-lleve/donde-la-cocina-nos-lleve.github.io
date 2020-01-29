@@ -18,7 +18,7 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2018/07/alitas-de-pollo-
 ![](/assets/images/alitas-de-pollo-asadas/0.jpg)
 
   
-INGREDIENTES:
+### INGREDIENTES:
 * Alitas de pollo
 * 1 copa de vino blanco
 * 2 cucharadas de miel
