@@ -39,7 +39,7 @@ Montamos la nata con el azúcar. Cuando esté firme añadimos el queso ablandado
 
 ### 4
 
-    Cuando ya esté cuajada, ponemos en un cazo la mermelada de arándanos con una cucharada de agua y tenemos un poco a fuego medio hasta que se vuelva más líquida. Dejamos enfriar un poco y echamos sobre la tarta. Metemos de nuevo al frigorífico hasta el momento de servir.  
+Cuando ya esté cuajada, ponemos en un cazo la mermelada de arándanos con una cucharada de agua y tenemos un poco a fuego medio hasta que se vuelva más líquida. Dejamos enfriar un poco y echamos sobre la tarta. Metemos de nuevo al frigorífico hasta el momento de servir.  
 
 ![](/assets/images/tarta-de-queso/1.jpg)
 
