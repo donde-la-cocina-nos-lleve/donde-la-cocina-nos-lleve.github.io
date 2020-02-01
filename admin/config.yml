@@ -28,6 +28,16 @@ collections:
           valueField: 'title',
           multiple: true
         }
+      - {
+          label: 'Tag',
+          name: 'tags',
+          widget: 'relation',
+          collection: 'tags',
+          displayFields: [title],
+          searchFields: [title],
+          valueField: 'tag',
+          multiple: true
+        }
       - { label: 'Contenido', name: 'body', widget: 'markdown' }
   - name: 'categories'
     label: 'Categoría'
@@ -39,3 +49,15 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'category' }
       - { label: 'Short Name', name: 'tag', widget: 'string' }
       - { label: 'Titulo', name: 'title', widget: 'string' }
+  - name: 'tags'
+    label: 'Tag'
+    folder: '_tag/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'tag' }
+      - { label: 'Short Name', name: 'tag', widget: 'string' }
+      - { label: 'Titulo', name: 'title', widget: 'string' }
+      - { label: 'Slug', name: 'slug', widget: 'string' }
+      - { label: 'Orden', name: 'order', widget: 'number' }

@@ -4,6 +4,9 @@ title: CONEJO EN SALMOREJO
 description: Uno de los platos más representativos de la cocina canaria.
 date: '2020-01-31T01:07:00.000-07:00'
 thumbnail: /assets/images/conejo-en-salmorejo/05.JPG
+tags:
+  - cocina viajera
+  - recetas
 categories:
   - Carnes
 ---
@@ -18,6 +21,7 @@ categories:
 * Dos cucharadas de pimentón dulce
 * Unas ramas de tomillo fresco
 * Óregano
+* Una guindilla cayena
 * 100 ml de vinagre
 * 250 ml de vino blanco
 * Dos hojas de laurel 
@@ -25,7 +29,7 @@ categories:
 
 ### 1
 
-Ponemos en un mortero los ajos pelados con un poco de sal y los machacamos. Añadimos el pimentón, el tomillo, el óregano y un poco de aceite y seguimos mezclando. Finalmente echamos el vinagre y el vino.
+Ponemos en un mortero los ajos pelados con un poco de sal y los machacamos. Añadimos el pimentón, el tomillo, el óregano, la guindilla y un poco de aceite y seguimos mezclando. Finalmente echamos el vinagre y el vino.
 
 
 ![](/assets/images/conejo-en-salmorejo/02.JPG)
