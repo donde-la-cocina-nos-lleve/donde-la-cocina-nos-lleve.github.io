@@ -1,13 +1,11 @@
 ---
 layout: post
 title: CONEJO EN SALMOREJO
-date: '2020-01-31T01:07:00.000-07:00'
 description: Uno de los platos más representativos de la cocina canaria.
-tags:
-- recetas
-- cocina viajera
-categories: ["Carnes"]
+date: '2020-01-31T01:07:00.000-07:00'
 thumbnail: /assets/images/conejo-en-salmorejo/05.JPG
+categories:
+  - Carnes
 ---
 
 ![](/assets/images/conejo-en-salmorejo/01.JPG)
