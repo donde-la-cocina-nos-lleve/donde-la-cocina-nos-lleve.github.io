@@ -1,11 +1,17 @@
 //Fuentes
 
 @font-face {
-  font-family: "Nimbus";
-  src: url("../assets/fonts/NimbusSanL-Reg.otf");
+    font-family: 'Nimbus';
+    src: url('../assets/fonts/nimbussanl-reg-webfont.woff2') format('woff2'),
+         url('../assets/fonts/nimbussanl-reg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-  font-family: "Reglo";
-  src: url("../assets/fonts/Reglo-Bold.otf");
+    font-family: "Reglo";
+    src: url('../assets/fonts/reglo-bold-webfont.woff2') format('woff2'),
+         url('../assets/fonts/reglo-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
