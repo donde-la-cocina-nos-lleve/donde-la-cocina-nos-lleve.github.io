@@ -8,7 +8,7 @@
   <link rel="manifest" href="/manifest.json">
   <link rel="apple-touch-icon" href="/assets/icons/icon-192x192.png">
 
-  <meta property="og:image" content="{% include get_image_post_src.html scope=page %}" />
+  <meta property="og:image" content="{{ site.baseurl }}{% include get_image_post_src.html scope=page %}" />
 
   <title>
     {%- if paginator.page -%}
