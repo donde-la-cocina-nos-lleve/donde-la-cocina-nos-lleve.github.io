@@ -1,3 +1,7 @@
+---
+---
+@import "mixins";
+
 .posts {
     @include for-tablet-portrait-up {
         display: grid;
@@ -28,6 +32,10 @@
         object-fit: cover;
     }
     
+    iframe{
+        width: 500px;
+        height: 282px;
+    }
 
     img {
         @include for-phone-only {

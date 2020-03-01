@@ -1,9 +1,17 @@
 var APP_PREFIX = 'DLCNL'
-var VERSION = 'version_05'
+var VERSION = 'version_06'
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [
     '/offline.html',
     '/styles.css',
+    '/config.css',
+    '/footer.css',
+    '/mobile_header.css',
+    '/mobile_post.css',
+    '/pagination.css',
+    '/post_detail.css',
+    '/posts.css',
+    '/sidebar.css',
     '/assets/icons/cabecera_larga.jpg',
     '/assets/icons/svg/menu.svg',
     '/assets/icons/svg/search.svg',
@@ -14,8 +22,6 @@ var URLS = [
     '/assets/icons/svg/rss.svg',
     '/assets/icons/svg/chevron-left-white.svg',
     '/assets/icons/svg/chevron-right-white.svg',
-    '/assets/fonts/reglo-bold-webfont.woff2',
-    '/assets/fonts/nimbussanl-reg-webfont.woff2',
     '/assets/js/index.js',
     '/assets/js/simple-jekyll-search.js',
     '/assets/js/navegacion.js',
@@ -72,21 +78,11 @@ self.addEventListener('push', ev => {
             url: data.url
         }     
     }
-    if(navigator.share) {
-        notification.actions=[{action: "share", title: "Compartir"}]     
-    }     
     self.registration.showNotification(data.title, notification);
 });
 
 self.addEventListener('notificationclick', function(event) {
     let url = event.notification.data.url;
-    if(event.action == "share"){
-        navigator.share({
-            title: event.notification.body,
-            url: url
-        }).then(() => console.log('Share complete'))
-          .error((error) => console.error('Could not share at this time', error))
-    }
     else{
         event.notification.close(); // Android needs explicit close.
         event.waitUntil(

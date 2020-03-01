@@ -1,20 +1,9 @@
 ---
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
 ---
 
 @import "variables";
-@import "fonts";
+@import "mixins";
 @import "base";
 @import "type";
 @import "layout";
-
 @import "header";
-@import "mobile_header";
-@import "posts";
-@import "pagination";
-@import "sidebar";
-@import "footer";
-@import "config";
-@import "post_detail";
-@import "mobile_post";

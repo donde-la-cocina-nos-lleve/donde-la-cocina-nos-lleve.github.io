@@ -1,3 +1,7 @@
+---
+---
+@import "mixins";
+
 .sidebar {
     @include for-phone-only {
         display: none;    

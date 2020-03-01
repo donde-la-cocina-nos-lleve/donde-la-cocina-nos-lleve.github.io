@@ -1,3 +1,7 @@
+---
+---
+@import "mixins";
+
 .header {
     @include for-phone-only {
         padding: 16px 0;
