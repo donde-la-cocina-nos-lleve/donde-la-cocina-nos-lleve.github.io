@@ -33,6 +33,10 @@
     }
     
     iframe{
+        @include for-phone-only {
+           width: 100%; 
+           height: 52vw;
+        }
         width: 500px;
         height: 282px;
     }

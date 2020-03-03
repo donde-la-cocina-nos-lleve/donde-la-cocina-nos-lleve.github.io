@@ -38,12 +38,13 @@
                 border-bottom: 1px solid black;
             }
 
+
             .post-info{
                 height:37vh;
                 min-height: 250px;
                 position: relative;
                 padding-top: 9vh;
-                    
+
                 .post-title{
                     font-size: 6vw;
                 }
@@ -51,15 +52,15 @@
                     background-image: url(/assets/icons/svg/home.svg);
                     left: 0px;
                 }
-				.share-button {
+                .share-button {
                     right: 10px;
-					float: right;
-					border: none;
-					height: 24px;
-					width: 24px;
-					background: transparent;
-					background-image: url(/assets/icons/svg/share.svg);
-				}
+                    float: right;
+                    border: none;
+                    height: 24px;
+                    width: 24px;
+                    background: transparent;
+                    background-image: url(/assets/icons/svg/share.svg);
+                }
 
                 .share-button, .icon-home {
                     top: 0px;
