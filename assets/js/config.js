@@ -1,3 +1,45 @@
+const publicVapidKey = 'BEgC9Ob9muH0OjvrkXxmQsy6lnNCdSnIEX2lWjbxnNRsh9JvhFHqm0Mo9cCHkBl5GrrnHIlpJCH0TWjIrzgRwnM';
+
+function urlBase64ToUint8Array(base64String) {
+    const padding = '='.repeat((4 - base64String.length % 4) % 4);
+    const base64 = (base64String + padding)
+        .replace(/-/g, '+')
+        .replace(/_/g, '/');
+
+    const rawData = window.atob(base64);
+    const outputArray = new Uint8Array(rawData.length);
+
+    for (let i = 0; i < rawData.length; ++i) {
+        outputArray[i] = rawData.charCodeAt(i);
+    }
+    return outputArray;
+}
+
+if ('serviceWorker' in navigator) {
+	swRegistration.pushManager.getSubscription()
+	.then(function(subscription) {
+		if (localStorage.getItem('notification') != "false") {
+			if(subscription === null){
+				swRegistration.pushManager.subscribe({
+					userVisibleOnly: true,
+					applicationServerKey: urlBase64ToUint8Array(publicVapidKey)
+				}).then(subscription => {
+					localStorage.setItem('notification', "true"); 
+					fetch('https://pushdlcnl.herokuapp.com/subscribe', {
+						method: 'POST',
+						headers: {
+							Accept: 'application/json',
+							'Content-Type': 'application/json',
+						},
+						body: JSON.stringify(subscription),
+					});
+				}).catch(e => {
+					console.log(e)
+				})
+			}
+		}
+    })
+}
 const toggleNotification= document.getElementById('notification');
 
 if (localStorage.getItem('notification') && localStorage.getItem('notification')=="true") {
@@ -24,7 +66,7 @@ function updateSubscription(subscribe) {
             userVisibleOnly: true,
             applicationServerKey: urlBase64ToUint8Array(publicVapidKey)
         }).then(subscription => {
-            fetch('https://boiling-gorge-78886.herokuapp.com/subscribe', {
+			fetch('https://pushdlcnl.herokuapp.com/subscribe', {
                 method: 'POST',
                 headers: {
                     Accept: 'application/json',
@@ -37,7 +79,7 @@ function updateSubscription(subscribe) {
     else{
         swRegistration.pushManager.getSubscription().then(subscription => {
             subscription.unsubscribe().then(res => {
-                fetch('https://boiling-gorge-78886.herokuapp.com/unsubscribe', {
+                fetch('https://pushdlcnl.herokuapp.com/unsubscribe', {
                     method: 'POST',
                     headers: {
                         Accept: 'application/json',
@@ -82,4 +124,8 @@ function switchTheme(e) {
 }
 
 toggleDark.addEventListener('change', switchTheme, false);
+
+if (localStorage.getItem('theme')) {
+    document.documentElement.setAttribute('data-theme',localStorage.getItem('theme'));
+}
 
