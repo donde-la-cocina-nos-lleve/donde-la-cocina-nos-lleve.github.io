@@ -19,7 +19,8 @@ blogger_orig_url: https://www.dondelacocinanoslleve.com/2017/08/chuletas-de-cerd
 ### INGREDIENTES:
 * 4 chuletas de cerdo
 * Aceite de oliva virgen extra
-* Zumo de medio limónHierbas variadas (tomillo, orégano, perejil…)
+* Zumo de medio limón
+* Hierbas variadas (tomillo, orégano, perejil…)
 * Sal
 * Pimienta
 * 1 huevo
