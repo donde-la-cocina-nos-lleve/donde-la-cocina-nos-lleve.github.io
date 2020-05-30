@@ -1,5 +1,5 @@
 var APP_PREFIX = 'DLCNL'
-var VERSION = 'version_06'
+var VERSION = 'version_07'
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [
     '/offline.html',
