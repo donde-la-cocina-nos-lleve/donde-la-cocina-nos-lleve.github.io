@@ -22,25 +22,25 @@ recipe_yield: "4"
     "name": "Partir el tomate",
     "text": "Partimos el tomate en “concasse”. Esta técnica culinaria consiste en pelar y quitar las semillas al tomate y posteriormente partirlo en pequeños cubitos.",
     "url": "https://dondelacocinanoslleve.com/tartar-de-tomate-aguacate-y-fresa#1",
-    "image": "https://dondelacocinanoslleve.com/assets/images/tartar-de-tomate-aguacate-y-fresa/1.jpg"
+    "image": "https://dondelacocinanoslleve.com/assets/images/tartar-de-tomate-aguacate-y-fresas/1.jpg"
   }, {
     "@type": "HowToStep",
     "name": "Picamos el aguacate y las fresas",
     "text": "Quitamos la piel al aguacate y lo picamos también en daditos. Lavamos y quitamos las hojas a las fresas y las cortamos en la misma forma.",
     "url": "https://dondelacocinanoslleve.com/tartar-de-tomate-aguacate-y-fresa#2",
-    "image": "https://dondelacocinanoslleve.com/assets/images/tartar-de-tomate-aguacate-y-fresa/2.jpg"
+    "image": "https://dondelacocinanoslleve.com/assets/images/tartar-de-tomate-aguacate-y-fresas/2.jpg"
   }, {
     "@type": "HowToStep",
     "name": "Emplatamos",
     "text": "Utilizando un aro de emplatar, disponemos en una primera capa el tomate, sobre él colocamos el aguacate y finalmente las fresas. Tras cada capa apretamos con cuidado ayudándonos de una cuchara para compactar.",
     "url": "https://dondelacocinanoslleve.com/tartar-de-tomate-aguacate-y-fresa#3",
-    "image": "https://dondelacocinanoslleve.com/assets/images/tartar-de-tomate-aguacate-y-fresa/3.jpg"
+    "image": "https://dondelacocinanoslleve.com/assets/images/tartar-de-tomate-aguacate-y-fresas/3.jpg"
   }, {
     "@type": "HowToStep",
     "name": "Preparamos el aliño y servimos",
     "text": "Hacemos una vinagreta con los ingredientes del aliño, batiendo con unas varillas hasta emulsionar. Desmoldamos y servimos, echando sobre el tartar un poco de vinagreta y albahaca picada. Acompañamos del resto de la salsa.",
     "url": "https://dondelacocinanoslleve.com/tartar-de-tomate-aguacate-y-fresa#4",
-    "image": "https://dondelacocinanoslleve.com/assets/images/tartar-de-tomate-aguacate-y-fresa/4.jpg"
+    "image": "https://dondelacocinanoslleve.com/assets/images/tartar-de-tomate-aguacate-y-fresas/4.jpg"
   }
 ]
 ---
