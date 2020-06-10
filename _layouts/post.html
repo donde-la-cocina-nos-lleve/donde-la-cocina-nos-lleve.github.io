@@ -5,6 +5,34 @@ layout: default
 <link rel="stylesheet" href="{{ site.baseurl }}/post_detail.css">
 <link rel="stylesheet" href="{{ site.baseurl }}/posts.css">
 <link rel="stylesheet" href="{{ site.baseurl }}/mobile_post.css" media="screen and (max-width: 599px)">
+{%- if page.keywords -%}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "url": "{{ site.url }}{{ page.url }}",
+  "name": {{ page.title | jsonify }},
+  "headline": {{ page.title | jsonify }},
+  "keywords": {{ page.keywords | join: ',' | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "datePublished": {{ page.date | jsonify }},
+  "dateModified": {{ page.modified_time | jsonify }},
+  "author": {
+      "@type": "Person",
+      "name": {{ page.author | jsonify }}
+  },
+  "cookTime":  {{ page.cook_time | jsonify }},
+  "prepTime": {{ page.prep_time | jsonify }},
+  "totalTime": {{ page.total_time | jsonify }},
+  "recipeCategory": {{ page.recipe_category | jsonify }},
+  "recipeIngredient": {{ page.ingredients | jsonify }},
+  "recipeInstructions": {{ page.recipe_instructions | jsonify }},
+  "recipeYield": {{ page.recipe_yield | jsonify }},
+  "image": "{{ site.url }}{{ page.thumbnail }}"
+  }
+}
+</script>
+{%- endif -%}
 <article class="post">
     <div class="post-info">
         <h2 class="post-title">{{ page.title }}</h2>
