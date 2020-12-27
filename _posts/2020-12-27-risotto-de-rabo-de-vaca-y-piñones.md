@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Risotto de rabo de vaca y piñones
+title: RISOTTO DE RABO DE VACA Y PIÑONES
 description: Una receta de aprovechamiento que se convierte en un plato de celebración
 date: 2020-12-27T17:05:58.710Z
-thumbnail: /assets/images/08.jpg
+thumbnail: /assets/images/07.jpg
 categories:
   - Arroz y pasta
   - Carnes
@@ -58,12 +58,3 @@ Cuando queden unos cinco minutos añadimos el rabo desmigado y los piñones.
 ### 6
 
 Una vez el arroz hecho, echamos queso parmesano rallado y mezclamos bien. Dejamos reposar un par de minutos y servimos.
-
-![](/assets/images/07.jpg)
-
-
-
-
-
-
-
