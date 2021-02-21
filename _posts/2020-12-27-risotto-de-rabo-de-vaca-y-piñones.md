@@ -15,7 +15,7 @@ tags:
 ### INGREDIENTES
 
 * 300 gr de arroz arborio
-* 3/4 kg de rabo de vaca
+* 750g de rabo de vaca
 * 50 gr de mantequilla
 * 40 gr de piñones
 * Queso parmesano rallado
