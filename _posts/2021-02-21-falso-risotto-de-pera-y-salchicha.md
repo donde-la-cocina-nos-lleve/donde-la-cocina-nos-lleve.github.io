@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Falso risotto de pera y salchicha
+title: FALSO RISOTTO DE PERA Y SALCHICHA
 description: Un plato adecuado para cuando tengamos invitados, rápido y resultón.
 date: 2021-02-21T16:43:26.772Z
 thumbnail: /assets/images/falso_risotto_00.jpg
