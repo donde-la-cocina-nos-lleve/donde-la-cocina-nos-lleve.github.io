@@ -16,29 +16,31 @@ function urlBase64ToUint8Array(base64String) {
 }
 
 if ('serviceWorker' in navigator) {
-	swRegistration.pushManager.getSubscription()
-	.then(function(subscription) {
-		if (localStorage.getItem('notification') != "false") {
-			if(subscription === null){
-				swRegistration.pushManager.subscribe({
-					userVisibleOnly: true,
-					applicationServerKey: urlBase64ToUint8Array(publicVapidKey)
-				}).then(subscription => {
-					localStorage.setItem('notification', "true"); 
-					fetch('https://pushdlcnl.herokuapp.com/subscribe', {
-						method: 'POST',
-						headers: {
-							Accept: 'application/json',
-							'Content-Type': 'application/json',
-						},
-						body: JSON.stringify(subscription),
-					});
-				}).catch(e => {
-					console.log(e)
-				})
-			}
-		}
-    })
+    if(swRegistration != null){
+        swRegistration.pushManager.getSubscription()
+            .then(function(subscription) {
+                if (localStorage.getItem('notification') != "false") {
+                    if(subscription === null){
+                        swRegistration.pushManager.subscribe({
+                            userVisibleOnly: true,
+                            applicationServerKey: urlBase64ToUint8Array(publicVapidKey)
+                        }).then(subscription => {
+                            localStorage.setItem('notification', "true"); 
+                            fetch('https://pushdlcnl.herokuapp.com/subscribe', {
+                                method: 'POST',
+                                headers: {
+                                    Accept: 'application/json',
+                                    'Content-Type': 'application/json',
+                                },
+                                body: JSON.stringify(subscription),
+                            });
+                        }).catch(e => {
+                            console.log(e)
+                        })
+                    }
+                }
+            })
+    }
 }
 const toggleNotification= document.getElementById('notification');
 
@@ -66,7 +68,7 @@ function updateSubscription(subscribe) {
             userVisibleOnly: true,
             applicationServerKey: urlBase64ToUint8Array(publicVapidKey)
         }).then(subscription => {
-			fetch('https://pushdlcnl.herokuapp.com/subscribe', {
+            fetch('https://pushdlcnl.herokuapp.com/subscribe', {
                 method: 'POST',
                 headers: {
                     Accept: 'application/json',
@@ -94,22 +96,22 @@ function updateSubscription(subscribe) {
 
 
 function removeValue(list, value) {
-  var separator = ",";
-  var values = list.split(separator);
-  for(var i = 0 ; i < values.length ; i++) {
-    if(values[i] == value) {
-      values.splice(i, 1);
-      return values.join(separator);
+    var separator = ",";
+    var values = list.split(separator);
+    for(var i = 0 ; i < values.length ; i++) {
+        if(values[i] == value) {
+            values.splice(i, 1);
+            return values.join(separator);
+        }
     }
-  }
-  return list;
+    return list;
 }
 
 
 const toggleDark = document.getElementById('night');
- 
-if (localStorage.getItem('theme') && localStorage.getItem('theme') == 'dark') {
-        toggleDark.checked = true;
+
+if (localStorage.getItem('theme') && localStorage.getItem('theme') == 'dark' || window.matchMedia('(prefers-color-scheme: dark)')) {
+    toggleDark.checked = true;
 }
 
 function switchTheme(e) {

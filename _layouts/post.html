@@ -2,9 +2,8 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="{{ site.baseurl }}/post_detail.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/posts.css">
 <link rel="stylesheet" href="{{ site.baseurl }}/mobile_post.css" media="screen and (max-width: 599px)">
+<link rel="stylesheet" href="{{ site.baseurl }}/post_detail.css">
 {%- if page.keywords -%}
 <script type="application/ld+json">
 {
@@ -81,9 +80,6 @@ layout: default
 
     if(!navigator.share){
         document.getElementById('share-button').classList+=" hide"; 
-    }
-    else{
-        document.body.classList.add("mobile");
     }
     
     

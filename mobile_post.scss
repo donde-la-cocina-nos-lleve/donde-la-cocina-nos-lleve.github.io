@@ -3,76 +3,74 @@
 @import "mixins";
 
 @include for-phone-only {
-    .mobile {
-        .header{
-            display:none;
+    .header{
+        display:none;
+    }
+    .post {
+        p:first-of-type img{
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+            max-width: 100vw;
+            height: 40vh;
+            min-height: 270px;
+            filter: brightness(60%);
+            object-fit: cover;
         }
-        .post {
-            p:first-of-type img{
+
+        h3:first-of-type + p, ul + p{
+            font-size: 20px;
+        }
+        ul{
+            padding: 0;
+
+            li:nth-child(even) {
+                background-color: var(--bg-color);
+            }
+            li:nth-child(odd) {
+                background-color: var(--form-bg-color);
+            }
+        }
+        li{
+            list-style-type: none;
+            border-bottom: 1px solid black;
+        }
+
+
+        .post-info{
+            height:37vh;
+            min-height: 250px;
+            position: relative;
+            padding-top: 9vh;
+
+            .post-title{
+                font-size: 6vw;
+            }
+            .icon-home {
+                background-image: url(/assets/icons/svg/home.svg);
+                left: 0px;
+            }
+            .share-button {
+                right: 10px;
+                float: right;
+                border: none;
+                height: 24px;
+                width: 24px;
+                background: transparent;
+                background-image: url(/assets/icons/svg/share.svg);
+            }
+
+            .share-button, .icon-home {
+                top: 0px;
                 position: absolute;
-                top: 0;
-                left: 0;
-                z-index: -1;
-                max-width: 100vw;
-                height: 40vh;
-                min-height: 270px;
-                filter: brightness(60%);
-                object-fit: cover;
+                filter: invert(1);
             }
-
-            h3:first-of-type + p, ul + p{
-                font-size: 20px;
+            .post-date {
+                color:white;
             }
-            ul{
-                padding: 0;
-
-                li:nth-child(even) {
-                    background-color: var(--bg-color);
-                }
-                li:nth-child(odd) {
-                    background-color: var(--form-bg-color);
-                }
-            }
-            li{
-                list-style-type: none;
-                border-bottom: 1px solid black;
-            }
-
-
-            .post-info{
-                height:37vh;
-                min-height: 250px;
-                position: relative;
-                padding-top: 9vh;
-
-                .post-title{
-                    font-size: 6vw;
-                }
-                .icon-home {
-                    background-image: url(/assets/icons/svg/home.svg);
-                    left: 0px;
-                }
-                .share-button {
-                    right: 10px;
-                    float: right;
-                    border: none;
-                    height: 24px;
-                    width: 24px;
-                    background: transparent;
-                    background-image: url(/assets/icons/svg/share.svg);
-                }
-
-                .share-button, .icon-home {
-                    top: 0px;
-                    position: absolute;
-                    filter: invert(1);
-                }
-                .post-date {
-                    color:white;
-                }
-                > * {
-                    color:white;
-                }
+            > * {
+                color:white;
             }
         }
     }

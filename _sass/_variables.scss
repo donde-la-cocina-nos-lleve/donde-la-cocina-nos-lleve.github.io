@@ -1,4 +1,6 @@
 :root {
+    color-scheme: light dark;
+
 	--font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     --font-size: 16px;
     --line-height: 1.5;
@@ -7,6 +9,7 @@
     --secondary-color: #536390;
     --font-color: #424242;
     --heading-color: #fff;
+    --svg-filter: invert(0); 
     
     --color-code: #fdf0f0;
     --color-corporativo: #aa3d74;
@@ -23,6 +26,7 @@
     --font-color: #F7ECF1;
     --bg-color: #121212;
     --heading-color: #fff;
+    --svg-filter: invert(1); 
 
     --color-code: #fdf0f0;
     --color-corporativo: #aa3d74;
@@ -38,6 +42,7 @@
     --font-color: #F7ECF1;
     --bg-color: #121212;
     --heading-color: #fff;
+    --svg-filter: invert(1); 
 
     --color-code: #fdf0f0;
     --color-corporativo: #aa3d74;
@@ -45,5 +50,21 @@
     --link-color: #DDB1C7;
     --form-bg-color: #292929;
     --form-border-color: #3e3e3e;
+}
+[data-theme="light"] {
+    --primary-color: #302AE6;
+    --secondary-color: #536390;
+    --font-color: #424242;
+    --heading-color: #fff;
+    --svg-filter: invert(0); 
+
+    
+    --color-code: #fdf0f0;
+    --color-corporativo: #aa3d74;
+    --color-corporativo-bg: #aa3d74;
+    --bg-color: #fff;
+    --link-color: #2179BF;
+    --form-bg-color: #e2e2e2;
+    --form-border-color: #f2f2f2;
 }
 }
